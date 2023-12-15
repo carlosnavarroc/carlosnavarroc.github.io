@@ -11,9 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+### Ph.D. in Electrical Engineering - University of Chile
+
+- **Institution:** Faculty of Physical Sciences and Mathematics, University of Chile.
+- **Year:** 2020.
+- **Thesis:** [Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf).
+
+#### Thesis Highlights:
+- Introduced a new approach to classification using color and texture features.
+- Led to two publications: [conference article](https://doi.org/10.1109/SMC.2013.562) and [magazine article](https://doi.org/10.3390/app9153130).
+
+### Diploma of Technology in Electrophysiology - University of Chile
+
+- **Institution:** Faculty of Medicine, University of Chile.
+- **Year:** 2019.
+
+#### Highlights:
+- Explored biology and medicine from an engineering perspective.
+- Worked on the processing of bioelectric signals and electrophysiology of sensory systems.
+
+### Ph.D. in Electrical Engineering - University of Chile
+
+- **Institution:** Faculty of Physical Sciences and Mathematics, University of Chile.
+- **Year:** 2010.
+- **Thesis:** [Molds design for iris detection through Particle Swarm Optimization](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf).
+
+#### Thesis Highlights:
+- Proposed two methodologies for iris localization, one manual and one using Particle Swarm Optimization (PSO).
+- PSO methodology demonstrated better iris localization without relying on anthropometric information.
+
 
 Work experience
 ======

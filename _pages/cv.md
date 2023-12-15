@@ -20,7 +20,6 @@ redirect_from:
 
 ### Diploma of Technology in Electrophysiology (2019)
 - **Institution:** Faculty of Medicine. University of Chile.
-- **Caption:** 2019
 - **Description:** Processing of bioelectric signals and Electrophysiology of Sensory Systems. Final Work: Theoretical analysis of an electrophysiological signal for clinical use and proposal for clinical application.
 
 ### Electrical Engineering (2010) 

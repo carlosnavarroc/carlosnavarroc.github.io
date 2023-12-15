@@ -12,5 +12,5 @@ redirect_from:
 
 ## Contact
 
-Feel free to reach out to me for collaboration or inquiries. You can contact me via [email](mailto:carlosnavarroc@uchile.cl) or [twitter](https://twitter.com/CarlosFNavarroC).
+Please feel free to contact me for collaboration or questions. You can contact me via [email](mailto:carlosnavarroc@uchile.cl) or [twitter](https://twitter.com/CarlosFNavarroC).
 

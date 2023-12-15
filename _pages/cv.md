@@ -29,7 +29,7 @@ redirect_from:
 
 ## Experience
 
-## Postdoctoral Researcher at SCIANLab and Neurosystems
+## Postdoctoral Researcher at [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) and Neurosystems
 - **Institution:** Faculty of Medicine. University of Chile.
 - **Position:** Postdoctoral Researcher at SCIANLab and Neurosystems
 - **Duration:** September 2019 - Present

@@ -60,16 +60,14 @@ redirect_from:
 - **Project:** Virtual Beauchef
   - **Link:** [Project Website](https://tinyurl.com/beauchefvirtual)
   - **Additional Links:**
-    - UChile News: [Github](https://uchile.cl/i176928)
-  - **Quote:** The Beauchef campus was recreated in Gather Town
+    - [UChile News :](https://uchile.cl/i176928)
+  - _The Beauchef campus was recreated in Gather Town_
   - **Description:**
     I started this project using the Gather Town application. This platform encourages social interactions, allowing socialization and collaborative work in a fun way, creating new digital experiences to bring the University closer to students who have not been able to visit it due to the pandemic.
 
-- **Project:** La Ciudad de Los Cesares Producer
-  - **Link:** [Project Website](https://tinyurl.com/CNC-IMDB)
-  - **Additional Links:**
-    - La Ciudad de Los Cesares: [Official Website](http://www.laciudaddeloscesares.cl/)
-  - **Quote:** This movie was financed entirely through crowdfunding.
+- **Project:** [La Ciudad de Los Cesares Producer](https://tinyurl.com/CNC-IMDB)
+  - **Link:** [Project Website](http://www.laciudaddeloscesares.cl/)
+  - _This movie was financed entirely through crowdfunding._
   - **Description:**
     As an independent film producer, I coordinated people and objects to follow the work plan as planned. Seeing the final product as a quality product was highly challenging and rewarding.
 

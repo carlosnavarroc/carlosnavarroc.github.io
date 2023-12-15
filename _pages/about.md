@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, my name is Carlos, and I'm a PhD and Electrical Civil Engineer interested in Image Processing, Pattern Recognition, and Teaching. My career has been developed around projects that involve high technology and innovation in automation systems in medicine, mining, and retail. My PhD thesis focused on detecting complex patterns using color and texture features.
+<div style="text-align: justify;">Hello there, my name is Carlos, and I'm a PhD and Electrical Civil Engineer interested in Image Processing, Pattern Recognition, and Teaching. My career has been developed around projects that involve high technology and innovation in automation systems in medicine, mining, and retail. My PhD thesis focused on detecting complex patterns using color and texture features.</div>
 
 ## Contact
 

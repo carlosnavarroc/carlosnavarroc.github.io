@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Experience
-======
+
 
 #### Postdoctoral Researcher at SCIANLab and Neurosystems
 - **Institution:** Faculty of Medicine. University of Chile.
@@ -75,7 +75,7 @@ redirect_from:
     - Thesis: *Development of an intelligent image recognition engine for last-mile dispatch test photos.* Author: Franco Mirauda. In this work, a smart image recognition engine is proposed, which allows evaluation of the quality of last-mile dispatches by reviewing some aspects of the photograph taken at the moment of product delivery. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
     - Thesis: *Detection and estimation of portion for granular ingredients.* Author: Gonzalo Hernández. This study aims to detect and estimate the portion of granular ingredients in Pizza Hut kitchen images using different models, including Yolov6, Faster R-CNN, SAM, MIM, and BinsFormers. [Link Thesis]()
 
-======
+
 ### Other Projects
 
 - **Project:** Virtual Beauchef
@@ -94,7 +94,7 @@ redirect_from:
   - **Description:**
     As an independent film producer, I coordinated people and objects to follow the work plan as planned. Seeing the final product as a quality product was highly challenging and rewarding.
 
-======
+
 ### A Little More About Me
 
 Alongside my interests in engineering, some of my other interests and hobbies are:

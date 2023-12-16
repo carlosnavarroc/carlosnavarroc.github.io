@@ -51,7 +51,7 @@ redirect_from:
 ## Research Assistant at Digital Image Processing Laboratory, Electrical Engineering Department.
 - **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
 - **Duration:** 2009 - 2018
-- _In my first experiences, I worked on projects related to automation and image processing in retail and mining, even visiting Teck Highland Valley Copper Mine in Kamloops, Canada, to supervise an installation
+- **Description:** In my first experiences, I worked on automation and image processing projects in retail and mining, even visiting Teck Highland Valley Copper Mine in Kamloops, Canada, to supervise an installation.
 
 ### **Research In DIPL:**
 - INNOVA Project 13IDL2-23589; Optimization of registration algorithms, calculating descriptor and color models for supermarket products to detect stock breakages.
@@ -60,7 +60,7 @@ redirect_from:
 
 # Other Projects
 
-- **Project:** Virtual Beauchef(https://tinyurl.com/beauchefvirtual)
+- **Project:** [Virtual Beauchef](https://tinyurl.com/beauchefvirtual)
   - [UChile News](https://uchile.cl/i176928)
   - **Description:** The Beauchef campus was recreated in Gather Town. I started this project using the Gather Town application. This platform encourages social interactions, allowing socialization and collaborative work in a fun way, creating new digital experiences to bring the University closer to students who have not been able to visit it due to the pandemic.
 

@@ -44,34 +44,29 @@ redirect_from:
 - Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA Ring ACT192015](https://www.conicyt.cl/pia/2019/07/04/concurso-anillos-de-investigacion-en-ciencia-y-tecnologia-y-anillos-de-investigacion-en-ciencia-antartica-2019-etapa-proyectos/#tab-04).
 - An audiological test detects the presence of cognitive impairment in older adults early. [Fondef project ID20I10371.](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
 - Segmentation algorithms based on Deep learning to analyze biomedical images in 3D. Fondecyt project initiation 11170475 Stage 2019. [Second place in Segmentation accuracy in Cell Tracking Challenge](http://celltrackingchallenge.net/participants/UCH-CL/). Paper: [3D Nuclei Segmentation through Deep Learning](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)
-- [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2022_Automatizacion_Ecocardiografia.pdf). [IV Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/0/Users/014/14/14/2485.pdf)
-- [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2023_RedesNeuronales.pdf). [V Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/_default/Skins/Skin_HCUCH_17_03/images/LIBRO_DE_RESUMENES.pdf)
+- [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2022_Automatizacion_Ecocardiografia.pdf). Presentado en [IV Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/0/Users/014/14/14/2485.pdf)
+- [Redes neuronales del tipo transformer como herramienta de clasificación de sobreexpresión de proteína HER2 en biopsias de cáncer gástrico](https://www.cec.uchile.cl/~canavarr/Posters/2023_RedesNeuronales.pdf). Presentado en [V Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/_default/Skins/Skin_HCUCH_17_03/images/LIBRO_DE_RESUMENES.pdf)
 
 
 ## Research Assistant at Digital Image Processing Laboratory, Electrical Engineering Department.
 - **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
 - **Duration:** 2009 - 2018
-- _In my first experiences, I worked on projects related to automation and image processing in retail and mining, even visiting Teck Highland Valley Copper Mine in Kamloops, Canada, to supervise an installation_
+- _In my first experiences, I worked on projects related to automation and image processing in retail and mining, even visiting Teck Highland Valley Copper Mine in Kamloops, Canada, to supervise an installation
+
 ### **Research In DIPL:**
-  - INNOVA Project 13IDL2-23589; Optimization of registration algorithms, calculating descriptor and color models for supermarket products to detect stock breakages.
-  - Fondef D08I-1060 Pattern recognition by video: surveillance and [mining](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf) [applications](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf).
-  - Electrical Engineer Researcher for the P3 program "Intelligent Systems for Mining" (CSIRO Chile Research Foundation). • Designed and constructed control, power, and telemetry systems for laboratory and field tests of a Bluetooth-based sensor system for slope stability. (CSIRO Chile Research Foundation)
+- INNOVA Project 13IDL2-23589; Optimization of registration algorithms, calculating descriptor and color models for supermarket products to detect stock breakages.
+- Fondef D08I-1060 Pattern recognition by video: surveillance and [mining](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf) [applications](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf).
+- Electrical Engineer Researcher for the P3 program "Intelligent Systems for Mining" (CSIRO Chile Research Foundation). • Designed and constructed control, power, and telemetry systems for laboratory and field tests of a Bluetooth-based sensor system for slope stability. (CSIRO Chile Research Foundation)
 
 # Other Projects
 
-- **Project:** Virtual Beauchef
-  - **Link:** [Project Website](https://tinyurl.com/beauchefvirtual)
-  - **Additional Links:**
-    - [UChile News :](https://uchile.cl/i176928)
-  - _The Beauchef campus was recreated in Gather Town_
-  - **Description:**
-    I started this project using the Gather Town application. This platform encourages social interactions, allowing socialization and collaborative work in a fun way, creating new digital experiences to bring the University closer to students who have not been able to visit it due to the pandemic.
+- **Project:** Virtual Beauchef(https://tinyurl.com/beauchefvirtual)
+  - [UChile News](https://uchile.cl/i176928)
+  - **Description:** The Beauchef campus was recreated in Gather Town. I started this project using the Gather Town application. This platform encourages social interactions, allowing socialization and collaborative work in a fun way, creating new digital experiences to bring the University closer to students who have not been able to visit it due to the pandemic.
 
 - **Project:** [La Ciudad de Los Cesares Producer](https://tinyurl.com/CNC-IMDB)
-  - **Link:** [Project Website](http://www.laciudaddeloscesares.cl/)
-  - _This movie was financed entirely through crowdfunding._
-  - **Description:**
-    As an independent film producer, I coordinated people and objects to follow the work plan as planned. Seeing the final product as a quality product was highly challenging and rewarding.
+  - [Official site](http://www.laciudaddeloscesares.cl/)
+  - **Description:** As an independent film producer, I coordinated people and objects to follow the work plan as planned. Seeing the final product as a quality product was highly challenging and rewarding. This movie was financed entirely through crowdfunding.
 
 # A Little More About Me
 

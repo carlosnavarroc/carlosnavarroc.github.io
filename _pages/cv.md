@@ -39,12 +39,15 @@ redirect_from:
 
 ### **Research In SCIANLab:**
 - RaViTT: Random Vision Transformer Tokens. [FONDECYT grants 1221696](https://arxiv.org/pdf/2306.10959.pdf)
-  - In vivo analysis of cell migration and its relation to epiboly during gastrulation in annual killifish. [Chilean Society for Cell Biology XXXV Annual Meeting, 6-10 November 2023](https://www.cec.uchile.cl/~canavarr/Posters/2023_YLemusSBCCH.pdf)
-  - [VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)
-  - Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA Ring ACT192015](https://www.conicyt.cl/pia/2019/07/04/concurso-anillos-de-investigacion-en-ciencia-y-tecnologia-y-anillos-de-investigacion-en-ciencia-antartica-2019-etapa-proyectos/#tab-04).
-  - An audiological test detects the presence of cognitive impairment in older adults early. [Fondef project ID20I10371.](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
-  - Segmentation algorithms based on Deep learning to analyze biomedical images in 3D. Fondecyt project initiation 11170475 Stage 2019. [Second place in Segmentation accuracy in Cell Tracking Challenge](http://celltrackingchallenge.net/participants/UCH-CL/). Paper: [3D Nuclei Segmentation through Deep Learning](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)
-  - [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2022_Automatizacion_Ecocardiografia.pdf). [IV Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/0/Users/014/14/14/2485.pdf)
+- In vivo analysis of cell migration and its relation to epiboly during gastrulation in annual killifish. [Chilean Society for Cell Biology XXXV Annual Meeting, 6-10 November 2023](https://www.cec.uchile.cl/~canavarr/Posters/2023_YLemusSBCCH.pdf)
+- [VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)
+- Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA Ring ACT192015](https://www.conicyt.cl/pia/2019/07/04/concurso-anillos-de-investigacion-en-ciencia-y-tecnologia-y-anillos-de-investigacion-en-ciencia-antartica-2019-etapa-proyectos/#tab-04).
+- An audiological test detects the presence of cognitive impairment in older adults early. [Fondef project ID20I10371.](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
+- Segmentation algorithms based on Deep learning to analyze biomedical images in 3D. Fondecyt project initiation 11170475 Stage 2019. [Second place in Segmentation accuracy in Cell Tracking Challenge](http://celltrackingchallenge.net/participants/UCH-CL/). Paper: [3D Nuclei Segmentation through Deep Learning](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)
+- [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2022_Automatizacion_Ecocardiografia.pdf). [IV Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/0/Users/014/14/14/2485.pdf)
+- [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2023_RedesNeuronales.pdf). [V Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/_default/Skins/Skin_HCUCH_17_03/images/LIBRO_DE_RESUMENES.pdf)
+
+
 ## Research Assistant at Digital Image Processing Laboratory, Electrical Engineering Department.
 - **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
 - **Duration:** 2009 - 2018

@@ -1,7 +1,7 @@
 ---
 title: "Rock lithological classification using multi-scale Gabor features from sub-images, and voting with rock contour information"
 collection: publications
-permalink: /publication/2015-11-10-paper-1
+permalink: /publication/2015-11-10-paper-title-number-1
 excerpt: 'This article introduces an innovative method for remote lithological classification in mining plants'
 date: 2015-11-10
 venue: 'International Journal of Mineral Processing'

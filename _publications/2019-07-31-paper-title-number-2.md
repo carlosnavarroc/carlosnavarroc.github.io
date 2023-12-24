@@ -3,7 +3,7 @@ title: "Color–Texture Pattern Classification Using Global–Local Feature Extr
 collection: publications
 permalink: /publication/2010-07-31-paper-title-number-2
 excerpt: 'This paper introduces a novel method for pattern classification, particularly relevant in image analysis applications requiring accurate classification of intricate patterns involving color and texture.'
-date: 2010-10-01
+date: 2019-10-01
 venue: 'Applied Sciences'
 paperurl: 'https://www.mdpi.com/2076-3417/9/15/3130'
 citation: 'Navarro, C. F., & Perez, C. A. (2019). Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing. <i>Applied Sciences</i>, 9(15), 3130. https://doi.org/10.3390/app9153130.'

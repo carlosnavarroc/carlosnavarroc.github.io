@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-11-10-paper-title-number-1
 excerpt: 'This article introduces an innovative method for remote lithological classification in mining plants'
 date: 2015-11-10
-venue: 'Journal 1'
+venue: 'International Journal of Mineral Processing'
 paperurl: 'https://www.cec.uchile.cl/~canavarr/Posters/2015_Rock_Lithological.pdf'
 citation: 'Perez, C. A., Saravia, J. A., Navarro, C. F., Schulz, D. A., Aravena, C. M., & Galdames, F. J. (2015). Rock lithological classification using multi-scale Gabor features from sub-images and voting with rock contour information. <i>International Journal of Mineral Processing</i>, 144, 56-64. https://doi.org/10.1016/j.minpro.2015.09.015'
 ---

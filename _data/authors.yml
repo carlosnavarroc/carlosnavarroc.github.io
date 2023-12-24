@@ -1,18 +1,10 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Carlos Navarro Claveria"
+  uri         : "https://carlosnavarroc.github.io"
+  email       : "carlosnavarroc@uchile.cl"
+  bio         : "Hello there, my name is Carlos, and I'm a PhD and Electrical Civil Engineer interested in Image Processing, Pattern Recognition, and Teaching. My career has been developed around projects that involve high technology and innovation in automation systems in medicine, mining, and retail. My PhD thesis focused on detecting complex patterns using colour and texture features."
+  avatar      : "https://carlosnavarroc.github.io/images/profile.png"
+  twitter     : "CarlosFNavarroC"
+  google_plus : "406XjUEAAAAJ&hl=es"

@@ -13,3 +13,4 @@ This paper explores the connection between cochlear dysfunction and the risk of 
 [Download paper here](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/dad2.12467)
 
 Recommended citation: Medel, V., Delano, P.H., Belkhiria, C. et al. Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss. <i>Alzheimer's Dement.</i> 2024, 16:e12467. https://doi.org/10.1002/dad2.12467
+---

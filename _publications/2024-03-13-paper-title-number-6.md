@@ -1,4 +1,4 @@
----
+![image](https://github.com/carlosnavarroc/carlosnavarroc.github.io/assets/43248631/33066536-1361-4be1-a3d8-0c01dbe8f663)---
 title: "Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago"
 collection: publications
 permalink: /publication/2024-03-13-paper-title-number-6
@@ -8,8 +8,7 @@ venue: 'Cuadernos de BeauchefChapter: 7(2)'
 paperurl: 'https://revistasdex.uchile.cl/index.php/cdb/article/view/13432/13453'
 citation: 'Navarro, C. F., & Larroucau, R. I. (2023). "Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago". Cuadernos de Beauchef, 7(2).'
 ---
-This search began playfully ten years ago from a shared concern. In this short period, we can verify that some of these plaques no longer exist, and some of the streets have changed another name.
+This search began playfully ten years ago from a shared concern. In this short period, we can verify that some of these plaques no longer exist, and some streets have changed to other names.
 
-[Download paper here](https://revistasdex.uchile.cl/index.php/cdb/article/view/13432/13453)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1szYZfuAlNcRX11KNv_42YVY22wM" width="100%" height="100%"></iframe>
 
-Recommended citation: Navarro, C. F., & Larroucau, R. I. (2023). "Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago". Cuadernos de Beauchef, 7(2).

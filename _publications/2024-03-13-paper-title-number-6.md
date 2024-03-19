@@ -10,5 +10,5 @@ citation: 'Navarro, C. F., & Larroucau, R. I. (2023). "Antiguas placas, antiguos
 ---
 This search began playfully ten years ago from a shared concern. In this short period, we can verify that some plaques no longer exist and that some streets have changed names.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1szYZfuAlNcRX11KNv_42YVY22wM" width="100%" height="100%"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1szYZfuAlNcRX11KNv_42YVY22wM&ehbc=2E312F" width="640" height="480"></iframe>
 

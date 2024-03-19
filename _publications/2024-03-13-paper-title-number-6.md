@@ -1,4 +1,4 @@
-![image](https://github.com/carlosnavarroc/carlosnavarroc.github.io/assets/43248631/33066536-1361-4be1-a3d8-0c01dbe8f663)---
+---
 title: "Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago"
 collection: publications
 permalink: /publication/2024-03-13-paper-title-number-6

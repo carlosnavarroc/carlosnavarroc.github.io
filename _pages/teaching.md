@@ -16,21 +16,21 @@ author_profile: true
 
 - **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
   - As advisor:
-    - 2023 Thesis: *Transformer-type neural networks for classifying HER2 protein overexpression in gastric cancer biopsy images.* Author: Diego Muñoz. DIE. This study focuses on enhancing gastric cancer diagnosis accuracy through transformer-type neural networks compared to convolutional networks. The transformer model demonstrates superior performance over the CNN, achieving higher accuracy and f1-score in classifying all classes of HER2 protein overexpression. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/196732/Redes-neuronales-del-tipo-transformer-como-herramienta-de-clasificacion-de-sobreexpresion-de-proteina-HER2-en-imagenes-de-biopsias-de-cancer-gastrico.pdf?sequence=1&isAllowed=y)
-    - 2024 Thesis: *Automated diagnosis of glaucoma using Machine Learning tools applied to Chromatic Pupilometry data.* Author: Manuel Zamorano. DIE. In progress. [Link Thesis]()
+    - 2023 Thesis: *Transformer-type neural networks for classifying HER2 protein overexpression in gastric cancer biopsy images.* **Author: Diego Muñoz. DIE.** This study focuses on enhancing gastric cancer diagnosis accuracy through transformer-type neural networks compared to convolutional networks. The transformer model demonstrates superior performance over the CNN, achieving higher accuracy and f1-score in classifying all classes of HER2 protein overexpression. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/196732/Redes-neuronales-del-tipo-transformer-como-herramienta-de-clasificacion-de-sobreexpresion-de-proteina-HER2-en-imagenes-de-biopsias-de-cancer-gastrico.pdf?sequence=1&isAllowed=y)
+    - 2024 Thesis: *Automated diagnosis of glaucoma using Machine Learning tools applied to Chromatic Pupilometry data.* **Author: Manuel Zamorano. DIE.** In progress. [Link Thesis]()
   - As co-advisor:
-    - 2024 Thesis: *Monitoring calving events through processing images* Author: Catalina Zapata.  DIE-Geophysics. In progress. [Link Thesis]()
-    - 2024 Thesis: *Prediction of cognitive decline functional in older patients based on clinical history (texts) and machine learning* Author: Alvaro Gallardo.  Master of Data Science. In progress. [Link Thesis]()
+    - 2024 Thesis: *Monitoring calving events through processing images* **Author: Catalina Zapata.  DIE-Geophysics.** In progress. [Link Thesis]()
+    - 2024 Thesis: *Prediction of cognitive decline functional in older patients based on clinical history (texts) and machine learning* **Author: Alvaro Gallardo.  Master of Data Science.** In progress. [Link Thesis]()
   - As a committee member:
-    - 2023 Thesis: *Development of an intelligent image recognition engine for last-mile dispatch test photos.* Author: Franco Mirauda. DIE. In this work, a smart image recognition engine is proposed, which allows evaluation of the quality of last-mile dispatches by reviewing some aspects of the photograph taken at the moment of product delivery. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
-    - 2023 Thesis: *Detection and estimation of portion for granular ingredients.* Author: Gonzalo Hernández. DIE-DCC. This study aims to detect and estimate the portion of granular ingredients in Pizza Hut kitchen images using different models, including Yolov6, Faster R-CNN, SAM, MIM, and BinsFormers. [Link Thesis]()
+    - 2023 Thesis: *Development of an intelligent image recognition engine for last-mile dispatch test photos.* **Author: Franco Mirauda. DIE.** This work proposes a smart image recognition engine that allows evaluating the quality of last-mile dispatches by reviewing some aspects of the photograph taken at the moment of product delivery. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
+    - 2023 Thesis: *Detection and estimation of portion for granular ingredients.* **Author: Gonzalo Hernández. DIE-DCC.** This study aims to detect and estimate the portion of granular ingredients in Pizza Hut kitchen images using different models, including Yolov6, Faster R-CNN, SAM, MIM, and BinsFormers. [Link Thesis]()
 
 ## Professional Practices Guide in ScianLab
 - 2024:
-  - Matias Carvajal Pérez. DIE. "Measurement of the membrane force exerted by a cell"
+  - **Matias Carvajal Pérez. DIE.** "Measurement of the membrane force exerted by a cell"
 - 2023:
-  - Leslie Cardenas Villegas. DIE. "Development of automatic segmentation methods that require fewer or worse examples for learning."
-  - Manuel Zamorano Canales. DIE. "Review of the state of the art of Transformers Type Neural Networks"
-  - Vanessa Gonzalez Arriagada. DIE. "Segmentation of Cell Nuclei through Deep Learning in Jamming Context"
+  - **Leslie Cardenas Villegas. DIE.** "Development of automatic segmentation methods that require fewer or worse examples for learning."
+  - **Manuel Zamorano Canales. DIE.** "Review of the state of the art of Transformers Type Neural Networks"
+  - **Vanessa Gonzalez Arriagada. DIE.** "Segmentation of Cell Nuclei through Deep Learning in Jamming Context"
 - 2022: 
-  - Magdalena Álvarez Piña. DCC. "Rotations in 3D Light-Sheet Images for Visualization of Embryo Development in Annual Fish"
+  - **Magdalena Álvarez Piña. DCC.** "Rotations in 3D Light-Sheet Images for Visualization of Embryo Development in Annual Fish"

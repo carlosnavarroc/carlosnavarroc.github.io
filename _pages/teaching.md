@@ -25,7 +25,7 @@ author_profile: true
     - 2023 Thesis: *Development of an intelligent image recognition engine for last-mile dispatch test photos.* Author: Franco Mirauda. DIE. In this work, a smart image recognition engine is proposed, which allows evaluation of the quality of last-mile dispatches by reviewing some aspects of the photograph taken at the moment of product delivery. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
     - 2023 Thesis: *Detection and estimation of portion for granular ingredients.* Author: Gonzalo Hernández. DIE-DCC. This study aims to detect and estimate the portion of granular ingredients in Pizza Hut kitchen images using different models, including Yolov6, Faster R-CNN, SAM, MIM, and BinsFormers. [Link Thesis]()
 
-## Professional Practices in ScianLab
+## Professional Practices Guide in ScianLab
 - 2024:
   - Matias Carvajal Pérez. DIE. "Measurement of the membrane force exerted by a cell"
 - 2023:

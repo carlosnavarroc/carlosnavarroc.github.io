@@ -24,6 +24,12 @@ author_profile: true
   - As a committee member:
     - *Development of an intelligent image recognition engine for last-mile dispatch test photos.*  (2023). **Author: Franco Mirauda. DIE.** This work proposes a smart image recognition engine that allows evaluating the quality of last-mile dispatches by reviewing some aspects of the photograph taken at the moment of product delivery. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
     - *Detection and estimation of portion for granular ingredients.* (2023). **Author: Gonzalo Hernández. DIE-DCC.** This study aims to detect and estimate the portion of granular ingredients in Pizza Hut kitchen images using different models, including Yolov6, Faster R-CNN, SAM, MIM, and BinsFormers. [Link Thesis]()
+- **Institution:** Department of Medical Technology - Faculty of Medicine. University of Chile.
+  - As Professional Thesis Evaluator:
+    - *Estimation of Breast Density in Digital Mammography and Tomosynthesis Images Using Artificial Intelligence.* (2024). **Authors: Francisca Bustamante and Sofía Rivas.**
+    - *Quantification of Vascular Calcifications in Breast Tomosynthesis Using Artificial Intelligence: A Methodology* (2023). **Authors: Constanza Ramírez and Marcelo Flores.**
+      
+
 
 ## Professional Practices Guide in ScianLab
 - 2024:

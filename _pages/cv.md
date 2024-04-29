@@ -38,7 +38,7 @@ redirect_from:
 - Remifentanil enhances propofol hypnotic clinical and electroencephalographic effects in humans during loss of consciousness. [Fondef Project ID19I10345](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf).
 
 ### **Research In SCIANLab:**
-- In vivo analysis of enveloping layer morphogenesis during epiboly of annual killifish. [Latin American Developmental Biology Conference. 17 – 20 March 2024 | Valparaiso, Chile.](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)
+- In vivo analysis of enveloping layer morphogenesis during epiboly of annual killifish. [Latin American Developmental Biology Conference. 17 – 20 March 2024, Valparaiso, Chile.](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)
 - RaViTT: Random Vision Transformer Tokens. [FONDECYT grants 1221696](https://arxiv.org/pdf/2306.10959.pdf)
 - In vivo analysis of cell migration and its relation to epiboly during gastrulation in annual killifish. [Chilean Society for Cell Biology XXXV Annual Meeting, 6-10 November 2023](https://www.cec.uchile.cl/~canavarr/Posters/2023_YLemusSBCCH.pdf)
 - [VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)

@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &CarlosFNavarroC
 bluesky:
-  username               : &CarlosNavarroC.bsky.social
+  username               : "CarlosNavarroC.bsky.social"
 facebook:
   username               :
   app_id                 :

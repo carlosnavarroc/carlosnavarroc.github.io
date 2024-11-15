@@ -64,8 +64,6 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 
-bluesky:
-  username               : "carlosnavarroc.bsky.social"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

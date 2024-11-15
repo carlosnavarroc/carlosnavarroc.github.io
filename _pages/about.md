@@ -14,5 +14,5 @@ redirect_from:
 
 ## Contact
 
-Please don't hesitate to contact me via [email](mailto:carlosnavarroc@uchile.cl) or [twitter](https://twitter.com/CarlosFNavarroC) for collaboration or questions.
+Please don't hesitate to contact me via [email](mailto:carlosnavarroc@uchile.cl), [BlueSky](https://bsky.app/profile/carlosnavarroc.bsky.social)  or [twitter](https://twitter.com/CarlosFNavarroC) for collaboration or questions.
 

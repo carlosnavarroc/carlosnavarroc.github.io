@@ -36,8 +36,10 @@ redirect_from:
 ### **Research In Neurosystems:**
 - Spectral analysis of EEG signals to determine postoperative diseases. Fondef Project ID19I10345. Fondef Project IT21I0041
 - Remifentanil enhances propofol hypnotic clinical and electroencephalographic effects in humans during loss of consciousness. [Fondef Project ID19I10345](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf).
+- Diagnóstico Automatizado De Glaucoma Mediante Herramientas De Machine Learning Aplicadas A Datos De Pupilometría Cromática [VI Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
 
 ### **Research In SCIANLab:**
+- SCIAN-Drop & SCIAN-Force: Quantification of Membrane Deformation via Image Analysis of Biocompatible Fluorocarbon MicroDroplets [Chilean Society for Cell Biology XXXVI Annual Meeting, 18-22 November 2024](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)
 - In vivo analysis of enveloping layer morphogenesis during epiboly of annual killifish. [Latin American Developmental Biology Conference. 17 – 20 March 2024, Valparaiso, Chile.](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)
 - RaViTT: Random Vision Transformer Tokens. [FONDECYT grants 1221696](https://arxiv.org/pdf/2306.10959.pdf)
 - In vivo analysis of cell migration and its relation to epiboly during gastrulation in annual killifish. [Chilean Society for Cell Biology XXXV Annual Meeting, 6-10 November 2023](https://www.cec.uchile.cl/~canavarr/Posters/2023_YLemusSBCCH.pdf)

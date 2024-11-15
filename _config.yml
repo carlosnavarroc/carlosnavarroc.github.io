@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &CarlosFNavarroC
+bluesky:
+  username               : &CarlosNavarroC.bsky.social
 facebook:
   username               :
   app_id                 :
@@ -116,7 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : "https://bsky.app/profile/carlosnavarroc.bsky.social" 
+  bluesky          : "carlosnavarroc.bsky.social" 
 
 
 # Reading Files

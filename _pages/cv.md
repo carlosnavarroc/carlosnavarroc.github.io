@@ -14,7 +14,7 @@ redirect_from:
 - **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
 - **Thesis:** [Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)
 - **Description:**
-  This research provides a new way to attack the classification problem using colour and texture and evidence about the importance of using different scales when obtaining the features to integrate the colour and texture information. The results of this investigation led to two publications: a [conference article](https://doi.org/10.1109/SMC.2013.562) and a [magazine article](https://doi.org/10.3390/app9153130).
+  This research provides a new way to attack the classification problem using color and texture and evidence about the importance of using different scales when obtaining the features to integrate the color and texture information. The results of this investigation led to two publications: a [conference article](https://doi.org/10.1109/SMC.2013.562) and a [magazine article](https://doi.org/10.3390/app9153130).
   
 
 ## Diploma of Technology in Electrophysiology (2019)
@@ -47,14 +47,15 @@ redirect_from:
 - Massive data processing, the fusion of multi-view microscopy captures of embryos for visualization and quantification. [PIA Ring ACT192015](https://www.conicyt.cl/pia/2019/07/04/concurso-anillos-de-investigacion-en-ciencia-y-tecnologia-y-anillos-de-investigacion-en-ciencia-antartica-2019-etapa-proyectos/#tab-04).
 - An audiological test detects the presence of cognitive impairment in older adults early. [Fondef project ID20I10371.](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
 - Segmentation algorithms based on Deep learning to analyze biomedical images in 3D. Fondecyt project initiation 11170475 Stage 2019. [Second place in Segmentation accuracy in Cell Tracking Challenge](http://celltrackingchallenge.net/participants/UCH-CL/). Paper: [3D Nuclei Segmentation through Deep Learning](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)
+- Review Board Member in [ISICS 2024](https://isics.cedai.cl/2024/)
 - [Automation of the Echocardiography analysis of a murine model using Digital Image Processing and Deep Learning](https://www.cec.uchile.cl/~canavarr/Posters/2022_Automatizacion_Ecocardiografia.pdf). Presentado en [IV Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/0/Users/014/14/14/2485.pdf)
 - [Redes neuronales del tipo transformer como herramienta de clasificación de sobreexpresión de proteína HER2 en biopsias de cáncer gástrico](https://www.cec.uchile.cl/~canavarr/Posters/2023_RedesNeuronales.pdf). Presentado en [V Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/_default/Skins/Skin_HCUCH_17_03/images/LIBRO_DE_RESUMENES.pdf)
-
+- [Diagnóstico Automatizado de Glaucoma Mediante Herramientas de Machine Learning Aplicadas a Datos de Pupilometría Cromática.](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf). Presentado en [VI Jornadas de Investigación. Hospital Clínico Universidad de Chile](https://www.redclinica.cl/Portals/_default/Skins/Skin_HCUCH_17_03/images/libro-resumenes-listo.pdf)
 
 ## Research Assistant at Digital Image Processing Laboratory, Electrical Engineering Department.
 - **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
 - **Duration:** 2009 - 2018
-- **Description:** In my first experiences, I worked on automation and image processing projects in retail and mining, even visiting Teck Highland Valley Copper Mine in Kamloops, Canada, to supervise an installation.
+- **Description:** In my first experiences, I worked on retail and mining automation and image processing projects, even visiting Teck Highland Valley Copper Mine in Kamloops, Canada, to supervise an installation.
 
 ### **Research In DIPL:**
 - INNOVA Project 13IDL2-23589; Optimization of registration algorithms, calculating descriptor and color models for supermarket products to detect stock breakages.

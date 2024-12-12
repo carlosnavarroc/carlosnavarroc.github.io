@@ -96,7 +96,8 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 
 - **Virtual Beauchef**: Desarrollo de un campus virtual en Gather Town para fomentar interacciones durante la pandemia.
 - **La Ciudad de Los Cesares**: Coordinador y productor de una película independiente financiada por crowdfunding.
-- Navarro, C. F., Larroucau, R. (2024). Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago. Cuadernos de Beauchef, 7(2), 287-321.
+- **Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago**, publicada en Cuadernos de Beauchef (Navarro, C. F., Larroucau, R., 2024), 7(2), 287-321.
+
 
 ---
 

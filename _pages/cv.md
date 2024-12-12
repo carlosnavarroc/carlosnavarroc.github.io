@@ -85,7 +85,6 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 # **PUBLICACIONES EN CONFERENCIAS**
 
 - Gierke, C., Navarro, C. F., Martínez, M., Delgado, C., Delano, P. H., Medel, V., et al. (2024). Characterization of Social Isolation and Perception of Loneliness in a Group of Chilean Older People Post-pandemic. Alzheimer's Association International Conference.
-- Navarro, C. F., Larroucau, R. (2024). Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago. Cuadernos de Beauchef, 7(2), 287-321.
 - Quezada, F. A., Navarro, C. F., Muñoz, C., Zamorano, M., Jara-Wilde, J., Chang, V., et al. (2023). RaViTT: Random vision transformer tokens. arXiv preprint arXiv:2306.10959.
 - Rojas, R., Navarro, C. F., Orellana, G. A., Castañeda, V. (2023). 3D Nuclei Segmentation through Deep Learning. 2023 IEEE Conference on Artificial Intelligence (CAI), 309-310.
 - Navarro, C. F., Zambrano Ibujés, J., Calle, X. (2022). Automatización del análisis de ecocardiografía de un modelo murino utilizando procesamiento digital de imágenes y deep learning. IV Jornadas de Investigación. Hospital Clínico Universidad de Chile.
@@ -93,10 +92,11 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
   
 ---
 
-# **PROYECTOS DESTACADOS**
+# **PROYECTOS INDEPENDIENTES**
 
 - **Virtual Beauchef**: Desarrollo de un campus virtual en Gather Town para fomentar interacciones durante la pandemia.
 - **La Ciudad de Los Cesares**: Coordinador y productor de una película independiente financiada por crowdfunding.
+- Navarro, C. F., Larroucau, R. (2024). Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago. Cuadernos de Beauchef, 7(2), 287-321.
 
 ---
 

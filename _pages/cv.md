@@ -2,11 +2,12 @@
 layout: archive
 title: ""
 permalink: /cv/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
 # CARLOS FELIPE NAVARRO CLAVERIA
+<img src="https://carlosnavarroc.github.io/images/profile.png" width="250" height="250" />
 
 **Correo**: carlosnavarroc@uchile.cl  |  **Teléfono**: +569 9445 9922  
 **Dirección**: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile  
@@ -110,4 +111,3 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 ---
 
 **Intereses**: Fotografía, cocina, astronomía y tecnologías de extensión aplicadas a la ciencia.
-

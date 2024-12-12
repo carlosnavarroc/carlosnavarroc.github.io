@@ -6,16 +6,12 @@ author_profile: false
 ---
 
 {% include base_path %}
-<div style="display: flex; align-items: center;">
-  <img src="https://carlosnavarroc.github.io/images/profile.png" width="150" height="150" style="margin-right: 20px;">
-  <div>
-    <h1>CARLOS FELIPE NAVARRO CLAVERIA</h1>
-    <p style="margin-bottom: 2px;">Correo: carlosnavarroc@uchile.cl</p>
-    <p style="margin-bottom: 2px;">Teléfono: +569 9445 9922</p>
-    <p style="margin-bottom: 2px;">Dirección: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile</p>
-    <p style="margin-bottom: 0;">Página Personal: <a href="https://carlosnavarroc.github.io/">https://carlosnavarroc.github.io/</a></p>
-  </div>
-</div>
+<img src="https://carlosnavarroc.github.io/images/profile.png" width="150" height="150" />
+# CARLOS FELIPE NAVARRO CLAVERIA
+
+**Correo**: carlosnavarroc@uchile.cl  |  **Teléfono**: +569 9445 9922  
+**Dirección**: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile  
+**Página Personal**: [https://carlosnavarroc.github.io/](https://carlosnavarroc.github.io/)
 
 ---
 

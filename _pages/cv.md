@@ -1,3 +1,12 @@
+---
+layout: archive
+title: ""
+permalink: /cv/
+author_profile: true
+---
+
+{% include base_path %}
+
 # Carlos Navarro Clavería
 Correo: carlosnavarroc@uchile.cl
 

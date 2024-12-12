@@ -331,9 +331,9 @@
     margin-top: 0.5in; /* Ajusta el margen superior de la página */
   }
 
-  /* Asegúrate de seleccionar todos los posibles encabezados */
-  header, .header, .titulo, .hora {
-    display: none !important; /* Oculta el encabezado */
+  /* Asegura que el encabezado sea completamente oculto */
+  .page-header {
+    display: none !important;
   }
 
   /* Estilos para las imágenes en la impresión */

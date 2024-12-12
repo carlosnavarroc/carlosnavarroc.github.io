@@ -83,15 +83,19 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 - Medel, V., Navarro, C. F., et al. (2024). *Cochlear dysfunction as an early biomarker of cognitive decline.* Alzheimer's & Dementia.
 - Navarro, C. F., Gatica, M., et al. (2023). *VolumePeeler: A novel FIJI plugin for 3D image stacks.* BMC Bioinformatics.
 - Navarro, C. F., Pérez, C. A. (2019). *Color–Texture Pattern Classification.* Applied Sciences.
+- Perez, C. A., Saravia, J. A., Navarro, C. F., et al. Rock lithological classification using multi-scale Gabor features from sub-images, and voting with rock contour information. International Journal of Mineral Processing, 144, 56-64. Elsevier.
 
 ---
 # **PUBLICACIONES EN CONFERENCIAS**
 
 - Gierke, C., Navarro, C. F., Martínez, M., Delgado, C., Delano, P. H., Medel, V., et al. (2024). Characterization of Social Isolation and Perception of Loneliness in a Group of Chilean Older People Post-pandemic. Alzheimer's Association International Conference.
+- Zamorano, M., Plaza, I., Navarro, C. F. (2024). Diagnóstico Automatizado de Glaucoma Mediante Herramientas de Machine Learning Aplicadas a Datos de Pupilometría Cromática. VI Jornadas de Investigación. Hospital Clínico Universidad de Chile.
+- Muñoz R., D., Muñoz B., C., Cerda V., M., Navarro C., F. (2023). Redes neuronales del tipo transformer como herramienta de clasificación de sobreexpresión de proteína HER2 en biopsias de cáncer gástrico. V Jornadas de Investigación. Hospital Clínico Universidad de Chile.
 - Quezada, F. A., Navarro, C. F., Muñoz, C., Zamorano, M., Jara-Wilde, J., Chang, V., et al. (2023). RaViTT: Random vision transformer tokens. arXiv preprint arXiv:2306.10959.
 - Rojas, R., Navarro, C. F., Orellana, G. A., Castañeda, V. (2023). 3D Nuclei Segmentation through Deep Learning. 2023 IEEE Conference on Artificial Intelligence (CAI), 309-310.
 - Navarro, C. F., Zambrano Ibujés, J., Calle, X. (2022). Automatización del análisis de ecocardiografía de un modelo murino utilizando procesamiento digital de imágenes y deep learning. IV Jornadas de Investigación. Hospital Clínico Universidad de Chile.
 - Widzyk-Capehart, E., Barberán, A., Briceño, M. J., Navarro, C. F., Nguyen, P. M. V., et al. (2019). Collocated ground deformation and pore pressure measurements in open pit mines: laboratory testing and analysis of wireless sensing platform. Proceedings of the 27th International Symposium on Mine Planning and Equipment Selection.
+
   
 ---
 

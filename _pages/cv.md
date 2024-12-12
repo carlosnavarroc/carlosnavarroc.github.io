@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-### CARLOS FELIPE NAVARRO CLAVERIA
+## CARLOS FELIPE NAVARRO CLAVERIA
 
 **Correo**: carlosnavarroc@uchile.cl  |  **Teléfono**: +569 9445 9922  
 **Dirección**: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile  
@@ -14,13 +14,13 @@ author_profile: true
 
 ---
 
-### **RESUMEN PROFESIONAL**
+## **RESUMEN PROFESIONAL**
 
 Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en procesamiento de imágenes, investigación y docencia. Experto en diseño de algoritmos de detección de patrones y segmentación avanzada, con aplicación en medicina, minería y retail. Amplia experiencia en programación, análisis de datos y herramientas de aprendizaje profundo, con un enfoque en innovación y enseñanza. Destacado por su capacidad para liderar proyectos multidisciplinarios y traducir problemas complejos en soluciones tecnológicas.
 
 ---
 
-### **EDUCACIÓN**
+## **EDUCACIÓN**
 
 - **Doctor en Ingeniería Eléctrica** – Universidad de Chile (2020)  
   *Beca CONICYT*  
@@ -33,27 +33,27 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 
 ---
 
-### **EXPERIENCIA LABORAL**
+## **EXPERIENCIA LABORAL**
 
-#### **Investigador Posdoctoral**
+### **Investigador Posdoctoral**
 **Facultad de Medicina, Universidad de Chile** | Marzo 2021 – Diciembre 2024  
 - Proyectos: FONDEF ID20I10371 (Detección precoz de deterioro cognitivo), FONDEF IT21I0041 (Análisis de EEG).  
 - Desarrollo de algoritmos de *Deep Learning* para procesamiento de señales biomédicas (EEG).  
 - Herramientas utilizadas: Python, MATLAB, TensorFlow, Keras, Análisis espectral.
 
-#### **Investigador Posdoctoral**
+### **Investigador Posdoctoral**
 **Facultad de Medicina, Universidad de Chile** | Enero 2022 – Marzo 2023  
 - Proyecto: ANILLO PIA ACT192015 (Multiscale Mechanics).  
 - Optimización de algoritmos de procesamiento de imágenes 3D y fusión de capturas multivista.  
 - Herramientas utilizadas: Python, FIJI, MATLAB, Visualización multivista.
 
-#### **Investigador Asistente**
+### **Investigador Asistente**
 **Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile** | Febrero 2018 – Diciembre 2018  
 - Proyecto: CSIRO P3 (Minería de Cielo Abierto).  
 - Diseño y construcción de sistemas de telemetría basados en IoT para monitoreo de taludes.  
 - Herramientas utilizadas: Arduino, C++, Bluetooth, sistemas de control.
 
-#### **Profesor Universitario**
+### **Profesor Universitario**
 **Universidad de Chile, Universidad Santo Tomás, Universidad Andrés Bello** | Marzo 2015 – Diciembre 2024  
 - Cursos impartidos: Álgebra, Cálculo, Ecuaciones Diferenciales, Electromagnetismo, Laboratorios de Ingenieria Electrica e Inteligencia Computacional.  
 - Diseño de materiales y evaluaciones para niveles de pregrado y posgrado.  
@@ -66,7 +66,7 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 
 ---
 
-### **HABILIDADES TÉCNICAS**
+## **HABILIDADES TÉCNICAS**
 
 - **Lenguajes de Programación**: Python, C++, MATLAB, R.  
 - **Frameworks y Tecnologías**: TensorFlow, Keras, OpenCV, Arduino, Bluetooth, IoT.  
@@ -75,14 +75,14 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 
 ---
 
-### **PUBLICACIONES DESTACADAS**
+## **PUBLICACIONES DESTACADAS**
 
 - Medel, V., Navarro, C. F., et al. (2024). *Cochlear dysfunction as an early biomarker of cognitive decline.* Alzheimer's & Dementia.
 - Navarro, C. F., Gatica, M., et al. (2023). *VolumePeeler: A novel FIJI plugin for 3D image stacks.* BMC Bioinformatics.
 - Navarro, C. F., Pérez, C. A. (2019). *Color–Texture Pattern Classification.* Applied Sciences.
 
 ---
-### **PUBLICACIONES EN CONFERENCIAS**
+## **PUBLICACIONES EN CONFERENCIAS**
 
 - Gierke, C., Navarro, C. F., Martínez, M., Delgado, C., Delano, P. H., Medel, V., et al. (2024). Characterization of Social Isolation and Perception of Loneliness in a Group of Chilean Older People Post-pandemic. Alzheimer's Association International Conference.
 - Navarro, C. F., Larroucau, R. (2024). Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago. Cuadernos de Beauchef, 7(2), 287-321.
@@ -93,14 +93,14 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
   
 ---
 
-### **PROYECTOS DESTACADOS**
+## **PROYECTOS DESTACADOS**
 
 - **Virtual Beauchef**: Desarrollo de un campus virtual en Gather Town para fomentar interacciones durante la pandemia.
 - **La Ciudad de Los Cesares**: Coordinador y productor de una película independiente financiada por crowdfunding.
 
 ---
 
-### **ACTIVIDADES COMPLEMENTARIAS**
+## **ACTIVIDADES COMPLEMENTARIAS**
 
 - Participante en **Hackatón Summit País Digital by EY** (2024).
 - **IEEE RAS Summer School on Deep Learning for Robot Vision** (2019).

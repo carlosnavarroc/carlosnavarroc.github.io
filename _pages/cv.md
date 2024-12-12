@@ -10,11 +10,11 @@ author_profile: true
 # Carlos Navarro Clavería
 Correo: carlosnavarroc@uchile.cl
 
-RESUMEN PROFESIONAL
+## RESUMEN PROFESIONAL
 
 Doctor e Ingeniero Civil Electricista con amplia experiencia en procesamiento de imágenes, investigación y docencia. He trabajado en proyectos de alta tecnología en medicina, minería y comercio minorista, incluyendo el diseño de algoritmos de detección de patrones y segmentación avanzada. Experto en herramientas de programación y análisis de datos, con un fuerte enfoque en la innovación y la enseñanza.
 
-EDUCACIÓN
+## EDUCACIÓN
 
 - Doctor en Ingeniería Eléctrica – Universidad de Chile (2020) Beca CONICYT.
   Tesis: Clasificación de Patrones Complejos de Textura-Color mediante Extracción de Características Globales y Locales, un Clasificador SVM, y Post-Procesamiento
@@ -24,7 +24,7 @@ EDUCACIÓN
 - Ingeniero Civil Electricista – Universidad de Chile (2010)
   Tesis: Diseño de Moldes para la Detección de Iris mediante Optimización por Enjambre de Partículas.
 
-EXPERIENCIA LABORAL
+##EXPERIENCIA LABORAL
 
 **INVESTIGADOR POSDOCTORAL**
 Facultad de Medicina, Universidad de Chile | Marzo 2021 - Diciembre 2024
@@ -62,14 +62,14 @@ Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile | Agosto 2009
 - Herramientas utilizadas: MATLAB, OpenCV, Python, C++, algoritmos visión por computadora técnicas reconocimiento patrones.
 - Descripción: Desarrollo técnicas registro imágenes optimización modelos color descripción visual aplicados detección quiebres stock retail.
 
-HABILIDADES TÉCNICAS
+## HABILIDADES TÉCNICAS
 
 Lenguajes programación: Python C++ MATLAB R.
 Herramientas tecnologías: TensorFlow Keras OpenCV Pandas NumPy Arduino Git Bluetooth IoT FIJI
 Procesamiento señales: Análisis espectral procesamiento EEG análisis imágenes médicas Deep Learning.
 Visualización datos: Técnicas avanzadas visualización datos 3D multivista.
 
-OTRAS ACTIVIDADES
+## OTRAS ACTIVIDADES
 
 Cursos y Talleres
 - Hackatón Summit País Digital by EY. (2024)
@@ -78,12 +78,12 @@ Cursos y Talleres
 - Curso Online de Deep Learning, Nvidia. (2015)
 - Seminario Modelamiento Matemático con MATLAB. Mathworks. (2013)
 
-Publicaciones (Revistas)
+## Publicaciones (Revistas)
 - Medel, V., Delano, P. H., Belkhiria, C., Leiva, A., De Gatica, C., Vidal, V., Navarro, C. F., et al. (2024). Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 16(1), 1.
 - Gatica, M., Navarro, C. F., Lavado, A., Reig, G., Pulgar, E., Llanos, P., Härtel, S., et al. (2023). VolumePeeler: A novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks. BMC Bioinformatics, 24(1), 1-7.
 - Navarro, C. F., Pérez, C. A. (2019). Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing. Applied Sciences, 9(15), 3130.
 
-Publicaciones (Conferencias)
+## Publicaciones (Conferencias)
 - Gierke, C., Navarro, C. F., Martínez, M., Delgado, C., Delano, P. H., Medel, V., et al. (2024). Characterization of Social Isolation and Perception of Loneliness in a Group of Chilean Older People post-pandemic. Alzheimer's Association International Conference.
 - Navarro, C. F., Larroucau, R. (2024). Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago. Cuadernos de Beauchef, 7(2), 287-321.
 - Quezada, F. A., Navarro, C. F., Muñoz, C., Zamorano, M., Jara-Wilde, J., Chang, V., et al. (2023). RaViTT: Random vision transformer tokens. arXiv preprint arXiv:2306.10959.
@@ -96,7 +96,7 @@ Publicaciones (Conferencias)
 - Pérez CA Navarro CF Vera P Schulz D Castillo L Saravia JA (2012) Rock grindability estimation based on the quaternion color extraction model XXVI International Mineral Processing Congress IMPC 2012 New Delhi India September 24-28
 - Pérez CA Schulz D Vera P Navarro CF Castillo L Saravia JA (2012) Rock lithological classification based on Gabor filters and support vector machine XXVI International Mineral Processing Congress IMPC 2012 New Delhi India September 24-28
 
-Proyectos Destacados
+## Proyectos Destacados
 
 - Virtual Beauchef: Desarrollo de un campus virtual en Gather Town para fomentar interacciones durante la pandemia.
 - La Ciudad de Los Cesares: Coordinador y productor de película independiente financiada por crowdfunding.

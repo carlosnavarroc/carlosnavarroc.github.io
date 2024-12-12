@@ -327,15 +327,21 @@
 }
 @media print {
   /* Elimina el encabezado de impresión */
-  @page {
-    margin-top: 0.5in; /* Ajusta el margen superior de la página */
+ @page {
+    margin-top: 0.5in; /* Ajusta el margen superior */
+    margin-bottom: 1in; /* Ajusta el margen inferior */
+    margin-left: 1in; /* Márgenes izquierdo y derecho */
+    margin-right: 1in;
   }
 
-  /* Asegura que el encabezado sea completamente oculto */
-  .page-header {
-    display: none !important;
+  /* Asegúrate de ocultar cualquier encabezado visual */
+  header, .header, .titulo, .hora {
+    display: none !important; /* Oculta el encabezado */
+    visibility: hidden !important; /* También asegura que no se vea, aunque pueda quedar en el flujo del documento */
+    height: 0 !important; /* Elimina la altura del encabezado, para que no ocupe espacio */
+    padding: 0 !important; /* Elimina cualquier relleno adicional que pueda generar espacio */
   }
-
+	
   /* Estilos para las imágenes en la impresión */
   img {
     float: right;  /* Alinea la imagen a la derecha */

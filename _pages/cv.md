@@ -6,8 +6,8 @@ author_profile: false
 ---
 
 {% include base_path %}
+<img src="https://carlosnavarroc.github.io/images/profile.png" width="150" height="150" />
 # CARLOS FELIPE NAVARRO CLAVERIA
-<img src="https://carlosnavarroc.github.io/images/profile.png" width="250" height="250" />
 
 **Correo**: carlosnavarroc@uchile.cl  |  **Teléfono**: +569 9445 9922  
 **Dirección**: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile  

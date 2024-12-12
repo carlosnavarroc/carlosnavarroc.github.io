@@ -24,7 +24,7 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 
 # **EDUCACIÓN**
 
-- **Doctor en Ingeniería Eléctrica** – Universidad de Chile (2020)
+- **Doctor en Ingeniería Eléctrica** – Universidad de Chile (2020) 
   *Beca CONICYT*  
   Tesis: *Clasificación de Patrones Complejos de Textura-Color mediante Extracción de Características Globales y Locales, un Clasificador SVM y Post-Procesamiento.*
 

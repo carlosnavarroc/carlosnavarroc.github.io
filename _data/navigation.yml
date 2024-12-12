@@ -18,8 +18,8 @@ main:
   - title: "Resume"
     url: /resume/
     
-  - title: "CV (Español)"
-    url: /cv/
+  #- title: "CV (Español)"
+  #  url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/

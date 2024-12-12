@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Carlos Navarro Clavería
-Correo: carlosnavarroc@uchile.cl
-
 ## RESUMEN PROFESIONAL
 
 **Doctor e Ingeniero Civil Electricista** con amplia experiencia en procesamiento de imágenes, investigación y docencia. He trabajado en proyectos de alta tecnología en medicina, minería y comercio minorista, incluyendo el diseño de algoritmos de detección de patrones y segmentación avanzada. Experto en herramientas de programación y análisis de datos, con un fuerte enfoque en la innovación y la enseñanza.

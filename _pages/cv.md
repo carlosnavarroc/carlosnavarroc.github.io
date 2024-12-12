@@ -6,12 +6,16 @@ author_profile: false
 ---
 
 {% include base_path %}
-<img src="https://carlosnavarroc.github.io/images/profile.png" width="150" height="150" />
-# CARLOS FELIPE NAVARRO CLAVERIA
-
-**Correo**: carlosnavarroc@uchile.cl  |  **Teléfono**: +569 9445 9922  
-**Dirección**: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile  
-**Página Personal**: [https://carlosnavarroc.github.io/](https://carlosnavarroc.github.io/)
+<div style="display: flex; align-items: center;">
+  <img src="https://carlosnavarroc.github.io/images/profile.png" width="250" height="250" style="margin-right: 20px;">
+  <div>
+    <h1>CARLOS FELIPE NAVARRO CLAVERIA</h1>
+    <p>Correo: carlosnavarroc@uchile.cl</p>
+    <p>Teléfono: +569 9445 9922</p>
+    <p>Dirección: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile</p>
+    <p>Página Personal: <a href="https://carlosnavarroc.github.io/">https://carlosnavarroc.github.io/</a></p>
+  </div>
+</div>
 
 ---
 
@@ -23,8 +27,7 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 
 # **EDUCACIÓN**
 
-- **Doctor en Ingeniería Eléctrica** – Universidad de Chile (2020)  
-  *Beca CONICYT*  
+- **Doctor en Ingeniería Eléctrica** – Universidad de Chile (2020)    *Beca CONICYT*  
   Tesis: *Clasificación de Patrones Complejos de Textura-Color mediante Extracción de Características Globales y Locales, un Clasificador SVM y Post-Procesamiento.*
 
 - **Diploma de Tecnología en Electrofisiología** – Facultad de Medicina, Universidad de Chile (2019)

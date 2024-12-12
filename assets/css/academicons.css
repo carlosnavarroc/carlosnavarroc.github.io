@@ -325,8 +325,18 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
-
 @media print {
+  /* Elimina el encabezado de impresión */
+  @page {
+    margin-top: 0; /* Ajusta el margen superior de la página */
+  }
+
+  header, 
+  .header {
+    display: none !important; /* Oculta el encabezado */
+  }
+
+  /* Estilos para las imágenes en la impresión */
   img {
     float: right;  /* Alinea la imagen a la derecha */
     margin-left: 20px; /* Da un pequeño margen a la izquierda */
@@ -335,3 +345,4 @@
     height: 150px; /* Mantiene la relación de aspecto */
   }
 }
+

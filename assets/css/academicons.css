@@ -328,7 +328,7 @@
 @media print {
   /* Elimina el encabezado de impresión */
   @page {
-    margin-top: 0; /* Ajusta el margen superior de la página */
+    margin-top: 1in; /* Ajusta el margen superior de la página */
   }
 
   header, 

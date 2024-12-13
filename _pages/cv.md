@@ -9,6 +9,7 @@ author_profile: false
 <img src="https://carlosnavarroc.github.io/images/profile.png" width="150" height="150" />
 # CARLOS FELIPE NAVARRO CLAVERIA
 
+
 **Correo**: carlosnavarroc@uchile.cl  
 **Teléfono**: +569 9445 9922  
 **Página Personal**: [https://carlosnavarroc.github.io/](https://carlosnavarroc.github.io/)

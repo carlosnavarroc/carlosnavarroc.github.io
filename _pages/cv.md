@@ -67,6 +67,7 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
   - **Evaluador de Tesis Profesionales**: Estimación de densidad mamaria y cuantificación de calcificaciones vasculares con inteligencia artificial (2023–2024).  
   - **Guía de Prácticas Profesionales**: Desarrollo de métodos de segmentación automática, redes neuronales tipo Transformer, y segmentación de núcleos celulares mediante aprendizaje profundo (2022–2024).
 
+<br>
 ---
 # **HABILIDADES TÉCNICAS**
 

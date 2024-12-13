@@ -11,7 +11,6 @@ author_profile: false
 
 **Correo**: carlosnavarroc@uchile.cl  
 **Teléfono**: +569 9445 9922  
-**Dirección**: San Ignacio de Loyola 1124, Depto. 109, Santiago, Chile  
 **Página Personal**: [https://carlosnavarroc.github.io/](https://carlosnavarroc.github.io/)
 
 ---

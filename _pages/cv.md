@@ -83,7 +83,7 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 - Medel, V., Navarro, C. F., et al. (2024). *Cochlear dysfunction as an early biomarker of cognitive decline.* Alzheimer's & Dementia.
 - Navarro, C. F., Gatica, M., et al. (2023). *VolumePeeler: A novel FIJI plugin for 3D image stacks.* BMC Bioinformatics.
 - Navarro, C. F., Pérez, C. A. (2019). *Color–Texture Pattern Classification.* Applied Sciences.
-- Perez, C. A., Saravia, J. A., Navarro, C. F., et al. Rock lithological classification using multi-scale Gabor features from sub-images, and voting with rock contour information. International Journal of Mineral Processing, 144, 56-64. Elsevier.
+- Perez, C. A., Saravia, J. A., Navarro, C. F., et al. (2015). Rock lithological classification using multi-scale Gabor features from sub-images, and voting with rock contour information. International Journal of Mineral Processing, 144, 56-64. Elsevier.
 
 ---
 # **PUBLICACIONES EN CONFERENCIAS**

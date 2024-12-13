@@ -43,6 +43,7 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 - Proyectos: FONDEF ID20I10371 (Detección precoz de deterioro cognitivo), FONDEF IT21I0041 (Análisis de EEG).  
 - Desarrollo de algoritmos de *Deep Learning* para procesamiento de señales biomédicas (EEG).  
 - Herramientas utilizadas: Python, MATLAB, TensorFlow, Keras, Análisis espectral.
+
 <br>
 
 ## **Investigador Posdoctoral**

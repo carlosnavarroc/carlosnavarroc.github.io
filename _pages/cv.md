@@ -44,8 +44,6 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 - Desarrollo de algoritmos de *Deep Learning* para procesamiento de señales biomédicas (EEG).  
 - Herramientas utilizadas: Python, MATLAB, TensorFlow, Keras, Análisis espectral.
 
-<br>
-
 ## **Investigador Posdoctoral**
 **Facultad de Medicina, Universidad de Chile** | Enero 2022 – Marzo 2023  
 - Proyecto: ANILLO PIA ACT192015 (Multiscale Mechanics).  
@@ -70,7 +68,6 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
   - **Guía de Prácticas Profesionales**: Desarrollo de métodos de segmentación automática, redes neuronales tipo Transformer, y segmentación de núcleos celulares mediante aprendizaje profundo (2022–2024).
 
 ---
-
 # **HABILIDADES TÉCNICAS**
 
 - **Lenguajes de Programación**: Python, C++, MATLAB, R.  

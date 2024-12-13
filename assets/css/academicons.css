@@ -328,7 +328,7 @@
 @media print {
   /* Elimina el encabezado de impresión */
  @page {
-    margin-top: 0.2in; /* Ajusta el margen superior */
+    margin-top: 0.3in; /* Ajusta el margen superior */
     margin-bottom: 0.2in; /* Ajusta el margen inferior */
     margin-left: 0.2in; /* Márgenes izquierdo y derecho */
     margin-right: 0.2in;

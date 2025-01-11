@@ -20,12 +20,13 @@ author_profile: true
     - *Automated diagnosis of glaucoma using Machine Learning tools applied to Chromatic Pupilometry data.* (2024). **Author: Manuel Zamorano. DIE.** In progress. [Link Thesis]()
   - As co-advisor:
     - *Monitoring calving events through processing images* (2024). **Author: Catalina Zapata.  DIE-Geophysics.** In progress. [Link Thesis]()
-    - *Prediction of cognitive decline functional in older patients based on clinical history (texts) and machine learning* (2024). **Author: Alvaro Gallardo.  Master of Data Science.** In progress. [Link Thesis]()
+      
   - As a committee member:
     - *Development of an intelligent image recognition engine for last-mile dispatch test photos.*  (2023). **Author: Franco Mirauda. DIE.** This work proposes a smart image recognition engine that allows evaluating the quality of last-mile dispatches by reviewing some aspects of the photograph taken at the moment of product delivery. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
     - *Detection and estimation of portion for granular ingredients.* (2023). **Author: Gonzalo Hernández. DIE-DCC.** This study aims to detect and estimate the portion of granular ingredients in Pizza Hut kitchen images using different models, including Yolov6, Faster R-CNN, SAM, MIM, and BinsFormers. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/199465/Detecci%c3%b3n-y-estimaci%c3%b3n-de-porci%c3%b3n-para-ingredientes.pdf?sequence=1&isAllowed=y)
 - **Institution:** Department of Medical Technology - Faculty of Medicine. University of Chile.
   - As Professional Thesis Evaluator:
+    - *Design of a deep learning algorithm for estimating breast density in t1-weighted magnetic resonance images* (2025). **Authors: Vicente Cajas Barrientos, Sebastián Millar Tordecillas.**
     - *Estimation of Breast Density in Digital Mammography and Tomosynthesis Images Using Artificial Intelligence.* (2024). **Authors: Francisca Bustamante and Sofía Rivas.**
     - *Quantification of Vascular Calcifications in Breast Tomosynthesis Using Artificial Intelligence: A Methodology* (2023). **Authors: Constanza Ramírez and Marcelo Flores.**
       

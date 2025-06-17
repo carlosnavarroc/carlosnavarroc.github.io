@@ -57,7 +57,7 @@ Doctor e Ingeniero Civil Electricista con más de 10 años de experiencia en pro
 - Herramientas utilizadas: Arduino, C++, Bluetooth, sistemas de control.
 
 ## **Profesor Universitario**
-**Universidad de Chile, Universidad Santo Tomás, Universidad Andrés Bello** | Marzo 2015 – Diciembre 2024  
+**Universidad de Chile, Universidad Santo Tomás, Universidad Andrés Bello** | Marzo 2015 – Actualidad  
 - Cursos impartidos: Álgebra, Cálculo, Ecuaciones Diferenciales, Electromagnetismo, Laboratorios de Ingenieria Electrica e Inteligencia Computacional.  
 - Diseño de materiales y evaluaciones para niveles de pregrado y posgrado.  
 - Guía de tesis y prácticas profesionales:

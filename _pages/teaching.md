@@ -17,7 +17,7 @@ author_profile: true
 - **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
   - As advisor:
     - *Transformer-type neural networks for classifying HER2 protein overexpression in gastric cancer biopsy images.* (2023). **Author: Diego Muñoz. DIE.** This study focuses on enhancing gastric cancer diagnosis accuracy through transformer-type neural networks compared to convolutional networks. The transformer model demonstrates superior performance over the CNN, achieving higher accuracy and f1-score in classifying all classes of HER2 protein overexpression. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/196732/Redes-neuronales-del-tipo-transformer-como-herramienta-de-clasificacion-de-sobreexpresion-de-proteina-HER2-en-imagenes-de-biopsias-de-cancer-gastrico.pdf?sequence=1&isAllowed=y)
-    - *Automated diagnosis of glaucoma using Machine Learning tools applied to Chromatic Pupilometry data.* (2024). **Author: Manuel Zamorano. DIE.** In progress. [Link Thesis]()
+    - *Automated diagnosis of glaucoma using Machine Learning tools applied to Chromatic Pupilometry data.* (2024). **Author: Manuel Zamorano. DIE.** In progress. [Link Thesis](https://repositorio.uchile.cl/handle/2250/204385)
   - As co-advisor:
     - *Monitoring calving events through processing images* (2024). **Author: Catalina Zapata.  DIE-Geophysics.** In progress. [Poster GSEV 2024](https://www.cec.uchile.cl/~canavarr/Posters/2024_AdvancedGlacier_Zapata.pdf) [Link Thesis]()
       

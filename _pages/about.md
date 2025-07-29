@@ -7,15 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <div style="text-align: justify;">
-  <p>Hello there, my name is Carlos, and I'm a PhD and Electrical Civil Engineer with a strong interest in Image Processing, Pattern Recognition, and Teaching. My career has been developed around high-technology and innovation-driven projects involving automation systems in medicine, mining, and retail.</p>
+  <p>Hello there, my name is Carlos, and I'm a PhD and Electrical Civil Engineer with a strong interest in Image Processing, Pattern Recognition, and Teaching. My career has focused on high-technology, innovation-driven projects involving automation systems in medicine, mining, and retail.</p>
 
-  <p>In these projects, I’ve applied techniques from statistical modeling, machine learning, and computer vision. My PhD research, in particular, focused on detecting complex patterns using colour and texture features.</p>
+  <p>In these projects, I’ve applied techniques from statistical modeling, machine learning, and computer vision. My PhD research focused on detecting complex patterns using colour and texture features — work that laid the foundation for my transition into data science and AI.</p>
 
-  <p>In recent years, I have gained experience in full-cycle data science projects, from gathering and preprocessing large volumes of structured and unstructured data, to developing and deploying machine learning models. I’m proficient in Python and R, and I write production-ready code that is maintainable and testable. My work spans specialized AI areas such as Natural Language Processing, Computer Vision, and Generative AI. I’m also well-versed in model evaluation, optimization, and interpreting results using visualization tools to extract actionable insights for both technical and non-technical stakeholders. I maintain a strong commitment to ethical standards and data privacy in every project I undertake.</p>
-  
-  <p>Besides my project-oriented work, I have dedicated a significant portion of my career to teaching. Over the years, I have had the privilege of instructing diverse courses, ranging from fundamental mathematics and physics to specialized subjects within electrical engineering. I enjoy sharing my knowledge and expertise in image processing and associated laboratories. My commitment to education extends beyond the traditional classroom, and I am passionate about fostering a dynamic learning environment that encourages curiosity and critical thinking among students.</p>
+  <p>More recently, I’ve led full-cycle data science projects: collecting and preprocessing large datasets, building and deploying machine learning models, and interpreting results for stakeholders. I write production-ready code in Python and R, and have hands-on experience in areas like NLP, computer vision, and Generative AI. I also bring a strong awareness of model evaluation, ethical AI, and data privacy.</p>
+
+  <p>Alongside technical work, I’ve devoted much of my career to teaching. I’ve taught everything from foundational math and physics to advanced electrical engineering topics. I enjoy sharing knowledge — especially in image processing — and strive to create engaging learning environments that foster curiosity and critical thinking.</p>
 </div>
 
 

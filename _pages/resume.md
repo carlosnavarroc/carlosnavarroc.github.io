@@ -38,7 +38,7 @@ Applied machine learning, signal processing, and computer vision to solve proble
 
 ### **Neurosystems**
 - Applied **spectral analysis** and statistical modeling on EEG data for **postoperative complication prediction**.  
-- Built predictive models to assess the combined effect of anesthetics using clinical and **electrophysiological data**.  
+- Built [predictive models](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf) to assess the combined effect of anesthetics using clinical and **electrophysiological data**.  
 - Developed a **machine learning pipeline** for **automated glaucoma diagnosis** from chromatic pupilometry data. [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
 
 ### **SCIANLab**
@@ -54,20 +54,29 @@ Applied machine learning, signal processing, and computer vision to solve proble
 > **Key Tools & Methods:** Python, R, MATLAB, Scikit-learn, TensorFlow, Keras, OpenCV, Signal/Image Processing, EEG Analysis, Deep Learning, SVM, Transformers, Data Visualization.
 
 ---
-
-## Research Assistant  
-Digital Image Processing Laboratory, Electrical Engineering Department  
+## Applied Research Engineer – Computer Vision & Data Analysis  
 **Faculty of Physical Sciences and Mathematics, University of Chile**  
-*2009 – 2018*  
+**2009 – 2018**
 
-### Research Highlights at DIPL (Digital Image Processing Laboratory):
-- **INNOVA Project 13IDL2-23589:** Optimization of registration algorithms and development of color models to detect stock breakages in supermarket products.
-- **Fondef Project D08I-1060:** Pattern recognition using video for surveillance and mining applications.  
-  - [Poster – Lithological Segmentation with Gabor Filters (2013)](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf)  
-  - [Poster – Rock Estimation with Texture Descriptors (2012)](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)
-- **CSIRO Chile P3 Program – Intelligent Systems for Mining:**  
-  - Designed and built control, power, and telemetry systems for field and lab testing of Bluetooth-based slope stability sensors.  
-  - Fieldwork included a visit to Teck Highland Valley Copper Mine in Kamloops, Canada.
+Worked on R&D projects in retail, mining, and biomedical domains, applying computer vision, signal processing, and automation techniques. Participated in both academic and industry-funded initiatives, including field installations and interdisciplinary collaborations.
+
+**Key Projects & Contributions:**
+
+- **Image Processing in Mining & Retail:**  
+  Developed descriptor-based models and optimization strategies for image registration and object detection to support **stock breakage detection in supermarkets**.  
+  - *INNOVA Project 13IDL2-23589*
+
+- **Pattern Recognition via Video Analysis:**  
+  Designed machine learning pipelines for **automated lithology classification** and **rock type estimation** using video-based pattern recognition.  
+  - [Poster: Lithological Classification](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf)  
+  - [Poster: Rock Type Estimation](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)  
+  - *Fondef Project D08I-1060*
+
+- **Sensor Systems for Slope Stability (CSIRO Chile):**  
+  Built and tested Bluetooth-based telemetry systems for geotechnical monitoring in mining environments. Designed control and data acquisition hardware and software for lab and field experiments. *(9-month collaboration)*
+
+> **Key Tools & Methods:** Python, OpenCV, MATLAB, Optimization Algorithms, Feature Extraction, SVM, Signal & Image Processing, Computer Vision, Automation Systems
+
 
 
 # Technical Skills

@@ -32,7 +32,7 @@ author_profile: true
 ## Postdoctoral Researcher  
 [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) & [Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/)  
 **Faculty of Medicine, University of Chile**  
-*September 2019 – Present*  
+*September 2019 – December 2024*  
 _Focus:_ Solving medicine and biology problems using automation and AI tools.
 
 ### Research Highlights at Neurosystems:

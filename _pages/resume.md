@@ -8,25 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Education
-
-## PhD in Electrical Engineering (2020)
-- **Institution:** Faculty of Physical Sciences and Mathematics, University of Chile  
-- **Thesis:** [Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)  
-- **Description:**  
-  This research proposed a novel approach to classification problems using color and texture features, highlighting the importance of multiscale feature extraction to integrate color and texture information effectively. The results led to two publications: a [conference article](https://doi.org/10.1109/SMC.2013.562) and a [journal article](https://doi.org/10.3390/app9153130).
-
-## Diploma of Technology in Electrophysiology (2019)
-- **Institution:** Faculty of Medicine, University of Chile  
-- **Description:**  
-  Specialized in bioelectric signal processing and electrophysiology of sensory systems. Final work involved a theoretical analysis of an electrophysiological signal for clinical use and a proposal for clinical application.
-
-## Electrical Engineering (2010)
-- **Institution:** Faculty of Physical Sciences and Mathematics, University of Chile  
-- **Thesis:** [Molds design for iris detection through Particle Swarm Optimization](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf)  
-- **Description:**  
-  Proposed two methodologies to create templates for iris localization: a handcrafted approach and an automated method using Particle Swarm Optimization (PSO). The PSO method generates templates independent of anthropometric data and captures key eye features for improved iris detection accuracy.
-
 # Experience
 
 ## Data Scientist | Faculty of Medicine, University of Chile  
@@ -76,6 +57,30 @@ Worked on R&D projects in retail, mining, and biomedical domains, applying compu
   Built and tested Bluetooth-based telemetry systems for geotechnical monitoring in mining environments. Designed control and data acquisition hardware and software for lab and field experiments. *(9-month collaboration)*
 
 > **Key Tools & Methods:** Python, OpenCV, MATLAB, Optimization Algorithms, Feature Extraction, SVM, Signal & Image Processing, Computer Vision, Automation Systems
+
+# Education
+
+## PhD in Electrical Engineering (2020)
+- **Institution:** Faculty of Physical Sciences and Mathematics, University of Chile  
+- **Thesis:** [Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)  
+- **Description:**  
+  This research proposed a novel approach to classification problems using color and texture features, highlighting the importance of multiscale feature extraction to integrate color and texture information effectively. The results led to two publications: a [conference article](https://doi.org/10.1109/SMC.2013.562) and a [journal article](https://doi.org/10.3390/app9153130).
+
+## Diploma of Technology in Electrophysiology (2019)
+- **Institution:** Faculty of Medicine, University of Chile  
+- **Description:**  
+  Specialized in bioelectric signal processing and electrophysiology of sensory systems. Final work involved a theoretical analysis of an electrophysiological signal for clinical use and a proposal for clinical application.
+
+## Electrical Engineering (2010)
+- **Institution:** Faculty of Physical Sciences and Mathematics, University of Chile  
+- **Thesis:** [Molds design for iris detection through Particle Swarm Optimization](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf)  
+- **Description:**  
+  Proposed two methodologies to create templates for iris localization: a handcrafted approach and an automated method using Particle Swarm Optimization (PSO). The PSO method generates templates independent of anthropometric data and captures key eye features for improved iris detection accuracy.
+
+## Certifications & Achievements
+- IEEE RAS Summer School on Deep Learning for Robot Vision (2019)
+- Finalist, Hackathon Summit País Digital by EY (2024)  
+- [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/e3a8b5df-34ce-4e8f-b6a6-6c16757bcea6) – Various courses and skill badges related to Cloud, AI, and Generative AI.
 
 # Technical Summary
 

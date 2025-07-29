@@ -6,39 +6,64 @@ author_profile: true
 ---
 
 ## Teaching
-- **Institution:** University of Chile - U. Santo Tomás - U. Andrés Bello
-- **Position:** Professor
-- **Duration:** 2015 - Present
-- _One of my great passions is teaching. Since my mother and father are teachers, getting other human beings to participate actively in their learning is challenging_
-- **Description:** During these years, I have taught several courses, from fundamental mathematics and physics to those related to my electrical engineering expertise, such as [image processing](https://tinyurl.com/Clases-CNC-Imagenes) or [related laboratories](https://www.die.cl/academicos-jornada-parcial/).
 
-## Thesis Committee Member or Advisor
+- **Institutions:** University of Chile, Universidad Santo Tomás, Universidad Andrés Bello  
+- **Position:** Lecturer / Professor  
+- **Duration:** 2015 – Present  
+_One of my greatest passions is teaching. As both my parents are educators, I understand how challenging and rewarding it is to engage others in their learning process._  
+- **Description:** Over the years, I have taught a range of courses—from foundational subjects such as mathematics and physics to specialized topics in electrical engineering, including [image processing](https://tinyurl.com/Clases-CNC-Imagenes) and [related lab work](https://www.die.cl/academicos-jornada-parcial/).
 
-- **Institution:** Faculty of Physical Sciences and Mathematics. University of Chile.
-  - As advisor:
-    - *Transformer-type neural networks for classifying HER2 protein overexpression in gastric cancer biopsy images.* (2023). **Author: Diego Muñoz. DIE.** This study focuses on enhancing gastric cancer diagnosis accuracy through transformer-type neural networks compared to convolutional networks. The transformer model demonstrates superior performance over the CNN, achieving higher accuracy and f1-score in classifying all classes of HER2 protein overexpression. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/196732/Redes-neuronales-del-tipo-transformer-como-herramienta-de-clasificacion-de-sobreexpresion-de-proteina-HER2-en-imagenes-de-biopsias-de-cancer-gastrico.pdf?sequence=1&isAllowed=y)
-    - *Automated diagnosis of glaucoma using Machine Learning tools applied to Chromatic Pupilometry data.* (2024). **Author: Manuel Zamorano. DIE.** In progress. [Link Thesis](https://repositorio.uchile.cl/handle/2250/204385)
-  - As co-advisor:
-    - *Monitoring calving events through processing images* (2024). **Author: Catalina Zapata.  DIE-Geophysics.** In progress. [Poster GSEV 2024](https://www.cec.uchile.cl/~canavarr/Posters/2024_AdvancedGlacier_Zapata.pdf) [Link Thesis]()
-    - *Advanced algorithm for segmentation and quantification of arterial calcifications in breast tomosynthesis using Deep Learning and Visual Transformer* (2025). **Author: Bastián Castelli.  DIE.** In progress. [Link Thesis]()
-    - *Deep Learning-Based Segmentation and Classification of Sperm Heads for Normality Evaluation* (2025). **Author: Pilar Nilo.  DIE.** In progress. [Link Thesis]()
-  - As a committee member:
-    - *Development of an intelligent image recognition engine for last-mile dispatch test photos.*  (2023). **Author: Franco Mirauda. DIE.** This work proposes a smart image recognition engine that allows evaluating the quality of last-mile dispatches by reviewing some aspects of the photograph taken at the moment of product delivery. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
-    - *Detection and estimation of portion for granular ingredients.* (2023). **Author: Gonzalo Hernández. DIE-DCC.** This study aims to detect and estimate the portion of granular ingredients in Pizza Hut kitchen images using different models, including Yolov6, Faster R-CNN, SAM, MIM, and BinsFormers. [Link Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/199465/Detecci%c3%b3n-y-estimaci%c3%b3n-de-porci%c3%b3n-para-ingredientes.pdf?sequence=1&isAllowed=y)
-- **Institution:** Department of Medical Technology - Faculty of Medicine. University of Chile.
-  - As Professional Thesis Evaluator:
-    - *Design of a deep learning algorithm for estimating breast density in t1-weighted magnetic resonance images* (2025). **Authors: Vicente Cajas Barrientos, Sebastián Millar Tordecillas.**
-    - *Estimation of Breast Density in Digital Mammography and Tomosynthesis Images Using Artificial Intelligence.* (2024). **Authors: Francisca Bustamante and Sofía Rivas.**
-    - *Quantification of Vascular Calcifications in Breast Tomosynthesis Using Artificial Intelligence: A Methodology* (2023). **Authors: Constanza Ramírez and Marcelo Flores.**
-      
+## Thesis Supervision and Committee Participation
 
+### **Advisor – Faculty of Physical Sciences and Mathematics, University of Chile**
+- **2023**: *Transformer-type neural networks for classifying HER2 protein overexpression in gastric cancer biopsy images.*  
+  **Author:** Diego Muñoz (DIE).  
+  [Read Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/196732/Redes-neuronales-del-tipo-transformer-como-herramienta-de-clasificacion-de-sobreexpresion-de-proteina-HER2-en-imagenes-de-biopsias-de-cancer-gastrico.pdf?sequence=1&isAllowed=y)
 
-## Professional Practices Guide in ScianLab
-- 2024:
-  - **Matias Carvajal Pérez. DIE.** "Measurement of the membrane force exerted by a cell"
-- 2023:
-  - **Leslie Cardenas Villegas. DIE.** "Development of automatic segmentation methods that require fewer or worse examples for learning."
-  - **Manuel Zamorano Canales. DIE.** "Review of the state of the art of Transformers Type Neural Networks"
-  - **Vanessa Gonzalez Arriagada. DIE.** "Segmentation of Cell Nuclei through Deep Learning in Jamming Context"
-- 2022: 
-  - **Magdalena Álvarez Piña. DCC.** "Rotations in 3D Light-Sheet Images for Visualization of Embryo Development in Annual Fish"
+- **2024**: *Automated diagnosis of glaucoma using Machine Learning tools applied to Chromatic Pupilometry data.*  
+  **Author:** Manuel Zamorano (DIE). 
+  [Read Thesis](https://repositorio.uchile.cl/handle/2250/204385)
+
+### **Co-Advisor – Faculty of Physical Sciences and Mathematics, University of Chile**
+- **2024**: *Monitoring calving events through image processing.*  
+  **Author:** Catalina Zapata (DIE–Geophysics). *In progress.*  
+  [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_AdvancedGlacier_Zapata.pdf)
+
+- **2025**: *Segmentation and quantification of arterial calcifications in breast tomosynthesis using Deep Learning and Vision Transformers.*  
+  **Author:** Bastián Castelli (DIE). *In progress.*
+
+- **2025**: *Deep Learning-based segmentation and classification of sperm heads for normality evaluation.*  
+  **Author:** Pilar Nilo (DIE). *In progress.*
+
+### **Committee Member – Faculty of Physical Sciences and Mathematics, University of Chile**
+- **2023**: *Intelligent image recognition engine for last-mile delivery quality control.*  
+  **Author:** Franco Mirauda (DIE).  
+  [Read Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/192990/Desarrollo-de-un-motor-de-reconocimiento-de-imagenes-inteligente-para-fotos-de-pruebas-de-despacho-en-ultima-milla.pdf?sequence=1&isAllowed=y)
+
+- **2023**: *Detection and portion estimation of granular ingredients using computer vision.*  
+  **Author:** Gonzalo Hernández (DIE–DCC).  
+  [Read Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/199465/Detecci%c3%b3n-y-estimaci%c3%b3n-de-porci%c3%b3n-para-ingredientes.pdf?sequence=1&isAllowed=y)
+
+### **Evaluator – Department of Medical Technology, Faculty of Medicine, University of Chile**
+- **2025**: *Breast density estimation in T1-weighted MRI using Deep Learning.*  
+  **Authors:** Vicente Cajas Barrientos, Sebastián Millar Tordecillas
+
+- **2024**: *Estimation of breast density in digital mammography and tomosynthesis using AI.*  
+  **Authors:** Francisca Bustamante, Sofía Rivas
+
+- **2023**: *Quantification of vascular calcifications in breast tomosynthesis using AI.*  
+  **Authors:** Constanza Ramírez, Marcelo Flores
+
+## Internship Supervision – SCIANLab (University of Chile)
+
+- **2024**  
+  - *Matías Carvajal Pérez (DIE)* – "Measurement of membrane force exerted by a cell"
+
+- **2023**  
+  - *Leslie Cárdenas Villegas (DIE)* – "Development of segmentation methods with limited or low-quality training data"  
+  - *Manuel Zamorano Canales (DIE)* – "Literature review on Transformer-type Neural Networks"  
+  - *Vanessa González Arriagada (DIE)* – "Segmentation of cell nuclei using Deep Learning under jamming conditions"
+
+- **2022**  
+  - *Magdalena Álvarez Piña (DCC)* – "3D Light-sheet image rotation for visualizing embryo development in annual fish"
+

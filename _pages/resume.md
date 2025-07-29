@@ -30,23 +30,37 @@ author_profile: true
 # Experience
 
 ## Postdoctoral Researcher  
-[SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) & [Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/)  
+[SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/), [Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/)  & [AudioBrain](https://dpoae.scian.cl/)
 **Faculty of Medicine, University of Chile**  
-*September 2019 – December 2024*  
+*September 2019 – August 2025*  
 _Focus:_ Solving medicine and biology problems using automation and AI tools.
 
 ### Research Highlights at Neurosystems:
 - Spectral analysis of EEG signals for postoperative disease detection. Fondef Projects ID19I10345 & IT21I0041.  
-- *Remifentanil enhances propofol hypnotic effects during loss of consciousness.* [Paper](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf)  
-- Automated Glaucoma Diagnosis via Machine Learning on Chromatic Pupilometry Data. [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
+- *Remifentanil enhances propofol hypnotic effects during loss of consciousness.*  
+  - [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf)  
+- Automated glaucoma diagnosis using machine learning on chromatic pupilometry data.  
+  - [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
 
 ### Research Highlights at SCIANLab:
-- SCIAN-Drop & SCIAN-Force: Quantifying membrane deformation using image analysis of biocompatible fluorocarbon microdroplets. [Conference Poster 2024](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)  
-- In vivo analysis of enveloping layer morphogenesis during epiboly in annual killifish. [Conference Poster 2024](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)  
-- RaViTT: Random Vision Transformer Tokens for biomedical imaging. [FONDECYT Grant & Paper](https://arxiv.org/pdf/2306.10959.pdf)  
-- 3D Nuclei Segmentation via Deep Learning — 2nd place, Cell Tracking Challenge. [Paper](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)  
-- VolumePeeler: FIJI plugin for geometric tissue peeling in 3D image stacks. [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)  
+- **SCIAN-Drop & SCIAN-Force:** Quantifying membrane deformation via image analysis of fluorocarbon microdroplets.  
+  - [Conference Poster 2024](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)  
+- **Epiboly in annual killifish:** In vivo analysis of enveloping layer morphogenesis and cell migration during gastrulation.  
+  - [Poster 2024 – Latin American Developmental Biology Conference](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)  
+  - [Poster 2023 – Chilean Society for Cell Biology](https://www.cec.uchile.cl/~canavarr/Posters/2023_YLemusSBCCH.pdf)  
+- **RaViTT:** Random Vision Transformer Tokens for biomedical imaging.  
+  - [Paper](https://arxiv.org/pdf/2306.10959.pdf)  
+- **3D Nuclei Segmentation via Deep Learning** — 2nd place, Cell Tracking Challenge.  
+  - [Paper](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)  
+- **VolumePeeler:** FIJI plugin for geometric tissue peeling in 3D image stacks.  
+  - [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)  
 - Member of Review Board, [ISICS 2024](https://isics.cedai.cl/2024/)
+
+### Research Highlights at AudioBrain:
+- **AudioBrain:** Early detection of cognitive impairment in older adults through audiological testing.  
+  - [Publication](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
+- **Characterization of social isolation and perception of loneliness in Chilean older adults post-pandemic.**  
+  - [Publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11715746/)
 
 ---
 
@@ -55,11 +69,15 @@ Digital Image Processing Laboratory, Electrical Engineering Department
 **Faculty of Physical Sciences and Mathematics, University of Chile**  
 *2009 – 2018*  
 
-- Worked on retail and mining automation and image processing projects, including onsite supervision at Teck Highland Valley Copper Mine, Canada.  
-- Projects:  
-  - INNOVA Project 13IDL2-23589: Optimization of registration algorithms for supermarket product detection.  
-  - Fondef D08I-1060: Pattern recognition via video for surveillance and mining applications.  
-  - P3 Program "Intelligent Systems for Mining" (CSIRO Chile): Designed control and telemetry systems for Bluetooth sensor-based slope stability monitoring.
+### Research Highlights at DIPL (Digital Image Processing Laboratory):
+- **INNOVA Project 13IDL2-23589:** Optimization of registration algorithms and development of color models to detect stock breakages in supermarket products.
+- **Fondef Project D08I-1060:** Pattern recognition using video for surveillance and mining applications.  
+  - [Poster – Lithological Segmentation with Gabor Filters (2013)](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf)  
+  - [Poster – Rock Estimation with Texture Descriptors (2012)](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)
+- **CSIRO Chile P3 Program – Intelligent Systems for Mining:**  
+  - Designed and built control, power, and telemetry systems for field and lab testing of Bluetooth-based slope stability sensors.  
+  - Fieldwork included a visit to Teck Highland Valley Copper Mine in Kamloops, Canada.
+
 
 # Technical Skills
 

@@ -30,29 +30,28 @@ author_profile: true
 # Experience
 
 ## Data Scientist | Faculty of Medicine, University of Chile  
-**[Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/), [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) & AudioBrain**  
+**[Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/), [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) & [AudioBrain](https://dpoae.scian.cl/)**  
 **September 2019 – August 2025**  
 Applied machine learning, signal processing, and computer vision to solve problems in medicine and biology. Led and collaborated on interdisciplinary research using data-driven approaches for diagnostics, biomedical image analysis, and cognitive health.
 
 ### Key Projects & Contributions:
 
-#### **Neurosystems**
+### **Neurosystems**
 - Applied **spectral analysis** and statistical modeling on EEG data for **postoperative complication prediction**.  
 - Built predictive models to assess the combined effect of anesthetics using clinical and **electrophysiological data**.  
 - Developed a **machine learning pipeline** for **automated glaucoma diagnosis** from chromatic pupilometry data. [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
 
-#### **SCIANLab**
+### **SCIANLab**
 - Developed **RaViTT**, a Vision Transformer-based model for biomedical image classification.  [Paper](https://arxiv.org/pdf/2306.10959.pdf)
 - Engineered deep learning models for **3D nuclei segmentation**, achieving 2nd place in the Cell Tracking Challenge.   [Paper](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)
 - Co-developed **VolumePeeler**, a FIJI plugin to improve 3D image visualization and quantification.  [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)
 - Applied image analysis for **[membrane deformation quantification](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)** and **[embryo development tracking](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)** in live imaging data.
 
-#### **AudioBrain**
+### **AudioBrain**
 - Designed and evaluated an **audiological test** to detect early signs of **cognitive decline** using signal processing and ML.  - [Publication](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
 - Conducted **data analysis** for a national study on **social isolation and loneliness** in elderly post-pandemic.  - [Publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11715746/)
 
 > **Key Tools & Methods:** Python, R, MATLAB, Scikit-learn, TensorFlow, Keras, OpenCV, Signal/Image Processing, EEG Analysis, Deep Learning, SVM, Transformers, Data Visualization.
-
 
 ---
 

@@ -77,56 +77,45 @@ Worked on R&D projects in retail, mining, and biomedical domains, applying compu
 
 > **Key Tools & Methods:** Python, OpenCV, MATLAB, Optimization Algorithms, Feature Extraction, SVM, Signal & Image Processing, Computer Vision, Automation Systems
 
-
-
 # Technical Summary
 
-**Languages:**  
-Python, R, MATLAB  
+**Languages:** Python, R, MATLAB.
 
-**Machine Learning & AI:**  
-Supervised and unsupervised learning, deep learning, computer vision, statistical modeling, optimization, predictive analytics, signal/image processing  
+**Machine Learning & AI:** Skilled in supervised and unsupervised learning, deep learning, computer vision, statistical modeling, optimization, predictive analytics, and signal/image processing.
 
-**Generative AI & LLMs:**  
-Prompt engineering, model deployment, evaluation of open-weight LLMs (e.g., LLaMA 3.2-vision, Qwen-VL 2.5 3B), use of Gemini via Google Vertex AI  
-- Completed **GenAI Zero to Hero** course by Google Cloud Learning México  
-- Participant in Generative AI Hackathon at **Summit País Digital**, using **Huawei Cloud** (organized by EY)
+**Generative AI & LLMs:** Experience in prompt engineering, model deployment, and evaluation of open-weight large language models such as LLaMA 3.2-vision and Qwen-VL 2.5 3B, along with practical use of Gemini via Google Vertex AI. Completed the **GenAI Zero to Hero** course by Google Cloud Learning Mexico and participated in a generative AI hackathon at **Summit País Digital** using Huawei Cloud, organized by EY.
 
-**Cloud & DevOps Tools:**  
-Docker (multi-container web service deployment), Google Cloud (Vertex AI, AI ethics principles), Huawei Cloud, basic CI/CD practices  
+**Cloud & DevOps Tools:** Proficient in deploying multi-container web services with Docker, working with Google Cloud (Vertex AI and AI ethics principles), Huawei Cloud, and basic CI/CD practices.
 
-**Version Control & Collaboration:**  
-Git, GitHub, GitLab – collaborative coding, versioning, documentation, issue tracking  
+**Version Control & Collaboration:** Advanced use of Git, GitHub, and GitLab for collaborative coding, version control, documentation, and issue tracking.
 
-**Libraries & Frameworks:**  
-Scikit-learn, TensorFlow, PyTorch, OpenCV, FIJI/ImageJ  
+**Libraries & Frameworks:** Experienced with Scikit-learn, TensorFlow, PyTorch, OpenCV, and FIJI/ImageJ.
 
-**Data Handling:**  
-Large-scale structured & unstructured data processing, feature engineering, cleaning & integration  
+**Data Handling:** Handling large-scale structured and unstructured data, including feature engineering, cleaning, and integration.
 
-**Evaluation & Validation:**  
-Cross-validation, robustness checks, performance metrics, and experiment reproducibility  
+**Evaluation & Validation:** Strong background in cross-validation, performance metrics, robustness testing, and experiment reproducibility.
 
-**Visualization & Reporting:**  
-Matplotlib, Seaborn, Plotly, Jupyter, clear communication of results to technical and non-technical audiences  
+**Visualization & Reporting:** Skilled in Matplotlib, Seaborn, Plotly, and Jupyter for effectively communicating results to both technical and non-technical audiences.
 
-**Best Practices:**  
-Maintainable and testable code, reproducible research, version control, data privacy, and ethical AI development  
+**Best Practices:** Writing maintainable and testable code, ensuring reproducible research, applying version control rigorously, and adhering to data privacy and ethical AI development standards.
 
 
 # Other Projects
 
 - **Project:** [Virtual Beauchef](https://tinyurl.com/beauchefvirtual)  
   - [UChile News](https://uchile.cl/i176928)  
-  - **Description:** The Beauchef campus was recreated in Gather Town. I started this project using the Gather Town application. This platform encourages social interactions, allowing socialization and collaborative work in a fun way, creating new digital experiences to bring the University closer to students who have not been able to visit it due to the pandemic.
+  - **Description:** This project was initiated using the Gather Town platform. It recreates the Beauchef campus to encourage social interactions and collaborative work in a fun environment, creating new digital experiences that bring the University closer to students unable to visit due to the pandemic.
 
 - **Project:** [La Ciudad de Los Cesares Producer](https://tinyurl.com/CNC-IMDB)  
   - [Official site](http://www.laciudaddeloscesares.cl/)  
-  - **Description:** As an independent film producer, I coordinated people and objects to follow the work plan as planned. Seeing the final product as a quality product was highly challenging and rewarding. This movie was financed entirely through crowdfunding.
+  - **Description:** As an independent film producer, coordinated people and resources to follow the planned work schedule. Delivering a quality final product was challenging and rewarding. The film was fully financed through crowdfunding.
 
 # A Little More About Me
 
-Alongside my interests in engineering, some of my other interests and hobbies are:  
-- [Photography](https://tinyurl.com/CNC-Fotografia)  
-- [Cook](https://www.caldostrong.com/search/label/cocinando-con-caldo)  
-- [Astronomy](https://www.caldostrong.com/search/label/astronomia)
+Besides professional activities in engineering, other interests and hobbies include:
+
+- [Photography:](https://tinyurl.com/CNC-Fotografia) capturing moments and scenes.
+- [Cooking:](https://www.caldostrong.com/search/label/cocinando-con-caldo)  experimenting with recipes and flavors.
+- [Astronomy:](https://www.caldostrong.com/search/label/astronomia) exploring the night sky and stars.
+- [Cultural Documentation:](https://www.caldostrong.com/search/label/cultura) capturing cultural heritage through photography, focusing on museums, architecture, and heritage events like Día de los Patrimonios. Though not a formal expert, I engage passionately with Chilean culture, enriching my perspective beyond my technical work.
+

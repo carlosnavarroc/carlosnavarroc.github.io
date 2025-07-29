@@ -79,17 +79,40 @@ Worked on R&D projects in retail, mining, and biomedical domains, applying compu
 
 
 
-# Technical Skills
+# Technical Summary
 
-- **Programming Languages:** Python, R, MATLAB  
-- **Data Science & Machine Learning:** Statistical modeling, supervised and unsupervised learning, deep learning, optimization, predictive analytics  
-- **Specialized AI Areas:** Natural Language Processing (NLP), Computer Vision, Generative AI  
-- **Tools & Frameworks:** Scikit-learn, TensorFlow, PyTorch, OpenCV, FIJI/ImageJ  
-- **Data Handling:** Gathering, preprocessing, cleaning, and integration of large volumes of structured and unstructured data  
-- **Model Evaluation & Validation:** Performance metrics, cross-validation, robustness and reliability checks  
-- **Visualization & Communication:** Matplotlib, Seaborn, Plotly, reporting, presentations for technical and non-technical audiences  
-- **Software Practices:** Writing production-ready, maintainable, and testable code  
-- **Ethics & Compliance:** Data privacy, ethical standards in handling sensitive information
+**Languages:**  
+Python, R, MATLAB  
+
+**Machine Learning & AI:**  
+Supervised and unsupervised learning, deep learning, computer vision, statistical modeling, optimization, predictive analytics, signal/image processing  
+
+**Generative AI & LLMs:**  
+Prompt engineering, model deployment, evaluation of open-weight LLMs (e.g., LLaMA 3.2-vision, Qwen-VL 2.5 3B), use of Gemini via Google Vertex AI  
+- Completed **GenAI Zero to Hero** course by Google Cloud Learning México  
+- Participant in Generative AI Hackathon at **Summit País Digital**, using **Huawei Cloud** (organized by EY)
+
+**Cloud & DevOps Tools:**  
+Docker (multi-container web service deployment), Google Cloud (Vertex AI, AI ethics principles), Huawei Cloud, basic CI/CD practices  
+
+**Version Control & Collaboration:**  
+Git, GitHub, GitLab – collaborative coding, versioning, documentation, issue tracking  
+
+**Libraries & Frameworks:**  
+Scikit-learn, TensorFlow, PyTorch, OpenCV, FIJI/ImageJ  
+
+**Data Handling:**  
+Large-scale structured & unstructured data processing, feature engineering, cleaning & integration  
+
+**Evaluation & Validation:**  
+Cross-validation, robustness checks, performance metrics, and experiment reproducibility  
+
+**Visualization & Reporting:**  
+Matplotlib, Seaborn, Plotly, Jupyter, clear communication of results to technical and non-technical audiences  
+
+**Best Practices:**  
+Maintainable and testable code, reproducible research, version control, data privacy, and ethical AI development  
+
 
 # Other Projects
 

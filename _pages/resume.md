@@ -29,38 +29,36 @@ author_profile: true
 
 # Experience
 
-## Postdoctoral Researcher  
-[SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/), [Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/)  & [AudioBrain](https://dpoae.scian.cl/)
-**Faculty of Medicine, University of Chile**  
-*September 2019 – August 2025*  
-_Focus:_ Solving medicine and biology problems using automation and AI tools.
+## Data Scientist | Faculty of Medicine, University of Chile  
+**Neurosystems, SCIANLab & AudioBrain**  
+**September 2019 – August 2025**  
+Applied machine learning, signal processing, and computer vision to solve problems in medicine and biology. Led and collaborated on interdisciplinary research using data-driven approaches for diagnostics, biomedical image analysis, and cognitive health.
 
-### Research Highlights at Neurosystems:
-- Spectral analysis of EEG signals for postoperative disease detection. Fondef Projects ID19I10345 & IT21I0041.  
-- *Remifentanil enhances propofol hypnotic effects during loss of consciousness.*  
-  - [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf)  
-- Automated glaucoma diagnosis using machine learning on chromatic pupilometry data.  
+### Key Projects & Contributions:
+
+#### **Neurosystems**
+- Applied **spectral analysis** and statistical modeling on EEG data for **postoperative complication prediction**.  
+- Built predictive models to assess the combined effect of anesthetics using clinical and **electrophysiological data**.  
+- Developed a **machine learning pipeline** for **automated glaucoma diagnosis** from chromatic pupilometry data.  
   - [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
 
-### Research Highlights at SCIANLab:
-- **SCIAN-Drop & SCIAN-Force:** Quantifying membrane deformation via image analysis of fluorocarbon microdroplets.  
-  - [Conference Poster 2024](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)  
-- **Epiboly in annual killifish:** In vivo analysis of enveloping layer morphogenesis and cell migration during gastrulation.  
-  - [Poster 2024 – Latin American Developmental Biology Conference](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)  
-  - [Poster 2023 – Chilean Society for Cell Biology](https://www.cec.uchile.cl/~canavarr/Posters/2023_YLemusSBCCH.pdf)  
-- **RaViTT:** Random Vision Transformer Tokens for biomedical imaging.  
-  - [Paper](https://arxiv.org/pdf/2306.10959.pdf)  
-- **3D Nuclei Segmentation via Deep Learning** — 2nd place, Cell Tracking Challenge.  
-  - [Paper](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)  
-- **VolumePeeler:** FIJI plugin for geometric tissue peeling in 3D image stacks.  
-  - [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)  
-- Member of Review Board, [ISICS 2024](https://isics.cedai.cl/2024/)
+#### **SCIANLab**
+- Developed **RaViTT**, a Vision Transformer-based model for biomedical image classification.  
+  - [Paper](https://arxiv.org/pdf/2306.10959.pdf)
+- Engineered deep learning models for **3D nuclei segmentation**, achieving 2nd place in the Cell Tracking Challenge.  
+  - [Paper](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)
+- Co-developed **VolumePeeler**, a FIJI plugin to improve 3D image visualization and quantification.  
+  - [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)
+- Applied image analysis for **membrane deformation quantification** and **embryo development tracking** in live imaging data.
 
-### Research Highlights at AudioBrain:
-- **AudioBrain:** Early detection of cognitive impairment in older adults through audiological testing.  
+#### **AudioBrain**
+- Designed and evaluated an **audiological test** to detect early signs of **cognitive decline** using signal processing and ML.  
   - [Publication](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)
-- **Characterization of social isolation and perception of loneliness in Chilean older adults post-pandemic.**  
+- Conducted **data analysis** for a national study on **social isolation and loneliness** in elderly post-pandemic.  
   - [Publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11715746/)
+
+> **Key Tools & Methods:** Python, R, MATLAB, Scikit-learn, TensorFlow, Keras, OpenCV, Signal/Image Processing, EEG Analysis, Deep Learning, SVM, Transformers, Data Visualization.
+
 
 ---
 

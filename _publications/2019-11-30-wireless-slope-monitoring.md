@@ -2,7 +2,7 @@
 title: "Collocated ground deformation and pore pressure measurements in open pit mines: laboratory testing and analysis of wireless sensing platform"
 collection: publications
 permalink: /publication/2019-11-30-wireless-slope-monitoring/
-excerpt: 'Diseño y construcción de instalaciones de control, alimentación y sistemas de telemetría para pruebas en laboratorio y en terreno de un sistema de sensores basados en bluetooth para estabilidad de taludes.'
+excerpt: 'Design and construction of control, power, and telemetry systems for laboratory and field testing of a Bluetooth-based sensor system for slope stability.'
 date: 2019-11-30
 venue: 'Proceedings of the 27th International Symposium on Mine Planning and Equipment Selection - MPES 2018'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-99220-4_31'

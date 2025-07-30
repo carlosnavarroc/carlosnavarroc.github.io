@@ -1,7 +1,7 @@
 ---
 title: "Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago"
 collection: publications
-permalink: /publication/2024-03-13
+permalink: /publication/2024-03-13-Antiguas-Placas
 excerpt: 'Esta búsqueda comenzó lúdicamente, a partir de una inquietud compartida, hace diez años y en este breve periodo de tiempo podemos comprobar que hay algunas de estas placas que ya no existen y algunas de las calles han tenido otro cambio de nombre.'
 date: 2024-03-13
 venue: 'Cuadernos de Beauchef Chapter: 7(2)'

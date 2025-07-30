@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Curriculum Vitae - Data Scientist"
+title: "CARLOS FELIPE NAVARRO CLAVERIA"
 permalink: /cv/
 author_profile: false
 ---
 
 {% include base_path %}
 <img src="https://carlosnavarroc.github.io/images/profile_2025.jpg" width="150" height="150" />
-# CARLOS FELIPE NAVARRO CLAVERIA  
-<br>
 
 **Email**: carlosnavarroc@uchile.cl  
 **Phone**: +569 9445 9922  

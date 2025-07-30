@@ -72,6 +72,16 @@ Neurosystems, SCIANLab & AudioBrain
 
 ---
 
+# **SELECTED PUBLICATIONS & PROJECTS**
+
+- *Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss.* (2024) — Alzheimer's & Dementia
+- *RaViTT: Random Vision Transformer Tokens* (2023) — arXiv preprint  
+- *VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks* (2023) — BMC Bioinformatics  
+- *3D Nuclei Segmentation through Deep Learning* (2023) — IEEE CAI Conference
+- *Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing* (2019) —  Applied Sciences
+
+---
+
 # **TECHNICAL SKILLS**
 
 - **Programming:** Python, R, MATLAB  
@@ -84,15 +94,6 @@ Neurosystems, SCIANLab & AudioBrain
 
 ---
 
-# **SELECTED PUBLICATIONS & PROJECTS**
-
-- *Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss.* (2024) — Alzheimer's & Dementia
-- *RaViTT: Random Vision Transformer Tokens* (2023) — arXiv preprint  
-- *VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks* (2023) — BMC Bioinformatics  
-- *3D Nuclei Segmentation through Deep Learning* (2023) — IEEE CAI Conference
-- *Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing* (2019) —  Applied Sciences
-
----
 
 # **ADDITIONAL PROJECTS**
 

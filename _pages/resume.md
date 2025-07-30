@@ -27,6 +27,7 @@ Applied machine learning, signal processing, and computer vision to solve proble
 - Engineered deep learning models for **3D nuclei segmentation**, achieving 2nd place in the Cell Tracking Challenge.   [Paper](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)
 - Co-developed **VolumePeeler**, a FIJI plugin to improve 3D image visualization and quantification.  [Publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)
 - Applied image analysis for **[membrane deformation quantification](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)** and **[embryo development tracking](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)** in live imaging data.
+- Conference Service: Member of Review Board, [ISICS 2024](https://isics.cedai.cl/2024/), Intelligent Computing Systems 5th International Symposium, Sharjah, UAE, Nov 6–7, 2024.
 
 ### **AudioBrain**
 - Designed and evaluated an **audiological test** to detect early signs of **cognitive decline** using signal processing and ML.  - [Publication](https://www.biorxiv.org/content/biorxiv/early/2023/02/05/2023.02.03.527051.full.pdf)

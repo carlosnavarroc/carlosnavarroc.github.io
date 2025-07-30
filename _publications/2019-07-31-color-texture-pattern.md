@@ -1,7 +1,7 @@
 ---
 title: "Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing"
 collection: publications
-permalink: /publication/2019-color-texture-pattern/
+permalink: /publication/2019-07-31-color-texture-pattern/
 excerpt: 'This paper introduces a novel method for pattern classification, particularly relevant in image analysis applications requiring accurate classification of intricate patterns involving color and texture.'
 date: 2019-07-31
 venue: 'Applied Sciences'

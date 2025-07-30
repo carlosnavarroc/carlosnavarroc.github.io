@@ -88,10 +88,11 @@ Neurosystems, SCIANLab & AudioBrain
 
 # **SELECTED PUBLICATIONS & PROJECTS**
 
-- *RaViTT: Random Vision Transformer Tokens for Biomedical Image Classification* (2023) — arXiv preprint  
-- *VolumePeeler: A Novel FIJI Plugin for 3D Image Stacks* (2023) — BMC Bioinformatics  
-- *Early Biomarkers of Cognitive Decline via Audiological and EEG Analysis* (2024) — Alzheimer's & Dementia  
-- *3D Nuclei Segmentation with Deep Learning* (2023) — IEEE CAI Conference  
+- *Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss.* (2024) — Alzheimer's & Dementia
+- *RaViTT: Random Vision Transformer Tokens* (2023) — arXiv preprint  
+- *VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks* (2023) — BMC Bioinformatics  
+- *3D Nuclei Segmentation through Deep Learning* (2023) — IEEE CAI Conference
+- *Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing* (2019) —  Applied Sciences
 
 ---
 
@@ -99,6 +100,7 @@ Neurosystems, SCIANLab & AudioBrain
 
 - **Virtual Beauchef:** Creator of a virtual campus space on Gather Town to enhance social interaction during COVID-19.  
 - **La Ciudad de Los Cesares:** Independent film producer; managed crowdfunding and production.
+- **Antiguas placas, antiguos nombres:** Cultural documentation project focused on photographing and cataloging historical street signs and plaques in Chilean cities. The results were published in Cuadernos de Beauchef (2024), highlighting urban memory and heritage.
 
 ---
 

@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 {% include base_path %}
-<img src="https://carlosnavarroc.github.io/images/profile.png" width="150" height="150" />
+<img src="https://carlosnavarroc.github.io/images/profile_2025.jpg" width="150" height="150" />
 # CARLOS FELIPE NAVARRO CLAVERIA  
 <br>
 

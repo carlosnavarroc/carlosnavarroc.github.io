@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-  <p>Hello there, my name is Carlos, and I'm a PhD and Electrical Engineer with a strong interest in Image Processing, Pattern Recognition, and Teaching. My career has focused on high-technology, innovation-driven projects involving automation systems in medicine, mining, and retail.</p>
+  <p>Hello there! My name is Carlos. I'm a PhD and Electrical Engineer with a strong interest in Image Processing, Pattern Recognition, and Teaching. My career has focused on high-tech, innovation-driven projects involving automation systems in medicine, mining, and retail.</p>
 
   <p>In these projects, I’ve applied techniques from statistical modeling, machine learning, and computer vision. My PhD research focused on detecting complex patterns using colour and texture features — work that laid the foundation for my transition into data science and AI.</p>
 

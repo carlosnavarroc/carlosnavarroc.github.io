@@ -27,7 +27,7 @@ _One of my greatest passions is teaching. As both my parents are educators, I un
   **Author:** Bastián Castelli (DIE). *In progress.*
 - **2025**: *Deep Learning-based segmentation and classification of sperm heads for normality evaluation.*  
   **Author:** Pilar Nilo (DIE). *In progress.*
-  - **2024**: *Monitoring calving events through image processing.*  
+- **2024**: *Monitoring calving events through image processing.*  
   **Author:** Catalina Zapata (DIE–Geophysics). *In progress.*  [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_AdvancedGlacier_Zapata.pdf)
 
 ### **Committee Member – Faculty of Physical Sciences and Mathematics, University of Chile**

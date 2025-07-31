@@ -1,11 +1,12 @@
 ---
 title: 'Conclusión de proyectos del semestre otoño 2024'
 date: 2024-07-24
-permalink: /posts/2024/07/24/
+permalink: /posts/2024/07/24/conclusion-proyectos-semestre-otono-2024/
 tags:
   - Facultad de Medicina
   - Clases
   - Imagenes
+excerpt: 'Cierre de semestre con avances en segmentación de imágenes de peces, desarrollo de software para medir tensión interfacial celular y progresos en tesis sobre monitoreo de glaciares y diagnóstico de glaucoma.'
 ---
 <div style="text-align: justify;">Este fin de semestre ha estado lleno de cierres importantes desde el punto de vista profesional. Junto a Carmen Gloria Lemus, finalizamos la segmentación manual de stacks de cuatro dimensiones en peces anuales, obtenidos mediante microscopía lightsheet. Esto nos permitirá realizar el seguimiento y análisis de los procesos de epibolia, lo que contribuirá a una comprensión más detallada de este fenómeno.</div>
 <br>

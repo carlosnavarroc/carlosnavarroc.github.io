@@ -1,11 +1,12 @@
 ---
 title: 'Presentación de Tesis y Proyectos de Estudiantes en Jornadas Académicas'
 date: 2024-11-22
-permalink: /posts/2024/11/22/
+permalink: /posts/2024/11/22/presentacion-tesis-proyectos-jornadas-academicas/
 tags:
   - Departamento de Ingeniería Eléctrica
   - Facultad de Medicina
   - Análisis de Datos
+excerpt: 'Estudiantes presentan avances de tesis y proyectos en eventos académicos relevantes, demostrando compromiso y excelencia.'
 ---
 
 <div style="text-align: justify;">

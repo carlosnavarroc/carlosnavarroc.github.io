@@ -1,7 +1,7 @@
 ---
 title: 'Presentacion de Proyecto Final LLM: Departamento de Ingeniería Eléctrica de la Universidad de Chile'
 date: 2025-07-07
-permalink: /posts/2025/07/07/
+permalink: /posts/2025/07/07/presentacion-proyecto-final-llm-ie/
 tags:
   - Clases
   - Departamento de Ingenieria Electrica

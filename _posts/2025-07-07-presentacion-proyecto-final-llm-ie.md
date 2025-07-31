@@ -6,6 +6,8 @@ tags:
   - Clases
   - Departamento de Ingenieria Electrica
   - Imagenes
+excerpt: 'Estudiantes del curso "Laboratorio de Inteligencia Computacional y Robótica" presentaron sus proyectos finales utilizando modelos de LLM enfocados en análisis de imágenes, aplicados a una base de datos personalizada.'
+
 ---
 <div style="text-align: justify;">Estoy muy satisfecho con las presentaciones del curso "Laboratorio de Inteligencia Computacional y Robótica", el cual dicto junto a Martín Adams. Este curso está dirigido a estudiantes de último año que lo toman como electivo. Para este semestre, diseñamos un proyecto final en el que los estudiantes debían instalar y evaluar distintos modelos de LLMs (como LLaMA 3.2-vision, Qwen-VL 2.5 3B y un tercero a elección), enfocados en describir el contenido de imágenes. Lo distintivo de esta edición fue que utilicé una base de datos propia, compuesta por 15 imágenes seleccionadas de mi biblioteca personal, lo que añadió un nivel adicional de complejidad al desafío.</div>
 

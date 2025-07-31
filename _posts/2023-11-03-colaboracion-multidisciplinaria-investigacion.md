@@ -1,11 +1,14 @@
 ---
 title: 'Colaboración Multidisciplinaria en Proyectos Científicos: Un Enfoque Integral hacia la Investigación'
 date: 2023-11-03
-permalink: /posts/2023/11/03/
+permalink: /posts/2023/11/03/colaboracion-multidisciplinaria-investigacion/
 tags:
   - Multidisciplinario
-  - Imagenes
+  - Imágenes científicas
   - Facultad de Medicina
+  - Microscopía
+  - Biología celular
+excerpt: "Explora cómo la integración de disciplinas como matemáticas, física y biología potencia proyectos científicos, con un caso aplicado a imágenes de microscopía de pez anual."
 ---
 
 <div style="text-align: justify;">La colaboración dentro de grupos multidisciplinarios desempeña un papel crucial en el éxito de proyectos, y quiero presentar mi caso específico.</div>

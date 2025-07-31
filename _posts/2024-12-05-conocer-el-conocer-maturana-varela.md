@@ -1,11 +1,12 @@
 ---
 title: 'Conocer el conocer: las ideas de Maturana y Varela en un viaje colaborativo'
 date: 2024-12-05
-permalink: /posts/2024/12/05/
+permalink: /posts/2024/12/05/conocer-el-conocer-maturana-varela-viaje-colaborativo/
 tags:
   - Clases
   - Facultad de Medicina
   - Multidisciplinario
+excerpt: 'Reflexiones sobre el libro "El árbol del conocimiento" de Maturana y Varela, explorando el acto de conocer desde una perspectiva biológica y social.'
 ---
 <div style="text-align: justify;">Durante los meses de septiembre de 2023 y enero de 2024, surgió un espacio multidisciplinario destinado a revisar diversos escritos desde la perspectiva de la neurociencia. La iniciativa, liderada por los profesores <strong>Pedro Maldonado y Cecilia Babul</strong>, y coordinada por María Isabel Alliende, consistía en reunirnos semanalmente para generar un espacio de discusión en el que entender teorías neurocientíficas a lo largo de la historia. </div>
 <br>

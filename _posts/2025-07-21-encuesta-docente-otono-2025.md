@@ -9,6 +9,7 @@ tags:
 ---
 
 
+
 <div style="text-align: justify;">Las encuestas docentes correspondientes al semestre de otoño 2025 ya están disponibles, y quiero compartir una breve reflexión sobre los resultados. Este tipo de retroalimentación es clave para seguir mejorando el trabajo en el aula y reforzar aquellos aspectos que son valorados por las y los estudiantes. Adjunto presento una recopilación de las encuestas correspondientes a este semestre recién publicadas, en la siguiente figura. </div>
 
 

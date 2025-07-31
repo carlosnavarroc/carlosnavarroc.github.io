@@ -1,13 +1,13 @@
 ---
 title: 'Encuesta Docente Otoño 2025'
 date: 2025-07-21
-permalink: /posts/2025/07/21/
+permalink: /posts/2025/07/21/encuesta-docente-otono-2025/
 tags:
   - Docencia
   - Evaluación docente
   - Departamento de Ingenieria Electrica
+excerpt: '  Reflexión sobre los resultados de la encuesta docente del semestre otoño 2025, destacando fortalezas y áreas de mejora para seguir avanzando en la docencia.'
 ---
-
 
 
 <div style="text-align: justify;">Las encuestas docentes correspondientes al semestre de otoño 2025 ya están disponibles, y quiero compartir una breve reflexión sobre los resultados. Este tipo de retroalimentación es clave para seguir mejorando el trabajo en el aula y reforzar aquellos aspectos que son valorados por las y los estudiantes. Adjunto presento una recopilación de las encuestas correspondientes a este semestre recién publicadas, en la siguiente figura. </div>

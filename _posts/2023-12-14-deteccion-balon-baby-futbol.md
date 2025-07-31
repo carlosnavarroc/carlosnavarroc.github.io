@@ -1,13 +1,15 @@
 ---
 title: 'Explorando Desafíos Reales: Detección Automática del Balón en Baby Fútbol'
 date: 2023-12-14
-permalink: /posts/2023/12/14/
+permalink: /posts/2023/12/14/deteccion-balon-baby-futbol/
 tags:
   - Clases
-  - Imagenes
-  - Departamento de Ingenieria Electrica
+  - Imágenes
+  - Departamento de Ingeniería Eléctrica
+  - Visión Computacional
+  - YOLOv5
+excerpt: "Estudiantes aplican visión computacional para detectar la posición del balón en partidos de baby fútbol, integrando teoría y práctica con YOLOv5 y procesamiento de imágenes."
 ---
-
 
 <div style="text-align: justify;">Mi experiencia en otro semestre como profesor de jornada parcial en el Departamento de Ingeniería Eléctrica de la Universidad de Chile ha sido nuevamente gratificante.</div>
 <br>

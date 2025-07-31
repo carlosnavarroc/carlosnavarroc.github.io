@@ -1,11 +1,18 @@
 ---
-title: 'Experiencia Educativa en el Departamento de Ingeniería Eléctrica de la Universidad de Chile'
+title: "Docencia en Ingeniería Eléctrica U. de Chile: Deep Learning, IoT e Imágenes Médicas"
+description: "Resumen de mi experiencia docente en Ingeniería Eléctrica en la Universidad de Chile, incluyendo proyectos con deep learning e imágenes médicas."
 date: 2023-07-17
-permalink: /posts/2023/07/17/
+permalink: /posts/2023/07/17/experiencia-docencia-ingenieria-electrica/
+header:
+  teaser: /files/Proyectos_EL3001_2023_01.jpg
 tags:
-  - Clases
-  - Imagenes
-  - Departamento de Ingenieria Electrica
+  - docencia
+  - Universidad de Chile
+  - deep learning
+  - imágenes médicas
+  - IoT
+  - inteligencia artificial
+  - ingeniería eléctrica
 ---
 
 

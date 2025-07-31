@@ -1,13 +1,13 @@
 ---
 title: 'Jornada Científica "De la Retina al Cerebro: Innovación y Tecnología para el Futuro de la Oftalmología"'
 date: 2025-03-24
-permalink: /posts/2025/03/24/
+permalink: /posts/2025/03/24/jornada-retina-cerebro/
 tags:
-  - Facultad de Medicina 
+  - Facultad de Medicina
   - Multidisciplinario
   - Tecnología Médica
+excerpt: 'Resumen de la jornada científica sobre avances en neurociencia, oftalmología y tecnología médica enfocada en la percepción visual, rehabilitación ocular y diagnóstico del glaucoma.'
 ---
-
 
 <div style="text-align: justify;">El viernes pasado tuve el placer de participar como oyente de la jornada científica "De la Retina al Cerebro: Innovación y Tecnología para el Futuro de la Oftalmología". Organizada por el Departamento de Tecnología Médica de la Universidad de Chile y dirigida por el Profesor Iván Plaza Rosales. </div>
 

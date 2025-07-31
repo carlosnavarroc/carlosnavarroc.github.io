@@ -1,11 +1,13 @@
 ---
 title: 'Nuevos Horizontes Tecnológicos: Reflexiones desde mi Participación en Comités de Tesis'
 date: 2023-12-29
-permalink: /posts/2023/12/29/
+permalink: /posts/2023/12/29/comites-tesis-vision-ia/
 tags:
   - Tesis
-  - Imagenes
-  - Departamento de Ingenieria Electrica
+  - Visión Computacional
+  - Inteligencia Artificial
+  - Departamento de Ingeniería Eléctrica
+excerpt: "Reflexiones sobre mi participación como guía e integrante en comités de tesis del 2023, abordando desafíos como visión por computadora, redes Transformer y estimación de porciones en alimentos."
 ---
 
 

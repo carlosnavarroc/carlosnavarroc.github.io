@@ -1,11 +1,12 @@
 ---
 title: 'Participación en “Computer Vision: Experiencias Industriales en Brasil y Chile”'
 date: 2025-06-06
-permalink: /posts/2025/06/06/
+permalink: /posts/2025/06/06/participacion-computer-vision-brasil-chile/
 tags:
   - Imagenes
   - Inteligencia Artificial
   - Automatización
+excerpt: 'Expositor en evento sobre visión computacional en Brasil y Chile, abordando aplicaciones industriales, medicina, retail, y desafíos como Edge Computing e IA explicable.'
 ---
 <div style="text-align: justify;">Tuve el honor de participar como expositor en el evento <strong>“Computer Vision: Experiencias Industriales en Brasil y Chile”</strong>, organizado por el equipo de <strong>EY</strong>, junto a representantes de <strong>Codelco</strong>, <strong>Collahuasi</strong> y <strong>EY</strong>.</div>
 <br>

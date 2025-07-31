@@ -1,11 +1,12 @@
 ---
 title: 'Hackaton Summit País Digital'
 date: 2024-09-03
-permalink: /posts/2024/09/03/
+permalink: /posts/2024/09/03/hackaton-summit-pais-digital/
 tags:
   - Análisis de datos
   - Imagenes
   - Seguridad Ciudadana
+excerpt: 'Participación en la Hackatón Summit País Digital con un proyecto innovador de detección de personas acostadas para mejorar la seguridad ciudadana.'
 ---
 <div style="text-align: justify;">La Hackatón Summit País Digital, organizada por EY, nos brindó la oportunidad de abordar una problemática crucial para todos: la seguridad ciudadana en nuestro país.</div>
 <br>

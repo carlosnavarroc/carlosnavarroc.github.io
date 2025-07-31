@@ -37,20 +37,14 @@ Simultáneamente, a más de mil kilómetros al sur, en Puerto Varas, Matías Car
 
 <br>
 
-
-
 <div style="text-align: justify;">
 Es un honor poder trabajar con estudiantes tan comprometidos y talentosos como Manuel y Matías, quienes, con su dedicación, demuestran tener un futuro prometedor en sus respectivas áreas. A continuación, pueden consultar los pósteres de sus presentaciones:
 </div>
-
 <br>
-
 <div style="text-align: justify;">
 - Puedes consultar el póster de Manuel Zamorano <a href="https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf" target="_blank">aquí</a>
 </div>
-
 <br>
-
 <div style="text-align: justify;">
 - Puedes consultar el póster de Matías Carvajal <a href="https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf" target="_blank">aquí</a>
 </div>

@@ -1,11 +1,12 @@
 ---
 title: 'Curso "GenAI Zero to Hero"'
 date: 2025-03-05
-permalink: /posts/2025/03/05/
+permalink: /posts/2025/03/05/curso-genai-zero-to-hero/
 tags:
   - Google
   - Automatización
   - Inteligencia Artificial
+excerpt: 'Resumen del curso "GenAI Zero to Hero" de Google Cloud Learning México, donde se abordan módulos sobre IA generativa, modelos de lenguaje, IA responsable y diseño de prompts.'
 ---
 
 

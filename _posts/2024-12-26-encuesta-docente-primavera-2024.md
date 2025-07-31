@@ -1,11 +1,12 @@
 ---
 title: 'Encuesta Docente Primavera 2024'
 date: 2024-12-26
-permalink: /posts/2024/12/26/
+permalink: /posts/2024/12/26/encuesta-docente-primavera-2024/
 tags:
   - Tesis
   - Imagenes
   - Departamento de Ingenieria Electrica
+excerpt: 'Reflexión desde la experiencia docente sobre los resultados y la importancia de las encuestas docentes, incluyendo agradecimientos y planes de mejora.'
 ---
 
 

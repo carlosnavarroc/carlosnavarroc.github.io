@@ -33,7 +33,7 @@ Los proyectos presentados reflejan un fuerte enfoque interdisciplinario y el uso
     <strong>Diego Bartolucci</strong> (Ingeniería Civil Eléctrica): <em>"Segmentación y cuantificación de la densidad mamaria en imágenes de tomosíntesis mediante deep learning y visual transformer."</em>
   </li>
   <li>
-    <strong>Vicente Cajas Barrientos y Sebastián Millar Tordecillas</strong> (Tecnología Médica): <em>"Desarrollo de algoritmo de deep learning para la estimación de la densidad mamaria en imágenes de resonancia magnética potenciadas en T1."</em>
+    <strong>Vicente Cajas y Sebastián Millar </strong> (Tecnología Médica): <em>"Desarrollo de algoritmo de deep learning para la estimación de la densidad mamaria en imágenes de resonancia magnética potenciadas en T1."</em>
   </li>
   <li>
     <strong>Aníbal Molina</strong> (Magíster en Informática Médica – presentación vía telemática): <em>"Predicción de la severidad de la estenosis aórtica a partir de electrocardiogramas basales mediante inteligencia artificial."</em>

@@ -1,11 +1,12 @@
 ---
 title: 'Presentación en el AAIC Satellite Symposium 2025. Lima, Peru'
 date: 2025-05-14
-permalink: /posts/2025/05/14/
+permalink: /posts/2025/05/14/presentacion-aaic-satellite-lima/
 tags:
-  - Facultad de Medicina 
+  - Facultad de Medicina
   - Multidisciplinario
   - Análisis De Datos
+excerpt: 'Presentación en el AAIC Satellite Symposium 2025 en Lima, destacando la investigación sobre depresión, aislamiento social y soledad en adultos mayores en Chile mediante el Protocolo SPLLD.'
 ---
 <div style="text-align: justify;">Es un motivo de profundo orgullo que el trabajo que hemos desarrollado con tanto compromiso y enfoque humano esté siendo presentado en el AAIC Satellite Symposium 2025, que se celebra en Lima, Perú. Este simposio es un espacio emblemático para la región, donde convergen enfoques interdisciplinarios en torno a la salud cerebral, la equidad, la diversidad cultural, las políticas públicas y los avances en neurociencia aplicada en América Latina.</div>
 <br>

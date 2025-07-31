@@ -1,11 +1,13 @@
 ---
 title: 'Explorando el Aprendizaje a Través de la Fotografía en la Ingeniería Eléctrica'
 date: 2023-08-14
-permalink: /posts/2023/08/14/
+permalink: /posts/2023/08/14/aprendizaje-fotografia-ingenieria/
 tags:
   - Clases
-  - Imagenes
-  - Departamento de Ingenieria Electrica
+  - Aprendizaje Visual
+  - Fotografía Educativa
+  - Ingeniería Eléctrica
+excerpt: "Cómo el uso de fotografías propias transforma la enseñanza de ingeniería eléctrica, haciendo más cercanos y memorables los contenidos técnicos."
 ---
 
 <div style="text-align: justify;">En mis clases en el Departamento de Ingeniería Eléctrica de la Universidad de Chile, disfruto enormemente emplear imágenes únicas en lugar de las convencionales para ejemplificar. Es por ello que uso fotografías tomadas en mis ratos libres, que reflejan mi estilo y conectan de manera duradera con mis alumnos.</div>
@@ -15,7 +17,7 @@ tags:
 
 <p align="center">
   <p align="center">
-  <img src="/files/Foto_EL5206_2023_01.jpg" alt="Fotografías utilizadas">
+  <img src="/files/Foto_EL5206_2023_01.jpg" alt="Fotografías educativas utilizadas en clases de ingeniería eléctrica, incluyendo mercado, protesta, vuelo de colibrí y jugada de fútbol.">
 </p>
 <p align="center">
   <em>Figura 1A: Mercado Tirso de Molina; 1B: Detección usando Yolo; Figura 2: Fotogramas del vuelo de un Colibrí; Figura 3: Fotogramas de un gol de Chilena </em>

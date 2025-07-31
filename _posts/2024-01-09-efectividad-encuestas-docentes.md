@@ -1,11 +1,13 @@
 ---
 title: 'Efectividad de las Encuestas Docentes'
 date: 2024-01-09
-permalink: /posts/2024/01/09/
+permalink: /posts/2024/01/09/efectividad-encuestas-docentes/
 tags:
-  - Tesis
-  - Imagenes
-  - Departamento de Ingenieria Electrica
+  - Docencia
+  - Evaluación Docente
+  - Ingeniería Eléctrica
+  - Universidad de Chile
+excerpt: "Reflexiones sobre el valor real de las encuestas docentes desde la perspectiva de un profesor, destacando su impacto en la mejora continua de la enseñanza y el reconocimiento al trabajo en equipo."
 ---
 
 

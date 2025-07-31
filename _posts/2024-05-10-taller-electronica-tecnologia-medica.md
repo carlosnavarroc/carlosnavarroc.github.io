@@ -1,11 +1,12 @@
 ---
 title: 'Taller Práctico de Electrónica para Estudiantes de Tecnología Médica'
 date: 2024-05-10
-permalink: /posts/2024/05/10/
+permalink: /posts/2024/05/10/taller-electronica-tecnologia-medica/
 tags:
   - Facultad de Medicina
-  - Electronica
+  - Electrónica
   - Tecnología Médica
+excerpt: "Reflexión sobre una enriquecedora jornada de aprendizaje práctico en electrónica, dirigida a estudiantes de Tecnología Médica con especialidad en Radiología."
 ---
 <div style="text-align: justify;">Durante el día de hoy, participé en un taller de electrónica dirigido a estudiantes de Tecnología Médica con especialización en Radiología. En este taller, los estudiantes tuvieron la oportunidad de construir diversos circuitos, tales como rectificadores de media onda, de onda completa y circuitos basados en amplificadores operacionales (opamps) que permiten obtener una señal de disparo similar a la utilizada en equipos radiológicos.</div>
 

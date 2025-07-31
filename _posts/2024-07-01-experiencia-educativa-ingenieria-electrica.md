@@ -1,11 +1,12 @@
 ---
 title: 'Experiencia Educativa en el Departamento de Ingeniería Eléctrica de la Universidad de Chile'
 date: 2024-07-01
-permalink: /posts/2024/07/01/
+permalink: /posts/2024/07/01/experiencia-educativa-ingenieria-electrica/
 tags:
   - Clases
   - Departamento de Ingenieria Electrica
   - Imagenes
+excerpt: 'Reflexiones sobre el curso "Laboratorio de Ingeniería Eléctrica", donde estudiantes aplicaron conceptos en proyectos innovadores, como sistemas de control automatizado, antenas 4G, frenos regenerativos y redes neuronales para astronomía.'
 ---
 <div style="text-align: justify;">Estoy muy satisfecho con las presentaciones del curso "Laboratorio de Ingeniería Eléctrica", del cual estoy a cargo. Este curso está dirigido a estudiantes que, después del plan común, han optado por la carrera de Ingeniería Eléctrica. Aunque el curso incluye actividades de laboratorio obligatorias que no han cambiado desde que yo era estudiante (como el uso de circuitos trifásicos, máquinas de corriente continua, circuitos rectificadores, modulación AM y líneas de transmisión bifilar), en este laboratorio electivo ofrecemos la oportunidad de realizar experiencias más actuales.</div>
 

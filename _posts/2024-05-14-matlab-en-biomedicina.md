@@ -1,12 +1,14 @@
 ---
-title: 'Matlab en BioMedicina'
+title: 'MATLAB en Biomedicina'
 date: 2024-05-14
-permalink: /posts/2024/05/14/
+permalink: /posts/2024/05/14/matlab-en-biomedicina/
 tags:
   - Facultad de Medicina
-  - Matlab
+  - MATLAB
   - Análisis de datos
+excerpt: "Reflexiones y aprendizajes del workshop sobre herramientas de MATLAB aplicadas a la investigación biomédica, realizado en la Facultad de Medicina de la U. de Chile."
 ---
+
 <div style="text-align: justify;">Hoy tuve la suerte de participar en el workshop "Descubre el poder de MATLAB en Biomedicina", que se llevó a cabo en la Sala Seminario BNI y la sala de Computación FMED. Este evento estuvo dirigido a académicos y estudiantes de pre y postgrado interesados en conocer investigaciones y nuevas herramientas de MATLAB para potenciar su uso en biomedicina.</div>
 
 

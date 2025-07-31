@@ -1,11 +1,12 @@
 ---
 title: 'Reconocimientos a la labor docente en el Departamento de Ingeniería Eléctrica'
 date: 2024-11-13
-permalink: /posts/2024/11/13/
+permalink: /posts/2024/11/13/reconocimientos-labor-docente-ingenieria-electrica/
 tags:
   - Departamento de Ingenieria Eléctrica
   - Clases
   - Imagenes
+excerpt: 'Dos diplomas otorgados en reconocimiento a la labor docente en el Departamento de Ingeniería Eléctrica de la Universidad de Chile.'
 ---
 <div style="text-align: justify;">Estoy muy contento, pues este año recibí dos diplomas de reconocimiento por parte del Departamento de Ingeniería Eléctrica de la Universidad de Chile.</div>  
 <br>

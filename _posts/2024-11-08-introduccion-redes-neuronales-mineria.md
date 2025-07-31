@@ -1,11 +1,12 @@
 ---
 title: 'Introducción a Redes Neuronales y Procesamiento de Imágenes. Innovación para la Minería del Futuro.'
 date: 2024-11-08
-permalink: /posts/2024/11/08/
+permalink: /posts/2024/11/08/introduccion-redes-neuronales-mineria/
 tags:
   - Imagenes
   - Clases
   - Mineria
+excerpt: 'Clases impartidas en Compañía de Minas Buenaventura S.A.A. sobre redes neuronales y procesamiento de imágenes, enfocadas en aplicaciones innovadoras para la minería.'
 ---
 <div style="text-align: justify;">Recientemente, fui invitado por Andesite, un spin-off del laboratorio Alges y del AMTC de la Universidad de Chile, para impartir clases sobre redes neuronales y procesamiento de imágenes en la Compañía de Minas Buenaventura S.A.A.
 </div>

@@ -1,12 +1,14 @@
 ---
-title: 'COURSE Optics, Forces & Development  -  March 5-14 2024'
+title: 'Curso Internacional: Optics, Forces & Development – Marzo 5-14, 2024'
 date: 2024-03-07
-permalink: /posts/2024/03/07/
+permalink: /posts/2024/03/07/curso-optics-forces-development-2024/
 tags:
   - Facultad de Medicina
   - Multidisciplinario
   - Imagenes
+excerpt: "Reflexiones personales sobre mi participación en el curso internacional 'Optics, Forces & Development' 2024, destacando el valor de comprender a fondo la adquisición de datos y apoyar el aprendizaje práctico de los estudiantes."
 ---
+
 <div style="text-align: justify;">Desde una perspectiva personal, debo destacar lo interesante que ha sido participar de la versión 2024 del Curso Internacional <a href="https://www.cellmorphodynamics.cl/course2024/" target="_blank">"Optics, Forces & Development"</a> </div>
 
 

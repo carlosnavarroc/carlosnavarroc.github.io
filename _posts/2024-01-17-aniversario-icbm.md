@@ -1,11 +1,12 @@
 ---
-title: 'Aniversario ICBM'
+title: "Aniversario ICBM"
 date: 2024-01-17
-permalink: /posts/2024/01/17/
+permalink: /posts/2024/01/17/aniversario-icbm/
 tags:
   - Imagenes
   - Facultad de Medicina
   - Multidisciplinario
+excerpt: "Celebración del 26º aniversario del Instituto de Ciencias Biomédicas con una exposición de más de 150 pósters que reflejan la diversidad científica, incluyendo trabajos del laboratorio SCIAN-LAB."
 ---
 <div style="text-align: justify;">En el marco de la celebración del vigésimo sexto aniversario del Instituto de Ciencias Biomédicas, y tras el protocolo de las palabras de autoridades, participamos en una sesión de pósters donde se exhibió la activa labor científica realizada en nuestros laboratorios.</div>
 

@@ -53,5 +53,5 @@ Los proyectos presentados reflejan un fuerte enfoque interdisciplinario y el uso
 <br>
 
 <div style="text-align: justify;">
-Estas presentaciones reflejan el compromiso, la rigurosidad y la innovación que los estudiantes han demostrado a lo largo de sus procesos formativos. Agradezco especialmente la colaboración de la profesora Denisse Karl Sáez y del profesor Víctor Castañeda, con quienes integramos las comisiones de evaluación, fortaleciendo así el vínculo entre la ingeniería y las ciencias médicas.
+Este trabajo fue el resultado de un proceso sostenido durante el semestre, en el que cada miércoles nos reuníamos con los estudiantes para acompañarlos en el desarrollo de sus proyectos, intercambiar ideas y brindar orientación. Esta dinámica de trabajo colaborativo se tradujo en presentaciones que reflejan el compromiso, la rigurosidad y la capacidad de innovación de cada uno de ellos. Agradezco especialmente la colaboración de la profesora Denisse Karl Sáez y del profesor Víctor Castañeda, con quienes integramos las comisiones de evaluación, fortaleciendo el vínculo entre la ingeniería y las ciencias médicas.
 </div>

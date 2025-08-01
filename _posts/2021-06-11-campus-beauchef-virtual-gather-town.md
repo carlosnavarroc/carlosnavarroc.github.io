@@ -1,5 +1,5 @@
 ---
-title: 'Campus Beauchef Virtual: Egresado de la FCFM Recrea la Facultad en Gather Town'
+title: 'Campus Beauchef Virtual: Recreación del Campus FCFM en Gather Town'
 date: 2021-06-11
 permalink: /posts/2021/06/11/campus-beauchef-virtual-gather-town/
 tags:
@@ -8,27 +8,31 @@ tags:
   - Experiencias Digitales
   - Gather Town
   - Comunidad Estudiantil
-excerpt: 'Carlos Navarro, egresado de la FCFM, recreó el campus Beauchef en Gather Town para que estudiantes puedan explorarlo virtualmente y fortalecer el sentido de comunidad.'
+excerpt: 'Recreé el campus Beauchef en Gather Town para que estudiantes pudieran explorarlo virtualmente y fortalecer el sentido de comunidad durante la pandemia.'
 ---
 
 <div style="text-align: justify;">
-Carlos Navarro, egresado de la Facultad de Ciencias Físicas y Matemáticas (FCFM) de la Universidad de Chile, ha desarrollado una innovadora iniciativa para acercar el campus Beauchef a quienes no han tenido la oportunidad de conocerlo presencialmente por la pandemia. A través de la plataforma Gather Town, Carlos recreó de forma detallada los espacios más emblemáticos de la facultad, permitiendo que estudiantes puedan recorrer el campus de manera virtual, interactuar con sus compañeras y compañeros, y fortalecer el sentido de pertenencia a la comunidad beauchefiana.
+Durante el periodo de pandemia, desarrollé una iniciativa personal con el objetivo de acercar el campus Beauchef a quienes no habían tenido la oportunidad de conocerlo presencialmente. A través de la plataforma Gather Town, recreé de forma detallada los espacios más representativos de la Facultad de Ciencias Físicas y Matemáticas (FCFM) de la Universidad de Chile. Esta herramienta permite a estudiantes recorrer el campus de manera virtual, interactuar con sus compañeras y compañeros, y fortalecer su sentido de pertenencia a la comunidad beauchefiana.
 </div>
 
 <br>
+
 <p align="center">
   <img src="https://portaluchile.uchile.cl//.imaging/default/dam/imagenes/Ingenieria/imagenes-noticias/176928_0_gt4_L/jcr:content.jpg" alt="Recreación virtual del campus Beauchef en Gather Town" style="max-width:100%; height:auto;">
 </p>
+
 <br>
+
 <div style="text-align: justify;">
-La aplicación Gather Town fomenta la socialización y el trabajo colaborativo en un entorno lúdico y visualmente atractivo. En esta recreación digital es posible explorar el campus 851, que incluye el auditorio Enrique d’Etigny, salas de estudio, laboratorios, piscina y canchas de básquetbol interactivas, además de las salas CEC. En el campus 850 se pueden visitar espacios como la biblioteca —con su característico péndulo de Foucault—, el tradicional patio, “el muerto”, las ranas y la cancha, entre otros rincones icónicos.
+Gather Town fomenta la socialización y el trabajo colaborativo en un entorno lúdico y visualmente accesible. En esta recreación es posible explorar el campus 851, que incluye el auditorio Enrique d’Etigny, salas de estudio, laboratorios, piscina, canchas de básquetbol interactivas y las salas CEC. Asimismo, el campus 850 ofrece espacios como la biblioteca con el péndulo de Foucault, el tradicional patio, “el muerto”, las ranas y la cancha, entre otros rincones emblemáticos.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
-Además de diseñar estos espacios con gran fidelidad, Carlos incorporó puntos de interés marcados en amarillo, los cuales entregan datos e historias relevantes sobre cada lugar. Esta información está complementada por publicaciones en su blog personal <a href="https://caldostrong.com" target="_blank">caldostrong.com</a>, donde comparte detalles sobre el desarrollo del proyecto y su motivación por conectar a las y los estudiantes con su facultad, incluso en tiempos de distanciamiento.
+Incorporé también puntos interactivos marcados en amarillo que entregan datos e historias relevantes sobre cada lugar. Esta información se complementa con publicaciones disponibles en mi blog personal <a href="https://caldostrong.com" target="_blank">caldostrong.com</a>, donde comparto detalles sobre el proceso de diseño y la motivación detrás de esta experiencia digital que busca conectar a las y los estudiantes con su facultad, incluso en momentos de distanciamiento.
 </div>
+
 
 <br>
 

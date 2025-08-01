@@ -1,5 +1,5 @@
 ---
-title: 'Presentación de Tesis y Proyectos de Estudiantes en Jornadas Académicas'
+title: 'Actividad de Cierre de Semestre: Presentación de Proyectos de Tesis de Tecnología Medica e Ingeniería'
 date: 2025-07-30
 permalink: /posts/2025/07/31/actividad-cierre-semestre-presentacion-proyectos-tesis/
 tags:

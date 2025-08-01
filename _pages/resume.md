@@ -81,7 +81,7 @@ Worked on R&D projects in retail, mining, and biomedical domains, applying compu
 ## Certifications & Achievements
 - IEEE RAS Summer School on Deep Learning for Robot Vision (2019)
 - Finalist, Hackathon Summit País Digital by EY (2024)  
-- [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/e3a8b5df-34ce-4e8f-b6a6-6c16757bcea6) – Various courses and skill badges related to Cloud, AI, and Generative AI.
+- [Google Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/e3a8b5df-34ce-4e8f-b6a6-6c16757bcea6) – Various courses and skill badges related to Cloud, AI, and Generative AI. (2025)
 
 # Technical Summary
 

@@ -15,7 +15,7 @@ excerpt: 'Asistencia a la presentación del SIRC, un nuevo centro interdisciplin
 <div style="text-align: justify;">El SIRC investiga este fenómeno de manera comparativa, desde modelos animales —como <em>Drosophila melanogaster</em>— hasta poblaciones humanas, generando evidencia científica para diseñar intervenciones preventivas y orientar políticas públicas. Su labor combina investigación básica y aplicada, con énfasis en la formación académica y la colaboración nacional e internacional.</div>
 <br>
 
-<div style="text-align: justify;">Uno de los trabajos que sustenta esta línea de acción es un estudio publicado en <em>Alzheimer’s & Dementia</em>, [del cual formo parte](https://doi.org/10.1002/alz.089300), que analiza el aislamiento y la soledad en adultos mayores autovalentes de Santiago en el contexto postpandemia, explorando diferencias de género y vínculos con la salud mental.</div>
+<div style="text-align: justify;">Uno de los trabajos que sustenta esta línea de acción es un estudio publicado en <em>Alzheimer’s & Dementia</em>, <a href="https://doi.org/10.1002/alz.089300" target="_blank">del cual formo parte</a>, que analiza el aislamiento y la soledad en adultos mayores autovalentes de Santiago en el contexto postpandemia, explorando diferencias de género y vínculos con la salud mental.</div>
 <br>
 <p align="center">
   <img src="/files/2508_08_sirc.jpg" alt="Los integrantes del SIRC.">

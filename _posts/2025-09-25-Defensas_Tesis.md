@@ -1,18 +1,18 @@
 ---
-title: 'Defensas de Tesis Septiembre 2025: Ingeniería y Medicina unidas en Tech4Med'
+title: 'Defensas de Tesis Septiembre 2025: Ingeniería y Medicina unidas en Tech4Medics'
 date: 2025-09-25
-permalink: /posts/2025/09/25/defensas-tesis-tech4med-septiembre-2025/
+permalink: /posts/2025/09/25/defensas-tesis-Tech4Medics-septiembre-2025/
 tags:
   - Tecnología Médica
   - Ingeniería Civil Eléctrica
   - Inteligencia Artificial
   - Deep Learning
   - Tesis
-excerpt: 'En el nuevo centro Tech4Med, estudiantes de Ingeniería Civil Eléctrica defendieron sus tesis aplicando deep learning y vision transformers a problemas de salud, fortaleciendo la integración entre ingeniería y medicina.'
+excerpt: 'En el nuevo centro Tech4Medics, estudiantes de Ingeniería Civil Eléctrica defendieron sus tesis aplicando deep learning y vision transformers a problemas de salud, fortaleciendo la integración entre ingeniería y medicina.'
 ---
 
 <div style="text-align: justify;">
-Este mes de septiembre ha sido especialmente significativo para el <strong>nuevo centro Tech4Med (Technology for Medical Image-Based Clinical Support Systems Lab)</strong>. Nacido del trabajo conjunto de profesionales interdisciplinarios de la Universidad de Chile, provenientes de Tecnología Médica e Ingeniería Eléctrica, Tech4Med busca consolidarse como un espacio de investigación y formación de excelencia, profesionalizando la colaboración entre la ingeniería y las ciencias médicas.
+Este mes de septiembre ha sido especialmente significativo para el <strong>nuevo centro Tech4Medics (Technology for Medical Image-Based Clinical Support Systems Lab)</strong>. Nacido del trabajo conjunto de profesionales interdisciplinarios de la Universidad de Chile, provenientes de Tecnología Médica e Ingeniería Eléctrica, Tech4Medics busca consolidarse como un espacio de investigación y formación de excelencia, profesionalizando la colaboración entre la ingeniería y las ciencias médicas.
 </div>
 
 <br>
@@ -38,7 +38,7 @@ Con gran orgullo acompañamos a tres de nuestros estudiantes de Ingeniería Civi
 <br>
 
 <p align="center">
-  <img src="/files/DefensasSeptiembre_2025.png" alt="Collage de las defensas de tesis en Tech4Med septiembre 2025" style="max-width:100%; height:auto;">
+  <img src="/files/DefensasSeptiembre_2025.png" alt="Collage de las defensas de tesis en Tech4Medics septiembre 2025" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">
@@ -54,5 +54,5 @@ Cada uno de estos trabajos refleja el esfuerzo, la rigurosidad y la pasión de n
 <br>
 
 <div style="text-align: justify;">
-Felicitamos sinceramente a <strong>Bastián, Diego y Pilar</strong> por culminar con éxito esta etapa, y agradecemos a todos quienes hicieron posible este proceso. En <strong>Tech4Med</strong> seguimos avanzando en nuestra misión de acercar la ingeniería a la medicina, formando profesionales que contribuyan a un futuro donde la tecnología sea aliada del diagnóstico y la atención clínica.
+Felicitamos sinceramente a <strong>Bastián, Diego y Pilar</strong> por culminar con éxito esta etapa, y agradecemos a todos quienes hicieron posible este proceso. En <strong>Tech4Medics</strong> seguimos avanzando en nuestra misión de acercar la ingeniería a la medicina, formando profesionales que contribuyan a un futuro donde la tecnología sea aliada del diagnóstico y la atención clínica.
 </div>

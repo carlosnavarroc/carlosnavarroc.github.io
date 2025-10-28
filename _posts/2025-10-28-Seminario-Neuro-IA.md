@@ -50,7 +50,7 @@ Una de sus conclusiones más relevantes fue la necesidad de <strong>reconectar c
 ## Tercera exposición: mente y cambio climático
 
 <div style="text-align: justify;">
-<strong>Cristián Cáceres Núñez</strong> presentó <em>“De la mente al modelo: aproximaciones predictivas y semisupervisadas para comprender el impacto psicológico del cambio climático”</em>, abordando la <strong>solastalgia</strong> y la <strong>ecoansiedad</strong>.  
+El Doctor <strong>Cristián Cáceres Núñez</strong> presentó <em>“De la mente al modelo: aproximaciones predictivas y semisupervisadas para comprender el impacto psicológico del cambio climático”</em>, abordando la <strong>solastalgia</strong> y la <strong>ecoansiedad</strong>.  
 Para el estudio, se utilizaron <strong>encuestas georreferenciadas</strong>, asociadas a <strong>folios espaciales</strong>, y se aplicó el método <strong>KNN Imputer</strong> para manejar datos faltantes.  El caso de <strong>Licantén</strong> ejemplificó cómo, incluso un año después de una inundación, el miedo persiste. Los hallazgos muestran que la solastalgia puede transformarse en <strong>acción solidaria</strong>.
 </div>
 
@@ -64,9 +64,6 @@ El seminario concluyó con un <strong>conversatorio</strong> donde el público y
 
 <br>
 
-## Reflexión final
-
 <div style="text-align: justify;">
-El seminario <strong>Neuro-IA</strong> evidenció que la interacción entre <strong>neurociencia, psicología e inteligencia artificial</strong> amplía nuestro conocimiento y plantea preguntas sobre ética, creatividad y desarrollo tecnológico.  
-Personalmente, me quedo con esta frase: <em>“No se trata solo de conectar máquinas con cerebros, sino de conectar conocimiento con empatía.”</em>
+El seminario <strong>Neuro-IA</strong> evidenció que la interacción entre <strong>neurociencia, psicología e inteligencia artificial</strong> amplía nuestro conocimiento y plantea preguntas sobre ética, creatividad y desarrollo tecnológico.
 </div>

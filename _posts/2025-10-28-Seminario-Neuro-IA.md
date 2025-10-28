@@ -12,18 +12,19 @@ excerpt: 'El seminario "Neuro-IA: Conectando Mente y Máquina" reunió a investi
 ---
 
 <div style="text-align: justify;">
-El seminario <strong>“Neuro-IA: Conectando Mente y Máquina”</strong> reunió a docentes, estudiantes e investigadores de la Universidad Santo Tomás, generando un espacio interdisciplinario de reflexión entre neurociencia e inteligencia artificial.
+El seminario <strong>“Neuro-IA: Conectando Mente y Máquina”</strong> reunió a docentes, estudiantes e investigadores de la Universidad Santo Tomás, generando un espacio interdisciplinario entre neurociencia, psicología e inteligencia artificial.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
 La jornada comenzó con la <strong>foto oficial</strong> de autoridades, organizadores y expositores.</div>
-<p align="center"> <img src="/files/IA-ST-2025.png" alt="Foto Autoridades, Organizadores y Expositores" style="max-width:100%; height:auto;"> </p>
+<p align="center"> <img src="/files/IA_ST_2025.png" alt="Foto Autoridades, Organizadores y Expositores" style="max-width:100%; height:auto;"> </p>
 <p align="center"> <em>Figura 1: Foto Autoridades, Organizadores y Expositores. Seminario Neuro-IA 2025.</em> </p>
 <br>
+
 <div style="text-align: justify;">
-La Decana <strong>Macarena Lucar Arce</strong> realizó un <strong>experimento en vivo</strong> con IA, generando su discurso y analizando su contenido junto al público, mientras el <strong>Dr. Juan José Negroni</strong> contextualizó el seminario dentro de las “olas” del desarrollo (agrícola, industrial, de la información y la cuarta ola del tratamiento inteligente de datos), invitando a <strong>redefinir la salud mental</strong> en esta nueva era tecnológica.
+La Decana <strong>Macarena Lucar Arce</strong> realizó un <strong>experimento en vivo</strong> con IA, generando su discurso y analizándolo junto al público, lo que abrió el debate sobre creatividad, autoría y el rol humano frente a la tecnología. Por su parte, el Decano <strong>Juan José Negroni</strong> contextualizó el seminario en las “olas” del desarrollo: agrícola, industrial, de la información y la cuarta ola, centrada en el <strong>tratamiento inteligente de los datos</strong>. Inspirado en Alvin Toffler, invitó a reflexionar sobre cómo estas transformaciones redefinen la <strong>salud mental</strong>.
 </div>
 
 <br>
@@ -31,7 +32,9 @@ La Decana <strong>Macarena Lucar Arce</strong> realizó un <strong>experimento e
 ## Primera exposición: realidad virtual y mente
 
 <div style="text-align: justify;">
-La <strong>Dra. Rocío Mayol Troncoso</strong> presentó <em>“Rol de las interacciones sociales como modulador de la actividad cerebral en experiencias psicóticas subumbrales”</em>, abordando cómo la <strong>mirada transdiagnóstica</strong> permite intervenir tempranamente frente a síntomas compartidos entre distintos trastornos psiquiátricos. Su proyecto utiliza <strong>realidad virtual</strong> para simular interacciones sociales, destacando la necesidad de <strong>reconectar con las personas de al lado</strong> tras la pandemia.
+La <strong>Dra. Rocío Mayol Troncoso</strong> presentó <em>“Rol de las interacciones sociales como modulador de la actividad cerebral en experiencias psicóticas subumbrales”</em>, explorando cómo la <strong>mirada transdiagnóstica</strong> permite intervenir tempranamente ante síntomas compartidos entre distintos trastornos psiquiátricos.  
+Su proyecto utiliza <strong>realidad virtual</strong> para simular interacciones sociales, donde se definen <strong>avatares, distancias y contacto visual</strong>. Entre risas, comentó que en el <em>metro de Santiago</em> “tenemos una distancia íntima completamente involuntaria”.  
+Una de sus conclusiones más relevantes fue la necesidad de <strong>reconectar con las personas de al lado</strong>, tras los efectos de la pandemia.
 </div>
 
 <br>
@@ -39,19 +42,16 @@ La <strong>Dra. Rocío Mayol Troncoso</strong> presentó <em>“Rol de las inter
 ## Segunda exposición: inteligencia artificial y comportamiento
 
 <div style="text-align: justify;">
-<strong>Bastián Landskron</strong> presentó <em>“La Inteligencia Artificial y el Comportamiento Humano: ¿Quién entiende a quién?”</em>, explicando cómo los algoritmos aprenden y codifican información mediante <strong>embeddings</strong> y principios neuronales. También reflexionó sobre la <strong>plasticidad, aprendizaje y ética</strong> en la interacción entre IA y seres humanos.
+<strong>Bastián Landskron</strong> presentó <em>“La Inteligencia Artificial y el Comportamiento Humano: ¿Quién entiende a quién?”</em>, explicando cómo los algoritmos aprenden y codifican información mediante <strong>embeddings</strong> y principios neuronales. También abordó la <strong>plasticidad, el aprendizaje y los dilemas éticos</strong> asociados a la interacción entre IA y humanos, destacando la responsabilidad de construir sistemas comprensivos y éticos.
 </div>
-
-<br>
-
-> “El desafío es construir una inteligencia artificial que no solo piense, sino que comprenda. Y eso empieza por nosotros.”
 
 <br>
 
 ## Tercera exposición: mente y cambio climático
 
 <div style="text-align: justify;">
-<strong>Cristián Cáceres Núñez</strong> presentó <em>“De la mente al modelo”</em>, explorando la <strong>solastalgia</strong> y la <strong>ecoansiedad</strong>. Utilizó <strong>encuestas georreferenciadas</strong> y métodos estadísticos como <strong>KNN Imputer</strong> para analizar cómo la vulnerabilidad y la resiliencia interactúan frente a desastres, destacando que la solastalgia puede transformarse en <strong>acción solidaria</strong>.
+<strong>Cristián Cáceres Núñez</strong> presentó <em>“De la mente al modelo: aproximaciones predictivas y semisupervisadas para comprender el impacto psicológico del cambio climático”</em>, abordando la <strong>solastalgia</strong> y la <strong>ecoansiedad</strong>.  
+Para el estudio, se utilizaron <strong>encuestas georreferenciadas</strong>, asociadas a <strong>folios espaciales</strong>, y se aplicó el método <strong>KNN Imputer</strong> para manejar datos faltantes.  El caso de <strong>Licantén</strong> ejemplificó cómo, incluso un año después de una inundación, el miedo persiste. Los hallazgos muestran que la solastalgia puede transformarse en <strong>acción solidaria</strong>.
 </div>
 
 <br>
@@ -59,7 +59,7 @@ La <strong>Dra. Rocío Mayol Troncoso</strong> presentó <em>“Rol de las inter
 ## Conversatorio y cierre
 
 <div style="text-align: justify;">
-El seminario concluyó con un <strong>conversatorio</strong> entre expositores y público, generando preguntas, reflexiones y un cierre colaborativo donde se premiaron las intervenciones más destacadas.
+El seminario concluyó con un <strong>conversatorio</strong> donde el público y los expositores intercambiaron preguntas y reflexiones, cerrando la jornada con un ambiente colaborativo. Los participantes más destacados recibieron un obsequio de la organización.
 </div>
 
 <br>
@@ -67,6 +67,6 @@ El seminario concluyó con un <strong>conversatorio</strong> entre expositores y
 ## Reflexión final
 
 <div style="text-align: justify;">
-El seminario <strong>Neuro-IA</strong> mostró que la conexión entre <strong>neurociencia, psicología e inteligencia artificial</strong> no solo amplía el conocimiento, sino que también nos invita a pensar en cómo construir tecnología ética y empática.  
-Personalmente, me quedo con esta idea: <em>“No se trata solo de conectar máquinas con cerebros, sino de conectar conocimiento con empatía.”</em>
+El seminario <strong>Neuro-IA</strong> evidenció que la interacción entre <strong>neurociencia, psicología e inteligencia artificial</strong> amplía nuestro conocimiento y plantea preguntas sobre ética, creatividad y desarrollo tecnológico.  
+Personalmente, me quedo con esta frase: <em>“No se trata solo de conectar máquinas con cerebros, sino de conectar conocimiento con empatía.”</em>
 </div>

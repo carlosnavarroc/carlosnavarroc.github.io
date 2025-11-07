@@ -63,5 +63,5 @@ Estos modelos experimentales permiten explorar los fundamentos biológicos del c
 
 <div style="text-align: justify;">
 El seminario del <strong>SIRC</strong> evidenció el valor de la investigación interdisciplinaria al conectar la biología, la neurociencia y la psicología en torno a un fenómeno tan complejo como el aislamiento social.  
-Los expositores coincidieron en la importancia de promover espacios de diálogo científico que integren distintas escalas de análisis —desde la célula hasta la sociedad— para comprender cómo se configuran nuestras interacciones y vínculos.
+Los expositores coincidieron en la importancia de promover espacios de diálogo científico que integren distintas escalas de análisis, desde la célula hasta la sociedad, para comprender cómo se configuran nuestras interacciones y vínculos.
 </div>

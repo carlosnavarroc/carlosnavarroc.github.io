@@ -13,10 +13,9 @@ excerpt: 'Estudiantes del curso "Laboratorio de Inteligencia Computacional y Rob
 
 <p align="center">
   <p align="center">
-  <img src="/files/proyectos_2025_02_EL5206.png" alt="Los protagonistas de las presentaciones de hoy">
-</p>
+  <img src="/files/proyectos_2025_EL5206_bd01.png" alt="Resumen de la base de datos utilizada"></p>
 <p align="center">
-  <em>Figura 2: Los protagonistas de las presentaciones de hoy.</em>
+  <em>Figura 1: Resumen de la base de datos utilizada.</em>
 </p>
 <div style="text-align: justify;">Las presentaciones comenzaron puntualmente y, al finalizar, entregué retroalimentación personalizada a cada grupo, especialmente orientada a mejorar la claridad y solidez de sus exposiciones. Espero que estos comentarios les sean de utilidad cuando llegue el momento de defender sus memorias de título.</div>
 
@@ -28,4 +27,4 @@ excerpt: 'Estudiantes del curso "Laboratorio de Inteligencia Computacional y Rob
   <em>Figura 2: Los protagonistas de las presentaciones de hoy.</em>
 </p>
 <br>
-<div style="text-align: justify;">Quiero aprovechar la oportunidad para agradecer a los estudiantes que presentaron hoy sus resultados, al cuerpo docente (Matias Carvajal y Francisco Soto) quienes hicieron posible el buen desarrollo del curso, y a mis colegas Jorge Zambrano y Juan Pablo Pérez, con quienes diseñamos esta experiencia. Juntos buscamos actualizar los proyectos del curso y ofrecer a los estudiantes una oportunidad real de explorar el estado del arte en inteligencia artificial.</div>
+<div style="text-align: justify;">Quiero aprovechar la oportunidad para agradecer a los estudiantes que presentaron hoy sus resultados, a Karina Avila, Cynthia Muñoz y al cuerpo docente (Matias Carvajal y Francisco Soto) quienes hicieron posible el buen desarrollo del curso, y a mis colegas Jorge Zambrano y Juan Pablo Pérez, con quienes diseñamos esta experiencia. Juntos buscamos actualizar los proyectos del curso y ofrecer a los estudiantes una oportunidad real de explorar el estado del arte en inteligencia artificial.</div>

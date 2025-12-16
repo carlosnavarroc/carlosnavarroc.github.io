@@ -42,7 +42,7 @@ _One of my greatest passions is teaching. As both my parents are educators, I un
   **Author:** Gonzalo Hernández (DIE–DCC).  [Read Thesis](https://repositorio.uchile.cl/bitstream/handle/2250/199465/Detecci%c3%b3n-y-estimaci%c3%b3n-de-porci%c3%b3n-para-ingredientes.pdf?sequence=1&isAllowed=y)
 
 ## **Evaluator – Department of Medical Technology, Faculty of Medicine, University of Chile**
-- **2026**: *Development of an artificial intelligence algorithm for the evaluation of positioning criteria in digital mammography*
+- **2026**: *Development of an artificial intelligence algorithm for the evaluation of positioning criteria in digital mammography.*  
   **Authors:** Matías Gajardo, Carolina Bavestrello
 - **2025**: *Breast density estimation in T1-weighted MRI using Deep Learning.*  
   **Authors:** Vicente Cajas Barrientos, Sebastián Millar Tordecillas

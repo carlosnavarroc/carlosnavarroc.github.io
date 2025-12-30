@@ -24,11 +24,6 @@ La idea surge a partir del interés por comparar registros históricos con el en
 
 <br>
 
-<p align="center">
-  <img src="/files/2025_delorean_1979.jpg" alt="Figura 1a: Foto original de 1979. Figura 1b Foto actualizada obtenida con la app. Figura 1c: Montaje obtenido con la app" style="max-width:100%; height:auto;">
-</p>
-
-<br>
 
 <div style="text-align: justify;">
 La aplicación está desarrollada en Kotlin y utiliza la librería CameraX para mostrar la cámara en tiempo real. Sobre esta vista se puede cargar una imagen como overlay, la cual puede desplazarse, escalarse mediante gestos multitáctiles y ajustarse en opacidad utilizando un control deslizante. Estas herramientas permiten al usuario alinear visualmente la imagen histórica con el entorno actual antes de capturar la fotografía.
@@ -45,6 +40,13 @@ Uno de los principales desafíos técnicos del proyecto fue asegurar que la imag
 <div style="text-align: justify;">
 Al tomar una fotografía, la aplicación genera dos archivos: la imagen original capturada por la cámara y una imagen combinada que incluye el overlay aplicado con las mismas transformaciones visuales utilizadas en la interfaz. Ambas se guardan directamente en la galería del dispositivo, permitiendo su uso posterior sin procesamiento adicional.
 </div>
+
+<br>
+
+
+<p align="center">
+  <img src="/files/2025_delorean_1979.jpg" alt="Figura 1a: Foto original de 1979. Figura 1b Foto actualizada obtenida con la app. Figura 1c: Montaje obtenido con la app" style="max-width:100%; height:auto;">
+</p>
 
 <br>
 

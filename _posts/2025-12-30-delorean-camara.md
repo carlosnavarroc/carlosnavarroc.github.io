@@ -19,7 +19,7 @@ DeloreanCamara es un proyecto personal desarrollado en Android cuyo objetivo es 
 <br>
 
 <div style="text-align: justify;">
-La idea surge a partir del interés por comparar registros históricos con el entorno actual, utilizando el propio dispositivo móvil como herramienta de alineación visual. Inspirado en el concepto de “volver al pasado”, el nombre DeloreanCamara hace referencia directa al vehículo de la saga Back to the Future, utilizado aquí como metáfora del viaje temporal a través de imágenes.
+La idea surge a partir del interés por comparar registros históricos con el entorno actual, utilizando el propio dispositivo móvil como herramienta de alineación visual. Inspirado en el concepto de “volver al pasado”, el nombre DeloreanCamara hace referencia directa al vehículo de la saga Volver al Futuro, utilizado aquí como metáfora del viaje temporal a través de imágenes.
 </div>
 
 <br>
@@ -27,12 +27,6 @@ La idea surge a partir del interés por comparar registros históricos con el en
 
 <div style="text-align: justify;">
 La aplicación está desarrollada en Kotlin y utiliza la librería CameraX para mostrar la cámara en tiempo real. Sobre esta vista se puede cargar una imagen como overlay, la cual puede desplazarse, escalarse mediante gestos multitáctiles y ajustarse en opacidad utilizando un control deslizante. Estas herramientas permiten al usuario alinear visualmente la imagen histórica con el entorno actual antes de capturar la fotografía.
-</div>
-
-<br>
-
-<div style="text-align: justify;">
-Uno de los principales desafíos técnicos del proyecto fue asegurar que la imagen final guardada coincidiera exactamente con lo que se observa en pantalla. Esto implicó manejar correctamente las diferencias entre el encuadre mostrado por PreviewView y la imagen real capturada por la cámara, así como corregir la orientación mediante metadatos EXIF y mantener un aspect ratio consistente durante todo el flujo.
 </div>
 
 <br>
@@ -46,6 +40,10 @@ Al tomar una fotografía, la aplicación genera dos archivos: la imagen original
 
 <p align="center">
   <img src="/files/2025_delorean_1979.jpg" alt="Figura 1a: Foto original de 1979. Figura 1b Foto actualizada obtenida con la app. Figura 1c: Montaje obtenido con la app" style="max-width:100%; height:auto;">
+
+  <p align="center">
+  <em>Figura 1a: Fotografía original tomada en 1979. Figura 1b: Vista actual del mismo encuadre capturada con la aplicación. Figura 1c: Montaje final que superpone pasado y presente.</em>
+</p>
 </p>
 
 <br>

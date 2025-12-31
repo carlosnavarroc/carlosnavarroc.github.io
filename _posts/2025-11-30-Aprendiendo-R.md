@@ -12,13 +12,13 @@ excerpt: 'Resumen de un curso tomado entre septiembre y noviembre, enfocado en e
 ---
 
 <div style="text-align: justify;">
-El curso se desarrolló completamente en modalidad online y estuvo estructurado en dos grandes etapas: una primera instancia más introductoria y liviana, y una segunda etapa considerablemente más profunda en términos metodológicos. En la primera el trabajo previo fue clave: antes de cada clase se nos compartían cápsulas en video y materiales que debían ser revisados con antelación para asegurar un correcto desarrollo de las sesiones sincrónicas.
+El curso se desarrolló completamente en modalidad online y estuvo estructurado en dos grandes etapas: una primera instancia más introductoria y liviana, y una segunda etapa considerablemente más profunda en términos metodológicos. El trabajo previo fue clave: antes de cada clase se nos compartían cápsulas en video y materiales que debían ser revisados con antelación para asegurar un correcto desarrollo de las sesiones sincrónicas.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
-La primera parte del curso comenzó con la instalación y configuración de R y RStudio, junto con una introducción al entorno de trabajo y a los principios básicos del análisis estadístico en R. A partir de distintas bases de datos real, se abordaron pruebas t y análisis de varianza (ANOVA), aprendiendo a formular contrastes, evaluar supuestos y extraer conclusiones sobre diferencias de medias, varianzas y relaciones entre variables.
+El curso comenzó con la instalación y configuración de R y RStudio, junto con una introducción al entorno de trabajo y a los principios básicos del análisis estadístico en R. A partir de distintas bases de datos real, se abordaron pruebas t y análisis de varianza (ANOVA), aprendiendo a formular contrastes, evaluar supuestos y extraer conclusiones sobre diferencias de medias, varianzas y relaciones entre variables.
 </div>
 
 <br>

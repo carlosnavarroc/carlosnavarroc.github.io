@@ -27,7 +27,12 @@ La primera parte del curso comenzó con la instalación y configuración de R y 
 Posteriormente se trabajó con técnicas de regresión y correlación, profundizando tanto en la interpretación estadística como en la correcta presentación gráfica de los resultados. Esta etapa puso especial énfasis en la visualización como herramienta central para comunicar resultados cuantitativos de manera clara y rigurosa.
 </div>
 
-<br><p align="center"> <img src="/files/cuantitativa.jpg" alt="" style="max-width:100%; height:auto;"> <p align="center"> <em>Figura 1: Una de las clases.</em> </p> </p> <br>
+<br>
+
+<p align="center"> <img src="/files/cuantitativa.jpg" alt="" style="max-width:100%; height:auto;">
+<p align="center"> <em>Figura 1: Una de las clases.</em> </p> </p> 
+
+<br>
 
 <div style="text-align: justify;">
 La segunda etapa del curso correspondió a una introducción a la metodología cuantitativa avanzada, donde se revisaron las grandes áreas del análisis estadístico y su relación entre sí. Se abordaron contrastes de medias y rangos, estimaciones y asociaciones mediante correlaciones y distintos tipos de regresión (simple, múltiple, logística y multinivel). </div>

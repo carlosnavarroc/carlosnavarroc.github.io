@@ -54,5 +54,10 @@ El curso también abordó técnicas de reducción de dimensiones, como el análi
 <div style="text-align: justify;">
 Esta segunda etapa permitió integrar los distintos enfoques en un flujo de análisis combinado, orientado a detectar patrones, reducir la complejidad de los datos y construir modelos predictivos. Más que profundizar en la implementación técnica de cada método, el énfasis estuvo en comprender cuándo y por qué utilizar cada estrategia dentro de un marco metodológico coherente.
 </div>
+<br>
+
 <div style="text-align: justify;">
-Si bien gran parte de los contenidos ya me resultaban familiares por mi formación doctoral, el principal valor del curso estuvo en revisarlos desde una nueva perspectiva: más aplicada, más orientada al uso cotidiano de R y con ejemplos cercanos a contextos biológicos. Fue una buena oportunidad para ordenar conocimientos, actualizar prácticas y reforzar el uso de R como lenguaje común para el análisis estadístico aplicado. Finalmente, quiero agradecer a Rodrigo Vergara, profesor del curso, quien amablemente nos invitó a participar como oyentes y a ser parte de esta instancia formativa. Su estilo de enseñanza, cercano y de lenguaje coloquial, facilita enormemente la comprensión de contenidos que muchas veces pueden resultar lejanos o abstractos, logrando que herramientas y conceptos estadísticos complejos se vuelvan accesibles y aplicables en contextos reales.</div>
+Si bien gran parte de los contenidos ya me resultaban familiares por mi formación doctoral, el principal valor del curso estuvo en revisarlos desde una nueva perspectiva: más aplicada, más orientada al uso cotidiano de R y con ejemplos cercanos a contextos biológicos. Fue una buena oportunidad para ordenar conocimientos, actualizar prácticas y reforzar el uso de R como lenguaje común para el análisis estadístico aplicado. </div>
+<br>
+
+<div style="text-align: justify;">Finalmente, quiero agradecer a Rodrigo Vergara, profesor del curso, quien amablemente nos invitó a participar como oyentes y a ser parte de esta instancia formativa. Su estilo de enseñanza, cercano y de lenguaje coloquial, facilita enormemente la comprensión de contenidos que muchas veces pueden resultar lejanos o abstractos, logrando que herramientas y conceptos estadísticos complejos se vuelvan accesibles y aplicables en contextos reales.</div>

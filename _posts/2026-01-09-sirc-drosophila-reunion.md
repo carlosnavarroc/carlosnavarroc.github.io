@@ -19,7 +19,7 @@ excerpt: 'El centro SIRC participó activamente en la 3ª Reunión de Laboratori
 <br> 
 
 <p align="center">
-  <img src="/files/20260109_161421.jpg" alt="Collage de la participación del SIRC en la 3ª Reunión de Laboratorios de Drosophila melanogaster" style="max-width:100%; height:auto;">
+  <img src="/files/20260109_162103.jpg" alt="Collage de la participación del SIRC en la 3ª Reunión de Laboratorios de Drosophila melanogaster" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">

@@ -18,7 +18,7 @@ excerpt: 'El proyecto AudioBrain, desarrollado por un equipo multidisciplinario 
 <div style="text-align: justify;"> <strong>AudioBrain</strong> es un software desarrollado por un <strong>equipo multidisciplinario</strong> de investigadores en <strong>neurología, otorrinolaringología, neuropsicología e ingeniería</strong> de la Universidad de Chile. Su propuesta se basa en el análisis de <strong>emisiones otoacústicas</strong>, una técnica ampliamente utilizada en la práctica clínica, rápida, objetiva y de bajo costo, que permite estimar patrones asociados al <strong>envejecimiento cerebral</strong>. </div> 
 <br> 
 
-<p align="center"> <img src="/files/20260115_120000.jpg" alt="Collage de la participación AudioBrain en Congreso Futuro" style="max-width:100%; height:auto;"> </p>
+<p align="center"> <img src="/files/20260115-120000.jpg" alt="Collage de la participación AudioBrain en Congreso Futuro" style="max-width:100%; height:auto;"> </p>
 <p align="center"> <em>Collage de la participación AudioBrain en Congreso Futuro 2026.</em> </p>
 <br>
 <div style="text-align: justify;"> Con fines educativos y de investigación, los resultados entregados por AudioBrain pueden representarse de manera general en distintos perfiles: un <strong>perfil favorable</strong>, asociado a patrones auditivos frecuentemente observados en envejecimiento saludable; un <strong>perfil intermedio</strong>, que invita al seguimiento y al cuidado auditivo; y un <strong>perfil desfavorable</strong>, cuyos patrones han sido vinculados en investigación a indicadores de mayor envejecimiento cerebral. Es importante destacar que AudioBrain <strong>no constituye un diagnóstico clínico individual</strong>, sino una herramienta de apoyo para la investigación y la detección temprana. </div> 

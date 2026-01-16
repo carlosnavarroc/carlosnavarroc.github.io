@@ -122,6 +122,6 @@ Besides professional activities in engineering, other interests and hobbies incl
 
 - [Photography:](https://tinyurl.com/CNC-Fotografia) capturing moments and scenes.
 - [Cooking:](https://www.caldostrong.com/search/label/cocinando-con-caldo)  experimenting with recipes and flavors.
-- [Astronomy:](https://www.caldostrong.com/search/label/astronomia) exploring the night sky and stars.
+- [Astronomy:](https://carlosnavarroc.github.io/posts/2022/11/10/veintinueve-dias-y-medio/) exploring the night sky and stars.
 - [Cultural Documentation:](https://www.caldostrong.com/search/label/cultura) capturing cultural heritage through photography, focusing on museums, architecture, and heritage events like Día de los Patrimonios. Though not a formal expert, I engage passionately with Chilean culture, enriching my perspective beyond my technical work.
 

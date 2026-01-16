@@ -65,11 +65,13 @@ Las siguientes imágenes fueron registradas entre el 26 y el 31 de octubre de 20
 
 <br>
 <p align="center">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/01-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/02-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/03-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/04-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/05-Copiar.jpg" style="width: 18%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/01-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/02-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/03-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/04-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/05-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/06-Copiar.jpg" style="width: 15%; height: auto;">
+
 </p>
 <p align="center">
   <em>Figura 4: Evolución de la Luna desde luna nueva a cuarto creciente.</em>
@@ -82,10 +84,13 @@ Entre los días 7 y 14 se observa el tránsito desde el cuarto creciente hasta l
 
 <br>
 <p align="center">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/07-Copiar.jpg" style="width: 22%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/08-Copiar.jpg" style="width: 22%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/09-Copiar.jpg" style="width: 22%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/11-Copiar.jpg" style="width: 22%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/07-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/08-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/09-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/11-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/12-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/13-Copiar.jpg" style="width: 15%; height: auto;">
+
 </p>
 <p align="center">
   <em>Figura 5: Aproximación progresiva a la luna llena.</em>
@@ -112,11 +117,12 @@ Tras la luna llena, la fracción iluminada del disco lunar comienza a decrecer g
 
 <br>
 <p align="center">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/16-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/17-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/18-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/19-Copiar.jpg" style="width: 18%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/20-Copiar.jpg" style="width: 18%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/16-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/17-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/18-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/19-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/20-Copiar.jpg" style="width: 15%; height: auto;">
+
 </p>
 <p align="center">
   <em>Figura 7: Evolución de la Luna durante la fase gibosa menguante.</em>
@@ -129,10 +135,12 @@ Alrededor del vigésimo primer día del ciclo sinódico se alcanza la fase de cu
 
 <br>
 <p align="center">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/22-Copiar.jpg" style="width: 22%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/24-Copiar.jpg" style="width: 22%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/25-Copiar.jpg" style="width: 22%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/26-Copiar.jpg" style="width: 22%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/22-Copiar.jpg" style="width: 15%; height: auto;">  
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/24-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/25-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/26-Copiar.jpg" style="width: 15%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/27-Copiar.jpg" style="width: 15%; height: auto;">
+
 </p>
 <p align="center">
   <em>Figura 8: Tránsito desde el cuarto menguante hacia la luna nueva.</em>
@@ -145,8 +153,8 @@ Durante el mismo período de observación fue posible registrar otros cuerpos de
 
 <br>
 <p align="center">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/image.png" style="width: 35%; height: auto;">
-  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/image-2.png" style="width: 35%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/image.png" style="width: 29%; height: auto;">
+  <img src="https://www.caldostrong.com/wp-content/uploads/2022/11/image-2.png" style="width: 50.67%; height: auto;">
 </p>
 <p align="center">
   <em>Figura 9: Observaciones de Júpiter.</em>

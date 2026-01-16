@@ -1,6 +1,6 @@
 ---
 title: "La eclíptica como herramienta para la identificación de planetas"
-date: 2024-11-XX
+date: 2024-11-07
 permalink: /posts/2024/11/ecliptica/
 tags:
   - Astronomía

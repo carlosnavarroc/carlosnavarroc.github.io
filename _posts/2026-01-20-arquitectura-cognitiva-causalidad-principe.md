@@ -41,7 +41,7 @@ En la vía ventral de la arquitectura, el procesamiento sensorial se modela medi
 <br>
 
 <div style="text-align: justify;">
-La arquitectura es <strong>multicapa y homogénea</strong>, con distintos niveles espaciales y temporales generados mediante <em>pooling</em>. El aprendizaje se realiza de forma voraz, capa por capa, permitiendo la auto-organización progresiva de representaciones e invariancias similares a los campos receptivos observados en sistemas biológicos.
+La arquitectura es <strong>multicapa y homogénea</strong>, con distintos niveles espaciales y temporales generados mediante <em>pooling</em>. El aprendizaje se realiza capa por capa, permitiendo la auto-organización progresiva de representaciones e invariancias similares a los campos receptivos observados en sistemas biológicos.
 </div>
 <br>
 
@@ -81,7 +81,8 @@ A modo de cierre, la charla del Prof. Príncipe refuerza la idea de que avanzar 
 <br>
 
 <div style="text-align: justify;">
-Entre estos desafíos se encuentran la <strong>extracción de eventos a partir del flujo temporal continuo</strong>, el desarrollo de nuevas arquitecturas de memoria y la necesidad de métodos de aprendizaje por refuerzo más eficientes para operar en tiempo real. Aun así, este enfoque sugiere que comprender el mundo, y no solo reconocer patrones, es una meta alcanzable cuando la ingeniería se nutre profundamente de la neurociencia.
+Entre estos desafíos se encuentran la <strong>extracción de eventos a partir del flujo temporal continuo</strong>, el desarrollo de nuevas arquitecturas de memoria y la necesidad de métodos de aprendizaje por refuerzo más eficientes para operar en tiempo real. Aun así, este enfoque sugiere que comprender el mundo, y no solo reconocer patrones, es una meta alcanzable cuando la ingeniería se nutre profundamente de la neurociencia. La sesión finalizó con preguntas orientadas a la escalabilidad de la arquitectura hacia juegos de mayor complejidad, sus restricciones en tiempo real y su potencial aplicación en el procesamiento y análisis de imágenes médicas.
+
 </div>
 <br>
 

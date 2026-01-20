@@ -66,7 +66,7 @@ Al incorporar el Canvas, el agente puede <strong>focalizar el aprendizaje por re
 <br>
 
 <div style="text-align: justify;">
-Para determinar qué objetos son relevantes, la arquitectura introduce explícitamente el <strong>aprendizaje basado en causalidad</strong>. En lugar de utilizar información mutua, se emplea el concepto de <strong>información dirigida</strong>, siguiendo los trabajos de Wiener, Granger y Massey, con el fin de estimar la dirección del flujo causal entre las trayectorias de los objetos y las señales de recompensa.
+Para determinar qué objetos son relevantes, la arquitectura introduce explícitamente el <strong>aprendizaje basado en causalidad</strong>. En lugar de utilizar información mutua, se emplea el concepto de <strong>información dirigida</strong>, siguiendo los trabajos de Massey, con el fin de estimar la dirección del flujo causal entre las trayectorias de los objetos y las señales de recompensa.
 </div>
 <br>
 

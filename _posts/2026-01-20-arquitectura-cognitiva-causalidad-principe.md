@@ -74,15 +74,13 @@ Para determinar qué objetos son relevantes, la arquitectura introduce explícit
 El trabajo presenta además un <strong>estimador no paramétrico de información dirigida</strong> basado en la entropía de Rényi. Experimentos en distintos entornos muestran que la arquitectura identifica eficazmente los objetos relevantes, superando a métodos de <em>deep reinforcement learning</em> en velocidad de entrenamiento y desempeño en transferencia.
 </div>
 <br>
-
 <div style="text-align: justify;">
-A modo de cierre, la charla del Prof. Príncipe refuerza la idea de que avanzar hacia sistemas de visión verdaderamente autónomos requiere <strong>integrar principios biológicos en el diseño de arquitecturas artificiales</strong>. La combinación de codificación predictiva, memoria, atención, causalidad y aprendizaje por refuerzo ofrece un camino prometedor, aunque aún con desafíos abiertos.
+A modo de cierre, la charla del Prof. Príncipe refuerza la idea de que avanzar hacia sistemas de visión verdaderamente autónomos requiere <strong>integrar principios biológicos en el diseño de arquitecturas artificiales</strong>. La combinación de codificación predictiva, memoria, atención, causalidad y aprendizaje por refuerzo emerge como un enfoque prometedor para superar las limitaciones actuales de la visión computacional.
 </div>
 <br>
 
 <div style="text-align: justify;">
-Entre estos desafíos se encuentran la <strong>extracción de eventos a partir del flujo temporal continuo</strong>, el desarrollo de nuevas arquitecturas de memoria y la necesidad de métodos de aprendizaje por refuerzo más eficientes para operar en tiempo real. Aun así, este enfoque sugiere que comprender el mundo, y no solo reconocer patrones, es una meta alcanzable cuando la ingeniería se nutre profundamente de la neurociencia. La sesión finalizó con preguntas orientadas a la escalabilidad de la arquitectura hacia juegos de mayor complejidad, sus restricciones en tiempo real y su potencial aplicación en el procesamiento y análisis de imágenes médicas.
-
+Entre los principales desafíos abiertos se encuentran la <strong>extracción de eventos a partir del flujo temporal continuo</strong>, el desarrollo de nuevas arquitecturas de memoria y la necesidad de métodos de aprendizaje por refuerzo más eficientes para operar en tiempo real. Estas preguntas motivaron una activa discusión final, orientada a la escalabilidad de la arquitectura hacia juegos de mayor complejidad y a su posible aplicación en dominios exigentes, como el análisis de imágenes médicas.
 </div>
 <br>
 

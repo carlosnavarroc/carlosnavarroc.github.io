@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-ES"
 title                    : "Carlos Felipe Navarro Clavería"
 title_separator          : "-"
 name                     : &name "Carlos Felipe Navarro Clavería"
-description              : &description "Ph.D. and Electrical Civil Engineer"
+description              : &description "Ph.D. in Electrical Engineering. Researcher and software developer working on cognitive systems, data science and AI."
 URL                      : "https://carlosnavarroc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carlosnavarroc/carlosnavarroc.github.io"

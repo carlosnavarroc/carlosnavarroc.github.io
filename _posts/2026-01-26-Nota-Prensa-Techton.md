@@ -31,6 +31,20 @@ Entre los participantes se encontraron <strong>Barbarita Lara</strong>, reconoci
 La recaudación obtenida durante TechTon fue destinada íntegramente a <strong>Bomberos de Chile</strong>. El monto final alcanzó los <strong>$4,4 millones de pesos chilenos</strong>, y los organizadores informaron que durante esta semana se compartirán los <strong>comprobantes de transferencia</strong> correspondientes a las donaciones realizadas.
 </div>
 <br>
+
+<div style="text-align: justify;">
+<strong>Registro audiovisual de las jornadas:</strong><br>
+<strong>Día 1:</strong>
+<a href="https://www.twitch.tv/videos/2678664467" target="_blank" rel="noopener noreferrer">
+https://www.twitch.tv/videos/2678664467
+</a><br>
+<strong>Día 2:</strong>
+<a href="https://www.twitch.tv/videos/2678140159" target="_blank" rel="noopener noreferrer">
+https://www.twitch.tv/videos/2678140159
+</a>
+</div>
+
+<br>
 <div style="text-align: justify;">
 TechTon refleja la <strong>capacidad de autoorganización, coordinación y respuesta rápida del ecosistema digital</strong> frente a una contingencia nacional, demostrando el rol clave que pueden cumplir las comunidades tecnológicas cuando ponen sus conocimientos y redes al servicio del bien común.
 </div>

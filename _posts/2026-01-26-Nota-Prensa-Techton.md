@@ -24,7 +24,7 @@ El evento reunió a especialistas en <strong>tecnología, ciencia e innovación<
 </div>
 <br>
 <div style="text-align: justify;">
-Entre los participantes destacados se encontraron <strong>Barbarita Lara</strong>, reconocida por su trabajo en innovación tecnológica para emergencias; <strong>Ramiro Berrelleza</strong>, referente en emprendimiento tecnológico; y <strong>Miguel Ángel Durán (Midu)</strong>, uno de los principales divulgadores tecnológicos del mundo hispanohablante, quien hizo un llamado a aportar no solo con donaciones, sino también con tiempo, conocimientos y trabajo concreto desde la tecnología.
+Entre los participantes se encontraron <strong>Barbarita Lara</strong>, reconocida por su trabajo en innovación tecnológica para emergencias; <strong>Ramiro Berrelleza</strong>, referente en emprendimiento tecnológico; y <strong>Miguel Ángel Durán (Midu)</strong>, uno de los principales divulgadores tecnológicos del mundo hispanohablante, quien hizo un llamado a aportar no solo con donaciones, sino también con tiempo, conocimientos y trabajo concreto desde la tecnología.
 </div>
 <br>
 <div style="text-align: justify;">

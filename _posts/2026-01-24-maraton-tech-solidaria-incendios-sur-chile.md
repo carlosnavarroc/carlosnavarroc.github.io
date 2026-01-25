@@ -18,12 +18,12 @@ En el contexto de los incendios que afectaron al sur de Chile en enero de 2026, 
 
 <br>
 <div style="text-align: justify;">
-Esta iniciativa contó además con el apoyo de <strong>CommunityOS</strong> (<a href="https://communityos.io/" target="_blank" rel="noopener noreferrer">communityos.io</a>), una plataforma que impulsa hackatones y espacios de colaboración para <strong>potenciar el talento que liderará las transformaciones y el crecimiento de la región</strong>, amplificando el impacto de las <strong>comunidades tecnológicas</strong> y su rol en desafíos sociales reales.
+Esta iniciativa fue impulsada y coordinada por Cecy Geraldo y Mari Lau, y contó además con el apoyo de <strong>CommunityOS</strong> (<a href="https://communityos.io/" target="_blank" rel="noopener noreferrer">communityos.io</a>), una plataforma que impulsa hackatones y espacios de colaboración para <strong>potenciar el talento que liderará las transformaciones y el crecimiento de la región</strong>, amplificando el impacto de las <strong>comunidades tecnológicas</strong> y su rol en desafíos sociales reales.
 </div>
 
 <br>
 <div style="text-align: justify;">
-La iniciativa fue impulsada y coordinada por Cecy Geraldo y Mari Lau, y durante la primera jornada conocimos iniciativas clave como <strong>animalesperdidos.cl</strong>, plataforma que conecta mascotas encontradas con sus familias, y <strong>coordina.cl</strong>, que busca centralizar información sobre centros de acopio y ayuda. A lo largo de toda la jornada se hizo un llamado potente a contribuir no solo con dinero, sino también con <strong>tiempo, habilidades y trabajo concreto desde la tecnología</strong>.
+Durante la primera jornada conocimos iniciativas clave como <strong>animalesperdidos.cl</strong>, plataforma que conecta mascotas encontradas con sus familias, y <strong>coordina.cl</strong>, que busca centralizar información sobre centros de acopio y ayuda. A lo largo de toda la jornada se hizo un llamado potente a contribuir no solo con dinero, sino también con <strong>tiempo, habilidades y trabajo concreto desde la tecnología</strong>.
 </div>
 <br>
 <div style="text-align: justify;">

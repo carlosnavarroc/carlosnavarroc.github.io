@@ -43,8 +43,14 @@ Gracias a este esfuerzo colectivo, se logró recaudar aproximadamente <strong>$4
 <br>
 <div style="text-align: justify;">
 Las jornadas quedaron registradas y pueden revisarse acá:<br>
-<strong>Día 1:</strong> https://www.youtube.com/watch?v=kVL4icm8TzI<br>
-<strong>Día 2:</strong> https://www.youtube.com/live/42HrPrz4byI
+<strong>Día 1:</strong>
+<a href="https://www.youtube.com/watch?v=kVL4icm8TzI" target="_blank" rel="noopener noreferrer">
+https://www.youtube.com/watch?v=kVL4icm8TzI
+</a><br>
+<strong>Día 2:</strong>
+<a href="https://www.youtube.com/live/42HrPrz4byI" target="_blank" rel="noopener noreferrer">
+https://www.youtube.com/live/42HrPrz4byI
+</a>
 </div>
 <br>
 <div style="text-align: justify;">

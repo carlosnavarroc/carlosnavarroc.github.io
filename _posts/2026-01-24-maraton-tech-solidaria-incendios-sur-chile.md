@@ -23,7 +23,7 @@ Esta iniciativa contó además con el apoyo de <strong>CommunityOS</strong> (<a 
 
 <br>
 <div style="text-align: justify;">
-Durante la primera jornada conocimos iniciativas clave como <strong>animalesperdidos.cl</strong>, plataforma que conecta mascotas encontradas con sus familias, y <strong>coordina.cl</strong>, que busca centralizar información sobre centros de acopio y ayuda. A lo largo de toda la jornada se hizo un llamado potente a contribuir no solo con dinero, sino también con <strong>tiempo, habilidades y trabajo concreto desde la tecnología</strong>.
+La iniciativa fue impulsada y coordinada por Cecy Geraldo y Mari Lau, y durante la primera jornada conocimos iniciativas clave como <strong>animalesperdidos.cl</strong>, plataforma que conecta mascotas encontradas con sus familias, y <strong>coordina.cl</strong>, que busca centralizar información sobre centros de acopio y ayuda. A lo largo de toda la jornada se hizo un llamado potente a contribuir no solo con dinero, sino también con <strong>tiempo, habilidades y trabajo concreto desde la tecnología</strong>.
 </div>
 <br>
 <div style="text-align: justify;">

@@ -21,7 +21,8 @@ excerpt: "A cinco años del publirreportaje del Diario Financiero sobre automati
 <br>
 
 <div style="text-align: justify;">
-En abril de 2021, el <strong>Diario Financiero</strong> publicó un publirreportaje sobre el avance de la <strong>automatización industrial</strong> y la promesa de nuevas tecnologías digitales para habilitar modelos de <strong>operación remota</strong>, mayor eficiencia productiva y una toma de decisiones basada en datos. En ese momento, el foco estaba puesto en la convergencia tecnológica y en el potencial de redes como el 5G para transformar la industria.
+
+  En abril de 2021, junto a Juan José Negroni Vera, abordamos la automatización industrial, la operación remota y el potencial del 5G para transformar la industria, en un publirreportaje de la Universidad Santo Tomás (CL) publicado en <strong>Diario Financiero</strong>.
 </div>
 <br>
 <div style="text-align: justify;">

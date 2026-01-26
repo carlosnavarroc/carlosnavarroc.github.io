@@ -22,7 +22,7 @@ excerpt: "A cinco años del publirreportaje del Diario Financiero sobre automati
 
 <div style="text-align: justify;">
 
-  En abril de 2021, junto a Juan José Negroni Vera, abordamos la automatización industrial, la operación remota y el potencial del 5G para transformar la industria, en un publirreportaje de la Universidad Santo Tomás (CL) publicado en <strong>Diario Financiero</strong>.
+  En abril de 2021, junto a Juan José Negroni Vera, abordamos la automatización industrial, la operación remota y el potencial del 5G para transformar la industria, en un publirreportaje de la Universidad Santo Tomás publicado en <strong>Diario Financiero</strong>.
 </div>
 <br>
 <div style="text-align: justify;">

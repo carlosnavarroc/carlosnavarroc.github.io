@@ -16,7 +16,7 @@ excerpt: 'TechTon fue una maratón solidaria online de más de 20 horas que reun
 </div>
 <br>
 <div style="text-align: justify;">
-La iniciativa fue impulsada y coordinada por <strong>Cecy Geraldo</strong> y <strong>María Laura Jaramillo</strong>, junto a <strong>Fabian Arismendi</strong> y <strong>Phillippa Perez</strong>, en colaboración con comunidades tecnológicas y científicas de Chile y Latinoamérica, y con el apoyo de <strong>CommunityOS</strong> (<a href="https://communityos.io/" target="_blank" rel="noopener noreferrer">communityos.io</a>), plataforma de articulación de comunidades digitales.
+La iniciativa fue impulsada y coordinada por <strong>Cecy Geraldo</strong> y <strong>María Laura Jaramillo</strong>, junto a <strong>Fabian Arismendi</strong> y <strong>Pillippa Perez</strong>, en colaboración con comunidades tecnológicas y científicas de Chile y Latinoamérica, y con el apoyo de <strong>CommunityOS</strong> (<a href="https://communityos.io/" target="_blank" rel="noopener noreferrer">communityos.io</a>), plataforma de articulación de comunidades digitales.
 </div>
 <br>
 <div style="text-align: justify;">

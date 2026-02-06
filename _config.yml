@@ -245,6 +245,52 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sitemap: true
+
+  - scope:
+      path: "archive-layout-with-content"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "markdown"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "non-menu-page"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "page-archive"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "collection-archive"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "year-archive"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "categories"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "tags"
+    values:
+      sitemap: false
 
 # Sass/SCSS
 sass:

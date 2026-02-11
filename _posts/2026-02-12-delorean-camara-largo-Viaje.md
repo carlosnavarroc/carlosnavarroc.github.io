@@ -63,17 +63,19 @@ Desde una perspectiva metodológica, el ejercicio se inscribe en una lógica com
 
 <br>
 
-<div style="text-align: justify;">
-El registro audiovisual correspondiente a esta prueba se encuentra disponible en:
-</div>
-
-<br>
+<center>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/U_-SaS4_4ak" 
+  title="Prueba de DeloreanCamara utilizando frames de la película Largo viaje" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+  </iframe>
+</center>
 
 <p align="center">
-  <a href="https://youtu.be/U_-SaS4_4ak">
-    Prueba de DeloreanCamara utilizando frames de la película Largo viaje
-  </a>
+  <em>Registro comparativo realizado con DeloreanCamara a partir de fotogramas de <span style="font-style: italic;">Largo viaje</span> (1967).</em>
 </p>
+
 
 <br>
 

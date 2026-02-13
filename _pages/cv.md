@@ -27,8 +27,8 @@ Data Scientist and Electrical Engineer with over 15 years of experience in machi
 
 ## Data Scientist  
 **Faculty of Medicine, University of Chile**  
-Neurosystems, SCIANLab & AudioBrain  
-*September 2019 – August 2025*  
+Neurosystems, SCIANLab, AudioBrain & Tech4Medics Lab
+*September 2019 – January 2026*  
 
 - Applied machine learning, signal processing, and computer vision to biomedical and cognitive health challenges.  
 - Led development of spectral analysis and predictive models on EEG data for postoperative risk assessment.  
@@ -36,8 +36,7 @@ Neurosystems, SCIANLab & AudioBrain
 - Developed RaViTT, a Vision Transformer model for biomedical image classification.  
 - Engineered deep learning solutions for 3D nuclei segmentation, achieving second place in a competitive challenge.  
 - Co-created VolumePeeler, a FIJI plugin for enhanced 3D image visualization.  
-- Designed audiological tests for early detection of cognitive decline.  
-- Contributed data analysis for a national social isolation study post-pandemic.  
+- Designed audiological tests for early detection of cognitive decline and contributed data analysis for a national social isolation study post-pandemic.  
 
 *Technologies & Tools:* Python, R, MATLAB, TensorFlow, Keras, Scikit-learn, OpenCV, EEG analysis, Deep Learning, Transformers, Data Visualization.
 

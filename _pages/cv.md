@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "CARLOS FELIPE NAVARRO CLAVERIA"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: false
 sitemap: true
 
 ---
+# **CARLOS FELIPE NAVARRO CLAVERIA**
 
 {% include base_path %}
 <img src="https://carlosnavarroc.github.io/images/profile_2025.jpg" width="150" height="150" />

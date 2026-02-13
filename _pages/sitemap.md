@@ -7,31 +7,42 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A list of all the posts and pages found on the site. For you robots out there, an [XML version]({{ base_path }}/sitemap.xml) is also available.
 
 <h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
+<ul>
+{% for page in site.pages %}
+  {% if page.title and page.sitemap != false and page.url != "/404.html" and page.url != "/sitemap/" %}
+    <li>
+      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+    </li>
+  {% endif %}
 {% endfor %}
+</ul>
 
 <h2>Posts</h2>
+<ul>
 {% for post in site.posts %}
-  {% include archive-single.html %}
+  {% if post.sitemap != false %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>({{ post.date | date: "%Y-%m-%d" }})</small>
+    </li>
+  {% endif %}
 {% endfor %}
-
-{% capture written_label %}'None'{% endcapture %}
+</ul>
 
 {% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
+    <h2>{{ collection.label | capitalize }}</h2>
+    <ul>
+    {% for doc in collection.docs %}
+      {% if doc.sitemap != false %}
+        <li>
+          <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
   {% endunless %}
-{% endfor %}
 {% endfor %}

@@ -1,3 +1,4 @@
+---
 sitemap: false
 ---
 # Jupyter notebook markdown generator

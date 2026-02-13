@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 sitemap: true
 ---
-# Teaching
-
 - **Institutions:** University of Chile, Universidad Santo Tomás, Universidad Andrés Bello  
 - **Position:** Lecturer / Professor  
 - **Duration:** 2015 – Present  

@@ -3,6 +3,8 @@ layout: archive
 title: "CARLOS FELIPE NAVARRO CLAVERIA"
 permalink: /cv/
 author_profile: false
+sitemap: true
+
 ---
 
 {% include base_path %}

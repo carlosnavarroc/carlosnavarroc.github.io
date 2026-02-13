@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Resume"
 permalink: /cv/
 author_profile: false
 sitemap: true
@@ -9,7 +9,7 @@ sitemap: true
 # **CARLOS FELIPE NAVARRO CLAVERIA**
 
 {% include base_path %}
-<img src="https://carlosnavarroc.github.io/images/profile_2025.jpg" width="150" height="150" />
+<img src="https://carlosnavarroc.github.io/images/profile_2025.jpg" width="120" height="120" />
 
 **Email**: carlosnavarroc@uchile.cl  
 **Phone**: +569 9445 9922  

@@ -3,13 +3,13 @@ layout: archive
 title: ""
 permalink: /resume/
 author_profile: true
-title: "Resume"
+title: "Experience"
 
 ---
 
 {% include base_path %}
 
-# Experience
+
 
 ## Data Scientist | Faculty of Medicine, University of Chile  
 **[Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/), [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) & [AudioBrain](https://dpoae.scian.cl/)**  

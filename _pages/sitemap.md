@@ -2,13 +2,9 @@
 layout: single
 title: "Sitemap"
 permalink: /sitemap/
-author_profile: true
 ---
-
-{% include base_path %}
-
-A list of all the posts and pages found on the site. For robots, an [XML version]({{ base_path }}/sitemap.xml) is also available.
-
+<h1>Sitemap</h1>
+<p>A list of all the posts and pages found on the site. For robots, an <a href="{{ "/sitemap.xml" | relative_url }}">XML version</a> is also available.</p>
 
 <h2>Pages</h2>
 <ul>
@@ -29,7 +25,6 @@ A list of all the posts and pages found on the site. For robots, an [XML version
 </ul>
 
 {% assign ignored_collections = "posts" | split: "," %}
-
 {% for collection in site.collections %}
   {% unless ignored_collections contains collection.label or collection.output == false %}
     {% assign collection_docs = collection.docs | where_exp: "doc", "doc.sitemap != false" %}

@@ -30,14 +30,11 @@ Data Scientist and Electrical Engineer with over 15 years of experience in machi
 Neurosystems, SCIANLab, AudioBrain & Tech4Medics Lab
 *September 2019 – January 2026*  
 
-- Applied machine learning, signal processing, and computer vision to biomedical and cognitive health challenges.  
-- Led development of spectral analysis and predictive models on EEG data for postoperative risk assessment.  
+- Applied machine learning, signal processing, and computer vision to biomedical and cognitive health challenges.
+- Developed predictive models and spectral analysis of EEG data for postoperative risk assessment.  
 - Built automated glaucoma diagnosis pipelines using chromatic pupilometry and machine learning.  
-- Developed RaViTT, a Vision Transformer model for biomedical image classification.  
-- Engineered deep learning solutions for 3D nuclei segmentation, achieving second place in a competitive challenge.  
-- Co-created VolumePeeler, a FIJI plugin for enhanced 3D image visualization.  
-- Designed audiological tests for early detection of cognitive decline and contributed data analysis for a national social isolation study post-pandemic.  
-
+- Developed RaViTT, a Vision Transformer model for biomedical image classification, and created deep learning solutions for 3D nuclei segmentation (2nd place in competition) along with the VolumePeeler FIJI plugin for enhanced 3D visualization. 
+- Designed audiological tests for early detection of cognitive decline and contributed data analysis to a national post-pandemic social isolation study.
 *Technologies & Tools:* Python, R, MATLAB, TensorFlow, Keras, Scikit-learn, OpenCV, EEG analysis, Deep Learning, Transformers, Data Visualization.
 
 ---

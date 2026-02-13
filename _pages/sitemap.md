@@ -9,16 +9,12 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For robots, an [XML version]({{ base_path }}/sitemap.xml) is also available.
 
+
 <h2>Pages</h2>
 <ul>
 {% for page in site.pages %}
-  {% if page.title 
-        and page.sitemap != false 
-        and page.url != "/404.html"
-        and page.url != "/sitemap/" %}
-    <li>
-      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-    </li>
+  {% if page.title and page.sitemap != false and page.url != "/404.html" and page.url != "/sitemap/" %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -27,10 +23,7 @@ A list of all the posts and pages found on the site. For robots, an [XML version
 <ul>
 {% for post in site.posts %}
   {% if post.sitemap != false %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>({{ post.date | date: "%Y-%m-%d" }})</small>
-    </li>
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -44,9 +37,7 @@ A list of all the posts and pages found on the site. For robots, an [XML version
       <h2>{{ collection.label | capitalize }}</h2>
       <ul>
       {% for doc in collection_docs %}
-        <li>
-          <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
-        </li>
+        <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></li>
       {% endfor %}
       </ul>
     {% endif %}

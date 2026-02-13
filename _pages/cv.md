@@ -35,6 +35,7 @@ Neurosystems, SCIANLab, AudioBrain & Tech4Medics Lab
 - Built automated glaucoma diagnosis pipelines using chromatic pupilometry and machine learning.  
 - Developed RaViTT, a Vision Transformer model for biomedical image classification, and created deep learning solutions for 3D nuclei segmentation (2nd place in competition) along with the VolumePeeler FIJI plugin for enhanced 3D visualization. 
 - Designed audiological tests for early detection of cognitive decline and contributed data analysis to a national post-pandemic social isolation study.
+  
 *Technologies & Tools:* Python, R, MATLAB, TensorFlow, Keras, Scikit-learn, OpenCV, EEG analysis, Deep Learning, Transformers, Data Visualization.
 
 ---

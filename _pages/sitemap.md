@@ -2,9 +2,12 @@
 layout: single
 title: "Sitemap"
 permalink: /sitemap/
+author_profile: true
 ---
-<h1>Sitemap</h1>
-<p>A list of all the posts and pages found on the site. For robots, an <a href="{{ "/sitemap.xml" | relative_url }}">XML version</a> is also available.</p>
+
+{% include base_path %}
+
+A list of all the posts and pages found on the site. For robots, an [XML version]({{ base_path }}/sitemap.xml) is also available.
 
 <h2>Pages</h2>
 <ul>
@@ -25,15 +28,16 @@ permalink: /sitemap/
 </ul>
 
 {% assign ignored_collections = "posts" | split: "," %}
+
 {% for collection in site.collections %}
   {% unless ignored_collections contains collection.label or collection.output == false %}
-    {% assign collection_docs = collection.docs | where_exp: "doc", "doc.sitemap != false" %}
-    {% if collection_docs.size > 0 %}
+    {% assign docs_to_show = collection.docs | where_exp: "doc", "doc.sitemap != false" %}
+    {% if docs_to_show.size > 0 %}
       <h2>{{ collection.label | capitalize }}</h2>
       <ul>
-      {% for doc in collection_docs %}
-        <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></li>
-      {% endfor %}
+        {% for doc in docs_to_show %}
+          <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></li>
+        {% endfor %}
       </ul>
     {% endif %}
   {% endunless %}

@@ -1,0 +1,54 @@
+---
+layout: single
+title: "Sitemap"
+permalink: /sitemap.html
+sitemap: false
+
+---
+<h2>Páginas</h2>
+<ul>
+{% for page in site.pages %}
+  {% if page.title 
+        and page.sitemap != false
+        and page.url != "/404.html"
+        and page.url != "/sitemap/"
+        and page.url != "/tags/"
+        and page.url != "/categories/"
+        and page.url != "/talkmap/"
+        and page.url != "/markdown/"
+        and page.url != "/page-archive/"
+        and page.url != "/posts/"
+        and page.url != "/collections/"
+        and page.url != "/jupyter-notebook-markdown-generator/" %}
+        
+        <li>
+          <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+        </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+<h2>Blog Posts</h2>
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <small>({{ post.date | date: "%Y-%m-%d" }})</small>
+  </li>
+{% endfor %}
+</ul>
+
+
+{% assign real_publications = site.publications | where_exp: "item", "item.title != 'Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago'" %}
+
+{% if real_publications.size > 0 %}
+<h2>Publications</h2>
+<ul>
+{% for pub in real_publications %}
+  <li>
+    <a href="{{ pub.url | relative_url }}">{{ pub.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+{% endif %}

@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /resume/
 author_profile: true
+title: "Resume"
 
 ---
 

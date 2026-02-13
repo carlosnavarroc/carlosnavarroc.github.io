@@ -1,3 +1,13 @@
+# Disable theme-generated sitemap page
+minimal_mistakes_skin: "default"
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sitemap: false
+
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values

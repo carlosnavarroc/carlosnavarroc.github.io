@@ -247,12 +247,6 @@ defaults:
       share: true
   
   - scope:
-      path: ""
-      type: pages
-    values:
-      sitemap: true
-
-  - scope:
       path: "archive-layout-with-content"
     values:
       sitemap: false

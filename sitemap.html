@@ -10,7 +10,6 @@ sitemap: false
 {% for page in site.pages %}
   {% if page.title 
         and page.sitemap != false
-        and page.layout != "archive"
         and page.url != "/404.html"
         and page.url != "/sitemap/"
         and page.url != "/tags/"

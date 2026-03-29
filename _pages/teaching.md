@@ -7,7 +7,7 @@ sitemap: true
 ---
 - **Positions:** Assistant Professor (Universidad Santo Tomás, Universidad Andrés Bello); Lecturer (Universidad de Chile, Universidad del Desarrollo)  
 - **Duration:** 2015 – Present
-_Teaching is one of my main professional interests. Coming from a family of educators, I deeply value both the challenges and rewards of engaging students in the learning process._  
+Teaching is one of my main professional interests. Coming from a family of educators, I deeply value both the challenges and rewards of engaging students in the learning process.  
 Over the years, I have taught a wide range of courses, from foundational subjects such as mathematics and physics to specialized topics in electrical engineering, including [image processing](https://tinyurl.com/Clases-CNC-Imagenes) and [related laboratory work](https://www.die.cl/academicos-jornada-parcial/).
 
 # Thesis Supervision and Committee Participation
@@ -49,7 +49,7 @@ Over the years, I have taught a wide range of courses, from foundational subject
 - **2023**: *"Quantification of vascular calcifications in breast tomosynthesis using AI."*  
   **Authors:** Constanza Ramírez, Marcelo Flores
 
-## Internship Supervision – SCIANLab (University of Chile)
+## **Internship Supervision – SCIANLab (University of Chile)**
 
 - **2024**  
   - *Matías Carvajal Pérez (DIE)* – "Measurement of membrane force exerted by a cell"

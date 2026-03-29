@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 sitemap: true
 ---
-- **Institutions:** University of Chile, Universidad Santo Tomás, Universidad Andrés Bello  
+- **Institutions:** University of Chile, Universidad Santo Tomás, Universidad Andrés Bello, Universidad del Desarrollo.  
 - **Position:** Lecturer / Professor  
 - **Duration:** 2015 – Present  
 _One of my greatest passions is teaching. As both my parents are educators, I understand how challenging and rewarding it is to engage others in their learning process._  

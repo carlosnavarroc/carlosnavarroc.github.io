@@ -1,5 +1,7 @@
-# main links links
 main:
+
+  - title: "Summary"
+    url: /summary/
 
   - title: "About"
     url: /about/
@@ -7,14 +9,14 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Projects"
+    url: /industry/
+  
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Industry"
-    url: /industry/
+  - title: "Logbook"
+    url: /logbook/
   
   - title: "Blog"
     url: /year-archive/
-  
-  - title: "Experience"
-    url: /experience/

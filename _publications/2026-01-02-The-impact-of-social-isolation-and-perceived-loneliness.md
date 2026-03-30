@@ -6,7 +6,7 @@ excerpt: "Large-scale study on social isolation and loneliness in older adults, 
 date: 2026-01-02
 venue: "Frontiers in Psychology"
 paperurl: "https://doi.org/10.3389/fpsyg.2025.1683933"
-citation: 'Gierke, C., Navarro, C. F., Martinez, M., Delgado, C., Diaz-Gierke, W., Diaz, R., & Farías, G. (2026). The impact of social isolation and perceived loneliness in older adults: A cross-sectional descriptive Chilean study. Frontiers in Psychology, 16, 1683933. https://doi.org/10.3389/fpsyg.2025.1683933'
+citation: "Gierke, C., Navarro, C. F., Martinez, M., Delgado, C., Diaz-Gierke, W., Diaz, R., & Farías, G. (2026). The impact of social isolation and perceived loneliness in older adults: A cross-sectional descriptive Chilean study. Frontiers in Psychology, 16, 1683933. https://doi.org/10.3389/fpsyg.2025.1683933"
 ---
 
 <div style="text-align: justify;">

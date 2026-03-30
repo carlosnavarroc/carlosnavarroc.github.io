@@ -6,7 +6,7 @@ excerpt: "Exploratory study on social isolation and loneliness in older adults, 
 date: 2025-01-09
 venue: "Alzheimers & Dementia: Public Health"
 paperurl: "https://doi.org/10.1002/alz.089300"
-citation: ""
+citation: 'Gierke, C., Navarro, C. F., Martinez, M., Delgado, C., Delano, P. H., Medel, V., et al. (2024). Characterization of social isolation and perception of loneliness in a group of Chilean older people post-pandemic. Alzheimer’s & Dementia, 20(S7), e089300. https://doi.org/10.1002/alz.089300'
 ---
 
 <div style="text-align: justify;">

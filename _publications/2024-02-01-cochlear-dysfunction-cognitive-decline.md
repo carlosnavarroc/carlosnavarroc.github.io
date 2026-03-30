@@ -6,7 +6,7 @@ excerpt: "Data-driven study identifying cochlear dysfunction as an early, non-in
 date: 2024-02-01
 venue: "Alzheimers & Dementia: Diagnosis, Assessment & Disease Monitoring (DADM)"
 paperurl: "https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/dad2.12467"
-citation: 'Medel, V., Delano, P. H., Belkhiria, C., et al. (2024). Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss. Alzheimer’s & Dementia: Diagnosis, Assessment & Disease Monitoring, 16, e12467. https://doi.org/10.1002/dad2.12467'
+citation: "Medel, V., Delano, P. H., Belkhiria, C., et al. (2024). Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss. Alzheimer’s & Dementia: Diagnosis, Assessment & Disease Monitoring, 16, e12467. https://doi.org/10.1002/dad2.12467"
 ---
 
 <div style="text-align: justify;">

@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-  <p>Hello there! My name is Carlos. I'm a PhD and Electrical Engineer with a strong interest in Image Processing, Pattern Recognition, and Teaching. My career has focused on high-tech, innovation-driven projects involving automation systems in medicine, mining, and retail.</p>
+  <p>I am an Assistant Professor and Data Scientist working at the intersection of computer vision, machine learning, and biomedical imaging.</p>
 
-  <p>In these projects, I’ve applied techniques from statistical modeling, machine learning, and computer vision. My PhD research focused on detecting complex patterns using colour and texture features, work that laid the foundation for my transition into data science and AI.</p>
+  <p>My research focuses on developing AI-driven methods for image analysis, with applications in healthcare, scientific imaging, and real-world systems. During my PhD, I worked on detecting complex patterns using colour and texture features, which laid the foundation for my current work in data science and artificial intelligence.</p>
 
-  <p>More recently, I’ve led full-cycle data science projects: collecting and preprocessing large datasets, building and deploying machine learning models, and interpreting results for stakeholders. I write production-ready code in Python and R, and have hands-on experience in areas like NLP, computer vision, and Generative AI. I also bring a strong awareness of model evaluation, ethical AI, and data privacy.</p>
+  <p>I have been involved in innovation-driven projects across domains such as medicine, mining, and retail, where I have developed and deployed machine learning and computer vision solutions. My experience includes full-cycle data science workflows, from data acquisition and preprocessing to model development, deployment, and stakeholder-oriented analysis.</p>
 
-  <p>Alongside technical work, I’ve devoted much of my career to teaching. I’ve taught everything from foundational math and physics to advanced electrical engineering topics. I enjoy sharing knowledge , especially in image processing, and strive to create engaging learning environments that foster curiosity and critical thinking.</p>
+  <p>I work primarily with Python and R, and have hands-on experience in areas such as computer vision, natural language processing, and generative AI, with a strong focus on model evaluation, ethical AI, and data privacy.</p>
+
+  <p>Alongside my research, I am deeply committed to teaching and mentorship. I have taught courses ranging from foundational mathematics and physics to advanced topics in electrical engineering, and I actively supervise student research in AI and computer vision.</p>
 </div>
 
 
 ## Contact
 
-Please don't hesitate to contact me via [email](mailto:carlosnavarroc@uchile.cl), [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io)  or [twitter](https://twitter.com/CarlosFNavarroC) for collaboration or questions.
-
+Please don't hesitate to contact me via [email](mailto:carlosnavarroc@uchile.cl), [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io) or [Twitter](https://twitter.com/CarlosFNavarroC) for collaboration or questions.

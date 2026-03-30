@@ -20,19 +20,19 @@ You can also find my full list of publications on
 
 - **VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks**  
   <em>BMC Bioinformatics, 2023</em>  
-  Developed a software tool for 3D biomedical image visualization and quantification.
+  Developed a software tool for 3D biomedical image visualization and quantitative analysis  
 
 - **3D Nuclei Segmentation through Deep Learning**  
-  <em>IEEE Conference on Artificial Intelligence, 2023</em>  
-  Deep learning approach for 3D nuclei segmentation, achieving top performance in the Cell Tracking Challenge.
+  <em>IEEE Conference on Artificial Intelligence (CAI), 2023</em>  
+  Deep learning pipeline achieving top-3 performance in the Cell Tracking Challenge  
 
 - **Cochlear dysfunction as an early biomarker of cognitive decline**  
-  <em>Alzheimer’s & Dementia, 2024</em>  
-  Identified cochlear dysfunction as a potential early biomarker using signal processing and data analysis.
+  <em>Alzheimer’s & Dementia (DADM), 2024</em>  
+  Identified a non-invasive biomarker using physiological signal analysis  
 
 - **The impact of social isolation and perceived loneliness in older adults**  
   <em>Frontiers in Psychology, 2026</em>  
-  Large-scale study on mental health and social factors in older adults post-pandemic.
+  Data-driven study on post-pandemic mental health and social factors in aging populations  
 
 ---
 

@@ -6,7 +6,7 @@ excerpt: "Developed a 3D image processing tool for biomedical data, enabling imp
 date: 2023-07-12
 venue: "BMC Bioinformatics"
 paperurl: "https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-023-05403-z.pdf"
-citation: ""
+citation: 'Gatica, M., Navarro, C. F., Lavado, A., et al. (2023). VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks. BMC Bioinformatics, 24, 283. https://doi.org/10.1186/s12859-023-05403-z'
 ---
 
 <div style="text-align: justify;">

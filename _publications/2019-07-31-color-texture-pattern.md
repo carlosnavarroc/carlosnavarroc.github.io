@@ -5,8 +5,8 @@ permalink: /publication/2019-07-31-color-texture-pattern/
 excerpt: 'High-accuracy color–texture classification method achieving up to 100% accuracy across benchmark datasets'
 date: 2019-07-31
 venue: 'Applied Sciences'
-paperurl: 'https://www.mdpi.com/2076-3417/9/15/3130'
-citation: 'Navarro, C. F., & Perez, C. A. (2019). Color–texture pattern classification using global–local feature extraction, an SVM classifier, with bagging ensemble post-processing. Applied Sciences, 9(15), 3130. https://doi.org/10.3390/app9153130'
+paperurl: 'https://doi.org/10.3390/app9153130'
+citation: ''
 ---
 
 <div style="text-align: justify;">

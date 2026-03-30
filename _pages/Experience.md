@@ -183,6 +183,17 @@ Related:
 Related:
 - Blog: [DeloreanCamara (2025)](https://carlosnavarroc.github.io/posts/2025/12/30/delorean-camara/)  
 - Blog: [Urban film analysis (2026)](https://carlosnavarroc.github.io/posts/2026/02/delorean-camara-largo-viaje/)  
+---
+
+### Media and event photography
+
+- Role: Accredited photographer (radio media)  
+
+- Covered live events, producing visual content under real-time constraints  
+- Developed a consistent visual narrative aligned with media and communication needs  
+
+Related:
+- [Radio Azul Chile](https://www.instagram.com/p/DWJ7USyjsPo/)
 
 ---
 

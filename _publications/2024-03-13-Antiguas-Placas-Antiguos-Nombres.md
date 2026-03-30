@@ -6,7 +6,7 @@ excerpt: "Long-term urban documentation project mapping historical street name p
 date: 2024-03-13
 venue: "Cuadernos de Beauchef"
 paperurl: "https://revistasdex.uchile.cl/index.php/cdb/article/view/13432/13453"
-citation: ""
+citation: 'Navarro, C. F., & Larroucau, R. I. (2023). Antiguas placas, antiguos nombres: Crónica de un intento de memoria en las calles de Santiago. Cuadernos de Beauchef, 7(2).'
 ---
 
 <div style="text-align: justify;">

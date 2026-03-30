@@ -6,7 +6,7 @@ excerpt: "Deep learning pipeline for 3D nuclei segmentation, achieving top-3 per
 date: 2023-06-06
 venue: "2023 IEEE Conference on Artificial Intelligence (CAI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10195067"
-citation: ""
+citation: "Rojas, R., Navarro, C. F., Orellana, G. A., Lemus, C. G., & Castañeda, V. (2023). 3D nuclei segmentation through deep learning. Proceedings of the IEEE Conference on Artificial Intelligence (CAI), 309–310. https://doi.org/10.1109/CAI54212.2023.00137"
 ---
 
 <div style="text-align: justify;">

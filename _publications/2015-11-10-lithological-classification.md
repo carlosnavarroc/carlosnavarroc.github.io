@@ -6,7 +6,7 @@ excerpt: 'Computer vision method for rock classification in mining, improving ac
 date: 2015-11-10
 venue: 'International Journal of Mineral Processing'
 paperurl: 'https://doi.org/10.1016/j.minpro.2015.09.015'
-citation: ''
+citation: 'Perez, C. A., Saravia, J. A., Navarro, C. F., Schulz, D. A., Aravena, C. M., & Galdames, F. J. (2015). Rock lithological classification using multi-scale Gabor features from sub-images and voting with rock contour information. International Journal of Mineral Processing, 144, 56–64. https://doi.org/10.1016/j.minpro.2015.09.015'
 ---
 
 <div style="text-align: justify;">

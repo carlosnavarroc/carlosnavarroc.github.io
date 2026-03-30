@@ -12,7 +12,7 @@ Over the years, I have taught a wide range of courses, from foundational subject
 
 # Thesis Supervision and Committee Participation
 
-## **Advisor – Faculty of Physical Sciences and Mathematics, University of Chile**
+### **Advisor – Faculty of Physical Sciences and Mathematics, University of Chile**
 - **2026**: *"Detection and statistical analysis of shapes in sperm images using classical computer vision techniques for morphological classification."*  
   **Author:** Camila Maire (DIE). *In progress.*
 - **2026**: *"Development and implementation of a computer vision system based on Transformers, for vehicle identification and fraud prevention on highways"*  
@@ -23,7 +23,7 @@ Over the years, I have taught a wide range of courses, from foundational subject
   **Author:** Diego Muñoz (DIE). [Read Thesis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-munoz_dr_compressed.pdf)
 
 
-## **Co-Advisor – Faculty of Physical Sciences and Mathematics, University of Chile**
+### **Co-Advisor – Faculty of Physical Sciences and Mathematics, University of Chile**
 
 - **2026**: *"Monitoring calving events through image processing"*  
   **Author:** Catalina Zapata (DIE–Geophysics). *In progress.*  [Poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_AdvancedGlacier_Zapata.pdf)
@@ -31,7 +31,7 @@ Over the years, I have taught a wide range of courses, from foundational subject
   **Author:** Pilar Nilo (DIE). [Read Thesis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-nilo_pv_compressed.pdf)
 
 
-## **Committee Member – Faculty of Physical Sciences and Mathematics, University of Chile**
+### **Committee Member – Faculty of Physical Sciences and Mathematics, University of Chile**
 - **2025**: *"Segmentation and quantification of arterial calcifications in breast tomosynthesis using Deep Learning and Vision Transformers."*  
   **Author:** Bastián Castelli (DIE). [Read Thesis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-castelli_bp_compressed.pdf)
 - **2023**: *"Intelligent image recognition engine for last-mile delivery quality control."*  
@@ -39,7 +39,7 @@ Over the years, I have taught a wide range of courses, from foundational subject
 - **2023**: *"Detection and portion estimation of granular ingredients using computer vision."*  
   **Author:** Gonzalo Hernández (DIE–DCC).  [Read Thesis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-hernandez_ga_compressed.pdf)
 
-## **Evaluator – [Tech4Medics Lab](https://www.tech4medics.cl/). Department of Medical Technology, Faculty of Medicine, University of Chile**
+### **Evaluator – [Tech4Medics Lab](https://www.tech4medics.cl/). Department of Medical Technology, Faculty of Medicine, University of Chile**
 - **2026**: *"Development of an artificial intelligence algorithm for the evaluation of positioning criteria in digital mammography."*  
   **Authors:** Matías Gajardo, Carolina Bavestrello
 - **2025**: *"Breast density estimation in T1-weighted MRI using Deep Learning."*  
@@ -49,7 +49,7 @@ Over the years, I have taught a wide range of courses, from foundational subject
 - **2023**: *"Quantification of vascular calcifications in breast tomosynthesis using AI."*  
   **Authors:** Constanza Ramírez, Marcelo Flores
 
-## **Internship Supervision – SCIANLab (University of Chile)**
+### **Internship Supervision – SCIANLab (University of Chile)**
 
 - **2024**  
   - *Matías Carvajal Pérez (DIE)* – "Measurement of membrane force exerted by a cell"

@@ -6,7 +6,7 @@ excerpt: "Design and deployment of a wireless sensing platform for geotechnical 
 date: 2019-11-30
 venue: "Proceedings of the 27th International Symposium on Mine Planning and Equipment Selection - MPES 2018"
 paperurl: "https://link.springer.com/chapter/10.1007/978-3-319-99220-4_31"
-citation: ""
+citation: "Widzyk-Capehart, E., Barberán, A., Briceño, M. J., Navarro, C. F., Nguyen, P. M. V., Opazo, C., & Steffen, S. (2019). Collocated ground deformation and pore pressure measurements in open pit mines: Laboratory testing and analysis of wireless sensing platform. Proceedings of the International Symposium on Mine Planning and Equipment Selection, 381–391."
 ---
 
 <div style="text-align: justify;">

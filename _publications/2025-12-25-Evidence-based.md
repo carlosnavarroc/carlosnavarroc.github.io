@@ -6,7 +6,7 @@ excerpt: "Data-driven study proposing sex-specific intervention strategies to re
 date: 2025-12-24
 venue: "Alzheimer's & Dementia: Dementia Care Research and Psychosocial Factors"
 paperurl: "https://doi.org/10.1002/alz70858_099028"
-citation: 'Gierke, C., Navarro, C. F., Martinez, M., Delgado, C., Cerda, M., Diaz-Gierke, W., & Farías, G. (2025). Evidence-based protocols for reducing the probability of Alzheimer’s disease in older adults: Correlational insights in a Chilean study. Alzheimer’s & Dementia: Dementia Care Research and Psychosocial Factors. https://doi.org/10.1002/alz70858_099028'
+citation: "Gierke, C., Navarro, C. F., Martinez, M., Delgado, C., Cerda, M., Diaz-Gierke, W., & Farías, G. (2025). Evidence-based protocols for reducing the probability of Alzheimer’s disease in older adults: Correlational insights in a Chilean study. Alzheimer’s & Dementia: Dementia Care Research and Psychosocial Factors. https://doi.org/10.1002/alz70858_099028"
 ---
 
 <div style="text-align: justify;">

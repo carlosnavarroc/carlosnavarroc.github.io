@@ -2,12 +2,25 @@
 title: "Rock lithological classification using multi-scale Gabor features from sub-images, and voting with rock contour information"
 collection: publications
 permalink: /publication/2015-11-10-lithological-gabor/
-excerpt: 'This article introduces an innovative method for remote lithological classification in mining plants'
+excerpt: 'Computer vision method for rock classification in mining, improving accuracy by up to 26%'
 date: 2015-11-10
 venue: 'International Journal of Mineral Processing'
 paperurl: 'https://www.cec.uchile.cl/~canavarr/Posters/2015_Rock_Lithological.pdf'
 citation: 'Perez, C. A., Saravia, J. A., Navarro, C. F., Schulz, D. A., Aravena, C. M., & Galdames, F. J. (2015). Rock lithological classification using multi-scale Gabor features from sub-images and voting with rock contour information. <i>International Journal of Mineral Processing</i>, 144, 56-64. https://doi.org/10.1016/j.minpro.2015.09.015'
 ---
+
 <div style="text-align: justify;">
-This article introduces an innovative method for remote lithological classification in mining plants, a critical aspect for determining rock size and grindability, directly impacting the control of the grinding process. The approach utilizes a single digital video camera for capturing images of rocks on a conveyor belt, breaking each image into sub-images to extract texture information across various spatial scales. Gabor filters and a support-vector machine are employed for feature extraction and classification. The method's efficacy was tested on three databases, revealing significant improvements in classification accuracy, ranging from 8.3% to 26%, compared to previous results. These findings underscore the potential of this method in enhancing mining plant operations.
+
+<p>
+Developed a computer vision method for automated lithological classification in mining environments using video-based analysis of conveyor belt systems.
+</p>
+
+<p>
+The approach combines multi-scale texture extraction using Gabor filters with support vector machine (SVM) classification, enabling robust recognition of rock types under real-world conditions.
+</p>
+
+<p>
+The method achieved improvements in classification accuracy ranging from <strong>8.3% to 26%</strong> compared to previous approaches, demonstrating its potential for optimizing grinding process control in mining operations.
+</p>
+
 </div>

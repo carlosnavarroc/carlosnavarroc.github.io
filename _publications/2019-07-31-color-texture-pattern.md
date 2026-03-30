@@ -12,15 +12,15 @@ citation: 'Navarro, C. F., & Perez, C. A. (2019). Color–Texture Pattern Classi
 <div style="text-align: justify;">
 
 <p>
-Developed a high-accuracy method for color–texture classification based on global–local feature extraction and support vector machine (SVM) modeling.
+Developed a high-accuracy color–texture classification method based on global–local feature extraction and support vector machine (SVM) modeling.
 </p>
 
 <p>
-The approach combines multi-scale image partitioning with texture and color descriptors, followed by a bagging ensemble post-processing stage to improve robustness and generalization.
+The method integrates multi-scale image partitioning with texture and color descriptors, followed by a bagging ensemble stage to improve robustness and generalization.
 </p>
 
 <p>
-Evaluated on multiple benchmark datasets (Brodatz, VisTex, Outex, KTH-TIPS2b), the method achieved classification accuracies of up to <strong>100%</strong>, consistently outperforming previously reported results.
+Evaluated on multiple benchmark datasets (Brodatz, VisTex, Outex, KTH-TIPS2b), the method achieved classification accuracies of up to <strong>100%</strong>, significantly outperforming existing approaches.
 </p>
 
 </div>

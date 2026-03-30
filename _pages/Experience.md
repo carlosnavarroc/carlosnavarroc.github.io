@@ -7,6 +7,8 @@ author_profile: true
 
 This page serves as a structured professional logbook of my work across research, applied engineering, teaching, and interdisciplinary collaboration.
 
+It is designed as a navigable map of what I have actually built, studied, and deployed over time.
+
 Rather than a traditional CV, it organizes my experience around projects, problem domains, and tangible outcomes, with links to publications, tools, and selected blog entries that document the process behind the work.
 
 Note: Some linked blog posts are written in Spanish and capture real-time activities, reflections, and events.
@@ -48,15 +50,15 @@ Related:
 
 Related:
 - Paper: [3D Nuclei Segmentation — IEEE CAI 2023](https://www.computer.org/csdl/proceedings-article/cai/2023/398400a309/1PhCElOJQcM)  
-- Paper: [RaViTT (arXiv)  ](https://arxiv.org/pdf/2306.10959.pdf)
-- Blog: student projects and thesis defenses in [applied AI  ](https://carlosnavarroc.github.io/posts/2023/12/29/comites-tesis-vision-ia/)
+- Paper: [RaViTT (arXiv)](https://arxiv.org/pdf/2306.10959.pdf)  
+- Blog: student projects and thesis defenses in [applied AI](https://carlosnavarroc.github.io/posts/2023/12/29/comites-tesis-vision-ia/)  
 
 ---
 
 ### Scientific software and open tools
 
 - Co-developed VolumePeeler, a FIJI plugin for 3D visualization and quantification  
-- Focused on improving interpretability of [complex biological](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf) image stacks and [membrane deformation](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf) via image analysis
+- Focused on improving interpretability of [complex biological](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf) image stacks and [membrane deformation](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf) via image analysis  
 
 Related:
 - Publication: [BMC Bioinformatics (2023)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05403-z)  
@@ -92,11 +94,11 @@ Related:
 ### Smart mining systems
 
 - Developed computer vision methods for [lithology classification](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf) from video  
-- Designed pattern recognition pipelines for industrial environments and [rock type estimation](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)
+- Designed pattern recognition pipelines for industrial environments and [rock type estimation](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)  
 
 Related:
-- [Paper: Rock Lithological Classification (2015)](https://carlosnavarroc.github.io/publication/2015-11-10-lithological-gabor/)  
-- Blog: [Industrial automation — expectations vs reality (2026) ](https://carlosnavarroc.github.io/posts/2026/01/25/automatizacion-industrial-cinco-anos-despues/) 
+- Paper: [Rock Lithological Classification (2015)](https://carlosnavarroc.github.io/publication/2015-11-10-lithological-gabor/)  
+- Blog: [Industrial automation — expectations vs reality (2026)](https://carlosnavarroc.github.io/posts/2026/01/25/automatizacion-industrial-cinco-anos-despues/)  
 
 ---
 
@@ -117,7 +119,7 @@ Related:
 
 Related:
 - Collaboration: CSIRO Chile  
-- [Work presented in mining engineering contexts (MPES 2019)](https://carlosnavarroc.github.io/publication/2019-11-30-wireless-slope-monitoring/)  
+- Work presented in [MPES 2019](https://carlosnavarroc.github.io/publication/2019-11-30-wireless-slope-monitoring/)  
 
 ---
 
@@ -125,16 +127,20 @@ Related:
 
 - PhD in Electrical Engineering — University of Chile (2020)  
   Focus: color–texture classification using multiscale feature extraction and SVM ensembles  
+
   Related:
-  - Thesis :[Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)
-  - Publication: [Applied Sciences (2019) ](https://carlosnavarroc.github.io/publication/2019-07-31-color-texture-pattern/) 
+  - Thesis: [Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)  
+  - Publication: [Applied Sciences (2019)](https://carlosnavarroc.github.io/publication/2019-07-31-color-texture-pattern/)  
 
 - Diploma in Electrophysiology — University of Chile (2019)  
   Focus: bioelectric signal processing for clinical applications  
 
 - Electrical Engineering — University of Chile (2010)  
-  Focus: iris detection using Particle Swarm Optimization
-  Thesis: [Molds design for iris detection through Particle Swarm Optimization](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf)
+  Focus: iris detection using Particle Swarm Optimization  
+																																																						
+
+  Related:
+  - Thesis: [Molds design for iris detection through Particle Swarm Optimization](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf)  
 
 ---
 
@@ -143,16 +149,17 @@ Related:
 ### Independent film production
 
 - Project: La Ciudad de Los Cesares  
-- Role: [Producer](https://tinyurl.com/CNC-IMDB)  
+- Role: Producer ([IMDB](https://tinyurl.com/CNC-IMDB))  
 
 - Coordinated team, logistics, and production workflow from planning to delivery  
 - Managed resources and timelines to ensure completion of a full-length independent project  
 - Successfully delivered a crowdfunded production, balancing creative and operational constraints  
 
 Related:
-- [La ciudad de los cesares (2022)](https://cinechile.cl/pelicula/la-ciudad-de-los-cesares/)
+- [La ciudad de los cesares (2022)](https://cinechile.cl/pelicula/la-ciudad-de-los-cesares/)  
 
 ---
+
 ### Urban documentation and cultural heritage
 
 - Project: Historic street plaques of Santiago  
@@ -160,8 +167,8 @@ Related:
 
 Related:
 - Publication: [Cuadernos de Beauchef (2024)](https://carlosnavarroc.github.io/publication/2024-03-13-Antiguas-Placas)  
-- Blog: urban exploration and cultural documentation
-- Producer: 
+- Blog: urban exploration and cultural documentation  
+			
 
 ---
 
@@ -183,17 +190,19 @@ Related:
 Related:
 - Blog: [DeloreanCamara (2025)](https://carlosnavarroc.github.io/posts/2025/12/30/delorean-camara/)  
 - Blog: [Urban film analysis (2026)](https://carlosnavarroc.github.io/posts/2026/02/delorean-camara-largo-viaje/)  
+
 ---
 
 ### Media and event photography
 
 - Role: Accredited photographer (radio media)  
 
-- Covered live events, producing visual content under real-time constraints  
-- Developed a consistent visual narrative aligned with media and communication needs  
+- Produced visual content for media coverage under real-time constraints  
+- Developed a consistent visual narrative aligned with communication needs  
+- Strong alignment with visual analysis and observation, complementing computer vision work  
 
 Related:
-- [Radio Azul Chile](https://www.instagram.com/p/DWJ7USyjsPo/)
+- [Radio Azul Chile](https://www.instagram.com/p/DWJ7USyjsPo/)  
 
 ---
 
@@ -210,7 +219,7 @@ Related:
   - signal processing  
 
 Related:
-- Blog: [Deep Learning course (2026)  ](https://carlosnavarroc.github.io/posts/2026/03/07/primera-clase-deep-learning-mdsc3s132/)
+- Blog: [Deep Learning course (2026)](https://carlosnavarroc.github.io/posts/2026/03/07/primera-clase-deep-learning-mdsc3s132/)  
 - Blog: [Teaching reflections and evaluations](https://carlosnavarroc.github.io/posts/2025/12/15/encuesta-docente-primavera-2025/)  
 
 ---
@@ -229,10 +238,11 @@ Related:
 ## Technical Stack
 
 - Languages: Python, R, MATLAB  
+- Frameworks & Tools: PyTorch, TensorFlow, scikit-learn, OpenCV, FIJI/ImageJ  
 - AI/ML: Deep Learning, Transformers, SVM, NLP  
-- Computer Vision: OpenCV, segmentation, feature extraction  
+- Computer Vision: segmentation, feature extraction, real-world deployment  
 - Signal Processing: EEG, spectral analysis  
-- Tools: PyTorch, TensorFlow, FIJI/ImageJ  
+										   
 - Infrastructure: Docker, Google Cloud, Huawei Cloud  
 
 ---

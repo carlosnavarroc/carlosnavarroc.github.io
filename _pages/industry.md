@@ -39,7 +39,8 @@ author_profile: true
 - Developed *RaViTT*, a Vision Transformer-based model for biomedical image classification  
 - Built deep learning models for 3D nuclei segmentation, achieving **2nd place in the Cell Tracking Challenge**  
 - Co-developed *VolumePeeler*, a FIJI plugin for 3D image visualization and quantification  
-- Designed an audiological test for early detection of cognitive decline using signal processing and machine learning
+- Designed an audiological test for early detection of cognitive decline using signal processing and machine learning  
+- Contributed to research linking cochlear dysfunction with early cognitive decline, identifying otoacoustic emissions as a potential biomarker in clinical settings
 - Co-authored a large-scale study on social isolation and loneliness in older adults, published in *Frontiers in Psychology*, analyzing the impact of pandemic-related factors on mental health and demographic differences  
 
 ---

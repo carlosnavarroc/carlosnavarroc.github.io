@@ -34,6 +34,7 @@ author_profile: true
 
 ## Selected Projects and Achievements
 
+- Designed and deployed an IoT-based experimental platform for real-time behavioral analysis in animal studies, integrating sensors, computer vision, and control systems
 - Designed a machine learning pipeline for automated **glaucoma diagnosis** using chromatic pupilometry  
 - Applied spectral analysis and ML to **EEG data** for postoperative risk prediction  
 - Developed **RaViTT**, a Vision Transformer-based model for biomedical image classification  

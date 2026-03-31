@@ -14,7 +14,20 @@ Rather than a traditional CV, it organizes my experience around projects, proble
 Note: Some linked blog posts are written in Spanish and capture real-time activities, reflections, and events.
 
 ---
+## 2026 – Experimental Platforms and Behavioral AI
 
+**Interdisciplinary experimental system — Animal behavior analysis (Veterinary Medicine, UDLA)**
+
+- Designed and integrated a mobile experimental platform for behavioral studies  
+- Implemented IoT-based modules including smart feeders, LED interfaces, and interaction buttons  
+- Developed software for device control, communication, and data acquisition  
+- Integrated a top-view vision system for real-time animal tracking  
+- Calibrated instrumentation and operational parameters for experimental protocols  
+- Enabled real-time capture of behavioral variables for impulsivity analysis  
+
+Related:
+- Blog: [Implementación de plataforma experimental para el estudio de impulsividad canina](https://carlosnavarroc.github.io/posts/2026/03/30/impulsividad-canina-plataforma/)
+  
 ## 2019 – 2025 · AI for Healthcare and Neuroscience  
 **Data Scientist — Faculty of Medicine, University of Chile**  
 [Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/) · [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) · [AudioBrain](https://dpoae.scian.cl/) · [Tech4Medics-Lab](https://www.tech4medics.cl/team/) 

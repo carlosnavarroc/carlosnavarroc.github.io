@@ -50,6 +50,8 @@ Advanced laboratory course integrating machine learning, artificial intelligence
 
 * [Final project presentations in Computational Intelligence and Robotics](https://carlosnavarroc.github.io/posts/2025/12/12/presentacion-proyecto-final-IC/)
 
+Some course activities, student projects, and technical developments are documented in my [logbook](/logbook/), where I share ongoing work, implementations, and experimental results.
+
 ---
 
 ## Additional Teaching Experience
@@ -124,6 +126,8 @@ My supervision focuses on guiding students through the full development cycle: p
 * Participation in thesis committees and evaluations
 * Topics spanning AI, computer vision, and biomedical applications
 * Strong integration between teaching, research, and applied projects
+
+Several of these projects are closely related to my research in computer vision, machine learning, and biomedical engineering (see [Research](/research/)).
 
 ---
 

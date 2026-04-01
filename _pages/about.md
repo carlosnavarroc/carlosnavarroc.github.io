@@ -7,18 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <div style="text-align: justify;">
-  <p>I am an Assistant Professor and Data Scientist working at the intersection of computer vision, machine learning, and biomedical imaging.</p>
 
-  <p>My research focuses on developing AI-driven methods for image analysis, with applications in healthcare, scientific imaging, and real-world systems. During my PhD, I worked on detecting complex patterns using colour and texture features, which laid the foundation for my current work in data science and artificial intelligence.</p>
+<p>I am an Electrical Engineer (PhD) and Data Scientist working at the intersection of artificial intelligence, computer vision, and real-world systems.</p>
 
-  <p>I have been involved in innovation-driven projects across domains such as medicine, mining, and retail, where I have developed and deployed machine learning and computer vision solutions. My experience includes full-cycle data science workflows, from data acquisition and preprocessing to model development, deployment, and stakeholder-oriented analysis.</p>
+<p>My work focuses on developing and deploying AI-driven methods for image analysis, signal processing, and data-intensive problems, with applications in healthcare, scientific imaging, and industry. During my PhD, I worked on detecting complex patterns using colour and texture features, which laid the foundation for my current work in machine learning and applied AI.</p>
 
-  <p>I work primarily with Python and R, and have hands-on experience in areas such as computer vision, natural language processing, and generative AI, with a strong focus on model evaluation, ethical AI, and data privacy.</p>
+<p>Over the years, I have contributed to innovation-driven projects across domains such as medicine, mining, and retail, where I have designed and implemented end-to-end machine learning systems — from data acquisition and preprocessing to model development, validation, and deployment under real-world constraints.</p>
 
-  <p>Alongside my research, I am deeply committed to teaching and mentorship. I have taught courses ranging from foundational mathematics and physics to advanced topics in electrical engineering, and I actively supervise student research in AI and computer vision.</p>
+<p>In parallel, teaching has been a central part of my work. I have taught more than 70 courses across electrical engineering, mathematics, and data science, and I actively supervise student research in AI, computer vision, and biomedical engineering. My teaching emphasizes hands-on learning, experimentation, and connecting theory with practical applications.</p>
+
+<p>I work primarily with Python and R, and have hands-on experience in computer vision, deep learning, and signal processing, with a strong focus on building systems that are robust, interpretable, and usable in practice.</p>
+
+<p>Much of my work — including projects, systems, and experimental developments — is documented in my <a href="/logbook/">logbook</a>, which serves as a structured record of applied research and engineering work over time.</p>
+
 </div>
 
+---
 
 ## Contact
 

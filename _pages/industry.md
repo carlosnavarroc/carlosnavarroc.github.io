@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Industry Experience"
+title: "Applied AI & Engineering"
 permalink: /industry/
 author_profile: true
 ---

@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Projects"
-    url: /industry/
+  - title: "Applied AI"
+  url: /industry/
   
   - title: "Teaching"
     url: /teaching/    

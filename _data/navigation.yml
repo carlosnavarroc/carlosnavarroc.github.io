@@ -10,7 +10,7 @@ main:
     url: /publications/
     
   - title: "Applied AI"
-  url: /industry/
+    url: /industry/
   
   - title: "Teaching"
     url: /teaching/    

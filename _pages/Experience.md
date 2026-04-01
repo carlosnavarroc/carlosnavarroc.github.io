@@ -7,7 +7,7 @@ author_profile: true
 
 This page serves as a structured professional logbook of my work across research, applied engineering, teaching, and interdisciplinary collaboration.
 
-It is designed as a navigable map of what I have actually built, studied, and deployed over time.
+It is designed as a navigable map of what I have actually built, studied, and deployed over time, complementing my [Research](https://carlosnavarroc.github.io/industry/) and [Teaching](https://carlosnavarroc.github.io/teaching/) activities. 
 
 Rather than a traditional CV, it organizes my experience around projects, problem domains, and tangible outcomes, with links to publications, tools, and selected blog entries that document the process behind the work.
 

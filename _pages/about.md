@@ -20,7 +20,7 @@ redirect_from:
 
 <p>I work primarily with Python and R, and have hands-on experience in computer vision, deep learning, and signal processing, with a strong focus on building systems that are robust, interpretable, and usable in practice.</p>
 
-<p>Much of my work — including projects, systems, and experimental developments — is documented in my <a href="/logbook/">logbook</a>, which serves as a structured record of applied research and engineering work over time.</p>
+<p>Much of my work, including projects, systems, and experimental developments, is documented in my <a href="/logbook/">logbook</a>, which serves as a structured record of applied research and engineering work over time.</p>
 
 </div>
 

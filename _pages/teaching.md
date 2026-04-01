@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 sitemap: true
 ---
+
 ## Teaching
 
 I have been involved in engineering and applied mathematics education since 2005, progressing from teaching assistant roles to leading undergraduate and graduate-level courses.
 
-My teaching experience spans multiple institutions and disciplines, including electrical engineering, mathematics, and data science. I emphasize laboratory-based learning, applied problem solving, and the integration of artificial intelligence into engineering education.
+My teaching experience spans multiple institutions, including the Department of Electrical Engineering ([DIE](https://www.die.cl/academicos-jornada-parcial/)) at Universidad de Chile. I emphasize laboratory-based learning, applied problem solving, and the integration of artificial intelligence into engineering education, including topics such as [image processing](https://tinyurl.com/Clases-CNC-Imagenes).
 
 **Summary**
 
@@ -21,31 +22,39 @@ My teaching experience spans multiple institutions and disciplines, including el
 
 ---
 
-## Courses
+## Selected Courses
 
-### Universidad de Chile – Faculty of Physical and Mathematical Sciences (FCFM)
+### EL3201 – Laboratorio de Ingeniería Eléctrica
 
-#### EL3201 – Laboratorio de Ingeniería Eléctrica
-
+**Institution:** Universidad de Chile (FCFM)
 **Role:** Instructor (100%)
 **Period:** 2022–2026
 
-Core undergraduate laboratory course focused on experimental validation of electrical engineering concepts, emphasizing instrumentation, teamwork, and technical reporting.
+Core undergraduate laboratory course focused on experimental validation of electrical engineering concepts. The course emphasizes instrumentation, collaborative work, and technical communication, evolving across multiple iterations toward structured experimentation and reproducibility.
+
+**Selected laboratory activities and student work:**
+
+* [Student project presentations in Electrical Engineering Lab](https://carlosnavarroc.github.io/posts/2025/06/16/presentacion-proyectos-estudiantes-ie/)
 
 ---
 
-#### EL5206 – Laboratorio de Inteligencia Computacional y Robótica
+### EL5206 – Laboratorio de Inteligencia Computacional y Robótica
 
+**Institution:** Universidad de Chile (FCFM)
 **Role:** Co-instructor (with Martín Adams)
 **Period:** 2021–2026
 
-Advanced laboratory course integrating machine learning, artificial intelligence, and robotics through project-based learning and real-world applications.
+Advanced laboratory course integrating machine learning, artificial intelligence, and robotics. The course is organized around project-based learning, exposing students to real-world engineering problems and modern computational tools.
+
+**Selected projects and course outcomes:**
+
+* [Final project presentations in Computational Intelligence and Robotics](https://carlosnavarroc.github.io/posts/2025/12/12/presentacion-proyecto-final-IC/)
 
 ---
 
-### Other Teaching Experience
+## Additional Teaching Experience
 
-#### Universidad Santo Tomás
+### Universidad Santo Tomás
 
 **Recent (2025)**
 
@@ -63,7 +72,7 @@ Advanced laboratory course integrating machine learning, artificial intelligence
 
 ---
 
-#### Universidad Andrés Bello
+### Universidad Andrés Bello
 
 **Recent (2026)**
 
@@ -78,13 +87,13 @@ Advanced laboratory course integrating machine learning, artificial intelligence
 
 ---
 
-#### Universidad del Desarrollo (UDD)
+### Universidad del Desarrollo (UDD)
 
 * Deep Learning (Master in Data Science)
 
 ---
 
-### Early Teaching Experience – Universidad de Chile
+## Early Teaching Experience – Universidad de Chile
 
 **Department of Electrical Engineering (DIE)**
 
@@ -114,7 +123,7 @@ My supervision focuses on guiding students through the full development cycle: p
 * 10+ undergraduate theses supervised or co-supervised
 * Participation in thesis committees and evaluations
 * Topics spanning AI, computer vision, and biomedical applications
-* Strong connection between teaching, research, and applied projects
+* Strong integration between teaching, research, and applied projects
 
 ---
 
@@ -157,7 +166,11 @@ My supervision focuses on guiding students through the full development cycle: p
 
 ---
 
-### External Evaluator – Medical Technology, Universidad de Chile
+### External Evaluator – Medical Technology, Universidad de Chile (Tech4Medics Lab)
+
+Participation as external evaluator in thesis committees at the Tech4Medics Lab, an interdisciplinary research group focused on medical imaging, artificial intelligence, and clinical decision support systems.
+
+Lab website: https://www.tech4medics.cl/
 
 * **2026**: AI-based evaluation of positioning criteria in digital mammography
   *Matías Gajardo, Carolina Bavestrello*
@@ -210,6 +223,6 @@ Many course activities are closely connected to research problems in computer vi
 
 I view engineering education as an active process grounded in experimentation, iteration, and problem solving.
 
-Laboratory courses play a central role in bridging theory and practice, allowing students to engage directly with systems, data, and real-world constraints. My teaching emphasizes not only technical correctness, but also the ability to design solutions, communicate results, and critically evaluate outcomes.
+Laboratory-based courses play a central role in bridging theory and practice, allowing students to engage directly with systems, data, and real-world constraints. My teaching emphasizes not only technical correctness, but also the ability to design solutions, communicate results, and critically evaluate outcomes.
 
 I aim to integrate research and teaching by exposing students to contemporary challenges in artificial intelligence, computer vision, and biomedical engineering.

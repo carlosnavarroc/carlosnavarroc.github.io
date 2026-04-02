@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Applied AI & Engineering"
-permalink: /industry/
+permalink: /AAE/
 author_profile: true
 ---
 

@@ -326,10 +326,6 @@ These projects reflect complementary skills in **systems thinking, creativity, a
 
 ## Final note
 
-													 
+This logbook documents what I have worked on over time.
 
-This logbook is not a summary.
-
-It is **evidence**.
-
-Each section links to real work: systems, papers, tools, or documented processes.
+Each section includes references to projects, systems, or publications when available.

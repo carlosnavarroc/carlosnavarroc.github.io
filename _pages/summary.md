@@ -4,50 +4,13 @@ title: "Summary"
 permalink: /summary/
 author_profile: true
 ---
+Data Scientist and AI engineer building systems that work in real-world environments.
 
-Data Scientist and Electrical Engineer (PhD) with 15+ years of experience applying machine learning, computer vision, and signal processing to real-world problems in healthcare, mining, and industry.
+I design and deploy machine learning, computer vision, and signal processing solutions across healthcare and industry, focusing on end-to-end pipelines from data to validated systems.
 
-I specialize in building end-to-end AI systems, from data acquisition and modeling to deployment and real-world validation, with a strong focus on translating research into robust, usable solutions.
+My work combines research-level methods with practical constraints, ensuring models are not only accurate, but usable and robust in practice.
 
-In parallel, I have extensive experience in engineering education, teaching 70+ courses across electrical engineering, mathematics, and data science, integrating laboratory-based learning with modern AI methods.
-
----
-
-## Core Expertise
-
-- End-to-end machine learning pipelines (data → modeling → deployment)  
-- Deep learning (Transformers, CNNs, biomedical imaging)  
-- Computer vision systems for real-world environments  
-- Signal processing and physiological data analysis (EEG, pupilometry)  
-- Applied AI in healthcare and industrial contexts  
-
----
-
-## Selected Impact
-
-- Achieved **top-3 performance (2nd place)** in the Cell Tracking Challenge (3D nuclei segmentation)  
-- Developed machine learning models for **glaucoma diagnosis** and **EEG-based postoperative risk prediction**  
-- Co-developed **VolumePeeler**, a FIJI plugin for 3D biomedical image visualization (BMC Bioinformatics, 2023)  
-- Contributed to research on **early biomarkers of cognitive decline** (Alzheimer’s & Dementia, 2024)  
-- Led interdisciplinary AI projects combining clinical, imaging, and signal data  
-
----
-
-## Experience
-
-**Data Scientist — University of Chile (2019–2025)**  
-Applied machine learning, deep learning, and signal processing to biomedical and clinical problems  
-
-**Applied Research Engineer — University of Chile (2009–2018)**  
-Developed computer vision and automation systems for mining, retail, and industrial applications  
-
----
-
-## Technical Stack
-
-Python · R · MATLAB  
-PyTorch · TensorFlow · scikit-learn · OpenCV · FIJI/ImageJ  
-Docker · Google Cloud (Vertex AI) · Huawei Cloud  
+Experience spans clinical AI, biomedical imaging, and industrial computer vision, with a strong emphasis on deployment and interdisciplinary collaboration.
 
 ---
 
@@ -66,3 +29,9 @@ Docker · Google Cloud (Vertex AI) · Huawei Cloud
 I work at the intersection of research, teaching, and real-world deployment, building AI systems that are not only accurate, but also interpretable, reproducible, and usable in practice.
 
 My work is documented through a structured [logbook](https://carlosnavarroc.github.io/logbook/), where I provide traceable evidence of projects, systems, and applied research.
+
+## Contact
+
+Please don't hesitate to contact me via [email](mailto:carlosnavarroc@uchile.cl), [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io)  or [twitter](https://twitter.com/CarlosFNavarroC) for collaboration or questions.
+
+

@@ -6,8 +6,6 @@ author_profile: true
 sitemap: true
 ---
 
-## Teaching
-
 I have been involved in engineering and applied mathematics education since 2005, progressing from teaching assistant roles to leading undergraduate and graduate-level courses.
 
 My teaching experience spans multiple institutions, including the Department of Electrical Engineering ([DIE](https://www.die.cl/academicos-jornada-parcial/)) at Universidad de Chile. I emphasize laboratory-based learning, applied problem solving, and the integration of artificial intelligence into engineering education, including topics such as [image processing](https://tinyurl.com/Clases-CNC-Imagenes).

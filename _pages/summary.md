@@ -3,36 +3,21 @@ layout: archive
 title: "Summary"
 permalink: /summary/
 author_profile: true
-excerpt: "Data Scientist & AI Engineer specializing in machine learning, computer vision, and biomedical imaging. Bridging research and real-world applications in healthcare and industry."
 ---
 
-<div style="line-height: 1.7; text-align: left;">
+<div style="text-align: justify;">
 
-## Summary
+<p><strong>Data Scientist & AI Engineer</strong> specialized in <strong>machine learning, computer vision, and signal processing</strong>. I design and implement <strong>end-to-end AI pipelines</strong> that bridge the gap between <strong>rigorous research and practical, robust deployment</strong> in healthcare and industrial settings.</p>
 
-I am a **Data Scientist & AI Engineer** specializing in **machine learning, computer vision, and signal processing**. My work focuses on designing and implementing **end-to-end AI pipelines** that bridge the gap between **rigorous research and practical deployment** in healthcare and industrial environments.
+<p>My professional path is built on three pillars: <strong>Applied Research</strong> (clinical AI and biomedical imaging), <strong>Industrial Innovation</strong> (computer vision systems), and <strong>Education</strong>. As a university teacher, I focus on making complex AI concepts accessible and actionable for the next generation of engineers.</p>
 
----
+<p>I document my technical journey and applied research in a structured <a href="https://github.io">logbook</a>, providing <strong>traceable evidence</strong> of the systems I build and the methodologies I develop.</p>
 
-## Professional Pillars
-
-My career is built on three main pillars:
-
-- **Applied Research**: Clinical AI and biomedical imaging projects that advance medical technology.  
-- **Industrial Innovation**: Development of robust computer vision systems for real-world industrial applications.  
-- **Education**: Teaching AI concepts to engineers in a clear, accessible, and actionable way.
+</div>
 
 ---
 
-## Documentation and Projects
-
-I maintain a structured **logbook** that documents my technical journey and applied research. This logbook provides **traceable evidence** of the systems I develop and the methodologies I apply.
-
-[View Logbook](/logbook/)
-
----
-
-## Explore More
+## Links
 
 - [Publications](https://carlosnavarroc.github.io/publications/)  
 - [Teaching](https://carlosnavarroc.github.io/teaching/)  
@@ -43,10 +28,4 @@ I maintain a structured **logbook** that documents my technical journey and appl
 
 ## Contact
 
-I welcome collaborations, questions, and discussions in AI and machine learning. Please reach out via:
-
-- [Email](mailto:carlosnavarroc@uchile.cl)  
-- [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io)  
-- [Twitter](https://twitter.com/CarlosFNavarroC)
-
-</div>
+Reach out via [email](mailto:carlosnavarroc@uchile.cl), [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io), or [Twitter](https://twitter.com/CarlosFNavarroC) for collaboration or questions.

@@ -4,21 +4,18 @@ title: "Summary"
 permalink: /summary/
 author_profile: true
 ---
-# Summary
-
-**Data Scientist & AI Engineer** building AI systems that work in **real-world environments**.  
-I design and deploy **machine learning, computer vision, and signal processing solutions** across healthcare and industry, focusing on **end-to-end pipelines from data to validated systems**.
-
-My work combines **research-level methods with practical constraints**, ensuring models are **accurate, usable, and robust**.  
-Experience spans **clinical AI, biomedical imaging, and industrial computer vision**, with a strong emphasis on **deployment and interdisciplinary collaboration**.
 
 ---
+layout: archive
+title: "Summary"
+permalink: /summary/
+author_profile: true
+---
 
-## Focus
+**Data Scientist & AI Engineer** applying **machine learning, computer vision, and signal processing** to solve problems in healthcare, industry, and research.  
+I build **end-to-end AI pipelines** that are **accurate, interpretable, and robust**, bridging **research methods with practical deployment**.
 
-I work at the intersection of **research, teaching, and real-world deployment**, building AI systems that are not only accurate, but also **interpretable, reproducible, and usable**.  
-
-All projects are documented in a structured [logbook](https://carlosnavarroc.github.io/logbook/), providing traceable evidence of **systems, projects, and applied research**.
+My experience spans **clinical AI, biomedical imaging, industrial computer vision**, and teaching. I document all projects in a structured [logbook](https://carlosnavarroc.github.io/logbook/), providing **traceable evidence of systems and applied research**.
 
 ---
 
@@ -33,4 +30,4 @@ All projects are documented in a structured [logbook](https://carlosnavarroc.git
 
 ## Contact
 
-For collaboration or questions, reach out via [email](mailto:carlosnavarroc@uchile.cl), [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io), or [Twitter](https://twitter.com/CarlosFNavarroC).
+Reach out via [email](mailto:carlosnavarroc@uchile.cl), [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io), or [Twitter](https://twitter.com/CarlosFNavarroC) for collaboration or questions.

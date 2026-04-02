@@ -5,12 +5,6 @@ permalink: /summary/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Summary"
-permalink: /summary/
-author_profile: true
----
 
 **Data Scientist & AI Engineer** applying **machine learning, computer vision, and signal processing** to solve problems in healthcare, industry, and research.  
 I build **end-to-end AI pipelines** that are **accurate, interpretable, and robust**, bridging **research methods with practical deployment**.

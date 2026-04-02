@@ -7,8 +7,8 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-
-<p><strong>Data Scientist & AI Engineer</strong> with a professional trajectory spanning <strong>applied research, industrial systems, and engineering education</strong>, working across machine learning, computer vision, and signal processing.</p>
+  
+<p><strong>Data Scientist & AI Engineer</strong> with experience spanning <strong>applied research, industrial systems, and engineering education</strong>, working across machine learning, computer vision, and signal processing.</p>
 
 <p>My work has evolved around three interconnected domains. In <strong>applied research</strong>, I have developed AI methods for clinical and biomedical applications, including imaging and physiological signal analysis. In <strong>industry</strong>, I have designed computer vision and automation systems operating under real-world constraints in environments such as mining and retail. In <strong>education</strong>, I have taught and supervised projects in AI and engineering, focusing on bridging theory with hands-on system development.</p>
 

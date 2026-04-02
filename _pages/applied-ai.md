@@ -70,8 +70,6 @@ author_profile: true
 
 ## Open-Source & Tool Development
 
-- Co-developed **VolumePeeler**, a FIJI plugin for 3D tissue visualization and quantification used in biomedical research  
-
 - Developed reusable pipelines for:
   - biomedical image analysis  
   - microscopy data processing  

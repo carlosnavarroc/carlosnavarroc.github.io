@@ -45,5 +45,5 @@ I have also taught more than 70 courses in engineering, mathematics, and data sc
 ## Contact
 
 * Email: [carlosnavarroc@uchile.cl](mailto:carlosnavarroc@uchile.cl)
-* BlueSky: https://bsky.app/profile/carlosnavarroc.github.io
-* Twitter: https://twitter.com/CarlosFNavarroC
+* [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io) 
+* [Twitter](https://twitter.com/CarlosFNavarroC)

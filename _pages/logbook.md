@@ -48,7 +48,7 @@ A complete experimental platform combining hardware, software, and computer visi
 
 ## 2019 – 2025 · AI for Healthcare and Neuroscience  
 **Data Scientist — Faculty of Medicine, University of Chile**  
-Neurosystems · SCIANLab · AudioBrain · Tech4Medics-Lab  
+[Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/) · [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) · [AudioBrain](https://dpoae.scian.cl/) · [Tech4Medics-Lab](https://www.tech4medics.cl/team/)  
 
 ---
 
@@ -59,7 +59,7 @@ Machine learning systems for predicting postoperative risk using physiological s
 																																																																  
 
 **Key contributions:**
-- Designed predictive ML models for clinical outcomes  
+- Designed [predictive ML models for clinical outcomes](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf)  
 - Applied spectral analysis to EEG signals  
 - Modeled combined anesthetic effects using clinical + electrophysiological data  
 
@@ -81,6 +81,7 @@ A machine learning pipeline for clinical diagnosis using physiological signals.
 **Traceable work:**
 - Blog: [Retina–Brain workshop](https://carlosnavarroc.github.io/posts/2025/03/24/jornada-retina-cerebro/)  
 - Thesis: [Glaucoma diagnosis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-zamorano_mc_compressed.pdf)
+- Poster: [Glaucoma diagnosis](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
 
 ---
 
@@ -96,8 +97,8 @@ Deep learning systems for microscopy and biomedical image analysis.
 - Applied DL to microscopy classification tasks  
 
 **Traceable work:**
-- Paper: IEEE CAI 2023  
-- Paper: RaViTT (arXiv)  
+- Paper: [IEEE CAI 2023](https://ieeexplore.ieee.org/abstract/document/10195067)  
+- Paper: [RaViTT (arXiv)](https://arxiv.org/abs/2306.10959) 
 - Blog: [Student projects in AI](https://carlosnavarroc.github.io/posts/2023/12/29/comites-tesis-vision-ia/)
 
 ---
@@ -105,15 +106,18 @@ Deep learning systems for microscopy and biomedical image analysis.
 ### Scientific software and open tools
 
 **What was built:**
-Research-grade software for biomedical image analysis.
+Research-oriented software tools for biomedical image analysis and quantitative interpretation of complex biological data.
 
 **Key contributions:**
-- Co-developed **VolumePeeler (FIJI plugin)**  
-- Improved visualization and quantification of 3D biological data  
-- Focused on interpretability of complex image structures  
+- Co-developed **VolumePeeler (FIJI plugin)** for 3D visualization and geometric analysis  
+- Improved visualization and quantification of volumetric biological datasets  
+- Focused on interpretability of complex image structures in microscopy data  
+- Applied image analysis methods to:
+  - [Membrane deformation quantification](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)  
+  - [Embryo development tracking in live imaging data](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)
 
 **Traceable work:**
-- Publication: BMC Bioinformatics (2023)
+- [Publication: VolumePeeler — BMC Bioinformatics (2023)](https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-023-05403-z.pdf)  
 
 ---
 
@@ -127,7 +131,7 @@ Signal-processing-based system for early detection of cognitive decline.
 - Investigated otoacoustic emissions as biomarkers  
 
 **Traceable work:**
-- Paper: Alzheimer’s & Dementia  
+- Paper: [Alzheimer’s & Dementia](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/dad2.12467)  
 - Blog: [Congreso Futuro](https://carlosnavarroc.github.io/posts/2026/01/15/audiobrain-congreso-futuro/)
 
 ---
@@ -142,8 +146,8 @@ Data-driven analysis of social and psychological factors.
 - Applied statistical modeling to large datasets  
 
 **Traceable work:**
-- Frontiers in Psychology (2026)  
-- Alzheimer and Dementia (2025)
+- [Frontiers in Psychology (2026)](https://doi.org/10.3389/fpsyg.2025.1683933)  
+- [Alzheimer and Dementia (2025)](https://carlosnavarroc.github.io/publication/2025-01-09-characterization-loneliness)
 
 ---
 
@@ -155,15 +159,17 @@ Data-driven analysis of social and psychological factors.
 ### Smart mining systems
 
 **What was built:**
-Computer vision pipelines for geological analysis in mining environments.
+Computer vision and machine learning pipelines for geological analysis in mining environments.
 
 **Key contributions:**
-- Developed lithology classification from video  
-- Designed pattern recognition pipelines for rock estimation  
+- Designed machine learning pipelines for automated lithology classification  
+- Developed video-based pattern recognition methods for rock type estimation  
+- Applied computer vision techniques under real-world industrial constraints  
 
 **Traceable work:**
-- Paper: Rock Lithological Classification (2015)
-
+- [Paper: Rock Lithological Classification (2015)](https://doi.org/10.1016/j.minpro.2015.09.015)  
+- Poster: [Lithological Classification](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf)  
+- Poster: [Rock Type Estimation](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)
 ---
 
 ### Retail analytics
@@ -191,7 +197,7 @@ Real-time telemetry systems for mining environments.
 
 **Traceable work:**
 - Collaboration: CSIRO Chile  
-- MPES 2019
+- [MPES 2019](https://carlosnavarroc.github.io/publication/2019-11-30-wireless-slope-monitoring/)
 
 ---
 
@@ -201,14 +207,14 @@ Real-time telemetry systems for mining environments.
 																							   
 
 - **PhD in Electrical Engineering — University of Chile (2020)**  
-  Focus: color–texture classification using multiscale features and SVM ensembles  
+  Focus: [color–texture classification using multiscale features and SVM ensembles  ](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)
 																																									 
 
 - **Diploma in Electrophysiology — University of Chile (2019)**  
   Focus: bioelectric signal processing  
 
 - **Electrical Engineering — University of Chile (2010)**  
-  Focus: iris detection using Particle Swarm Optimization  
+  Focus: [iris detection using Particle Swarm Optimization](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf)  
 																																																																  
 
 		  
@@ -227,7 +233,7 @@ These projects reflect complementary skills in **systems thinking, creativity, a
 																							 
 																								   
 
-- Produced a full-length independent film  
+- [Produced a full-length independent film](https://tinyurl.com/CNC-IMDB)  
 - Managed team, logistics, and production workflow  
 - Delivered crowdfunded project under constraints  
 
@@ -237,7 +243,7 @@ These projects reflect complementary skills in **systems thinking, creativity, a
 
 												
 - Fieldwork + photography + urban analysis  
-- Study of historic street plaques in Santiago  
+- Study of historic [street plaques](https://carlosnavarroc.github.io/posts/2024/03/13/placas-antiguas-santiago/) in Santiago  
 		
 																																								
 													  
@@ -250,15 +256,15 @@ These projects reflect complementary skills in **systems thinking, creativity, a
 																				  
 																		   
 
-- Built a virtual university campus (Gather Town)  
+- Built a [virtual university campus](https://tinyurl.com/beauchefvirtual) (Gather Town)  
 - Enabled interaction during pandemic conditions  
 
 ---
 
 ### Independent development
 
-- Developed **DeloreanCamara** (image alignment app)  
-- Real-time comparison of historical vs current images  
+- Developed [**DeloreanCamara**](https://carlosnavarroc.github.io/posts/2025/12/30/delorean-camara/) (image alignment app)  
+- Real-time comparison of [historical vs current images](https://carlosnavarroc.github.io/posts/2026/02/delorean-camara-largo-viaje/)  
 
 		
 																																												  
@@ -274,7 +280,7 @@ These projects reflect complementary skills in **systems thinking, creativity, a
 																			
 																							 
 
-- Accredited photographer (radio media)  
+- Accredited photographer ([radio media](https://www.instagram.com/p/DWPgrITDkRD/?img_index=10))  
 - Produced real-time visual content  
 - Strong alignment with visual analysis (CV mindset)
 
@@ -300,8 +306,8 @@ These projects reflect complementary skills in **systems thinking, creativity, a
 
 ## Academic and Community Engagement
 
-- Reviewer — ISICS 2024  
-- Speaker in AI and interdisciplinary research events  
+- Reviewer — [ISICS 2024](https://isics.cedai.cl/2024/), Intelligent Computing Systems Symposium  
+- [Speaker](https://carlosnavarroc.github.io/posts/2025/06/06/participacion-computer-vision-brasil-chile/) in AI and interdisciplinary research events  
 - Participation in international conferences  
 
 		

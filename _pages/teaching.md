@@ -8,13 +8,14 @@ sitemap: true
 
 I design and teach engineering courses that bridge theory, experimentation, and real-world systems.
 
-Since 2005, I have progressed from teaching assistant roles to leading undergraduate and graduate-level courses, with a strong emphasis on laboratory-based learning, project-driven evaluation, and the integration of artificial intelligence into engineering education.
+I have been involved in university-level teaching since 2005, starting as a teaching assistant and progressing to leading undergraduate and graduate-level courses.
 
 My teaching spans multiple institutions, including the Department of Electrical Engineering ([DIE](https://www.die.cl/academicos-jornada-parcial/)) at Universidad de Chile, and covers areas such as electrical engineering, applied mathematics, and AI-driven systems, including topics like [image processing](https://tinyurl.com/Clases-CNC-Imagenes).
 
 **Summary**
 
-* Teaching experience: 2005 – Present
+* University teaching involvement: 2005 – Present  
+* Course leadership and instruction: 2015 – Present
 * +70 course instances (2015–2026)
 * +2500 students across institutions
 * Courses in engineering, mathematics, physics, and data science

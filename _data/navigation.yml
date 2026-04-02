@@ -3,20 +3,20 @@ main:
   - title: "Summary"
     url: /summary/
 
-  - title: "About"
-    url: /about/
-  
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Applied AI"
+  - title: "Projects"
     url: /industry/
-  
-  - title: "Teaching"
-    url: /teaching/    
-    
+
   - title: "Logbook"
     url: /logbook/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "About"
+    url: /about/
   
   - title: "Blog"
     url: /year-archive/

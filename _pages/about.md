@@ -13,6 +13,8 @@ redirect_from:
 
 I design and deploy AI systems for real-world problems in healthcare, industry, and scientific applications.
 
+*Bridging research, teaching, and real-world AI systems.*
+
 ---
 
 **What I do:**
@@ -40,3 +42,14 @@ My work focuses on building AI solutions that move beyond theory into practice, 
 In parallel, I have taught more than 70 courses across engineering, mathematics, and data science, emphasizing hands-on learning and applied problem solving.
 
 More details about my work are documented in my [logbook](/logbook/), where I maintain a structured record of projects and technical developments.
+
+---
+
+## Contact & Opportunities
+
+I am open to academic, research, and industry opportunities, as well as collaborations.
+
+Please feel free to reach out via:
+- [email](mailto:carlosnavarroc@uchile.cl)  
+- [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io)  
+- [Twitter](https://twitter.com/CarlosFNavarroC)  

@@ -7,13 +7,10 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>I design and deploy AI-driven systems that operate under real-world constraints.</p>
+<p>I design and deploy **AI-driven systems** that operate in **real-world environments**.  
+My work translates machine learning, computer vision, and signal processing methods into **robust, usable solutions** across healthcare, industry, and applied research.</p>
 
-<p>My work focuses on translating machine learning, computer vision, and signal processing methods into robust, usable solutions across healthcare, industry, and applied research environments.</p>
-
-<p>I have experience building end-to-end systems, from data acquisition and modeling to deployment and validation, working closely with domain experts to ensure practical impact.</p>
-
-<p>I focus on systems that do not remain as prototypes, but are deployed, evaluated, and used in practice.</p>
+<p>With experience building **end-to-end pipelines** —from data acquisition and modeling to deployment and validation— I work closely with domain experts to ensure **practical impact**, focusing on systems that are **deployed, evaluated, and actively used**, not just prototypes.</p>
 
 </div>
 
@@ -24,82 +21,62 @@ author_profile: true
 **Data Scientist — Faculty of Medicine, University of Chile**  
 *Neurosystems, SCIANLab & AudioBrain (2019–2025)*  
 
-- Delivered AI systems operating in real-world clinical and research environments
-- Designed and deployed machine learning and computer vision systems for diagnostics, biomedical image analysis, and cognitive health assessment  
-- Applied signal processing and statistical modeling to physiological and clinical data under real-world constraints
-- Built and deployed AI systems used in real clinical and research workflows
+- Delivered AI systems in real-world clinical and research environments  
+- Designed and deployed machine learning and computer vision solutions for diagnostics, biomedical image analysis, and cognitive health assessment  
+- Applied signal processing and statistical modeling to physiological and clinical data  
+- Built AI systems actively used in clinical and research workflows
 
 **Applied Research Engineer — University of Chile**  
 *(2009–2018)*  
 
-- Designed and deployed computer vision and automation systems in industrial environments (mining, retail)
-- Contributed to industry-funded R&D projects, supporting real-world system deployment and technology transfer  
+- Designed and deployed computer vision and automation systems in industrial environments (mining, retail)  
+- Contributed to industry-funded R&D projects, supporting real-world system deployment  
 
 ---
 
-## Selected Projects and Impact
+## Selected Projects & Impact
 
-- Achieved **2nd place in the Cell Tracking Challenge** with deep learning models for 3D nuclei segmentation  
+- **2nd place**, Cell Tracking Challenge (3D nuclei segmentation)  
+- **RaViTT**: Vision Transformer for biomedical image classification  
+- Glaucoma diagnosis pipeline integrating physiological signals with predictive modeling  
+- EEG-based postoperative risk prediction using spectral analysis & machine learning  
+- IoT-based platform for real-time behavioral analysis  
+- **VolumePeeler**: FIJI plugin for 3D visualization and quantification of complex datasets  
+- Early detection of cognitive decline using auditory biomarkers  
+- Large-scale studies on social isolation and mental health with data-driven approaches  
 
-- Developed **RaViTT**, a Vision Transformer-based model for biomedical image classification  
-
-- Developed a machine learning pipeline for automated glaucoma diagnosis, integrating physiological signals with predictive modeling  
-
-- Built models for EEG-based postoperative risk prediction using spectral analysis and machine learning  
-
-- Designed and deployed an IoT-based experimental platform for real-time behavioral analysis, integrating hardware, computer vision, and control systems  
-
-- Co-developed **VolumePeeler**, a FIJI plugin enabling 3D visualization and quantification of complex biological datasets  
-
-- Designed signal-processing-based methods for early detection of cognitive decline using auditory biomarkers  
-
-- Contributed to large-scale studies on social isolation and mental health using data-driven approaches  
-
-  
 ---
 
 ## Core Capabilities
 
-- End-to-end machine learning systems (data → modeling → deployment)
-- Computer vision: detection, segmentation, real-world systems  
-- Signal processing: EEG, physiological data, time-series modeling  
-- Deep learning: CNNs, Transformers, biomedical imaging  
-- Applied AI in healthcare and industrial environments
-  
+- **End-to-end AI systems:** data → modeling → deployment  
+- **Computer vision:** detection, segmentation, real-world systems  
+- **Signal processing:** EEG, physiological data, time-series modeling  
+- **Deep learning:** CNNs, Transformers, biomedical imaging  
+- Applied AI in healthcare & industrial environments  
+
 ---
 
-## Open-Source & Tool Development
-
-- Developed reusable pipelines for:
-  - biomedical image analysis  
-  - microscopy data processing  
-  - industrial computer vision systems  
-
-- Focus on reproducibility, modular design, and interdisciplinary usability
----
-
-## Technical Skills
+## Tools & Technical Skills
 
 - **Programming:** Python, R, MATLAB  
 - **Libraries & Tools:** PyTorch, TensorFlow, scikit-learn, OpenCV, FIJI/ImageJ  
-- **Practices:** model evaluation, reproducibility, ethical AI, data privacy  
+- **Practices:** reproducibility, model evaluation, ethical AI, data privacy  
 
 ---
 
 ## Collaboration & Impact
 
-- Worked with multidisciplinary teams including engineers, clinicians, and domain experts  
-- Translated technical results into actionable insights for decision-making  
-- Experience delivering solutions under real-world constraints, including data limitations and stakeholder requirements  
-- Strong focus on **deployable, real-world systems**, not only research prototypes  
-- Proven ability to bridge academic research and applied industry solutions
+- Worked with **multidisciplinary teams** (engineers, clinicians, domain experts)  
+- Translated technical results into **actionable insights**  
+- Delivered solutions under real-world constraints: data limitations, stakeholder requirements  
+- Focused on **deployable, operational systems**, bridging academic research and applied industry  
 
 ---
 
 ## Context
 
-This page focuses on applied and deployed systems.
+This page highlights **applied and deployed systems**.  
 
-For a structured view of projects and technical work over time, see the [Professional Logbook](https://carlosnavarroc.github.io/logbook/).
-
-For teaching and academic activities, see [Teaching](https://carlosnavarroc.github.io/teaching/).
+See the [Professional Logbook](https://carlosnavarroc.github.io/logbook/) for a structured view of projects and technical work.  
+For academic activities, see [Teaching](https://carlosnavarroc.github.io/teaching/).

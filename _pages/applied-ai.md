@@ -21,7 +21,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 **Data Scientist — Faculty of Medicine, University of Chile**  
 *Neurosystems, SCIANLab & AudioBrain (2019–2025)*  
 
-- Delivered AI systems integrated into clinical and research workflows  
+- Led the development and deployment of end-to-end AI systems integrated into clinical workflows.  
 - Designed machine learning and computer vision solutions for diagnostics, biomedical imaging, and cognitive health assessment  
 - Applied signal processing and statistical modeling to physiological and clinical data
 

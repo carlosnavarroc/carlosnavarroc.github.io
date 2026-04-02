@@ -25,7 +25,7 @@ I design and deploy end-to-end AI systems in healthcare, industry, and scientifi
 
 ## Explore my work
 
-* [Applied AI & Engineering](/industry/) — real-world AI systems and deployments
+* [Applied AI & Engineering](/applied-ai/) — real-world AI systems and deployments
 * [Logbook](/logbook/) — detailed, traceable record of projects and experiments
 * [Publications](/publications/) — scientific research and contributions
 * [Teaching](/teaching/) — courses, labs, and student mentorship

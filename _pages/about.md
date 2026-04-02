@@ -6,50 +6,44 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# AI Systems · Computer Vision · Applied Machine Learning
+# AI Systems for Healthcare & Real-World Applications
 
 **Electrical Engineer (PhD) · Data Scientist · University Lecturer**
 
-I design and deploy AI systems for real-world problems in healthcare, industry, and scientific applications.
-
-*Bridging research, teaching, and real-world AI systems.*
+I design and deploy end-to-end AI systems in healthcare, industry, and scientific environments, focusing on solutions that move from research into real-world impact.
 
 ---
 
-**What I do:**
-- Build end-to-end machine learning systems (data → model → deployment)  
-- Develop computer vision and signal processing solutions  
-- Teach and supervise projects in AI, engineering, and data science  
+## Selected Work
+
+* Clinical AI systems for EEG-based risk prediction
+* Deep learning models for 3D biomedical image segmentation (Cell Tracking Challenge – Top 3)
+* Vision Transformer architectures for medical imaging
+* Industrial computer vision systems for automation and monitoring
 
 ---
 
-**Explore:**
+## Explore my work
 
-- → [Projects / Industry](/industry/) — applied AI systems and real-world deployments  
-- → [Teaching](/teaching/) — courses, labs, and student work  
-- → [Logbook](/logbook/) — detailed record of projects, experiments, and implementations  
-- → [Publications](/publications/) — research output  
+* [Applied AI & Engineering](/industry/) — real-world AI systems and deployments
+* [Logbook](/logbook/) — detailed, traceable record of projects and experiments
+* [Publications](/publications/) — scientific research and contributions
+* [Teaching](/teaching/) — courses, labs, and student mentorship
 
 ---
 
 ## About
 
-I am an Electrical Engineer (PhD) and Data Scientist working at the intersection of artificial intelligence, computer vision, and real-world systems.
+Electrical Engineer (PhD) and Data Scientist working at the intersection of artificial intelligence, computer vision, and real-world systems.
 
-My work focuses on building AI solutions that move beyond theory into practice, integrating data, models, and deployment in real environments. I have developed systems in healthcare, mining, and industrial contexts, working with interdisciplinary teams and real-world constraints.
+I build deployable AI solutions in healthcare and industry, integrating data, models, and operational constraints.
 
-In parallel, I have taught more than 70 courses across engineering, mathematics, and data science, emphasizing hands-on learning and applied problem solving.
-
-More details about my work are documented in my [logbook](/logbook/), where I maintain a structured record of projects and technical developments.
+I have also taught more than 70 courses in engineering, mathematics, and data science, focusing on hands-on and applied learning.
 
 ---
 
-## Contact & Opportunities
+## Contact
 
-I am open to academic, research, and industry opportunities, as well as collaborations.
-
-Please feel free to reach out via:
-- [email](mailto:carlosnavarroc@uchile.cl)  
-- [BlueSky](https://bsky.app/profile/carlosnavarroc.github.io)  
-- [Twitter](https://twitter.com/CarlosFNavarroC)  
+* Email: [carlosnavarroc@uchile.cl](mailto:carlosnavarroc@uchile.cl)
+* BlueSky: https://bsky.app/profile/carlosnavarroc.github.io
+* Twitter: https://twitter.com/CarlosFNavarroC

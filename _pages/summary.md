@@ -12,7 +12,7 @@ author_profile: true
 
 <p>My work has evolved around three interconnected domains. In <strong>applied research</strong>, I have developed AI methods for clinical and biomedical applications, including imaging and physiological signal analysis. In <strong>industry</strong>, I have designed computer vision and automation systems operating under real-world constraints in environments such as mining and retail. In <strong>education</strong>, I have taught and supervised projects in AI and engineering, focusing on bridging theory with hands-on system development.</p>
 
-<p>These three areas are not independent. My approach is centered on <strong>translating methods into systems</strong>, connecting research, implementation, and deployment into coherent engineering workflows.</p>
+<p>These three areas are not independent. My work is centered on <strong>translating methods into real systems</strong>, connecting research, implementation, and deployment into coherent engineering workflows.</p>
 
 <p>To support this, I maintain a structured <a href="/logbook/">professional logbook</a>, where I document projects, experiments, and technical developments over time, providing <strong>traceable evidence</strong> of the work behind the results.</p>
 

@@ -16,42 +16,37 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-# Professional Experience
-
-**Data Scientist — Faculty of Medicine, University of Chile**  
+## Professional Experience
+**Data Scientist — Faculty of Medicine, Universidad de Chile**  
 *Neurosystems, SCIANLab & AudioBrain (2019–2025)*  
-
 - Led the development and deployment of end-to-end AI systems integrated into clinical workflows.  
-- Designed machine learning and computer vision solutions for diagnostics, biomedical imaging, and cognitive health assessment  
-- Applied signal processing and statistical modeling to physiological and clinical data
+- Designed machine learning and computer vision solutions for diagnostics, biomedical imaging, and cognitive health assessment.
 
 **Applied Research Engineer — University of Chile**  
 *(2009–2018)*  
-
-- Developed computer vision and automation systems in industrial environments (mining, retail)  
-- Contributed to industry-funded R&D projects, supporting technology transfer and deployment of real-world systems  
+- Developed computer vision and automation systems in industrial environments (mining, retail).
+- Contributed to industry-funded R&D projects, supporting technology transfer.
 
 ---
+## Selected Projects and Impact
 
-# Selected Projects and Impact
-
-## Clinical AI & Biomedical Imaging
+**Clinical AI & Biomedical Imaging**
 *   **2nd Place – Cell Tracking Challenge:** Developed high-accuracy Deep Learning models for **3D nuclei segmentation**.
 *   **RaViTT:** Engineered a **Vision Transformer** architecture tailored for biomedical image classification.
 *   **Glaucoma Diagnosis Pipeline:** Integrated physiological signals with predictive modeling for early clinical detection.
 *   **VolumePeeler:** Created a FIJI plugin for **3D visualization** and quantification of complex biological datasets.
 
-## Industrial AI & IoT
+**Industrial AI & IoT**
 *   **IoT Behavioral Analysis Platform:** Orchestrated real-time integration of hardware, computer vision, and control systems.
 *   **Industrial Automation (Mining/Retail):** Designed computer vision systems for process optimization and automated monitoring.
 
-## Signal Processing & Cognitive Health
+**Signal Processing & Cognitive Health**
 *   **Postoperative Risk Prediction:** Combined spectral analysis of **EEG data** with ML to predict clinical outcomes.
 *   **Auditory Biomarkers:** Developed signal-processing methods for early detection of cognitive decline.
 
 ---
 
-# Core Capabilities
+## Core Capabilities
 
 - End-to-end machine learning systems (data → modeling → deployment)  
 - Computer vision: detection, segmentation, real-world systems  
@@ -61,7 +56,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-# Open-Source & Tool Development
+## Open-Source & Tool Development
 
 - Developed reusable, modular pipelines for:  
   - Biomedical image analysis  
@@ -71,7 +66,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-# Technical Skills
+## Technical Skills
 
 - **Programming:** Python, R, MATLAB  
 - **Libraries & Tools:** PyTorch, TensorFlow, scikit-learn, OpenCV, FIJI/ImageJ  
@@ -79,7 +74,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-# Collaboration & Impact
+## Collaboration & Impact
 
 - Worked with multidisciplinary teams including engineers, clinicians, and domain experts  
 - Translated technical results into actionable insights for decision-making  
@@ -88,7 +83,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-# Context
+## Context
 
 This page focuses on applied and deployed systems.  
 

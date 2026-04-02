@@ -11,7 +11,7 @@ author_profile: true
 
 <p>My work focuses on translating machine learning, computer vision, and signal processing methods into robust, usable solutions across healthcare, industry, and applied research environments.</p>
 
-<p>I have experience building end-to-end systems—from data acquisition and modeling to deployment and validation—working closely with domain experts to ensure practical impact.</p>
+<p>I have experience building end-to-end systems, from data acquisition and modeling to deployment and validation, working closely with domain experts to ensure practical impact.</p>
 
 <p>I focus on systems that do not remain as prototypes, but are deployed, evaluated, and used in practice.</p>
 

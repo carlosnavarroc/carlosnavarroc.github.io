@@ -6,9 +6,11 @@ author_profile: true
 sitemap: true
 ---
 
-I have been involved in engineering and applied mathematics education since 2005, progressing from teaching assistant roles to leading undergraduate and graduate-level courses.
+I design and teach engineering courses that bridge theory, experimentation, and real-world systems.
 
-My teaching experience spans multiple institutions, including the Department of Electrical Engineering ([DIE](https://www.die.cl/academicos-jornada-parcial/)) at Universidad de Chile. I emphasize laboratory-based learning, applied problem solving, and the integration of artificial intelligence into engineering education, including topics such as [image processing](https://tinyurl.com/Clases-CNC-Imagenes).
+Since 2005, I have progressed from teaching assistant roles to leading undergraduate and graduate-level courses, with a strong emphasis on laboratory-based learning, project-driven evaluation, and the integration of artificial intelligence into engineering education.
+
+My teaching spans multiple institutions, including the Department of Electrical Engineering ([DIE](https://www.die.cl/academicos-jornada-parcial/)) at Universidad de Chile, and covers areas such as electrical engineering, applied mathematics, and AI-driven systems, including topics like [image processing](https://tinyurl.com/Clases-CNC-Imagenes).
 
 **Summary**
 
@@ -28,7 +30,9 @@ My teaching experience spans multiple institutions, including the Department of 
 **Role:** Instructor (100%)
 **Period:** 2022–2026
 
-Core undergraduate laboratory course focused on experimental validation of electrical engineering concepts. The course emphasizes instrumentation, collaborative work, and technical communication, evolving across multiple iterations toward structured experimentation and reproducibility.
+Core laboratory course where students transition from theoretical concepts to real experimental systems, designing, implementing, and validating electrical engineering solutions under real constraints.
+
+The course has evolved across multiple iterations toward structured experimentation, reproducibility, and technical communication aligned with engineering practice.
 
 **Selected laboratory activities and student work:**
 
@@ -42,13 +46,15 @@ Core undergraduate laboratory course focused on experimental validation of elect
 **Role:** Co-instructor (with Martín Adams)
 **Period:** 2021–2026
 
-Advanced laboratory course integrating machine learning, artificial intelligence, and robotics. The course is organized around project-based learning, exposing students to real-world engineering problems and modern computational tools.
+Advanced project-based laboratory course where students design and implement AI-driven systems combining machine learning, computer vision, and robotics.
+
+The course emphasizes real-world problem solving, experimental validation, and the development of complete engineering pipelines—from data acquisition to model evaluation and system integration.
 
 **Selected projects and course outcomes:**
 
 * [Final project presentations in Computational Intelligence and Robotics](https://carlosnavarroc.github.io/posts/2025/12/12/presentacion-proyecto-final-IC/)
 
-Some course activities, student projects, and technical developments are documented in my [logbook](https://carlosnavarroc.github.io/logbook/), where I share ongoing work, implementations, and experimental results.
+These courses are tightly connected to my research and applied work, with many student projects evolving into real systems documented in my [logbook](https://carlosnavarroc.github.io/logbook/) and linked to ongoing [research and industry projects](https://carlosnavarroc.github.io/industry/).
 
 ---
 
@@ -170,9 +176,9 @@ Several of these projects are closely related to my research in computer vision,
 
 ### External Evaluator – Medical Technology, Universidad de Chile (Tech4Medics Lab)
 
-Participation as external evaluator in thesis committees at the Tech4Medics Lab, an interdisciplinary research group focused on medical imaging, artificial intelligence, and clinical decision support systems.
+External evaluator in thesis committees at [Tech4Medics Lab](https://www.tech4medics.cl/), an interdisciplinary research group working at the intersection of medical imaging, artificial intelligence, and clinical decision support.
 
-Lab website: https://www.tech4medics.cl/
+This role involves evaluating applied AI systems in real clinical contexts, reinforcing the connection between teaching, research, and deployment in healthcare environments.
 
 * **2026**: AI-based evaluation of positioning criteria in digital mammography
   *Matías Gajardo, Carolina Bavestrello*

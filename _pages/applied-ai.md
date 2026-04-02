@@ -16,7 +16,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-## Professional Experience
+# Professional Experience
 
 **Data Scientist — Faculty of Medicine, University of Chile**  
 *Neurosystems, SCIANLab & AudioBrain (2019–2025)*  
@@ -33,20 +33,25 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-## Selected Projects and Impact
+# Selected Projects and Impact
 
-- **2nd place – Cell Tracking Challenge**: deep learning models for 3D nuclei segmentation  
-- **RaViTT** — Vision Transformer for biomedical image classification  
-- **Glaucoma diagnosis pipeline**: integrates physiological signals with predictive modeling  
-- **EEG-based postoperative risk prediction**: spectral analysis + machine learning  
-- **IoT behavioral analysis platform**: real-time integration of hardware, computer vision, and control systems  
-- **VolumePeeler** — FIJI plugin for 3D visualization and quantification of biological datasets  
-- Signal-processing methods for early detection of cognitive decline using auditory biomarkers  
-- Large-scale studies on social isolation and mental health using data-driven approaches  
+## Clinical AI & Biomedical Imaging
+*   **2nd Place – Cell Tracking Challenge:** Developed high-accuracy Deep Learning models for **3D nuclei segmentation**.
+*   **RaViTT:** Engineered a **Vision Transformer** architecture tailored for biomedical image classification.
+*   **Glaucoma Diagnosis Pipeline:** Integrated physiological signals with predictive modeling for early clinical detection.
+*   **VolumePeeler:** Created a FIJI plugin for **3D visualization** and quantification of complex biological datasets.
+
+## Industrial AI & IoT
+*   **IoT Behavioral Analysis Platform:** Orchestrated real-time integration of hardware, computer vision, and control systems.
+*   **Industrial Automation (Mining/Retail):** Designed computer vision systems for process optimization and automated monitoring.
+
+## Signal Processing & Cognitive Health
+*   **Postoperative Risk Prediction:** Combined spectral analysis of **EEG data** with ML to predict clinical outcomes.
+*   **Auditory Biomarkers:** Developed signal-processing methods for early detection of cognitive decline.
 
 ---
 
-## Core Capabilities
+# Core Capabilities
 
 - End-to-end machine learning systems (data → modeling → deployment)  
 - Computer vision: detection, segmentation, real-world systems  
@@ -56,7 +61,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-## Open-Source & Tool Development
+# Open-Source & Tool Development
 
 - Developed reusable, modular pipelines for:  
   - Biomedical image analysis  
@@ -66,7 +71,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 - **Programming:** Python, R, MATLAB  
 - **Libraries & Tools:** PyTorch, TensorFlow, scikit-learn, OpenCV, FIJI/ImageJ  
@@ -74,7 +79,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-## Collaboration & Impact
+# Collaboration & Impact
 
 - Worked with multidisciplinary teams including engineers, clinicians, and domain experts  
 - Translated technical results into actionable insights for decision-making  
@@ -83,7 +88,7 @@ I specialize in translating machine learning, computer vision, and signal proces
 
 ---
 
-## Context
+# Context
 
 This page focuses on applied and deployed systems.  
 

@@ -7,10 +7,11 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p><strong>Data Scientist & AI Engineer</strong> applying <strong>machine learning, computer vision, and signal processing</strong> to solve problems in healthcare, industry, and research.  
-I build <strong>end-to-end AI pipelines</strong> that are <strong>accurate, interpretable, and robust</strong>, bridging <strong>research methods with practical deployment</strong>.</p>
+<p>I am a <strong>Data Scientist & AI Engineer</strong> dedicated to transforming complex data into actionable solutions. My expertise lies at the intersection of <strong>Machine Learning, Computer Vision, and Signal Processing</strong>, with a proven track record in healthcare, industry, and high-impact research.</p>
 
-<p>My experience spans <strong>clinical AI, biomedical imaging, industrial computer vision</strong>, and teaching. I document all projects in a structured <a href="https://carlosnavarroc.github.io/logbook/">logbook</a>, providing <strong>traceable evidence of systems and applied research</strong>.</p>
+<p>I specialize in building <strong>end-to-end AI pipelines</strong> that aren't just accurate, but also <strong>interpretable and production-ready</strong>. My goal is to bridge the gap between cutting-edge research and practical, robust deployment.</p>
+
+<p>Currently, my work spans <strong>clinical AI, biomedical imaging, and industrial automation</strong>. I maintain a detailed <a href="https://carlosnavarroc.github.io/logbook/">logbook</a> where I document my technical journey and applied research, ensuring every system I build is transparent and traceable.</p>
 
 </div>
 

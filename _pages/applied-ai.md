@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Applied AI & Engineering"
-permalink: /AAE/
+permalink: /applied-ai/
 author_profile: true
 ---
 
@@ -13,6 +13,8 @@ author_profile: true
 
 <p>I have experience building end-to-end systems—from data acquisition and modeling to deployment and validation—working closely with domain experts to ensure practical impact.</p>
 
+<p>I focus on systems that do not remain as prototypes, but are deployed, evaluated, and used in practice.</p>
+
 </div>
 
 ---
@@ -22,7 +24,7 @@ author_profile: true
 **Data Scientist — Faculty of Medicine, University of Chile**  
 *Neurosystems, SCIANLab & AudioBrain (2019–2025)*  
 
-- Led interdisciplinary AI projects in healthcare, working closely with clinicians and domain experts  
+- Delivered AI systems operating in real-world clinical and research environments
 - Designed and deployed machine learning and computer vision systems for diagnostics, biomedical image analysis, and cognitive health assessment  
 - Applied signal processing and statistical modeling to physiological and clinical data under real-world constraints
 - Built and deployed AI systems used in real clinical and research workflows
@@ -37,28 +39,28 @@ author_profile: true
 
 ## Selected Projects and Impact
 
-- Designed and deployed an IoT-based experimental platform for real-time behavioral analysis, integrating hardware, computer vision, and control systems  
+- Achieved **2nd place in the Cell Tracking Challenge** with deep learning models for 3D nuclei segmentation  
+
+- Developed **RaViTT**, a Vision Transformer-based model for biomedical image classification  
 
 - Developed a machine learning pipeline for automated glaucoma diagnosis, integrating physiological signals with predictive modeling  
 
 - Built models for EEG-based postoperative risk prediction using spectral analysis and machine learning  
 
-- Developed **RaViTT**, a Vision Transformer-based model for biomedical image classification  
-
-- Achieved **2nd place in the Cell Tracking Challenge** with deep learning models for 3D nuclei segmentation  
+- Designed and deployed an IoT-based experimental platform for real-time behavioral analysis, integrating hardware, computer vision, and control systems  
 
 - Co-developed **VolumePeeler**, a FIJI plugin enabling 3D visualization and quantification of complex biological datasets  
 
 - Designed signal-processing-based methods for early detection of cognitive decline using auditory biomarkers  
 
-- Contributed to large-scale studies on social isolation and mental health using data-driven approaches
+- Contributed to large-scale studies on social isolation and mental health using data-driven approaches  
 
   
 ---
 
 ## Core Capabilities
 
-- End-to-end machine learning systems (data → modeling → deployment)  
+- End-to-end machine learning systems (data → modeling → deployment)
 - Computer vision: detection, segmentation, real-world systems  
 - Signal processing: EEG, physiological data, time-series modeling  
 - Deep learning: CNNs, Transformers, biomedical imaging  
@@ -68,11 +70,14 @@ author_profile: true
 
 ## Open-Source & Tool Development
 
-- Developed **VolumePeeler**, a FIJI plugin for 3D tissue visualization and quantification used in biomedical research  
-- Built pipelines for **rock lithology classification**, microscopy image analysis, and biomedical imaging  
-- Promoted reproducibility and adoption of AI workflows across academic and applied settings  
-- Developed tools supporting interdisciplinary collaboration between engineers, clinicians, and researchers  
+- Co-developed **VolumePeeler**, a FIJI plugin for 3D tissue visualization and quantification used in biomedical research  
 
+- Developed reusable pipelines for:
+  - biomedical image analysis  
+  - microscopy data processing  
+  - industrial computer vision systems  
+
+- Focus on reproducibility, modular design, and interdisciplinary usability
 ---
 
 ## Technical Skills

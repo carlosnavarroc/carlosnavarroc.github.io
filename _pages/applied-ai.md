@@ -33,8 +33,8 @@ author_profile: true
 ### Signal Processing & Cognitive Health
 
 * **Postoperative Risk Prediction:** EEG-based predictive modeling for clinical outcomes
-* **Auditory Biomarkers:** Signal-processing methods for early detection of cognitive decline
-
+* **Auditory Biomarkers:** Developed signal-processing methods for early detection of cognitive decline  
+  → Resulted in a Top 10 most cited article (2024)
 ---
 
 ## Professional Experience

@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# AI Systems for Healthcare & Real-World Applications
-
-**Electrical Engineer (PhD) · Data Scientist · University Lecturer**
+# Electrical Engineer (PhD) · Data Scientist · University Lecturer
 
 I design and deploy end-to-end AI systems in healthcare, industry, and scientific environments, focusing on solutions that move from research into real-world impact.
 

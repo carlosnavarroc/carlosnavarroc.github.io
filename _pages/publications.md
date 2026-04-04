@@ -27,9 +27,8 @@ You can also find my full list of publications on
   Deep learning pipeline achieving top-3 performance in the Cell Tracking Challenge  
 
 - **Cochlear dysfunction as an early biomarker of cognitive decline**  
-  <em>Alzheimer’s & Dementia (DADM), 2024</em>  
-  <em>Top 10 most cited articles (2024)</em> 
-  Identified a non-invasive biomarker using physiological signal analysis 
+  <em>Alzheimer’s & Dementia (DADM), 2024 — Top 10 most cited articles</em>  
+  Identified a non-invasive biomarker for early detection of cognitive decline using physiological signal analysis
   
 
 - **The impact of social isolation and perceived loneliness in older adults**  

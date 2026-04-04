@@ -134,6 +134,9 @@ Signal-processing-based system for early detection of cognitive decline.
 - Paper: [Alzheimer’s & Dementia](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/dad2.12467)  
 - Blog: [Congreso Futuro](https://carlosnavarroc.github.io/posts/2026/01/15/audiobrain-congreso-futuro/)
 
+**Impact:**
+- The resulting publication is among the Top 10 most cited articles (2024)
+  
 ---
 
 ### Population-level studies and mental health

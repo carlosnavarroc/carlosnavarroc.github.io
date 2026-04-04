@@ -28,8 +28,9 @@ You can also find my full list of publications on
 
 - **Cochlear dysfunction as an early biomarker of cognitive decline**  
   <em>Alzheimer’s & Dementia (DADM), 2024</em>  
+  Top 10 most cited articles (2024)
   Identified a non-invasive biomarker using physiological signal analysis 
-  Top 10 most cited articles (2024)  
+  
 
 - **The impact of social isolation and perceived loneliness in older adults**  
   <em>Frontiers in Psychology, 2026</em>  

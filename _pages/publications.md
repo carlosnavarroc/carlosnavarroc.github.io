@@ -28,7 +28,7 @@ You can also find my full list of publications on
 
 - **Cochlear dysfunction as an early biomarker of cognitive decline**  
   <em>Alzheimer’s & Dementia (DADM), 2024</em>  
-  Top 10 most cited articles (2024)
+  <em>Top 10 most cited articles (2024)</em> 
   Identified a non-invasive biomarker using physiological signal analysis 
   
 

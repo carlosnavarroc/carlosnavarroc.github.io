@@ -127,8 +127,11 @@ Determine:
 
 ### Problema 1
 
-Un depósito contiene un fluido con una masa de 1200 kg y un volumen de 1,5 m³.  
-Determine su densidad, peso específico y gravedad específica.
+Un depósito contiene 2,0 m³ de un fluido cuya masa total es de 1500 kg.
+
+a) Determine la densidad del fluido.  
+b) Determine su peso específico.  
+c) Determine su gravedad específica.
 
 ---
 
@@ -210,11 +213,11 @@ SG = ρ / 1000 = **0,8**
 
 ##  Problema 1
 
-ρ = 1200 / 1,5 = **800 kg/m³**  
+ρ = 1500 / 2 = **750 kg/m³**  
 
-γ = 800 · 9,81 = **7.848 N/m³**  
+γ = 750 · 9,81 = **7357,5 N/m³**  
 
-SG = **0,8**
+SG = **0,75**
 
 ---
 

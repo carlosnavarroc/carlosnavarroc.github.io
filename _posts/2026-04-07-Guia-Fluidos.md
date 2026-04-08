@@ -297,6 +297,9 @@ La práctica constante y el análisis detallado de los problemas son fundamental
 
 Un estanque abierto a la atmósfera contiene agua. En el costado inferior del estanque se conecta una tubería horizontal que reduce su diámetro.
 
+<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/ae533ef0-3946-4c39-bd51-874e2f396805" />
+
+
 Se tienen los siguientes datos:
 
 - Altura del nivel libre respecto al eje de la tubería: 10 m  

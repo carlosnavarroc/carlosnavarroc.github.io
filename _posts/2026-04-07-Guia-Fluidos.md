@@ -387,3 +387,68 @@ P₁ = **94,1 kPa (manométrica)**
 <div style="text-align: justify;">
 Al disminuir el área de la tubería, la velocidad del fluido aumenta. Según la ecuación de Bernoulli, este aumento en la energía cinética implica una disminución de la presión. Por lo tanto, la presión en la sección de menor área es menor que en la sección de mayor área.
 </div>
+
+### Problema 7 (Empuje y flotación)
+
+Un bloque de madera se sumerge completamente en agua. Se conocen los siguientes datos:
+
+* Volumen del bloque: V = 0,03 m³  
+* Densidad del agua: ρ = 1000 kg/m³  
+* Densidad del bloque: ρ_b = 600 kg/m³  
+
+Determine:
+
+a) El empuje que actúa sobre el bloque.  
+b) El peso del bloque.  
+c) Indique si el bloque flota o se hunde, justificando.  
+
+---
+
+## Desarrollo
+
+### a) Empuje
+
+E = ρ · g · V  
+
+E = 1000 · 9,81 · 0,03  
+
+E = **294,3 N**
+
+---
+
+### b) Peso del bloque
+
+Primero calculamos la masa:
+
+m = ρ_b · V  
+
+m = 600 · 0,03 = 18 kg  
+
+Ahora el peso:
+
+W = m · g  
+
+W = 18 · 9,81 = **176,6 N**
+
+---
+
+### c) Análisis de flotación
+
+Comparación:
+
+E = 294,3 N  
+W = 176,6 N  
+
+Como:
+
+E > W  
+
+El bloque **flota**.
+
+---
+
+### Interpretación
+
+<div style="text-align: justify;">
+Cuando el empuje es mayor que el peso, el cuerpo asciende hasta alcanzar equilibrio flotando parcialmente sumergido. En este caso, la menor densidad del bloque respecto al agua explica este comportamiento.
+</div>

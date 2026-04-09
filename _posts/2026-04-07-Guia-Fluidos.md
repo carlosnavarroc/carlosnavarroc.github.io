@@ -179,7 +179,7 @@ Determine la diferencia de presión entre los puntos medidos.
 
 ---
 
-# 🔹 DESARROLLOS
+#  DESARROLLOS
 
 ---
 
@@ -321,7 +321,7 @@ d) Explique qué ocurre con la presión cuando el fluido pasa de la sección 1 a
 
 ---
 
-# 🔹 DESARROLLO
+#  DESARROLLO
 
 ##  Paso 1: Aplicar Bernoulli entre superficie y salida
 

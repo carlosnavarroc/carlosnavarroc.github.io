@@ -1,0 +1,102 @@
+---
+layout: single
+title: "Acceso a archivos"
+permalink: /pendrive/
+---
+
+<div class="container">
+  <div class="card">
+    <h2>Acceso privado</h2>
+    <p>Ingresa la clave</p>
+
+    <input type="password" id="pw" placeholder="Clave..." />
+    <br>
+    <button onclick="check()">Entrar</button>
+
+    <div id="error" class="error"></div>
+
+    <div id="files">
+      <h3>Archivos</h3>
+
+      <div class="file">
+        📄 <a href="AQUI_TU_LINK" target="_blank">Documento 1</a>
+      </div>
+
+      <div class="file">
+        📊 <a href="AQUI_TU_LINK" target="_blank">Presentación</a>
+      </div>
+
+      <div class="file">
+        💾 <a href="AQUI_TU_LINK" target="_blank">Pendrive backup</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.container {
+  max-width: 500px;
+  margin: 80px auto;
+  text-align: center;
+  font-family: sans-serif;
+}
+.card {
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  background: #ffffff;
+}
+input {
+  padding: 10px;
+  width: 80%;
+  margin-top: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #007acc;
+  color: white;
+  cursor: pointer;
+}
+button:hover {
+  background: #005fa3;
+}
+#files {
+  display: none;
+  margin-top: 25px;
+  text-align: left;
+}
+.file {
+  margin: 10px 0;
+}
+.error {
+  color: red;
+  margin-top: 10px;
+}
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+
+<script>
+const hashCorrecto = "99880e0b1edee4df56b2b31bb4d7a305";
+
+function check() {
+  const input = document.getElementById("pw").value;
+  const hash = CryptoJS.MD5(input).toString();
+
+  if (hash === hashCorrecto) {
+    document.getElementById("files").style.display = "block";
+    document.getElementById("error").innerText = "";
+  } else {
+    document.getElementById("error").innerText = "Clave incorrecta";
+  }
+}
+
+document.getElementById("pw").addEventListener("keypress", function(e) {
+  if (e.key === "Enter") check();
+});
+</script>

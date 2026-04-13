@@ -1,7 +1,7 @@
 ---
 title: 'Defensa de Tesis: Detección de vehículos fraudulentos mediante aprendizaje profundo no supervisado'
-date: 2026-04-06
-permalink: /posts/2026/04/06/defensa-tesis-vehiculos-fraudulentos-deep-learning/
+date: 2026-04-10
+permalink: /posts/2026/04/10/defensa-tesis-vehiculos-fraudulentos-deep-learning/
 tags:
   - Ingeniería Civil Eléctrica
   - Deep Learning

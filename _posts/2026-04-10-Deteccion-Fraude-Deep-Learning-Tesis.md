@@ -38,9 +38,7 @@ La comisión evaluadora estuvo conformada por el profesor <strong>Andrés Caba</
 </p>
 <br>
 
-<div style="text-align: justify;">
-Este trabajo destaca por abordar un problema relevante en el ámbito del <strong>transporte inteligente</strong> y la <strong>seguridad vial</strong>, explorando metodologías avanzadas de inteligencia artificial capaces de operar sin etiquetado previo de datos, lo que representa un desafío significativo y de alto impacto práctico.
-</div>
+<div style="text-align: justify;">El trabajo investiga la capacidad de embeddings generados mediante redes neuronales profundas, optimizados vía aprendizaje por transferencia y metric learning, para estructurar espacios latentes discriminativos, permitiendo la identificación no supervisada de modelos de vehículos mediante clustering, incluso en escenarios con clases no observadas durante el entrenamiento.</div>
 
 <br>
 

@@ -15,7 +15,7 @@ excerpt: 'La sesión de presentaciones del curso Deep Learning reunió proyectos
 ---
 
 <div style="text-align: justify;">
-Durante las sesiones de <strong>marzo y abril</strong>, el curso <strong>MDSC3S132-1 Deep Learning</strong> del <strong>Magíster en Data Science</strong> combinó <strong>clases lectivas</strong> con <strong>laboratorios prácticos</strong>, donde cada tema —como <strong>MLP, CNN y RNN</strong>— fue abordado tanto desde su intuición conceptual como desde su implementación.
+Durante las sesiones de <strong>marzo y abril</strong>, el curso <strong>MDSC3S132-1 Deep Learning</strong> del <strong>Magíster en Data Science</strong> combinó <strong>clases lectivas</strong> con <strong>laboratorios prácticos</strong>, donde cada tema, como <strong>MLP, CNN y RNN</strong>, fue abordado tanto desde su intuición conceptual como desde su implementación.
 </div>
 
 <br>

@@ -1,7 +1,7 @@
 ---
-title: 'Presentaciones de proyectos: aplicaciones reales de Deep Learning en el MDSC3S132-1'
+title: 'Presentaciones de proyectos: aplicaciones reales de Deep Learning'
 date: 2026-04-18
-permalink: /posts/2026/04/18/presentaciones-proyectos-deep-learning-mdsc3s132/
+permalink: /posts/2026/04/18/presentaciones-proyectos-deep-learning/
 tags:
   - Deep Learning
   - Data Science

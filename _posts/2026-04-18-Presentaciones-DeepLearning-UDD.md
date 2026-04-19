@@ -32,8 +32,8 @@ Un elemento transversal en todas las presentaciones fue la reflexión en torno a
 
 <ul>
 <li><strong>¿Cuándo usar modelos como MLP, CNN, RNN o modelos generativos?</strong></li>
-<li><strong>¿Cómo evaluar correctamente su desempeño?</strong></li>
 <li><strong>¿Cuándo NO usarlos?</strong></li>
+<li><strong>¿Cómo podemos comparar su desempeño contra un Baseline?</strong></li>
 </ul>
 
 <p align="center">
@@ -47,19 +47,19 @@ El <strong>primer grupo</strong> presentó un <strong>clasificador de imágenes<
 <br>
 
 <div style="text-align: justify;">
-El <strong>segundo grupo</strong> abordó un problema de <strong>riesgo crediticio</strong>, explorando el uso de deep learning en datos estructurados. La discusión se centró en si modelos complejos aportan valor real frente a alternativas más simples e interpretables en este tipo de contexto.
+El <strong>segundo grupo</strong> abordó un problema de <strong>riesgo crediticio</strong>, explorando el uso de deep learning en datos estructurados. La discusión se centró en si modelos complejos aportan valor real frente a alternativas más simples e interpretables en este tipo de contexto, además de que sesgos incluye el modelo.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
-El <strong>tercer grupo</strong> trabajó con un caso de <strong>series de tiempo</strong> asociado a <strong>oficinas móviles</strong>, utilizando modelos secuenciales. Esto permitió evidenciar tanto el potencial de estos enfoques como las dificultades prácticas al trabajar con datos reales.
+El <strong>tercer grupo</strong> trabajó con un caso de <strong>series de tiempo</strong> asociado a <strong>oficinas móviles</strong>, utilizando modelos secuenciales. Esto permitió evidenciar tanto el potencial de estos enfoques como las dificultades prácticas al trabajar con datos reales, en este caso de más de 8200 registros.
 </div>
 
 <br>
 
 <div style="text-align: justify;">
-El <strong>cuarto grupo</strong> desarrolló un <strong>pronóstico en retail</strong>, comparando modelos simples basados en <strong>medias móviles</strong> de 3 y 8 días. Uno de los puntos más interesantes fue observar que <strong>en ciertos escenarios, modelos simples pueden ser suficientes</strong> y no necesariamente es necesario recurrir a arquitecturas más complejas.
+El <strong>cuarto grupo</strong> desarrolló un <strong>pronóstico en retail</strong>, comparando modelos simples basados en <strong>medias móviles</strong> de 3 y 8 días. Uno de los puntos más interesantes fue analizar que puede o no puede hacer el modelo y cuales eran las posibles mejoras.
 </div>
 
 <br>

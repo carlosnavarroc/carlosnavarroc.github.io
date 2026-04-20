@@ -68,6 +68,7 @@ El <strong>cuarto grupo</strong> desarrolló un <strong>pronóstico en retail</s
 Finalmente, el <strong>quinto grupo</strong> analizó el problema de <strong>No-Show</strong> en el <strong>CESFAM El Monte</strong>, evaluando qué tan predecible es la inasistencia de pacientes a citas médicas. Este caso permitió discutir no solo el modelamiento, sino también las implicancias prácticas de este tipo de predicciones.
 </div>
 
+<br>
 
 <div style="text-align: justify;">
 La sesión cerró con un <strong>breve debate</strong>, donde se les planteó a los estudiantes una pregunta final: <strong>si hubieran contado con recursos ilimitados (tiempo y presupuesto), ¿qué mejoras habrían implementado en sus proyectos?</strong>. Las respuestas apuntaron a aspectos como la <strong>recolección de más y mejores datos</strong>, la exploración de <strong>arquitecturas más complejas</strong>, el uso de <strong>técnicas de optimización más avanzadas</strong> y una <strong>evaluación más robusta</strong> en entornos cercanos a producción.

@@ -55,5 +55,52 @@ Si esto cuesta, no es porque no se entienda matemática. Este tema requiere prá
 <br>
 
 <div style="text-align: justify;">
+Ahora viene lo importante. Considera una integral como esta:
+</div>
+
+<p align="center">
+∫₀¹ ∫ᵧ¹ e^(x²) dx dy
+</p>
+
+<div style="text-align: justify;">
+Esta integral <strong>no se puede resolver directamente</strong> porque la función e^(x²) no tiene primitiva simple en x.
+</div>
+<br>
+
+<div style="text-align: justify;">
+Entonces hacemos el cambio de orden:
+</div>
+
+<p align="center">
+∫₀¹ ∫₀ˣ e^(x²) dy dx
+</p>
+
+<br>
+
+<div style="text-align: justify;">
+Ahora sí se puede resolver, porque la función no depende de y:
+</div>
+
+<p align="center">
+∫₀¹ x·e^(x²) dx
+</p>
+
+<br>
+
+<div style="text-align: justify;">
+Y esta integral se resuelve con sustitución:
+</div>
+
+<p align="center">
+u = x²  →  du = 2x dx
+</p>
+
+<p align="center">
+Resultado: (1/2)(e − 1)
+</p>
+
+<br>
+
+<div style="text-align: justify;">
 Exito en la solemne.
 </div>

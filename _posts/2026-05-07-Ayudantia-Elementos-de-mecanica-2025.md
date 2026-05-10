@@ -83,10 +83,10 @@ $$
 
 Donde:
 
-- \(\sigma\): esfuerzo normal
-- \(P\): carga axial
-- \(A\): área transversal
-
+- $\sigma$: esfuerzo normal
+- $P$: carga axial
+- $A$: área transversal
+- 
 ### Interpretación física
 
 - Tracción → esfuerzo positivo.

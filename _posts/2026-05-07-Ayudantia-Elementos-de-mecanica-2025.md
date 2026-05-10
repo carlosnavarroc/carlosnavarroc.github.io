@@ -203,11 +203,19 @@ Determinar el esfuerzo normal promedio.
 
 ---
 
-## Ejercicio 4 — Esfuerzo normal y deformación
+## Ejercicio 4 — Esfuerzo normal y deformación con equilibrio
 
 ### Enunciado
 
-Una barra de aluminio de longitud 2 m y área transversal de 500 mm² soporta una carga axial de 40 kN.
+Una barra de aluminio está empotrada en el extremo A y sometida a dos cargas axiales como se muestra:
+
+- En el punto B actúa una fuerza de $20\,kN$ hacia la derecha.
+- En el extremo C actúa una fuerza de $60\,kN$ hacia la izquierda.
+
+La barra posee:
+
+- longitud total de $2\,m$,
+- área transversal de $500\,mm^2$.
 
 Considere:
 
@@ -217,9 +225,11 @@ $$
 
 ### Se pide
 
-1. Esfuerzo normal.
-2. Deformación unitaria.
-3. Alargamiento total.
+1. Determinar la reacción axial en A.
+2. Determinar la fuerza interna en la barra.
+3. Determinar el esfuerzo normal.
+4. Determinar la deformación unitaria.
+5. Determinar el alargamiento total.
 
 ---
 
@@ -343,40 +353,145 @@ $$
 $$
 
 ---
-
 ## Solución Ejercicio 4
 
-### Esfuerzo normal
+### Paso 1: Diagrama de cuerpo libre
+
+Se considera la barra completa en equilibrio axial.
+
+Fuerzas actuando:
+
+- Reacción axial $A_x$
+- Fuerza de $20\,kN$ hacia la derecha
+- Fuerza de $60\,kN$ hacia la izquierda
+
+---
+
+### Paso 2: Ecuación de equilibrio
+
+Aplicando equilibrio en el eje horizontal:
 
 $$
-\sigma=\frac{40000}{5\times10^{-4}}
-$$
-
-$$
-\sigma=80\,MPa
-$$
-
-### Deformación unitaria
-
-$$
-\varepsilon=\frac{80\times10^6}{70\times10^9}
-$$
-
-$$
-\varepsilon=1.14\times10^{-3}
-$$
-
-### Alargamiento
-
-$$
-\delta=(1.14\times10^{-3})(2)
+\sum F_x = 0
 $$
 
 $$
-\delta=2.29\,mm
+A_x + 20 - 60 = 0
+$$
+
+$$
+A_x = 40\,kN
 $$
 
 ---
+
+### Paso 3: Fuerza interna axial
+
+La fuerza interna en la barra es:
+
+$$
+P = 40\,kN
+$$
+
+Convirtiendo:
+
+$$
+P = 40000\,N
+$$
+
+---
+
+### Paso 4: Conversión del área
+
+$$
+A = 500\,mm^2
+$$
+
+$$
+A = 5\times10^{-4}\,m^2
+$$
+
+---
+
+### Paso 5: Esfuerzo normal
+
+Aplicando:
+
+$$
+\sigma = \frac{P}{A}
+$$
+
+$$
+\sigma = \frac{40000}{5\times10^{-4}}
+$$
+
+$$
+\sigma = 80\times10^6\,Pa
+$$
+
+$$
+\sigma = 80\,MPa
+$$
+
+---
+
+### Paso 6: Deformación unitaria
+
+Usando Ley de Hooke:
+
+$$
+\varepsilon = \frac{\sigma}{E}
+$$
+
+$$
+\varepsilon = \frac{80\times10^6}{70\times10^9}
+$$
+
+$$
+\varepsilon = 1.14\times10^{-3}
+$$
+
+---
+
+### Paso 7: Alargamiento total
+
+Aplicando:
+
+$$
+\delta = \varepsilon L
+$$
+
+$$
+\delta = (1.14\times10^{-3})(2)
+$$
+
+$$
+\delta = 2.29\times10^{-3}\,m
+$$
+
+$$
+\delta = 2.29\,mm
+$$
+
+---
+
+### Resultados finales
+
+$$
+\boxed{A_x = 40\,kN}
+$$
+
+$$
+\boxed{\sigma = 80\,MPa}
+$$
+
+$$
+\boxed{\varepsilon = 1.14\times10^{-3}}
+$$
+
+$$
+\boxed{\delta = 2.29\,mm}
+$$
 
 ## Solución Ejercicio 5
 

@@ -635,6 +635,7 @@ Considere:
 $$
 E = 29\times10^6\,psi
 $$
+
 <img width="447" height="213" alt="image" src="https://github.com/user-attachments/assets/34241f9b-2b1d-4cd3-9aa0-e959a595fbb6" />
 
 ### Se pide

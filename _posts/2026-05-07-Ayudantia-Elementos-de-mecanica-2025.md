@@ -636,7 +636,7 @@ $$
 E = 29\times10^6\,psi
 $$
 
-<img width="447" height="213" alt="image" src="https://github.com/user-attachments/assets/34241f9b-2b1d-4cd3-9aa0-e959a595fbb6" />
+<img width="429" height="187" alt="image" src="https://github.com/user-attachments/assets/5e4cd497-d5b5-407e-bc9f-e056b46c2600" />
 
 ### Se pide
 
@@ -690,7 +690,8 @@ $$
 P = 30\,kN
 $$
 
-<img width="381" height="305" alt="image" src="https://github.com/user-attachments/assets/f2a722ab-22fd-49b1-8ff3-42c55fc05b93" />
+<img width="383" height="311" alt="image" src="https://github.com/user-attachments/assets/2a91adac-47d8-43f2-b6b9-de961ab90420" />
+
 
 
 ### Se pide
@@ -743,7 +744,7 @@ $$
 \delta_{max} = 6\,mm
 $$
 
-<img width="333" height="301" alt="image" src="https://github.com/user-attachments/assets/6094b393-b27f-49d4-98e7-c50498ca57b4" />
+<img width="319" height="265" alt="image" src="https://github.com/user-attachments/assets/be9fada1-fdfd-4658-96a3-a8765f93908a" />
 
 ### Se pide
 
@@ -798,7 +799,7 @@ $$
 \delta = 0.002\,in
 $$
 
-<img width="407" height="337" alt="image" src="https://github.com/user-attachments/assets/f50a6ebd-100d-4078-be2d-1a441ddf47b3" />
+<img width="437" height="313" alt="image" src="https://github.com/user-attachments/assets/5776c570-7588-424f-b77d-53c0a93963c8" />
 
 
 ### Se pide
@@ -844,7 +845,7 @@ $$
 d_o = 60\,mm
 $$
 
-<img width="200" height="215" alt="image" src="https://github.com/user-attachments/assets/3638ca09-2fca-470d-b54b-efc11545b49a" />
+<img width="485" height="305" alt="image" src="https://github.com/user-attachments/assets/16008785-640f-46a7-a827-79e8e8a209c6" />
 
 
 ### Se pide
@@ -901,8 +902,9 @@ d
 $$
 
 El sistema está sometido al torque mostrado en la figura.
+<img width="400" height="433" alt="image" src="https://github.com/user-attachments/assets/caa4492c-2fb4-4a2b-9004-fca4be70ae03" />
 
-<img width="231" height="140" alt="image" src="https://github.com/user-attachments/assets/017e8846-04b2-4e67-9d69-936cffbc8255" />
+
 
 
 ### Se pide

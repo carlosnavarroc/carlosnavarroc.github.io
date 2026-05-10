@@ -620,4 +620,194 @@ $$
 <li>Revisar si el resultado tiene sentido físico.</li>
 </ul>
 
+---
+
+# 6. Problemas Complementarios — Deformación Axial y Compatibilidad
+
+## Problema 7 — Deformación de una varilla de acero
+
+### Enunciado
+
+Determine la deformación total de la varilla de acero mostrada en la figura bajo las cargas axiales indicadas.
+
+Considere:
+
+$$
+E = 29\times10^6\,psi
+$$
+
+### Se pide
+
+1. Determinar el esfuerzo normal en cada tramo.
+2. Determinar la deformación de cada segmento.
+3. Determinar la deformación total de la varilla.
+
+### Sugerencias metodológicas
+
+- Realizar el diagrama de cuerpo libre.
+- Determinar la fuerza interna en cada tramo.
+- Aplicar:
+
+$$
+\delta = \frac{PL}{AE}
+$$
+
+- Mantener consistencia de unidades.
+
+---
+
+## Problema 8 — Barra rígida soportada por dos eslabones
+
+### Enunciado
+
+La barra rígida BDE se encuentra soportada por dos eslabones verticales AB y CD.
+
+- El eslabón AB es de aluminio:
+
+$$
+E_{Al} = 70\,GPa
+$$
+
+$$
+A_{Al} = 500\,mm^2
+$$
+
+- El eslabón CD es de acero:
+
+$$
+E_{Ac} = 200\,GPa
+$$
+
+$$
+A_{Ac} = 600\,mm^2
+$$
+
+Sobre la barra actúa una carga vertical de:
+
+$$
+P = 30\,kN
+$$
+
+### Se pide
+
+1. Determinar la deflexión en B.
+2. Determinar la deflexión en D.
+3. Determinar la deflexión en E.
+
+### Sugerencias metodológicas
+
+- Resolver primero el equilibrio de la barra rígida.
+- Determinar las fuerzas en los eslabones.
+- Aplicar deformación axial:
+
+$$
+\delta = \frac{PL}{AE}
+$$
+
+- Utilizar compatibilidad geométrica.
+
+---
+
+## Problema 9 — Cable sometido a carga axial
+
+### Enunciado
+
+El cable BC de diámetro:
+
+$$
+d = 4\,mm
+$$
+
+está fabricado de acero con:
+
+$$
+E = 200\,GPa
+$$
+
+Se sabe que:
+
+- el esfuerzo normal máximo no debe exceder:
+
+$$
+\sigma_{adm} = 190\,MPa
+$$
+
+- la elongación máxima permitida es:
+
+$$
+\delta_{max} = 6\,mm
+$$
+
+### Se pide
+
+Determinar la carga máxima $P$ que puede aplicarse al sistema.
+
+### Sugerencias metodológicas
+
+- Evaluar primero la condición de esfuerzo admisible:
+
+$$
+\sigma = \frac{P}{A}
+$$
+
+- Evaluar luego la condición de deformación:
+
+$$
+\delta = \frac{PL}{AE}
+$$
+
+- Comparar ambos resultados.
+- Seleccionar la carga permisible más pequeña.
+
+---
+
+## Problema 10 — Probeta compuesta de acero
+
+### Enunciado
+
+La probeta mostrada está compuesta por:
+
+- una varilla cilíndrica de acero de diámetro:
+
+$$
+d = 1\,in
+$$
+
+- dos soportes de diámetro exterior:
+
+$$
+d_o = 1.5\,in
+$$
+
+Considere:
+
+$$
+E = 29\times10^6\,psi
+$$
+
+Se sabe que la deformación total es:
+
+$$
+\delta = 0.002\,in
+$$
+
+### Se pide
+
+1. Determinar la carga axial $P$.
+2. Determinar la deformación correspondiente de la porción central BC.
+
+### Sugerencias metodológicas
+
+- Dividir la probeta en segmentos.
+- Determinar el área de cada tramo.
+- Aplicar superposición de deformaciones:
+
+$$
+\delta_{total} = \sum \frac{PL}{AE}
+$$
+
+- Mantener consistencia de unidades en pulgadas y psi.
+
+---
+
 </div>

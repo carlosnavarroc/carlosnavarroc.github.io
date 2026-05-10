@@ -1,5 +1,5 @@
 ---
-title: 'Ayudantía 2 Elementos de Mecanica — Resistencia de Materiales'
+title: 'Ayudantía 2 Elementos de Mecánica — Resistencia de Materiales'
 date: 2026-05-07
 permalink: /posts/2026/05/07/ayudantia-resistencia-materiales-beer-johnston/
 tags:
@@ -86,7 +86,7 @@ Donde:
 - $\sigma$: esfuerzo normal
 - $P$: carga axial
 - $A$: área transversal
-- 
+
 ### Interpretación física
 
 - Tracción → esfuerzo positivo.
@@ -96,29 +96,29 @@ Donde:
 
 ## Deformación unitaria
 
-\[
+$$
 \varepsilon = \frac{\delta}{L}
-\]
+$$
 
 Donde:
 
-- \(\varepsilon\): deformación unitaria
-- \(\delta\): deformación longitudinal
-- \(L\): longitud original
+- $\varepsilon$: deformación unitaria
+- $\delta$: deformación longitudinal
+- $L$: longitud original
 
 ---
 
 ## Ley de Hooke
 
-\[
+$$
 \sigma = E\varepsilon
-\]
+$$
 
 Donde:
 
-- \(E\): módulo de elasticidad
-- \(\sigma\): esfuerzo normal
-- \(\varepsilon\): deformación unitaria
+- $E$: módulo de elasticidad
+- $\sigma$: esfuerzo normal
+- $\varepsilon$: deformación unitaria
 
 ---
 
@@ -128,81 +128,40 @@ La torsión aparece cuando un eje está sometido a momentos torsores.
 
 ### Esfuerzo cortante máximo
 
-\[
+$$
 \tau = \frac{Tc}{J}
-\]
+$$
 
 ### Ángulo de torsión
 
-\[
+$$
 \phi = \frac{TL}{JG}
-\]
+$$
 
 ### Momento polar para eje circular macizo
 
-\[
+$$
 J = \frac{\pi d^4}{32}
-\]
+$$
 
-<br>
+<hr>
 
-# 2. Fórmulas Importantes
+# 2. Formulario Resumen
 
-## Equilibrio
+| Tema | Fórmula |
+|---|---|
+| Equilibrio horizontal | $\sum F_x = 0$ |
+| Equilibrio vertical | $\sum F_y = 0$ |
+| Equilibrio de momentos | $\sum M = 0$ |
+| Esfuerzo normal | $\sigma = \frac{P}{A}$ |
+| Deformación unitaria | $\varepsilon = \frac{\delta}{L}$ |
+| Ley de Hooke | $\sigma = E\varepsilon$ |
+| Esfuerzo por torsión | $\tau = \frac{Tc}{J}$ |
+| Ángulo de torsión | $\phi = \frac{TL}{JG}$ |
+| Momento polar | $J = \frac{\pi d^4}{32}$ |
 
-\[
-\sum F_x = 0
-\]
+<hr>
 
-\[
-\sum F_y = 0
-\]
-
-\[
-\sum M = 0
-\]
-
----
-
-## Esfuerzo normal
-
-\[
-\sigma = \frac{P}{A}
-\]
-
----
-
-## Deformación
-
-\[
-\varepsilon = \frac{\delta}{L}
-\]
-
----
-
-## Ley de Hooke
-
-\[
-\sigma = E\varepsilon
-\]
-
----
-
-## Torsión
-
-\[
-\tau = \frac{Tc}{J}
-\]
-
----
-
-## Ángulo de torsión
-
-\[
-\phi = \frac{TL}{JG}
-\]
-
-<br>
 
 # 3. Ejercicios
 
@@ -252,9 +211,9 @@ Una barra de aluminio de longitud 2 m y área transversal de 500 mm² soporta un
 
 Considere:
 
-\[
+$$
 E = 70\,GPa
-\]
+$$
 
 ### Se pide
 
@@ -284,9 +243,9 @@ Un eje circular macizo de acero tiene longitud de 2.5 m y diámetro de 50 mm.
 
 Considere:
 
-\[
+$$
 G = 80\,GPa
-\]
+$$
 
 ### Se pide
 
@@ -301,33 +260,33 @@ G = 80\,GPa
 
 ### Sumatoria de momentos respecto a A
 
-\[
+$$
 B_y(6)-8(2)=0
-\]
+$$
 
-\[
+$$
 B_y=2.67\,kN
-\]
+$$
 
 ### Sumatoria de fuerzas verticales
 
-\[
+$$
 A_y+B_y-8=0
-\]
+$$
 
-\[
+$$
 A_y=5.33\,kN
-\]
+$$
 
 ### Resultados
 
-\[
+$$
 A_y=5.33\,kN
-\]
+$$
 
-\[
+$$
 B_y=2.67\,kN
-\]
+$$
 
 ---
 
@@ -335,23 +294,23 @@ B_y=2.67\,kN
 
 ### Descomposición de fuerzas
 
-\[
+$$
 F_x=10\cos30^\circ=8.66\,kN
-\]
+$$
 
-\[
+$$
 F_y=10\sin30^\circ=5\,kN
-\]
+$$
 
 ### Equilibrio
 
-\[
+$$
 A_x=8.66\,kN
-\]
+$$
 
-\[
+$$
 A_y=5\,kN
-\]
+$$
 
 ---
 
@@ -359,29 +318,29 @@ A_y=5\,kN
 
 ### Área transversal
 
-\[
+$$
 A=\frac{\pi d^2}{4}
-\]
+$$
 
-\[
+$$
 A=490.87\,mm^2
-\]
+$$
 
 ### Esfuerzo normal
 
-\[
+$$
 \sigma=\frac{120000}{490.87}
-\]
+$$
 
-\[
+$$
 \sigma=244.46\,MPa
-\]
+$$
 
 ### Resultado final
 
-\[
+$$
 \boxed{\sigma=244.46\,MPa}
-\]
+$$
 
 ---
 
@@ -389,33 +348,33 @@ A=490.87\,mm^2
 
 ### Esfuerzo normal
 
-\[
+$$
 \sigma=\frac{40000}{5\times10^{-4}}
-\]
+$$
 
-\[
+$$
 \sigma=80\,MPa
-\]
+$$
 
 ### Deformación unitaria
 
-\[
+$$
 \varepsilon=\frac{80\times10^6}{70\times10^9}
-\]
+$$
 
-\[
+$$
 \varepsilon=1.14\times10^{-3}
-\]
+$$
 
 ### Alargamiento
 
-\[
+$$
 \delta=(1.14\times10^{-3})(2)
-\]
+$$
 
-\[
+$$
 \delta=2.29\,mm
-\]
+$$
 
 ---
 
@@ -423,29 +382,29 @@ A=490.87\,mm^2
 
 ### Momento polar
 
-\[
+$$
 J=\frac{\pi(0.04)^4}{32}
-\]
+$$
 
-\[
+$$
 J=2.51\times10^{-7}\,m^4
-\]
+$$
 
 ### Esfuerzo cortante máximo
 
-\[
+$$
 \tau=\frac{1500(0.02)}{2.51\times10^{-7}}
-\]
+$$
 
-\[
+$$
 \tau=119\,MPa
-\]
+$$
 
 ### Resultado final
 
-\[
+$$
 \boxed{\tau_{max}=119\,MPa}
-\]
+$$
 
 ---
 
@@ -453,37 +412,37 @@ J=2.51\times10^{-7}\,m^4
 
 ### Momento polar
 
-\[
+$$
 J=\frac{\pi(0.05)^4}{32}
-\]
+$$
 
-\[
+$$
 J=6.14\times10^{-7}\,m^4
-\]
+$$
 
 ### Esfuerzo cortante máximo
 
-\[
+$$
 \tau=\frac{2000(0.025)}{6.14\times10^{-7}}
-\]
+$$
 
-\[
+$$
 \tau=81.4\,MPa
-\]
+$$
 
 ### Ángulo de torsión
 
-\[
+$$
 \phi=\frac{2000(2.5)}{(6.14\times10^{-7})(80\times10^9)}
-\]
+$$
 
-\[
+$$
 \phi=0.1018\,rad
-\]
+$$
 
-\[
+$$
 \phi=5.83^\circ
-\]
+$$
 
 <br>
 

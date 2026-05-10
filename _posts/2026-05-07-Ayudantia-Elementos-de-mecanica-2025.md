@@ -938,5 +938,667 @@ $$
 
 - Despejar el diámetro requerido a partir del esfuerzo permisible.
 
+# 7. Soluciones — Problemas Complementarios
+
+---
+
+# Solución Problema 7 — Deformación de una varilla escalonada
+
+## Datos
+
+- Área tramo AB:
+
+$$
+A_{AB}=0.9\,in^2
+$$
+
+- Área tramo CD:
+
+$$
+A_{CD}=0.3\,in^2
+$$
+
+- Longitudes:
+
+$$
+L_{AB}=12\,in
+$$
+
+$$
+L_{BC}=12\,in
+$$
+
+$$
+L_{CD}=16\,in
+$$
+
+- Módulo de elasticidad:
+
+$$
+E=29\times10^6\,psi
+$$
+
+---
+
+## Fuerzas internas
+
+### Tramo AB
+
+$$
+P_{AB}=60\,kips
+$$
+
+### Tramo BC
+
+$$
+P_{BC}=-15\,kips
+$$
+
+(compresión)
+
+### Tramo CD
+
+$$
+P_{CD}=30\,kips
+$$
+
+---
+
+## Deformación de cada tramo
+
+Aplicando:
+
+$$
+\delta=\frac{PL}{AE}
+$$
+
+---
+
+### Tramo AB
+
+$$
+\delta_{AB}=
+\frac{(60\times10^3)(12)}
+{(0.9)(29\times10^6)}
+$$
+
+$$
+\delta_{AB}=0.0276\,in
+$$
+
+---
+
+### Tramo BC
+
+$$
+\delta_{BC}=
+\frac{(-15\times10^3)(12)}
+{(0.9)(29\times10^6)}
+$$
+
+$$
+\delta_{BC}=-0.0069\,in
+$$
+
+---
+
+### Tramo CD
+
+$$
+\delta_{CD}=
+\frac{(30\times10^3)(16)}
+{(0.3)(29\times10^6)}
+$$
+
+$$
+\delta_{CD}=0.0552\,in
+$$
+
+---
+
+## Deformación total
+
+$$
+\delta_T=
+0.0276-0.0069+0.0552
+$$
+
+$$
+\boxed{
+\delta_T=0.0759\,in
+}
+$$
+
+---
+
+# Solución Problema 8 — Barra rígida y eslabones
+
+## Datos
+
+- Carga:
+
+$$
+P=30\,kN
+$$
+
+- Distancias:
+
+$$
+BD=0.2\,m
+$$
+
+$$
+DE=0.4\,m
+$$
+
+- Longitudes:
+
+$$
+L_{AB}=0.3\,m
+$$
+
+$$
+L_{CD}=0.4\,m
+$$
+
+---
+
+## Equilibrio de momentos respecto a B
+
+$$
+F_{CD}(0.2)-30(0.6)=0
+$$
+
+$$
+F_{CD}=90\,kN
+$$
+
+---
+
+## Equilibrio vertical
+
+$$
+F_{AB}+F_{CD}-30=0
+$$
+
+$$
+F_{AB}=-60\,kN
+$$
+
+(compresión)
+
+---
+
+## Deflexión en B
+
+$$
+\delta_B=
+\frac{PL}{AE}
+$$
+
+$$
+\delta_B=
+\frac{(60\times10^3)(0.3)}
+{(500\times10^{-6})(70\times10^9)}
+$$
+
+$$
+\boxed{
+\delta_B=0.514\,mm
+}
+$$
+
+---
+
+## Deflexión en D
+
+$$
+\delta_D=
+\frac{(90\times10^3)(0.4)}
+{(600\times10^{-6})(200\times10^9)}
+$$
+
+$$
+\boxed{
+\delta_D=0.300\,mm
+}
+$$
+
+---
+
+## Deflexión en E
+
+Usando rotación de barra rígida:
+
+$$
+\theta=
+\frac{\delta_D-\delta_B}{0.2}
+$$
+
+$$
+\theta=-1.07\times10^{-3}\,rad
+$$
+
+---
+
+Deflexión en E:
+
+$$
+\delta_E=
+\delta_D+\theta(0.4)
+$$
+
+$$
+\boxed{
+\delta_E=-0.129\,mm
+}
+$$
+
+---
+
+# Solución Problema 9 — Cable sometido a carga axial
+
+## Geometría
+
+Triángulo:
+
+$$
+4\,m \times 6\,m
+$$
+
+Longitud del cable:
+
+$$
+L=\sqrt{4^2+6^2}
+$$
+
+$$
+L=7.21\,m
+$$
+
+---
+
+## Área del cable
+
+$$
+A=\frac{\pi d^2}{4}
+$$
+
+$$
+A=\frac{\pi(4)^2}{4}
+$$
+
+$$
+A=12.57\,mm^2
+$$
+
+---
+
+# Condición por esfuerzo
+
+$$
+\sigma=\frac{P}{A}
+$$
+
+$$
+P=\sigma A
+$$
+
+$$
+P=(190)(12.57)
+$$
+
+$$
+P=2388\,N
+$$
+
+$$
+P=2.39\,kN
+$$
+
+---
+
+# Condición por deformación
+
+$$
+\delta=\frac{PL}{AE}
+$$
+
+Despejando:
+
+$$
+P=
+\frac{\delta AE}{L}
+$$
+
+$$
+P=
+\frac{
+(6)(12.57)(200\times10^3)
+}
+{7210}
+$$
+
+$$
+P=2.09\,kN
+$$
+
+---
+
+## Carga máxima permitida
+
+Se escoge la menor:
+
+$$
+\boxed{
+P_{max}=2.09\,kN
+}
+$$
+
+---
+
+# Solución Problema 10 — Probeta escalonada
+
+## Datos geométricos
+
+- Tramos extremos:
+
+$$
+d=1.5\,in
+$$
+
+$$
+L=2\,in
+$$
+
+- Tramo central:
+
+$$
+d=1\,in
+$$
+
+$$
+L=3\,in
+$$
+
+---
+
+## Áreas
+
+### Extremos
+
+$$
+A_1=
+\frac{\pi(1.5)^2}{4}
+$$
+
+$$
+A_1=1.767\,in^2
+$$
+
+---
+
+### Centro
+
+$$
+A_2=
+\frac{\pi(1)^2}{4}
+$$
+
+$$
+A_2=0.785\,in^2
+$$
+
+---
+
+## Deformación total
+
+$$
+\delta=
+\sum\frac{PL}{AE}
+$$
+
+$$
+0.002=
+\frac{P}{29\times10^6}
+\left(
+\frac{2}{1.767}
++\frac{3}{0.785}
++\frac{2}{1.767}
+\right)
+$$
+
+---
+
+Resolviendo:
+
+$$
+\boxed{
+P=9.42\,kips
+}
+$$
+
+---
+
+## Deformación tramo BC
+
+$$
+\delta_{BC}=
+\frac{PL}{AE}
+$$
+
+$$
+\delta_{BC}=
+\frac{
+(9420)(3)
+}
+{
+(0.785)(29\times10^6)
+}
+$$
+
+$$
+\boxed{
+\delta_{BC}=0.00125\,in
+}
+$$
+
+---
+
+# Solución Problema 11 — Eje hueco sometido a torsión
+
+## Momento polar
+
+$$
+J=
+\frac{\pi}{32}
+(d_o^4-d_i^4)
+$$
+
+$$
+J=
+\frac{\pi}{32}
+(60^4-40^4)
+$$
+
+$$
+J=1.02\times10^6\,mm^4
+$$
+
+---
+
+## Torque máximo
+
+Aplicando:
+
+$$
+\tau=\frac{Tc}{J}
+$$
+
+Despejando:
+
+$$
+T=
+\frac{\tau J}{c}
+$$
+
+$$
+T=
+\frac{
+(120)(1.02\times10^6)
+}
+{30}
+$$
+
+$$
+\boxed{
+T_{max}=4.08\,kN\cdot m
+}
+$$
+
+---
+
+## Esfuerzo cortante mínimo
+
+$$
+\tau_{min}=
+\tau_{max}
+\left(
+\frac{r_i}{r_o}
+\right)
+$$
+
+$$
+\tau_{min}=
+120\left(
+\frac{20}{30}
+\right)
+$$
+
+$$
+\boxed{
+\tau_{min}=80\,MPa
+}
+$$
+
+---
+
+# Solución Problema 12 — Sistema de ejes en torsión
+
+## Torque interno máximo
+
+El mayor torque ocurre en el tramo BC:
+
+$$
+T_{max}=20\,kN\cdot m
+$$
+
+---
+
+## Momento polar eje hueco BC
+
+$$
+J=
+\frac{\pi}{32}
+(120^4-90^4)
+$$
+
+$$
+J=1.27\times10^7\,mm^4
+$$
+
+---
+
+## Esfuerzo cortante máximo
+
+$$
+\tau_{max}=
+\frac{Tc}{J}
+$$
+
+$$
+\tau_{max}=
+\frac{
+(20\times10^6)(60)
+}
+{1.27\times10^7}
+$$
+
+$$
+\boxed{
+\tau_{max}=94.5\,MPa
+}
+$$
+
+---
+
+## Esfuerzo cortante mínimo
+
+$$
+\tau_{min}=
+94.5
+\left(
+\frac{45}{60}
+\right)
+$$
+
+$$
+\boxed{
+\tau_{min}=70.9\,MPa
+}
+$$
+
+---
+
+## Diámetro requerido en AB y CD
+
+Para eje macizo:
+
+$$
+\tau=
+\frac{16T}{\pi d^3}
+$$
+
+Despejando:
+
+$$
+d=
+\left(
+\frac{16T}{\pi\tau}
+\right)^{1/3}
+$$
+
+Usando:
+
+$$
+T=6\,kN\cdot m
+$$
+
+$$
+\tau_{adm}=65\,MPa
+$$
+
+---
+
+$$
+d=
+\left(
+\frac{
+16(6\times10^6)
+}
+{
+\pi(65)
+}
+\right)^{1/3}
+$$
+
+$$
+\boxed{
+d=77.8\,mm
+}
+$$
+
+---
+
 
 

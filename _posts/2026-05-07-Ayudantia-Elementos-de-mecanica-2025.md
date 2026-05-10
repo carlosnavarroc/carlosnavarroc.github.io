@@ -1168,29 +1168,73 @@ $$
 
 ## Deflexión en E
 
-Usando rotación de barra rígida:
+Usando compatibilidad geométrica y rotación de barra rígida:
+
+La deflexión en B es negativa debido a que el eslabón AB está en compresión:
+
+$$
+\delta_B=-0.514\,mm
+$$
+
+La deflexión en D es positiva debido a que el eslabón CD está en tracción:
+
+$$
+\delta_D=0.300\,mm
+$$
+
+La separación entre B y D es:
+
+$$
+BD=0.2\,m=200\,mm
+$$
+
+Por lo tanto, la rotación de la barra rígida es:
 
 $$
 \theta=
-\frac{\delta_D-\delta_B}{0.2}
+\frac{
+\delta_D-\delta_B
+}{
+200
+}
 $$
 
 $$
-\theta=-1.07\times10^{-3}\,rad
+\theta=
+\frac{
+0.300-(-0.514)
+}{
+200
+}
+$$
+
+$$
+\theta=0.00407\,rad
 $$
 
 ---
 
-Deflexión en E:
+La distancia entre D y E es:
+
+$$
+DE=0.4\,m=400\,mm
+$$
+
+Aplicando compatibilidad geométrica:
 
 $$
 \delta_E=
-\delta_D+\theta(0.4)
+\delta_D+\theta(400)
+$$
+
+$$
+\delta_E=
+0.300+(0.00407)(400)
 $$
 
 $$
 \boxed{
-\delta_E=-0.129\,mm
+\delta_E=1.928\,mm
 }
 $$
 
@@ -1198,100 +1242,107 @@ $$
 
 # Solución Problema 9 — Cable sometido a carga axial
 
-## Geometría
+## Geometría del cable
 
-Triángulo:
-
-$$
-4\,m \times 6\,m
-$$
-
-Longitud del cable:
+Aplicando Pitágoras:
 
 $$
-L=\sqrt{4^2+6^2}
+BC=\sqrt{4^2+6^2}
 $$
 
 $$
-L=7.21\,m
+BC=7.21\,m
 $$
 
 ---
 
-## Área del cable
+## Equilibrio de momentos respecto a A
+
+Tomando momentos en A:
+
+$$
+\sum M_A=0
+$$
+
+La componente horizontal de la tensión del cable es:
+
+$$
+F_{BC,x}=
+\left(
+\frac{4}{7.21}
+\right)
+F_{BC}
+$$
+
+Aplicando equilibrio:
+
+$$
+(3.5)P-
+(6)
+\left(
+\frac{4}{7.21}
+\right)
+F_{BC}=0
+$$
+
+Despejando:
+
+$$
+F_{BC}=1.05P
+$$
+
+---
+
+## Área transversal del cable
 
 $$
 A=\frac{\pi d^2}{4}
 $$
 
 $$
-A=\frac{\pi(4)^2}{4}
+A=
+\frac{
+\pi(4)^2
+}{4}
 $$
 
 $$
-A=12.57\,mm^2
-$$
-
----
-
-# Condición por esfuerzo
-
-$$
-\sigma=\frac{P}{A}
-$$
-
-$$
-P=\sigma A
-$$
-
-$$
-P=(190)(12.57)
-$$
-
-$$
-P=2388\,N
-$$
-
-$$
-P=2.39\,kN
+A=4\pi\,mm^2
 $$
 
 ---
 
-# Condición por deformación
+# Condición de esfuerzo admisible
+
+Aplicando:
 
 $$
-\delta=\frac{PL}{AE}
+\sigma=
+\frac{F}{A}
+$$
+
+$$
+190\times10^6=
+\frac{
+1.05P
+}{
+4\pi\times10^{-6}
+}
 $$
 
 Despejando:
 
 $$
-P=
-\frac{\delta AE}{L}
-$$
-
-$$
-P=
-\frac{
-(6)(12.57)(200\times10^3)
-}
-{7210}
-$$
-
-$$
-P=2.09\,kN
+P=2.27\,kN
 $$
 
 ---
 
-## Carga máxima permitida
-
-Se escoge la menor:
+## Resultado final
 
 $$
 \boxed{
-P_{max}=2.09\,kN
+P_{max}=2.27\,kN
 }
 $$
 

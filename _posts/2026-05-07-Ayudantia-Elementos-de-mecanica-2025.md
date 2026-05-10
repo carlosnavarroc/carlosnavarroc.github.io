@@ -810,4 +810,116 @@ $$
 
 ---
 
+## Problema 11 — Eje cilíndrico hueco sometido a torsión
+
+### Enunciado
+
+Un eje cilíndrico hueco de acero posee:
+
+- longitud:
+
+$$
+L = 1.5\,m
+$$
+
+- diámetro interior:
+
+$$
+d_i = 40\,mm
+$$
+
+- diámetro exterior:
+
+$$
+d_o = 60\,mm
+$$
+
+### Se pide
+
+1. Determinar el máximo torque que puede aplicarse al eje si el esfuerzo cortante no debe exceder:
+
+$$
+\tau_{adm} = 120\,MPa
+$$
+
+2. Determinar el valor mínimo correspondiente del esfuerzo cortante en el eje.
+
+### Sugerencias metodológicas
+
+- Calcular el momento polar de inercia para sección circular hueca:
+
+$$
+J = \frac{\pi}{32}\left(d_o^4-d_i^4\right)
+$$
+
+- Aplicar la ecuación de torsión:
+
+$$
+\tau = \frac{Tc}{J}
+$$
+
+- El esfuerzo cortante máximo ocurre en el radio exterior.
+- El esfuerzo cortante mínimo ocurre en el radio interior.
+
+---
+
+## Problema 12 — Sistema de ejes sometidos a torsión
+
+### Enunciado
+
+El eje BC es hueco y posee:
+
+- diámetro interior:
+
+$$
+d_i = 90\,mm
+$$
+
+- diámetro exterior:
+
+$$
+d_o = 120\,mm
+$$
+
+Los ejes AB y CD son macizos y poseen diámetro:
+
+$$
+d
+$$
+
+El sistema está sometido al torque mostrado en la figura.
+
+### Se pide
+
+1. Determinar los esfuerzos cortantes máximo y mínimo en el eje BC.
+2. Determinar el diámetro requerido $d$ en los ejes AB y CD si el esfuerzo cortante permisible es:
+
+$$
+\tau_{adm} = 65\,MPa
+$$
+
+### Sugerencias metodológicas
+
+- Calcular el momento polar para el eje hueco:
+
+$$
+J = \frac{\pi}{32}\left(d_o^4-d_i^4\right)
+$$
+
+- Determinar los esfuerzos máximo y mínimo usando:
+
+$$
+\tau = \frac{Tc}{J}
+$$
+
+- Para los ejes sólidos AB y CD utilizar:
+
+$$
+J = \frac{\pi d^4}{32}
+$$
+
+- Despejar el diámetro requerido a partir del esfuerzo permisible.
+
+---
+
 </div>

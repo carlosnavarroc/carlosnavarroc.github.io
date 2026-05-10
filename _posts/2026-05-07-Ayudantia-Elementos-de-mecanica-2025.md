@@ -1347,12 +1347,11 @@ P_{max}=2.27\,kN
 $$
 
 ---
-
 # Solución Problema 10 — Probeta escalonada
 
 ## Datos geométricos
 
-- Tramos extremos:
+### Tramos extremos AB y CD
 
 $$
 d=1.5\,in
@@ -1362,7 +1361,9 @@ $$
 L=2\,in
 $$
 
-- Tramo central:
+---
+
+### Tramo central BC
 
 $$
 d=1\,in
@@ -1374,64 +1375,100 @@ $$
 
 ---
 
-## Áreas
-
-### Extremos
+## Módulo de elasticidad
 
 $$
-A_1=
-\frac{\pi(1.5)^2}{4}
-$$
-
-$$
-A_1=1.767\,in^2
+E=29\times10^6\,psi
 $$
 
 ---
 
-### Centro
+# Deformación total
+
+La deformación total es la suma de las deformaciones de cada tramo:
 
 $$
-A_2=
-\frac{\pi(1)^2}{4}
+\delta_T=
+\delta_{AB}
++
+\delta_{BC}
++
+\delta_{CD}
 $$
 
+Como los extremos son idénticos:
+
 $$
-A_2=0.785\,in^2
+\delta_{AB}=\delta_{CD}
 $$
 
----
+Entonces:
 
-## Deformación total
+$$
+\delta_T=
+2\delta_{AB}
++
+\delta_{BC}
+$$
+
+Aplicando:
 
 $$
 \delta=
-\sum\frac{PL}{AE}
-$$
-
-$$
-0.002=
-\frac{P}{29\times10^6}
-\left(
-\frac{2}{1.767}
-+\frac{3}{0.785}
-+\frac{2}{1.767}
-\right)
+\frac{PL}{AE}
 $$
 
 ---
 
-Resolviendo:
+## Sustituyendo áreas
+
+Para los extremos:
 
 $$
-\boxed{
-P=9.42\,kips
+A_{AB}=
+\pi(0.75)^2
+$$
+
+Para el tramo central:
+
+$$
+A_{BC}=
+\pi(0.5)^2
+$$
+
+Entonces:
+
+$$
+0.002=
+\frac{
+P(3)
+}{
+\pi(0.5)^2(29\times10^6)
+}
++
+2
+\frac{
+P(2)
+}{
+\pi(0.75)^2(29\times10^6)
 }
 $$
 
 ---
 
-## Deformación tramo BC
+## Resolviendo para \(P\)
+
+$$
+\boxed{
+P=9534.38\,lb
+}
+$$
+
+---
+
+# Deformación del tramo BC
+
+Aplicando:
 
 $$
 \delta_{BC}=
@@ -1441,18 +1478,23 @@ $$
 $$
 \delta_{BC}=
 \frac{
-(9420)(3)
-}
-{
-(0.785)(29\times10^6)
+(9534.38)(3)
+}{
+\pi(0.5)^2(29\times10^6)
 }
 $$
 
 $$
 \boxed{
-\delta_{BC}=0.00125\,in
+\delta_{BC}=1.256\times10^{-3}\,in
 }
 $$
+
+---
+
+## Observación
+
+Debido a que el tramo BC posee menor diámetro, presenta la mayor deformación axial del sistema.
 
 ---
 

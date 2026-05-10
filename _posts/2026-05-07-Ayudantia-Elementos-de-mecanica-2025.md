@@ -1,7 +1,7 @@
 ---
 title: 'Ayudantía 2 Elementos de Mecanica — Resistencia de Materiales'
-date: 2026-05-05
-permalink: /posts/2026/05/05/ayudantia-resistencia-materiales-beer-johnston/
+date: 2026-05-07
+permalink: /posts/2026/05/07/ayudantia-resistencia-materiales-beer-johnston/
 tags:
   - Resistencia de Materiales
   - Mecánica
@@ -45,17 +45,17 @@ Un cuerpo rígido se encuentra en equilibrio cuando la suma de todas las fuerzas
 
 ### Ecuaciones de equilibrio
 
-\[
+$$
 \sum F_x = 0
-\]
+$$
 
-\[
+$$
 \sum F_y = 0
-\]
+$$
 
-\[
+$$
 \sum M = 0
-\]
+$$
 
 ### Convención de signos
 
@@ -77,9 +77,9 @@ Un cuerpo rígido se encuentra en equilibrio cuando la suma de todas las fuerzas
 
 El esfuerzo normal representa la intensidad de fuerza distribuida sobre una sección transversal.
 
-\[
+$$
 \sigma = \frac{P}{A}
-\]
+$$
 
 Donde:
 

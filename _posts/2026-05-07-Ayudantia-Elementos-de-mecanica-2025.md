@@ -171,6 +171,9 @@ $$
 
 Una viga horizontal de 6 m de longitud está simplemente apoyada en A y B. Sobre ella actúa una carga puntual vertical de 8 kN ubicada a 2 m del apoyo A.
 
+<img width="665" height="352" alt="image" src="https://github.com/user-attachments/assets/db7885fc-4d7f-470e-a8c4-181841886dba" />
+
+
 ### Se pide
 
 1. Reacción vertical en A.
@@ -184,6 +187,9 @@ Una viga horizontal de 6 m de longitud está simplemente apoyada en A y B. Sobre
 
 Una ménsula articulada en A sostiene una carga inclinada de 10 kN aplicada en el extremo libre B formando 30° respecto de la horizontal.
 
+<img width="711" height="318" alt="image" src="https://github.com/user-attachments/assets/f8dfe2dc-ee84-416b-827b-128cc8e31f6c" />
+
+
 ### Se pide
 
 1. Componentes horizontal y vertical.
@@ -196,6 +202,9 @@ Una ménsula articulada en A sostiene una carga inclinada de 10 kN aplicada en e
 ### Enunciado
 
 Una barra de acero de diámetro 25 mm está sometida a una carga axial de tracción de 120 kN.
+
+<img width="741" height="222" alt="image" src="https://github.com/user-attachments/assets/233f8581-0b72-4f44-9622-24f3891cdc1a" />
+
 
 ### Se pide
 
@@ -223,6 +232,9 @@ $$
 E = 70\,GPa
 $$
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/688981a8-93a9-435f-aee9-653a482930ae" />
+
+
 ### Se pide
 
 1. Determinar la reacción axial en A.
@@ -239,6 +251,9 @@ $$
 
 Un eje circular macizo de acero de diámetro 40 mm transmite un torque de 1.5 kN·m.
 
+<img width="680" height="204" alt="image" src="https://github.com/user-attachments/assets/f9f5feda-ad43-4ba3-8bb0-5b1554fd85ea" />
+
+
 ### Se pide
 
 Determinar el esfuerzo cortante máximo.
@@ -250,6 +265,8 @@ Determinar el esfuerzo cortante máximo.
 ### Enunciado
 
 Un eje circular macizo de acero tiene longitud de 2.5 m y diámetro de 50 mm.
+
+<img width="782" height="225" alt="image" src="https://github.com/user-attachments/assets/ecab5d4b-7e04-496e-ba10-9538e27e5d1f" />
 
 Considere:
 
@@ -263,6 +280,8 @@ $$
 2. Ángulo de torsión.
 
 <br>
+
+<img width="1309" height="140" alt="image" src="https://github.com/user-attachments/assets/8eae1a37-8ce4-4aa1-be04-1554e14d3632" />
 
 # 4. Soluciones
 

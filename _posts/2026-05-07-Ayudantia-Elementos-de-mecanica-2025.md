@@ -619,10 +619,10 @@ $$
 <li>Mantener consistencia de signos.</li>
 <li>Revisar si el resultado tiene sentido físico.</li>
 </ul>
-
+</div>
 ---
 
-# 6. Problemas Complementarios — Deformación Axial y Compatibilidad
+# 6. Problemas Complementarios 
 
 ## Problema 7 — Deformación de una varilla de acero
 
@@ -635,6 +635,7 @@ Considere:
 $$
 E = 29\times10^6\,psi
 $$
+<img width="447" height="213" alt="image" src="https://github.com/user-attachments/assets/34241f9b-2b1d-4cd3-9aa0-e959a595fbb6" />
 
 ### Se pide
 
@@ -688,6 +689,9 @@ $$
 P = 30\,kN
 $$
 
+<img width="381" height="305" alt="image" src="https://github.com/user-attachments/assets/f2a722ab-22fd-49b1-8ff3-42c55fc05b93" />
+
+
 ### Se pide
 
 1. Determinar la deflexión en B.
@@ -737,6 +741,8 @@ $$
 $$
 \delta_{max} = 6\,mm
 $$
+
+<img width="333" height="301" alt="image" src="https://github.com/user-attachments/assets/6094b393-b27f-49d4-98e7-c50498ca57b4" />
 
 ### Se pide
 
@@ -791,6 +797,9 @@ $$
 \delta = 0.002\,in
 $$
 
+<img width="407" height="337" alt="image" src="https://github.com/user-attachments/assets/f50a6ebd-100d-4078-be2d-1a441ddf47b3" />
+
+
 ### Se pide
 
 1. Determinar la carga axial $P$.
@@ -833,6 +842,9 @@ $$
 $$
 d_o = 60\,mm
 $$
+
+<img width="200" height="215" alt="image" src="https://github.com/user-attachments/assets/3638ca09-2fca-470d-b54b-efc11545b49a" />
+
 
 ### Se pide
 
@@ -889,6 +901,9 @@ $$
 
 El sistema está sometido al torque mostrado en la figura.
 
+<img width="231" height="140" alt="image" src="https://github.com/user-attachments/assets/017e8846-04b2-4e67-9d69-936cffbc8255" />
+
+
 ### Se pide
 
 1. Determinar los esfuerzos cortantes máximo y mínimo en el eje BC.
@@ -920,6 +935,5 @@ $$
 
 - Despejar el diámetro requerido a partir del esfuerzo permisible.
 
----
 
-</div>
+

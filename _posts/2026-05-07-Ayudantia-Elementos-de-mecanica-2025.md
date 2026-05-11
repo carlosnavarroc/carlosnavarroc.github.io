@@ -1576,50 +1576,86 @@ $$
 
 ---
 
-# Solución Problema 12 — Sistema de ejes en torsión
+# Solución Problema 12 — Sistema de ejes sometidos a torsión
 
-## Torque interno máximo
+## Datos
 
-El mayor torque ocurre en el tramo BC:
+### Eje hueco BC
 
 $$
-T_{max}=20\,kN\cdot m
+d_o=120\,mm
+$$
+
+$$
+d_i=90\,mm
 $$
 
 ---
 
-## Momento polar eje hueco BC
+## Torque aplicado
+
+$$
+T_{BC}=20\,kN\cdot m
+$$
+
+---
+
+# a) Esfuerzos cortantes máximo y mínimo en el eje BC
+
+## Momento polar del eje hueco
+
+Aplicando:
 
 $$
 J=
 \frac{\pi}{32}
-(120^4-90^4)
+\left(
+d_o^4-d_i^4
+\right)
 $$
 
 $$
-J=1.27\times10^7\,mm^4
+J=
+\frac{\pi}{32}
+\left(
+0.12^4-0.09^4
+\right)
+$$
+
+$$
+J=13.92\times10^{-6}\,m^4
 $$
 
 ---
 
 ## Esfuerzo cortante máximo
 
+El esfuerzo máximo ocurre en la superficie exterior:
+
 $$
-\tau_{max}=
+c_2=
+\frac{120}{2}=60\,mm
+$$
+
+Aplicando:
+
+$$
+\tau=
 \frac{Tc}{J}
 $$
 
 $$
 \tau_{max}=
 \frac{
-(20\times10^6)(60)
+(20\times10^3)(0.06)
+}{
+13.92\times10^{-6}
 }
-{1.27\times10^7}
 $$
 
 $$
 \boxed{
-\tau_{max}=94.5\,MPa
+\tau_{max}=86.2\,MPa
 }
 $$
 
@@ -1627,9 +1663,34 @@ $$
 
 ## Esfuerzo cortante mínimo
 
+El esfuerzo mínimo ocurre en la superficie interior:
+
+$$
+c_1=
+\frac{90}{2}=45\,mm
+$$
+
+Debido a que el esfuerzo cortante varía linealmente con el radio:
+
+$$
+\frac{
+\tau_{min}
+}{
+\tau_{max}
+}
+=
+\frac{
+c_1
+}{
+c_2
+}
+$$
+
+Entonces:
+
 $$
 \tau_{min}=
-94.5
+86.2
 \left(
 \frac{45}{60}
 \right)
@@ -1637,52 +1698,75 @@ $$
 
 $$
 \boxed{
-\tau_{min}=70.9\,MPa
+\tau_{min}=64.7\,MPa
 }
 $$
 
 ---
 
-## Diámetro requerido en AB y CD
+# b) Diámetro requerido para los ejes AB y CD
 
-Para eje macizo:
-
-$$
-\tau=
-\frac{16T}{\pi d^3}
-$$
-
-Despejando:
-
-$$
-d=
-\left(
-\frac{16T}{\pi\tau}
-\right)^{1/3}
-$$
-
-Usando:
+En ambos ejes:
 
 $$
 T=6\,kN\cdot m
 $$
 
+y el esfuerzo permisible es:
+
 $$
-\tau_{adm}=65\,MPa
+\tau_{perm}=65\,MPa
 $$
 
 ---
 
+## Ecuación de torsión para eje macizo
+
+Para un eje circular sólido:
+
 $$
-d=
-\left(
+\tau=
+\frac{Tc}{J}
+$$
+
+con:
+
+$$
+J=
+\frac{\pi c^4}{2}
+$$
+
+Sustituyendo:
+
+$$
+65\times10^6=
 \frac{
-16(6\times10^6)
+(6\times10^3)c
+}{
+\frac{\pi c^4}{2}
 }
-{
-\pi(65)
-}
-\right)^{1/3}
+$$
+
+---
+
+## Resolviendo para \(c\)
+
+$$
+c^3=
+58.8\times10^{-6}\,m^3
+$$
+
+$$
+c=
+38.9\times10^{-3}\,m
+$$
+
+---
+
+## Diámetro requerido
+
+$$
+d=2c
 $$
 
 $$
@@ -1692,6 +1776,5 @@ d=77.8\,mm
 $$
 
 ---
-
 
 

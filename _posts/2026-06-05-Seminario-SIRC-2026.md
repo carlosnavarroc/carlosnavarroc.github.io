@@ -28,8 +28,6 @@ El <strong>Social Isolation Research Center (SIRC)</strong> realizó una nueva j
 </p>
 
 
-
-
 ## Primera exposición: neofobia espacial y transiciones ambientales abruptas
 
 <div style="text-align: justify;">
@@ -59,14 +57,14 @@ El estudio busca establecer correlaciones entre cambios en el comportamiento loc
 ## Tercera exposición: simulación de presencia social durante el ciclo de vida
 
 <div style="text-align: justify;">
-El investigador <strong>Vicente Iturriaga</strong> presentó la charla <em>“Simulation of Social Presence Across the Lifespan of Drosophila melanogaster”</em>.
+El investigador <strong>Vicente Iturriaga</strong> presentó la charla <em>“Simulation of Social Presence Across the Lifespan of Drosophila melanogaster”</em>, enfocada en comprender cómo señales que simulan la presencia de otros individuos pueden influir en el comportamiento y la supervivencia de las moscas a lo largo de su ciclo de vida.
 
-La investigación explora cómo la simulación de señales asociadas a la presencia de otros individuos puede influir en el comportamiento de <em>Drosophila melanogaster</em> a lo largo de distintas etapas de su vida. Este enfoque busca comprender de qué manera los estímulos sociales, incluso cuando no existe interacción directa con otros individuos, pueden modular procesos conductuales y fisiológicos relacionados con el desarrollo y el envejecimiento.
+Uno de los aspectos abordados fue la <strong>alteración de la viabilidad</strong> asociada al aislamiento social. Los resultados sugieren que la ausencia de interacción social constituye una variable capaz de afectar la supervivencia y el desarrollo de los individuos, reforzando la idea de que el entorno social es un componente relevante para el bienestar biológico.
 
-La presentación destacó la importancia de considerar no solo la presencia física de otros organismos, sino también las señales ambientales que transmiten información social y que podrían desempeñar un papel relevante en la adaptación al entorno.
+La investigación también examinó la respuesta de los individuos frente a estímulos que simulan la presencia de congéneres. En particular, se observó una <strong>preferencia hacia pupas placebo</strong>, comportamiento que reproduce patrones de atracción social similares a los observados entre individuos reales. Esta tendencia sugiere que ciertas señales asociadas a la presencia de otros organismos pueden ser suficientes para desencadenar conductas sociales, incluso cuando no existe una interacción efectiva.
+
+Estos resultados aportan evidencia sobre la importancia de las señales sociales durante distintas etapas del desarrollo y plantean nuevas preguntas acerca de los mecanismos mediante los cuales los organismos perciben e interpretan la presencia de otros individuos en su entorno.
 </div>
-
-<br>
 
 ## Reflexiones finales
 

@@ -19,6 +19,7 @@ excerpt: 'Resumen de los proyectos desarrollados por estudiantes del curso Labor
 
 <div style="text-align: justify;">Además, los estudiantes desarrollaron soluciones orientadas a la automatización y el control, incluyendo un sistema automático de riego con monitoreo de humedad y nivel de agua, un medidor de velocidad con visualización mediante LEDs, un inversor basado en CD4047 e IRLZ44N validado mediante simulación, y un sistema de control PID para regulación de temperatura utilizando Arduino.</div>
 
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ce13e139-6b75-4922-bbb5-e3ac5f140336" alt="Resumen de los distintos proyectos presentados por los estudiantes">

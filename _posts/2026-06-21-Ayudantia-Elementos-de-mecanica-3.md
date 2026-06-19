@@ -198,6 +198,7 @@ $$ L=2\,m $$
 ## Solución Ejercicio 2
 
 ### Momento polar
+
 $$ J= \frac{\pi d^4}{32} $$
 
 $$ J= 6.14\times10^{-7}\,m^4 $$

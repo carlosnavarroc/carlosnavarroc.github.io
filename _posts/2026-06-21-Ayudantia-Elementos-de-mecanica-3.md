@@ -132,9 +132,7 @@ Una barra de acero de longitud 2.5 m y diámetro 20 mm está sometida a una carg
 
 Considere:
 
-$$
-E=200\,GPa
-$$
+$$ E=200\,GPa $$
 
 ### Se pide
 
@@ -149,6 +147,7 @@ $$
 ### Área transversal
 
 $$ A= \frac{\pi d^2}{4} $$ 
+
 $$ A= \frac{\pi(20)^2}{4} = 314.16\,mm^2 $$
 
 ### Esfuerzo normal

@@ -1,6 +1,6 @@
 ---
 title: 'Ayudantía 3 Elementos de Mecánica — Círculo de Mohr y Teoría de Falla de Von Mises'
-date: 2026-06-01
+date: 2026-06-21
 permalink: /posts/2026/06/01/ayudantia-circulo-mohr-von-mises/
 tags:
   - Resistencia de Materiales

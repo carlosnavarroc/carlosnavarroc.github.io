@@ -232,6 +232,7 @@ $$ \boxed{\phi=4.66^\circ} $$
 Un elemento está sometido al siguiente estado plano de esfuerzos:
 
 $$ \sigma_x=80\,MPa $$
+
 $$ \sigma_y=20\,MPa $$
 
 $$ \tau_{xy}=30\,MPa $$
@@ -249,6 +250,7 @@ $$ \tau_{xy}=30\,MPa $$
 ### Centro
 
 $$ C= \frac{\sigma_x+\sigma_y}{2} $$
+
 $$ C= \frac{80+20}{2} = 50\,MPa $$
  
 ### Radio
@@ -273,7 +275,7 @@ $$ \sigma_2= 50-42.43 = 7.57\,MPa $$
 
 $$ \boxed{\sigma_1=92.43\,MPa} $$
 
-$$ \boxed{\sigma_2=7.57\,MPa} 
+$$ \boxed{\sigma_2=7.57\,MPa} $$
 
 ## Ejercicio 4 — Círculo de Mohr completo
 
@@ -282,7 +284,9 @@ $$ \boxed{\sigma_2=7.57\,MPa}
 Un elemento está sometido al siguiente estado plano de esfuerzos:
 
 $$ \sigma_x=120\,MPa $$
+
 $$ \sigma_y=-40\,MPa $$
+
 $$ \tau_{xy}=50\,MPa $$
 
 ### Se pide

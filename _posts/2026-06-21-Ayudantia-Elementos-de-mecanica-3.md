@@ -192,13 +192,8 @@ Un eje macizo de acero de diámetro 50 mm transmite un torque de 2 kN·m.
 
 Considere:
 
-$$
-G=80\,GPa
-$$
-
-$$
-L=2\,m
-$$
+$$ G=80\,GPa $$
+$$ L=2\,m $$
 
 ### Se pide
 
@@ -210,61 +205,25 @@ $$
 ## Solución Ejercicio 2
 
 ### Momento polar
-
-$$
-J=
-\frac{\pi d^4}{32}
-$$
-
-$$
-J=
-6.14\times10^{-7}\,m^4
-$$
+$$ J= \frac{\pi d^4}{32} $$
+$$ J= 6.14\times10^{-7}\,m^4 $$
 
 ### Esfuerzo cortante máximo
 
-$$
-\tau=
-\frac{Tc}{J}
-$$
-
-$$
-\tau=
-\frac{(2000)(0.025)}
-{6.14\times10^{-7}}
-=
-81.4\,MPa
-$$
+$$ \tau= \frac{Tc}{J} $$
+$$ \tau= \frac{(2000)(0.025)} {6.14\times10^{-7}} = 81.4\,MPa $$
 
 ### Ángulo de torsión
 
-$$
-\phi=
-\frac{TL}{JG}
-$$
+$$ \phi= \frac{TL}{JG} $$
+$$ \phi= \frac{(2000)(2)} {(6.14\times10^{-7})(80\times10^9)} = 0.0814\,rad $$ 
 
-$$
-\phi=
-\frac{(2000)(2)}
-{(6.14\times10^{-7})(80\times10^9)}
-=
-0.0814\,rad
-$$
-
-$$
-\phi=
-4.66^\circ
-$$
+$$ \phi= 4.66^\circ $$
 
 ### Resultado
 
-$$
-\boxed{\tau_{max}=81.4\,MPa}
-$$
-
-$$
-\boxed{\phi=4.66^\circ}
-$$
+$$ \boxed{\tau_{max}=81.4\,MPa} $$
+$$ \boxed{\phi=4.66^\circ} $$
 
 ---
 
@@ -274,18 +233,11 @@ $$
 
 Un elemento está sometido al siguiente estado plano de esfuerzos:
 
-$$
-\sigma_x=80\,MPa
-$$
+$$ \sigma_x=80\,MPa $$
+$$ \sigma_y=20\,MPa $$
 
-$$
-\sigma_y=20\,MPa
-$$
-
-$$
-\tau_{xy}=30\,MPa
-$$
-
+$$ \tau_{xy}=30\,MPa $$
+ 
 ### Se pide
 
 1. Centro del círculo de Mohr.
@@ -298,70 +250,32 @@ $$
 
 ### Centro
 
-$$
-C=
-\frac{\sigma_x+\sigma_y}{2}
-$$
-
-$$
-C=
-\frac{80+20}{2}
-=
-50\,MPa
-$$
-
+$$ C= \frac{\sigma_x+\sigma_y}{2} $$
+$$ C= \frac{80+20}{2} = 50\,MPa $$
+ 
 ### Radio
 
-$$
-R=
-\sqrt{
-\left(
-\frac{80-20}{2}
-\right)^2
-+
-30^2
-}
-$$
+$$ R= \sqrt{ \left( \frac{80-20}{2} \right)^2 + 30^2 } $$
 
-$$
-R=
-42.43\,MPa
-$$
+$$ R= 42.43\,MPa $$ 
 
 ### Esfuerzo principal mayor
 
-$$
-\sigma_1=C+R
-$$
+$$ \sigma_1=C+R $$
 
-$$
-\sigma_1=
-50+42.43
-=
-92.43\,MPa
-$$
+$$ \sigma_1= 50+42.43 = 92.43\,MPa $$
 
 ### Esfuerzo principal menor
 
-$$
-\sigma_2=C-R
-$$
+$$ \sigma_2=C-R $$
 
-$$
-\sigma_2=
-50-42.43
-=
-7.57\,MPa
-$$
+$$ \sigma_2= 50-42.43 = 7.57\,MPa $$
 
 ### Resultados
 
-$$
-\boxed{\sigma_1=92.43\,MPa}
-$$
+$$ \boxed{\sigma_1=92.43\,MPa} $$
 
-$$
-\boxed{\sigma_2=7.57\,MPa}
+$$ \boxed{\sigma_2=7.57\,MPa} 
 
 ## Ejercicio 4 — Círculo de Mohr completo
 
@@ -369,17 +283,9 @@ $$
 
 Un elemento está sometido al siguiente estado plano de esfuerzos:
 
-$$
-\sigma_x=120\,MPa
-$$
-
-$$
-\sigma_y=-40\,MPa
-$$
-
-$$
-\tau_{xy}=50\,MPa
-$$
+$$ \sigma_x=120\,MPa $$
+$$ \sigma_y=-40\,MPa $$
+$$ \tau_{xy}=50\,MPa $$
 
 ### Se pide
 
@@ -395,146 +301,58 @@ $$
 
 ### Centro del círculo
 
-$$
-C=
-\frac{\sigma_x+\sigma_y}{2}
-$$
-
-$$
-C=
-\frac{120-40}{2}
-=
-40\,MPa
-$$
+$$ C= \frac{\sigma_x+\sigma_y}{2} $$
+$$ C= \frac{120-40}{2} = 40\,MPa $$
 
 ---
 
-### Radio
+### Radio 
+$$ R= \sqrt{ \left( \frac{120-(-40)}{2} \right)^2 + 50^2 }$$
 
-$$
-R=
-\sqrt{
-\left(
-\frac{120-(-40)}{2}
-\right)^2
-+
-50^2
-}
-$$
+$$ R= \sqrt{ 80^2+50^2 } $$
 
-$$
-R=
-\sqrt{
-80^2+50^2
-}
-$$
-
-$$
-R=
-94.34\,MPa
-$$
+$$ R= 94.34\,MPa $$ 
 
 ---
 
 ### Esfuerzo principal mayor
 
-$$
-\sigma_1=
-C+R
-$$
+$$ \sigma_1= C+R $$
 
-$$
-\sigma_1=
-40+94.34
-=
-134.34\,MPa
-$$
+$$ \sigma_1= 40+94.34 = 134.34\,MPa $$
 
 ---
 
 ### Esfuerzo principal menor
 
-$$
-\sigma_2=
-C-R
-$$
-
-$$
-\sigma_2=
-40-94.34
-=
--54.34\,MPa
-$$
+$$ \sigma_2= C-R $$  
+$$ \sigma_2= 40-94.34 = -54.34\,MPa $$
 
 ---
 
 ### Esfuerzo cortante máximo
 
-$$
-\tau_{max}=R
-$$
-
-$$
-\tau_{max}
-=
-94.34\,MPa
-$$
+$$ \tau_{max}=R $$
+$$ \tau_{max} = 94.34\,MPa $$
 
 ---
 
 ### Orientación principal
+$$ \tan(2\theta_p) = \frac{2\tau_{xy}} {\sigma_x-\sigma_y} $$
+$$ \tan(2\theta_p) = \frac{100}{160} $$
+$$ 2\theta_p= 32.0^\circ $$
 
-$$
-\tan(2\theta_p)
-=
-\frac{2\tau_{xy}}
-{\sigma_x-\sigma_y}
-$$
-
-$$
-\tan(2\theta_p)
-=
-\frac{100}{160}
-$$
-
-$$
-2\theta_p=
-32.0^\circ
-$$
-
-$$
-\theta_p=
-16.0^\circ
-$$
+$$ \theta_p= 16.0^\circ $$
 
 ---
 
 ### Resultados
 
-$$
-\boxed{
-\sigma_1=134.34\,MPa
-}
-$$
+$$ \boxed{ \sigma_1=134.34\,MPa } $$
+$$ \boxed{ \sigma_2=-54.34\,MPa } $$
 
-$$
-\boxed{
-\sigma_2=-54.34\,MPa
-}
-$$
-
-$$
-\boxed{
-\tau_{max}=94.34\,MPa
-}
-$$
-
-$$
-\boxed{
-\theta_p=16.0^\circ
-}
-$$
-
+$$ \boxed{ \tau_{max}=94.34\,MPa } $$ 
+$$ \boxed{ \theta_p=16.0^\circ } $$
 ---
 
 ## Ejercicio 5 — Teoría de falla de Von Mises

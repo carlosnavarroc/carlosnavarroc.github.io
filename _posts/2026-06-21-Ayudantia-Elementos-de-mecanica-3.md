@@ -82,24 +82,13 @@ $$ \tan(2\theta_p) = \frac{2\tau_{xy}} {\sigma_x-\sigma_y} $$
 
 ## Centro del círculo de Mohr
 
-$$
-C=
-\frac{\sigma_x+\sigma_y}{2}
-$$
+$$ C= \frac{\sigma_x+\sigma_y}{2} $$
 
 ---
 
 ## Radio del círculo de Mohr
 
-$$
-R=
-\sqrt{
-\left(
-\frac{\sigma_x-\sigma_y}{2}
-\right)^2
-+
-\tau_{xy}^2
-}
+$$ R= \sqrt{ \left( \frac{\sigma_x-\sigma_y}{2} \right)^2 + \tau_{xy}^2 }
 $$
 
 ---
@@ -113,6 +102,9 @@ $$ \sigma_{VM} = \sqrt{ \sigma_x^2 - \sigma_x\sigma_y + \sigma_y^2 + 3\tau_{xy}^
 ## Factor de seguridad
 
 $$ n= \frac{\sigma_Y} {\sigma_{VM}} $$
+
+---
+
 <br>
 
 # 2. Formulario Resumen

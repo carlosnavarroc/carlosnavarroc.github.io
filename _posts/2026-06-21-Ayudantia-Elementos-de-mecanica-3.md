@@ -165,6 +165,7 @@ $$ \varepsilon= \frac{254.65\times10^6} {200\times10^9} =  1.27\times10^{-3} $$
 ### Alargamiento
 
 $$ \delta= \varepsilon L $$  
+
 $$ \delta= (1.27\times10^{-3})(2.5) = 3.18\,mm $$
 
 ### Resultado
@@ -184,6 +185,7 @@ Un eje macizo de acero de diámetro 50 mm transmite un torque de 2 kN·m.
 Considere:
 
 $$ G=80\,GPa $$
+
 $$ L=2\,m $$
 
 ### Se pide
@@ -197,16 +199,19 @@ $$ L=2\,m $$
 
 ### Momento polar
 $$ J= \frac{\pi d^4}{32} $$
+
 $$ J= 6.14\times10^{-7}\,m^4 $$
 
 ### Esfuerzo cortante máximo
 
 $$ \tau= \frac{Tc}{J} $$
+
 $$ \tau= \frac{(2000)(0.025)} {6.14\times10^{-7}} = 81.4\,MPa $$
 
 ### Ángulo de torsión
 
 $$ \phi= \frac{TL}{JG} $$
+
 $$ \phi= \frac{(2000)(2)} {(6.14\times10^{-7})(80\times10^9)} = 0.0814\,rad $$ 
 
 $$ \phi= 4.66^\circ $$
@@ -214,6 +219,7 @@ $$ \phi= 4.66^\circ $$
 ### Resultado
 
 $$ \boxed{\tau_{max}=81.4\,MPa} $$
+
 $$ \boxed{\phi=4.66^\circ} $$
 
 ---

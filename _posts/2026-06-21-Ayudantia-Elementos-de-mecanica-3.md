@@ -63,45 +63,20 @@ donde:
 ## Esfuerzos principales
 
 $$
-\sigma_{1,2}
-=
-\frac{\sigma_x+\sigma_y}{2}
-\pm
-\sqrt{
-\left(
-\frac{\sigma_x-\sigma_y}{2}
-\right)^2
-+
-\tau_{xy}^2
-}
+\sigma_{1,2}=\frac{\sigma_x+\sigma_y}{2}\pm\sqrt{\left(\frac{\sigma_x-\sigma_y}{2}\right)^2+\tau_{xy}^2}
 $$
 
 ---
 
 ## Esfuerzo cortante máximo
 
-$$
-\tau_{max}
-=
-\sqrt{
-\left(
-\frac{\sigma_x-\sigma_y}{2}
-\right)^2
-+
-\tau_{xy}^2
-}
-$$
+$$ \tau_{max} = \sqrt{ \left( \frac{\sigma_x-\sigma_y}{2} \right)^2 + \tau_{xy}^2 } $$
 
 ---
 
 ## Orientación de los planos principales
 
-$$
-\tan(2\theta_p)
-=
-\frac{2\tau_{xy}}
-{\sigma_x-\sigma_y}
-$$
+$$ \tan(2\theta_p) = \frac{2\tau_{xy}} {\sigma_x-\sigma_y} $$ 
 
 ---
 
@@ -131,30 +106,13 @@ $$
 
 ## Teoría de Von Mises
 
-$$
-\sigma_{VM}
-=
-\sqrt{
-\sigma_x^2
--
-\sigma_x\sigma_y
-+
-\sigma_y^2
-+
-3\tau_{xy}^2
-}
-$$
+$$ \sigma_{VM} = \sqrt{ \sigma_x^2 - \sigma_x\sigma_y + \sigma_y^2 + 3\tau_{xy}^2 } $$
 
 ---
 
 ## Factor de seguridad
 
-$$
-n=
-\frac{\sigma_Y}
-{\sigma_{VM}}
-$$
-
+$$ n= \frac{\sigma_Y} {\sigma_{VM}} $$
 <br>
 
 # 2. Formulario Resumen
@@ -198,70 +156,31 @@ $$
 
 ### Área transversal
 
-$$
-A=
-\frac{\pi d^2}{4}
-$$
-
-$$
-A=
-\frac{\pi(20)^2}{4}
-=
-314.16\,mm^2
-$$
+$$ A= \frac{\pi d^2}{4} $$ 
+$$ A= \frac{\pi(20)^2}{4} = 314.16\,mm^2 $$
 
 ### Esfuerzo normal
 
-$$
-\sigma=
-\frac{P}{A}
-$$
+$$ \sigma= \frac{P}{A} $$
 
-$$
-\sigma=
-\frac{80000}{314.16}
-=
-254.65\,MPa
-$$
+$$ \sigma= \frac{80000}{314.16} = 254.65\,MPa $$
 
 ### Deformación unitaria
 
-$$
-\varepsilon=
-\frac{\sigma}{E}
-$$
+$$ \varepsilon= \frac{\sigma}{E} $$
 
-$$
-\varepsilon=
-\frac{254.65\times10^6}
-{200\times10^9}
-=
-1.27\times10^{-3}
-$$
+$$ \varepsilon= \frac{254.65\times10^6} {200\times10^9} =  1.27\times10^{-3} $$
 
 ### Alargamiento
 
-$$
-\delta=
-\varepsilon L
-$$
-
-$$
-\delta=
-(1.27\times10^{-3})(2.5)
-=
-3.18\,mm
-$$
+$$ \delta= \varepsilon L $$  
+$$ \delta= (1.27\times10^{-3})(2.5) = 3.18\,mm $$
 
 ### Resultado
 
-$$
-\boxed{\sigma=254.65\,MPa}
-$$
+$$ \boxed{\sigma=254.65\,MPa} $$
 
-$$
-\boxed{\delta=3.18\,mm}
-$$
+$$ \boxed{\delta=3.18\,mm} $$
 
 ---
 

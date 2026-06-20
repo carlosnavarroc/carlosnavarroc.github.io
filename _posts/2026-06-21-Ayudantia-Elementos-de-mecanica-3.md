@@ -8,8 +8,6 @@ tags:
   - Beer and Johnston
   - Círculo de Mohr
   - Von Mises
-  - Ingeniería Mecánica
-  - Ingeniería Civil
   - Ayudantías
 excerpt: 'Guía universitaria de Resistencia de Materiales enfocada en estado plano de esfuerzos, círculo de Mohr y teoría de falla de Von Mises.'
 ---
@@ -304,6 +302,7 @@ $$ \tau_{xy}=50\,MPa $$
 ### Centro del círculo
 
 $$ C= \frac{\sigma_x+\sigma_y}{2} $$
+
 $$ C= \frac{120-40}{2} = 40\,MPa $$
 
 ---
@@ -328,6 +327,7 @@ $$ \sigma_1= 40+94.34 = 134.34\,MPa $$
 ### Esfuerzo principal menor
 
 $$ \sigma_2= C-R $$  
+
 $$ \sigma_2= 40-94.34 = -54.34\,MPa $$
 
 ---
@@ -335,13 +335,17 @@ $$ \sigma_2= 40-94.34 = -54.34\,MPa $$
 ### Esfuerzo cortante máximo
 
 $$ \tau_{max}=R $$
+
 $$ \tau_{max} = 94.34\,MPa $$
 
 ---
 
 ### Orientación principal
+
 $$ \tan(2\theta_p) = \frac{2\tau_{xy}} {\sigma_x-\sigma_y} $$
+
 $$ \tan(2\theta_p) = \frac{100}{160} $$
+
 $$ 2\theta_p= 32.0^\circ $$
 
 $$ \theta_p= 16.0^\circ $$
@@ -351,9 +355,11 @@ $$ \theta_p= 16.0^\circ $$
 ### Resultados
 
 $$ \boxed{ \sigma_1=134.34\,MPa } $$
+
 $$ \boxed{ \sigma_2=-54.34\,MPa } $$
 
 $$ \boxed{ \tau_{max}=94.34\,MPa } $$ 
+
 $$ \boxed{ \theta_p=16.0^\circ } $$
 ---
 

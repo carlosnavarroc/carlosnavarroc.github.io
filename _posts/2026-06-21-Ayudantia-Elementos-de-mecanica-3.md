@@ -371,6 +371,7 @@ $$ \boxed{ \sigma_2=-54.34\,MPa } $$
 $$ \boxed{ \tau_{max}=94.34\,MPa } $$ 
 
 $$ \boxed{ \theta_p=16.0^\circ } $$
+
 ---
 
 ## Ejercicio 5 — Teoría de falla de Von Mises

@@ -138,6 +138,9 @@ $$ E=200\,GPa $$
 2. Deformación unitaria.
 3. Alargamiento.
 
+<img width="993" height="215" alt="image" src="https://github.com/user-attachments/assets/b7e9b6bf-58dc-4f9d-9b2e-1487705a9a7b" />
+
+
 ---
 
 ## Solución Ejercicio 1
@@ -191,6 +194,9 @@ $$ L=2\,m $$
 1. Esfuerzo cortante máximo.
 2. Ángulo de torsión.
 
+<img width="996" height="194" alt="image" src="https://github.com/user-attachments/assets/85a969af-7b34-4e83-9ebc-846164f32afe" />
+
+
 ---
 
 ## Solución Ejercicio 2
@@ -240,6 +246,8 @@ $$ \tau_{xy}=30\,MPa $$
 1. Centro del círculo de Mohr.
 2. Radio del círculo.
 3. Esfuerzos principales.
+
+<img width="989" height="244" alt="image" src="https://github.com/user-attachments/assets/0b22626d-6d40-4ba8-89df-f23183b87592" />
 
 ---
 
@@ -294,6 +302,8 @@ $$ \tau_{xy}=50\,MPa $$
 3. Esfuerzos principales.
 4. Esfuerzo cortante máximo.
 5. Orientación de los planos principales.
+
+<img width="998" height="280" alt="image" src="https://github.com/user-attachments/assets/005bd848-853c-4b21-9e26-4e709b70b7e1" />
 
 ---
 
@@ -392,6 +402,8 @@ $$
 1. Esfuerzo equivalente de Von Mises.
 2. Factor de seguridad.
 3. Determinar si existe fluencia.
+
+<img width="995" height="241" alt="image" src="https://github.com/user-attachments/assets/65dc2557-7680-4880-8efb-a031b4713cf8" />
 
 ---
 
@@ -546,6 +558,8 @@ $$
 3. Esfuerzos principales.
 4. Esfuerzo equivalente de Von Mises.
 5. Factor de seguridad.
+
+<img width="807" height="269" alt="image" src="https://github.com/user-attachments/assets/28d89103-c414-4a61-a1f1-169c8468c43a" />
 
 ---
 
@@ -813,6 +827,353 @@ $$
 </div>
 
 <br>
+
+
+---
+
+<br>
+
+# 6. Problemas Desafiantes
+
+Los siguientes problemas integran conceptos de estado plano de esfuerzos, círculo de Mohr y teoría de falla. Su nivel de dificultad es similar al esperado en una evaluación final de Resistencia de Materiales.
+
+---
+
+## Problema 7 — Transformación de esfuerzos
+
+### Enunciado
+
+Un elemento está sometido al siguiente estado plano de esfuerzos:
+
 $$
+\sigma_x=140\,MPa
+$$
+
+$$
+\sigma_y=40\,MPa
+$$
+
+$$
+\tau_{xy}=60\,MPa
+$$
+
+Determine:
+
+1. Los esfuerzos sobre un plano girado 25° en sentido antihorario.
+2. Los esfuerzos principales.
+3. El esfuerzo cortante máximo.
+
+<img width="981" height="316" alt="image" src="https://github.com/user-attachments/assets/2fc2e714-508c-43fe-9989-9ee2252e792d" />
+
+---
+
+## Solución Problema 7
+
+### Centro del círculo de Mohr
+
+$$ C= \frac{\sigma_x+\sigma_y}{2} = \frac{140+40}{2} = 90\,MPa $$
+
+---
+
+### Radio
+
+$$ R= \sqrt{ \left( \frac{140-40}{2} \right)^2 + 60^2 } $$
+
+$$ R= \sqrt{50^2+60^2} = 78.10\,MPa $$ 
+
+---
+
+### Esfuerzos principales
+
+$$ \sigma_1=C+R $$
+
+$$ \sigma_1= 90+78.10 = 168.10\,MPa $$
+
+$$ \sigma_2=C-R $$
+
+$$ \sigma_2= 90-78.10 = 11.90\,MPa $$
+
+---
+
+### Cortante máximo
+
+$$ \tau_{max}=R $$
+
+$$ \tau_{max} = 78.10\,MPa $$
+
+---
+
+### Orientación solicitada
+
+$$ \theta=25^\circ \qquad 2\theta=50^\circ $$
+
+Transformación de esfuerzos:
+
+$$ \sigma_{x'} = C+ \frac{\sigma_x-\sigma_y}{2} \cos(50^\circ) + \tau_{xy}\sin(50^\circ) $$
+
+$$ \sigma_{x'} = 90+ 50(0.6428) + 60(0.7660) $$
+
+$$ \sigma_{x'} = 168.11\,MPa $$
+
+---
+
+$$ \tau_{x'y'} = - 50(0.7660) + 60(0.6428) $$
+
+$$ \tau_{x'y'} = 0.25\,MPa $$
+
+---
+
+### Resultados
+
+$$ \boxed{\sigma_{x'}=168.11\,MPa} $$
+
+$$ \boxed{\tau_{x'y'}=0.25\,MPa} $$
+
+$$ \boxed{\sigma_1=168.10\,MPa} $$
+
+$$ \boxed{\sigma_2=11.90\,MPa} $$
+
+$$ \boxed{\tau_{max}=78.10\,MPa} $$
+
+---
+
+## Problema 8 — Diseño mediante Von Mises
+
+### Enunciado
+
+Un componente mecánico de acero está sometido al siguiente estado plano de esfuerzos:
+
+$$ \sigma_x=180\,MPa $$
+
+$$ \sigma_y=50\,MPa $$
+
+$$ \tau_{xy}=75\,MPa $$
+
+El material posee un límite de fluencia de:
+
+$$ \sigma_Y=250\,MPa $$
+
+Determine:
+
+1. El esfuerzo equivalente de Von Mises.
+2. El factor de seguridad.
+3. Si el componente falla o no.
+
+<img width="971" height="321" alt="image" src="https://github.com/user-attachments/assets/74035881-4d0a-4926-9e71-b9c2e2bfdfce" />
+
+---
+
+## Solución Problema 8
+
+### Von Mises
+
+$$ \sigma_{VM} = \sqrt{ \sigma_x^2 - \sigma_x\sigma_y + \sigma_y^2 + 3\tau_{xy}^2 } $$
+
+$$ \sigma_{VM} = \sqrt{ 180^2 - 180(50) + 50^2 + 3(75)^2 } $$
+
+$$ \sigma_{VM} = \sqrt{ 42775 } $$
+
+$$ \sigma_{VM} = 206.82\,MPa $$
+
+---
+
+### Factor de seguridad
+
+$$ n= \frac{\sigma_Y}{\sigma_{VM}} $$ 
+
+$$ n= \frac{250}{206.82} = 1.21 $$
+
+---
+
+### Verificación
+
+$$ 206.82<250 $$
+
+No existe fluencia.
+
+---
+
+### Resultados
+
+$$ \boxed{\sigma_{VM}=206.82\,MPa} $$
+
+$$ \boxed{n=1.21} $$
+
+El componente trabaja en condición segura.
+
+---
+
+## Problema 9 — Reconstrucción del círculo de Mohr
+
+### Enunciado
+
+Para un determinado elemento se sabe que los esfuerzos principales son:
+
+$$
+\sigma_1=220\,MPa
+$$
+
+$$
+\sigma_2=-40\,MPa
+$$
+
+Determine:
+
+1. Centro del círculo de Mohr.
+2. Radio.
+3. Esfuerzo cortante máximo.
+4. Dibuje esquemáticamente el círculo de Mohr.
+
+<img width="990" height="246" alt="image" src="https://github.com/user-attachments/assets/fdd8800a-9931-47d8-ac79-6bb1612e6cd2" />
+
+---
+
+## Solución Problema 9
+
+### Centro
+
+$$ C= \frac{\sigma_1+\sigma_2}{2} $$
+
+$$ C= \frac{220-40}{2} = 90\,MPa $$
+
+---
+
+### Radio
+
+$$ R= \frac{\sigma_1-\sigma_2}{2} $$
+
+$$ R= \frac{220-(-40)}{2} = 130\,MPa $$
+
+---
+
+### Cortante máximo
+
+$$ \tau_{max}=R $$
+
+$$ \tau_{max} = 130\,MPa $$ 
+
+---
+
+### Resultados
+
+$$ \boxed{C=90\,MPa} $$
+
+$$ \boxed{R=130\,MPa} $$
+
+$$ \boxed{\tau_{max}=130\,MPa} $$
+
+---
+
+## Problema 10 — Eje sometido a carga axial y torsión
+
+### Enunciado
+
+Un eje macizo de acero de diámetro
+
+$$ d=45\,mm $$
+
+está sometido simultáneamente a:
+
+$$ P=150\,kN $$
+
+$$ T=3\,kN\cdot m $$
+
+Considere un límite de fluencia:
+
+$$ \sigma_Y=250\,MPa $$
+
+Determine:
+
+1. Esfuerzo normal.
+2. Esfuerzo cortante.
+3. Esfuerzos principales.
+4. Esfuerzo equivalente de Von Mises.
+5. Factor de seguridad.
+
+<img width="986" height="265" alt="image" src="https://github.com/user-attachments/assets/65e1f4fa-e699-498e-b0aa-db7793ea9aa2" />
+
+---
+
+## Solución Problema 10
+
+### Área 
+
+$$ A= \frac{\pi d^2}{4} $$
+
+$$ A= 1590.43\,mm^2 $$
+
+---
+
+### Esfuerzo normal
+
+$$ \sigma= \frac{150000}{1590.43} = 94.31\,MPa $$
+
+---
+
+### Momento polar
+
+$$ J= \frac{\pi d^4}{32} $$
+
+$$ J= 4.03\times10^5\,mm^4 $$
+
+---
+
+### Esfuerzo cortante
+
+Usando:
+
+$$ T=3\times10^6\,N\cdot mm $$
+
+$$ c=22.5\,mm $$
+
+$$ \tau= \frac{Tc}{J} $$
+
+$$ \tau= 167.5\,MPa $$
+
+---
+
+### Esfuerzos principales
+
+$$ C= \frac{94.31}{2} = 47.16\,MPa $$
+
+$$ R= \sqrt{ 47.16^2+ 167.5^2 } = 174.0\,MPa $$
+
+---
+
+$$ \sigma_1= 47.16+174.0 = 221.16\,MPa $$
+
+$$ \sigma_2= 47.16-174.0 =-126.84\,MPa $$
+
+---
+
+### Von Mises
+
+$$ \sigma_{VM} = \sqrt{ 94.31^2+ 3(167.5)^2 } $$ 
+
+$$ \sigma_{VM} = 306.5\,MPa $$ 
+
+---
+
+### Factor de seguridad
+
+$$ n= \frac{250}{306.5} = 0.82 $$ 
+
+---
+
+### Resultados
+
+$$ \boxed{\sigma=94.31\,MPa} $$
+
+$$ \boxed{\tau=167.5\,MPa} $$
+
+$$ \boxed{\sigma_1=221.16\,MPa} $$
+
+$$ \boxed{\sigma_2=-126.84\,MPa} $$
+
+$$ \boxed{\sigma_{VM}=306.5\,MPa} $$
+
+$$ \boxed{n=0.82} $$
+
+El eje falla por fluencia según Von Mises.
 
 ---

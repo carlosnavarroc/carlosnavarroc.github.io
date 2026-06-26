@@ -35,7 +35,7 @@ Los contenidos correspondientes a las dos primeras unidades del curso ya fueron 
 
 ### Unidad I — Estática y Dinámica de Fluidos
 
-👉 https://carlosnavarroc.github.io/posts/2026/04/07/guia-fluidos/
+https://carlosnavarroc.github.io/posts/2026/04/07/guia-fluidos/
 
 En esta guía se revisan:
 
@@ -51,7 +51,7 @@ En esta guía se revisan:
 
 ### Unidad II — Resistencia de Materiales
 
-👉 https://carlosnavarroc.github.io/posts/2026/05/07/ayudantia-resistencia-materiales-beer-johnston/
+https://carlosnavarroc.github.io/posts/2026/05/07/ayudantia-resistencia-materiales-beer-johnston/
 
 En esta guía se revisan:
 

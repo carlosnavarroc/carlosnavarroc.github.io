@@ -11,6 +11,15 @@ excerpt: "Se presenta una síntesis de los trabajos desarrollados por estudiante
 En el contexto de las actividades científicas del SIRC, se desarrollaron diversas presentaciones en preparación para AAIC26 y la jornada de CICA de junio de 2026. En conjunto, estos trabajos abordan el impacto del aislamiento social en Drosophila melanogaster desde perspectivas conductuales, neurobiológicas y circadianas, a lo largo de distintas etapas del ciclo de vida del organismo.
 </div>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8074dce1-7843-47a8-9dbc-4ee91af85034" alt="Resumen de los distintos posters presentados por los estudiantes">
+</p>
+
+<p align="center">
+  <em>Figura 1: Resumen de los distintos posters presentados por los estudiantes.</em>
+</p>
+
 <br>
 
 <div style="text-align: justify;">

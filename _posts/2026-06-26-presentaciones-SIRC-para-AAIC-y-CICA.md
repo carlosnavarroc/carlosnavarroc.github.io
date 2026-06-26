@@ -1,21 +1,17 @@
 ---
-
-title: "Presentaciones estudiantiles del SIRC para AAIC 2026 y la Jornada CICA (Julio 2026)"
+title: "Presentaciones estudiantiles del SIRC para AAIC 2026 y la Jornada CICA"
 date: 2026-06-26
-permalink: /news/2026-06-26-sirc-aaic26-cica-presentations/
+permalink: "/news/2026-06-26-sirc-aaic26-cica-presentations/"
 tags:
-
-* AAIC2026
-* CICA
-* SIRC
-* GRACE Lab
-* Drosophila melanogaster
-* Neurociencia
-* Investigación
-* Cognición
-* Estrés social
-  excerpt: "Estudiantes del SIRC presentaron avances de investigación orientados a la AAIC 2026 y la Jornada CICA de julio de 2026, abordando modelos experimentales de deterioro cognitivo y estrés social utilizando Drosophila melanogaster."
-
+  - "AAIC2026"
+  - "CICA"
+  - "SIRC"
+  - "GRACE Lab"
+  - "Drosophila melanogaster"
+  - "Neurociencia"
+  - "Investigación"
+  - "Estrés social"
+excerpt: "Estudiantes del SIRC presentaron avances de investigación rumbo a la AAIC 2026 y la Jornada CICA de junio de 2026, utilizando Drosophila melanogaster como modelo experimental para estudiar los efectos del aislamiento social sobre la conducta exploratoria."
 ---
 
 # Presentaciones estudiantiles del SIRC rumbo a AAIC 2026 y la Jornada CICA

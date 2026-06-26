@@ -1,17 +1,17 @@
 ---
-
 title: 'Presentaciones preliminares del SIRC para AAIC 2026 y la jornada CICA de junio'
 date: 2026-06-26
 permalink: /posts/2026/06/26/presentaciones-preliminares-sirc-aaic26-cica/
 tags:
 
-* AAIC 2026
-* CICA
-* Drosophila melanogaster
-* Neurociencias
-* SIRC
-* Investigación
-  excerpt: 'Estudiantes del SIRC presentaron avances preliminares de dos investigaciones sobre aislamiento social y conducta en Drosophila melanogaster, en el marco de la preparación para AAIC 2026 y la jornada CICA de junio.'
+- AAIC 2026
+- CICA
+- Drosophila melanogaster
+- Neurociencias
+- SIRC
+- Investigación
+
+excerpt: 'Estudiantes del SIRC presentaron avances preliminares de dos investigaciones sobre aislamiento social y conducta en Drosophila melanogaster, en el marco de la preparación para AAIC 2026 y la jornada CICA de junio.'
 
 ---
 

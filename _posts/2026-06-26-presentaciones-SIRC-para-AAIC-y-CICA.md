@@ -1,99 +1,54 @@
 ---
-title: "Presentaciones estudiantiles del SIRC para AAIC 2026 y la Jornada CICA"
+
+title: 'Presentaciones preliminares del SIRC para AAIC 2026 y la jornada CICA de junio'
 date: 2026-06-26
-permalink: "/news/2026-06-26-sirc-aaic26-cica-presentations/"
+permalink: /posts/2026/06/26/presentaciones-preliminares-sirc-aaic26-cica/
 tags:
-  - "AAIC2026"
-  - "CICA"
-  - "SIRC"
-  - "GRACE Lab"
-  - "Drosophila melanogaster"
-  - "Neurociencia"
-  - "Investigación"
-  - "Estrés social"
-excerpt: "Estudiantes del SIRC presentaron avances de investigación rumbo a la AAIC 2026 y la Jornada CICA de junio de 2026, utilizando Drosophila melanogaster como modelo experimental para estudiar los efectos del aislamiento social sobre la conducta exploratoria."
----
 
-# Presentaciones estudiantiles del SIRC rumbo a AAIC 2026 y la Jornada CICA
-
-Durante junio de 2026, estudiantes del **SIRC** presentaron los avances de sus proyectos de investigación como parte de la preparación para la **Alzheimer's Association International Conference (AAIC 2026)** y la **Jornada CICA**. Estas actividades constituyen una instancia relevante para fortalecer la formación científica, recibir retroalimentación de la comunidad académica y consolidar los resultados preliminares antes de su difusión en congresos internacionales.
-
-Las investigaciones desarrolladas integran enfoques de neurociencia, comportamiento y modelos experimentales, promoviendo una aproximación traslacional al estudio de los procesos asociados al deterioro cognitivo.
+* AAIC 2026
+* CICA
+* Drosophila melanogaster
+* Neurociencias
+* SIRC
+* Investigación
+  excerpt: 'Estudiantes del SIRC presentaron avances preliminares de dos investigaciones sobre aislamiento social y conducta en Drosophila melanogaster, en el marco de la preparación para AAIC 2026 y la jornada CICA de junio.'
 
 ---
 
-## Figura
-
-<div align="center">
-
-**Presentaciones de estudiantes del SIRC durante la Jornada CICA y preparación para AAIC 2026.**
-
+<div style="text-align: justify;">
+Durante la jornada de CICA de junio de 2026, estudiantes del SIRC compartieron los avances preliminares de dos investigaciones que también forman parte de la preparación de sus presentaciones para la Alzheimer's Association International Conference (AAIC 2026). La actividad permitió discutir resultados iniciales, recibir retroalimentación y fortalecer el desarrollo de ambos proyectos antes de su difusión en instancias internacionales.
 </div>
 
----
+<br>
 
-## Trabajo 1: *Spatial Neophobia as a Model of Abrupt Environmental Transitions: Lifespan Effects of Social Isolation in* *Drosophila melanogaster*
+<div style="text-align: justify;">
+El primer trabajo, <em>Spatial Neophobia As A Model Of Abrupt Environmental Transitions: Lifespan Effects Of Social Isolation In Drosophila melanogaster</em>, explora cómo el aislamiento social podría modificar la conducta exploratoria durante el ciclo de vida de <em>Drosophila melanogaster</em>. La propuesta considera la neofobia espacial como un modelo para estudiar los efectos de transiciones ambientales abruptas y su posible relación con procesos asociados al deterioro cognitivo. Aunque los resultados son preliminares, las observaciones iniciales sugieren diferencias entre individuos criados en aislamiento y aquellos mantenidos en grupo, tanto en variables como la latencia, el número de desplazamientos y los patrones generales de exploración.
+</div>
 
-### Introducción
+<br>
 
-El primer trabajo explora la **neofobia espacial** como un modelo conductual para estudiar el impacto de transiciones ambientales abruptas durante el desarrollo de *Drosophila melanogaster*. Este organismo representa un modelo ampliamente utilizado en neurociencia debido a que comparte aproximadamente el **70 % de su material genético con los seres humanos**, permitiendo estudiar mecanismos biológicos conservados relacionados con el desarrollo y la función del sistema nervioso.
+<div style="text-align: justify;">
+La discusión presentada destacó que los individuos mantenidos en grupos mostraron un comportamiento más uniforme durante las pruebas, mientras que los sujetos aislados evidenciaron una mayor variabilidad en sus respuestas exploratorias. Estos hallazgos aún requieren ser confirmados mediante un aumento del tamaño muestral y estudios complementarios, pero constituyen una base interesante para seguir investigando la relación entre el aislamiento social, la conducta exploratoria y modelos experimentales con potencial relevancia traslacional.
+</div>
 
-La etapa larval constituye un período especialmente relevante, ya que concentra altos niveles de actividad motora y comportamiento exploratorio, ofreciendo una ventana adecuada para evaluar modificaciones inducidas por factores ambientales.
+<br>
 
-### Hipótesis
+<div style="text-align: justify;">
+El segundo trabajo, <em>Isolation: Behavioral And Neurochemical Evidence In Drosophila melanogaster</em> (Poster ID: 3751, ISOFLY), amplía esta línea de investigación incorporando evidencia conductual y neuroquímica para estudiar los efectos del aislamiento social en este organismo modelo. La presentación mostró el estado actual del proyecto y permitió intercambiar observaciones metodológicas y perspectivas para las siguientes etapas del estudio, las cuales continuarán desarrollándose conforme avance la recopilación y el análisis de los datos.
+</div>
 
-Se plantea que el **aislamiento social durante el ciclo de vida de *Drosophila melanogaster*** incrementa la expresión de conductas compatibles con neofobia espacial en comparación con individuos criados en condiciones grupales.
+<br>
 
-### Contexto biológico
+<p align="center">
+<img decoding="async" src="URL" alt="Presentaciones de estudiantes del SIRC durante la jornada CICA de junio de 2026 y preparación para AAIC 2026">
+</p>
 
-El aislamiento social ha sido propuesto como un importante estresor ambiental capaz de generar estrés oxidativo y alterar procesos del neurodesarrollo. Diversos estudios sugieren que la exposición temprana a este tipo de estrés puede favorecer alteraciones cognitivas y modificar patrones conductuales durante etapas posteriores del desarrollo.
+<p align="center">
+<em>Figura 1: Presentación de resultados preliminares de los proyectos desarrollados por estudiantes del SIRC en la jornada CICA de junio de 2026.</em>
+</p>
 
-En este contexto, la investigación busca establecer un modelo experimental que permita comprender cómo las condiciones sociales tempranas influyen sobre la conducta exploratoria y su posible relación con procesos asociados al deterioro cognitivo.
+<br>
 
-### Resultados preliminares
-
-Los análisis iniciales muestran diferencias conductuales entre individuos criados en aislamiento y aquellos mantenidos en grupos.
-
-Entre las variables evaluadas destacan:
-
-* Latencia al inicio de la exploración.
-* Número total de cruces realizados durante el período de observación.
-* Área explorada.
-* Linealidad de la trayectoria.
-* Preferencia espacial.
-
-En conjunto, los resultados sugieren que los individuos criados en grupo presentan:
-
-* patrones de exploración más consistentes;
-* trayectorias más lineales;
-* mayor uniformidad conductual;
-* diferencias en la distribución espacial respecto de los individuos aislados.
-
-Estas observaciones apoyan la hipótesis de que el aislamiento social podría modificar el desarrollo del sistema nervioso y alterar la conducta exploratoria.
-
-### Discusión
-
-Aunque los resultados corresponden a una fase preliminar, la evidencia obtenida respalda la utilización de la neofobia espacial como una herramienta para estudiar los efectos del estrés social durante el desarrollo.
-
-Asimismo, el trabajo busca ampliar el conocimiento disponible sobre el comportamiento exploratorio en la etapa larval de *Drosophila melanogaster*, un campo aún escasamente documentado, y generar evidencia que contribuya a comprender mecanismos potencialmente involucrados en procesos de deterioro cognitivo observados en enfermedades neurodegenerativas.
-
-Como proyección, se plantea:
-
-* incrementar el tamaño muestral;
-* fortalecer el poder estadístico de los análisis;
-* desarrollar estudios que relacionen la neofobia espacial con biomarcadores de deterioro cognitivo;
-* aumentar la relevancia traslacional del modelo experimental hacia patologías neurodegenerativas.
-
----
-
-## Trabajo 2
-
-El segundo trabajo fue presentado durante la misma jornada como parte de las actividades de preparación para la AAIC 2026. En esta publicación se incorporará una descripción detallada una vez se encuentre disponible la información definitiva del estudio.
-
----
-
-## Reflexiones finales
-
-La participación de estudiantes del **SIRC** en instancias como la **Jornada CICA** y la preparación para la **AAIC 2026** refleja el compromiso del grupo con una formación científica basada en investigación de excelencia y colaboración interdisciplinaria.
-
-Los resultados preliminares presentados evidencian el potencial de modelos experimentales como *Drosophila melanogaster* para estudiar los efectos del estrés social sobre el comportamiento y generar conocimiento con proyección hacia la comprensión de enfermedades neurodegenerativas. Estas experiencias fortalecen las competencias investigativas de los estudiantes y constituyen un paso importante en la consolidación de futuras contribuciones científicas del laboratorio.
+<div style="text-align: justify;">
+Estas presentaciones representaron una valiosa instancia de formación para los estudiantes, quienes pudieron comunicar el estado actual de sus investigaciones y recibir comentarios antes de su participación en AAIC 2026. Compartir resultados preliminares en este tipo de espacios contribuye a fortalecer el desarrollo de los proyectos y favorece la discusión científica en torno a preguntas relevantes para la investigación en neurociencias.
+</div>

@@ -14,23 +14,68 @@ excerpt: 'Guía universitaria de Resistencia de Materiales enfocada en estado pl
 
 <div style="text-align: justify;">
 
-En esta ayudantía se desarrollan conceptos fundamentales asociados al análisis de esfuerzos en dos dimensiones, basados en los contenidos de Resistencia de Materiales y Mecánica de Materiales.
-
-El objetivo principal es reforzar contenidos relacionados con:
+Esta ayudantía corresponde al repaso de la <strong>Unidad III</strong> del curso <em>Elementos de Mecánica y Resistencia de Materiales</em>, enfocándose en los contenidos que habitualmente presentan mayor dificultad en el examen final:
 
 <ul>
-<li>Estado plano de esfuerzos</li>
-<li>Esfuerzos principales</li>
-<li>Esfuerzo cortante máximo</li>
-<li>Círculo de Mohr en 2D</li>
-<li>Orientación de planos principales</li>
-<li>Teoría de falla de Von Mises</li>
-<li>Integración de esfuerzos normales y cortantes</li>
+<li>Estado plano de esfuerzos.</li>
+<li>Esfuerzos principales.</li>
+<li>Círculo de Mohr en dos dimensiones.</li>
+<li>Transformación de esfuerzos.</li>
+<li>Teoría de falla de Von Mises.</li>
+<li>Esfuerzos combinados.</li>
 </ul>
+
+Los contenidos correspondientes a las dos primeras unidades del curso ya fueron desarrollados en las ayudantías anteriores y también forman parte del examen.
 
 </div>
 
 <br>
+
+## Material de apoyo recomendado
+
+### Unidad I — Estática y Dinámica de Fluidos
+
+👉 https://carlosnavarroc.github.io/posts/2026/04/07/guia-fluidos/
+
+En esta guía se revisan:
+
+- Propiedades de los fluidos.
+- Presión.
+- Hidrostática.
+- Ecuación de Bernoulli.
+- Ecuación General de la Energía.
+- Sistemas de tuberías.
+- Bombas y turbomáquinas.
+
+---
+
+### Unidad II — Resistencia de Materiales
+
+👉 https://carlosnavarroc.github.io/posts/2026/05/07/ayudantia-resistencia-materiales-beer-johnston/
+
+En esta guía se revisan:
+
+- Equilibrio del cuerpo rígido.
+- Diagramas de cuerpo libre.
+- Esfuerzos normales.
+- Deformación unitaria.
+- Ley de Hooke.
+- Torsión.
+- Cálculo de reacciones.
+- Compatibilidad de deformaciones.
+- Barras sometidas a carga axial.
+
+# Contenidos evaluados en el examen
+
+De acuerdo con el programa del curso, el examen considera las tres unidades desarrolladas durante el semestre.
+
+| Unidad | Contenidos principales |
+|---|---|
+| Unidad I | Mecánica de Fluidos |
+| Unidad II | Resistencia de Materiales |
+| Unidad III | Estado plano de esfuerzos, Círculo de Mohr y Teoría de Von Mises |
+
+Esta ayudantía se concentra principalmente en la Unidad III, ya que las Unidades I y II fueron desarrolladas en las guías anteriores.
 
 # 1. Resumen Teórico
 
@@ -1176,5 +1221,64 @@ $$ \boxed{\sigma_{VM}=306.5\,MPa} $$
 $$ \boxed{n=0.82} $$
 
 El eje falla por fluencia según Von Mises.
+
+---
+
+# ¿Cómo estudiar para el examen?
+
+Se recomienda preparar los contenidos en el siguiente orden:
+
+### Paso 1
+
+Repasar completamente la Guía de Fluidos.
+
+Especial atención a:
+
+- Presión.
+- Bernoulli.
+- Ecuación General de la Energía.
+- Sistemas de tuberías.
+
+---
+
+### Paso 2
+
+Repasar completamente la Ayudantía 2.
+
+Especial atención a:
+
+- Diagramas de cuerpo libre.
+- Equilibrio.
+- Reacciones.
+- Esfuerzo normal.
+- Deformación.
+- Ley de Hooke.
+- Torsión.
+
+---
+
+### Paso 3
+
+Resolver completamente esta ayudantía.
+
+En particular:
+
+- Transformación de esfuerzos.
+- Círculo de Mohr.
+- Esfuerzos principales.
+- Von Mises.
+- Problemas combinados.
+
+---
+
+### Consejo
+
+En la mayoría de los problemas del examen, el procedimiento correcto es:
+
+1. Determinar las cargas mediante equilibrio.
+2. Calcular esfuerzos normales y/o cortantes.
+3. Obtener los esfuerzos principales.
+4. Aplicar el criterio de Von Mises cuando corresponda.
+5. Verificar si el material trabaja de forma segura.
 
 ---

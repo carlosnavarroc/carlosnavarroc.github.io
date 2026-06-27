@@ -6,18 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Electrical Engineer (PhD) · Data Scientist · University Lecturer
+# Senior AI Engineer · Computer Vision · Generative AI · PhD
 
-I design and deploy end-to-end AI systems in healthcare, industry, and scientific environments, focusing on solutions that move from research into real-world impact.
+I build production-ready AI systems that solve real-world problems. Over the last 15+ years, I have designed and deployed computer vision, machine learning, and Generative AI solutions across healthcare, neuroscience, mining, and industry, taking projects from research to production.
 
 ---
 
-## Selected Work
+## Selected Impact
 
-* Clinical AI systems for EEG-based risk prediction
-* Deep learning models for 3D biomedical image segmentation (Cell Tracking Challenge – Top 3)
-* Vision Transformer architectures for medical imaging
-* Industrial computer vision systems for automation and monitoring
+*  Built AI systems for healthcare, supporting clinical decision-making and reducing manual workflows.
+*  Achieved Top-3 worldwide in the Cell Tracking Challenge (IEEE CAI 2023).
+*  Designed Computer Vision solutions for mining, industrial automation, and monitoring.
+*  Developed end-to-end ML pipelines from data acquisition to production deployment.
+*  Teaching and mentoring the next generation of AI engineers, including Generative AI and LLM applications.
 
 ---
 
@@ -32,11 +33,9 @@ I design and deploy end-to-end AI systems in healthcare, industry, and scientifi
 
 ## About
 
-Electrical Engineer (PhD) and Data Scientist working at the intersection of artificial intelligence, computer vision, and real-world systems.
+I specialize in Computer Vision, Machine Learning, and Generative AI, building end-to-end systems that bridge research and production. My experience spans healthcare, neuroscience, mining, and industrial automation, where reliability, interpretability, and scalability are critical.
 
-I build deployable AI solutions in healthcare and industry, integrating data, models, and operational constraints.
-
-I have also taught more than 70 courses in engineering, mathematics, and data science, focusing on hands-on and applied learning.
+Beyond engineering, I have taught more than 70 undergraduate and graduate courses in Electrical Engineering, Machine Learning, Computer Vision, and Large Language Models, mentoring students in building production-ready AI systems.
 
 ---
 

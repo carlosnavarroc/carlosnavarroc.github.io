@@ -8,17 +8,17 @@ redirect_from:
 ---
 # Senior AI Engineer · Computer Vision · Generative AI · PhD
 
-I build production-ready AI systems that solve real-world problems. Over the last 15+ years, I have designed and deployed computer vision, machine learning, and Generative AI solutions across healthcare, neuroscience, mining, and industry, taking projects from research to production.
+I build production-ready AI systems that solve real-world problems. Over the last **15+ years**, I have designed and deployed AI solutions across healthcare, neuroscience, mining, and industry, specializing in Computer Vision, Machine Learning, and Generative AI.
 
 ---
 
 ## Selected Impact
 
-*  Built AI systems for healthcare, supporting clinical decision-making and reducing manual workflows.
-*  Achieved Top-3 worldwide in the Cell Tracking Challenge (IEEE CAI 2023).
-*  Designed Computer Vision solutions for mining, industrial automation, and monitoring.
-*  Developed end-to-end ML pipelines from data acquisition to production deployment.
-*  Teaching and mentoring the next generation of AI engineers, including Generative AI and LLM applications.
+* **15+ years** building and deploying AI systems.
+* **Top-3 worldwide** in the Cell Tracking Challenge (IEEE CAI 2023).
+* Built AI systems supporting clinical decision-making and reducing manual workflows.
+* Designed Computer Vision solutions for mining, industrial automation, and monitoring.
+* Taught **70+ undergraduate and graduate courses** in AI, Computer Vision, and Engineering.
 
 ---
 

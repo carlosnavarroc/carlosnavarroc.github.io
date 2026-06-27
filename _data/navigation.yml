@@ -17,4 +17,14 @@ main:
   - title: "About"
     url: /about/
   
+footer:
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Summary"
+    url: /summary/
 
+  - title: "Blog"
+    url: /year-archive/
+
+    

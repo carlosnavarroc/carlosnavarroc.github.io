@@ -1,7 +1,6 @@
 main:
 
-  - title: "Summary"
-    url: /summary/
+
 
   - title: "Applied AI & Engineering"
     url: /applied-ai/
@@ -18,5 +17,4 @@ main:
   - title: "About"
     url: /about/
   
-  - title: "Blog"
-    url: /year-archive/
+

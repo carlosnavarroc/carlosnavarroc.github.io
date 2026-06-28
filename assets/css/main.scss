@@ -45,45 +45,44 @@
 }
 
 /* ============================= */
-/* TYPOGRAPHY SYSTEM OVERRIDE    */
+/* TYPOGRAPHY SCALE (FINAL)      */
 /* ============================= */
 
-/* H1 — Page / Major section title */
+/* H1 — Page identity (subtle, not hero) */
 h1 {
-  font-size: 1.9rem;
+  font-size: 1.75rem;
   font-weight: 650;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.015em;
   line-height: 1.25;
   margin-top: 0;
   margin-bottom: 1rem;
 }
 
-/* H2 — Main structural blocks */
+/* H2 — Main structural sections */
 h2 {
-  font-size: 1.7rem;
+  font-size: 1.45rem;
   font-weight: 650;
-  letter-spacing: -0.015em;
-  line-height: 1.25;
-  margin-top: 2.2rem;
-  margin-bottom: 1rem;
-}
-
-/* H3 — Subsystems / modules / case groups */
-h3 {
-  font-size: 1.35rem;
-  font-weight: 600;
   letter-spacing: -0.01em;
   line-height: 1.3;
-  margin-top: 1.6rem;
-  margin-bottom: 0.7rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
 }
 
-/* H4 — Technical components / details */
-h4 {
-  font-size: 1.15rem;
+/* H3 — Subsystems / content blocks */
+h3 {
+  font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.35;
-  margin-top: 1.2rem;
+  margin-top: 1.4rem;
   margin-bottom: 0.5rem;
+}
+
+/* H4 — Technical details */
+h4 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-top: 1rem;
+  margin-bottom: 0.35rem;
   opacity: 0.9;
 }

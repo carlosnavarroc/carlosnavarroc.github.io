@@ -47,25 +47,25 @@ author_profile: true
 
 <p>I design and develop AI systems that integrate machine learning, computer vision, signal processing, and software engineering into deployable solutions.</p>
 
-<h3>Clinical AI Systems</h3>
+<h3>Clinical Decision Support Systems</h3>
 
-<p>Decision-support systems that combine medical data, biomedical imaging, and physiological signals to assist diagnosis, prognosis, and clinical research.</p>
+<p>AI systems that integrate medical data, biomedical imaging, and physiological signals to support diagnosis, prognosis, and clinical decision-making in healthcare environments.</p>
 
-<h3>Computer Vision Systems</h3>
+<h3>Perception & Vision Systems</h3>
 
-<p>End-to-end vision pipelines for image segmentation, object detection, visual inspection, quantitative image analysis, and automated interpretation of biomedical and industrial imagery.</p>
+<p>End-to-end visual understanding systems for image segmentation, object detection, visual inspection, and quantitative analysis in biomedical and industrial contexts.</p>
 
-<h3>Signal Intelligence Systems</h3>
+<h3>Physiological & Temporal Signal Systems</h3>
 
-<p>AI solutions that extract clinically and operationally relevant information from EEG, audio, physiological signals, and other time-series data.</p>
+<p>Machine learning systems for extracting clinically and operationally relevant information from EEG, audio, and other time-series physiological data.</p>
 
-<h3>Industrial AI & Automation</h3>
+<h3>Autonomous Industrial Monitoring Systems</h3>
 
-<p>Vision-based monitoring, intelligent automation, and AI-assisted inspection systems designed for industrial environments and IoT-enabled applications.</p>
+<p>AI-driven systems for real-time monitoring, automation, and inspection in industrial environments, including IoT-integrated and edge-deployed solutions.</p>
 
 <h3>Research Software & Scientific Tools</h3>
 
-<p>Software platforms, analysis pipelines, and open-source tools that enable reproducible research and support scientific collaboration.</p>
+<p>Software platforms, analysis pipelines, and reusable scientific tools that enable reproducible research and support computational workflows in applied AI.</p>
 
 </div>
 

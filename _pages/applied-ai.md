@@ -75,7 +75,7 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>The development of production-ready AI systems requires combining multiple engineering disciplines across modeling, perception, signal processing, and system design.</p>
+<p>The development of production-ready AI systems requires combining multiple engineering disciplines across modeling, perception, signal processing, and scientific analysis.</p>
 
 <h3>Machine Learning & Representation Learning</h3>
 
@@ -104,16 +104,6 @@ author_profile: true
 <li>Predictive modeling for temporal data</li>
 </ul>
 
-<h3>AI System Engineering</h3>
-
-<ul>
-<li>End-to-end ML pipeline design</li>
-<li>Model deployment and integration</li>
-<li>Data processing architectures</li>
-<li>Reproducible ML systems</li>
-<li>Performance evaluation and benchmarking</li>
-</ul>
-
 <h3>Scientific Computing</h3>
 
 <ul>
@@ -124,6 +114,7 @@ author_profile: true
 </ul>
 
 </div>
+
 ---
 
 ## Selected Case Studies

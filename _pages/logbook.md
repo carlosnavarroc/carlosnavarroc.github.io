@@ -223,15 +223,15 @@ Real-time telemetry systems for mining environments.
 
 ## Independent systems and applied creative projects
 
-- Independent film production (crowdfunded full production pipeline)  
-- Urban documentation and cultural heritage fieldwork  
-- Virtual university campus (Gather Town pandemic system)  
-- DeloreanCamara (historical image alignment system)  
-- Media and event photography (real-time visual systems)
+- [Independent film production](https://tinyurl.com/CNC-IMDB) (crowdfunded full production pipeline)  
+- [Urban documentation](https://carlosnavarroc.github.io/posts/2024/03/13/placas-antiguas-santiago/) and [cultural heritage](https://carlosnavarroc.github.io/posts/2026/02/delorean-camara-largo-viaje/) fieldwork  
+- [Virtual university campus](https://tinyurl.com/beauchefvirtual) (Gather Town pandemic system)  
+- [DeloreanCamara](https://carlosnavarroc.github.io/posts/2025/12/30/delorean-camara/) (historical image alignment system)  
+- [Media](https://www.instagram.com/reel/DZpYPoFOCG4/) and [event photography](https://www.instagram.com/p/DXnDpCJjmFz/?img_index=8) (real-time visual systems)
 
 ---
 
-# Teaching and Mentorship
+# [Teaching](https://carlosnavarroc.github.io/teaching/) and Mentorship
 
 - Machine Learning, Computer Vision, Engineering systems  
 - Thesis supervision in AI and biomedical engineering  
@@ -241,8 +241,8 @@ Real-time telemetry systems for mining environments.
 
 # Academic & Community Engagement
 
-- Reviewer — ISICS 2024  
-- Speaker in interdisciplinary AI events  
+- [Reviewer](https://isics.cedai.cl/2024/) — ISICS 2024  
+- [Speaker](https://carlosnavarroc.github.io/posts/2025/06/06/participacion-computer-vision-brasil-chile/) in interdisciplinary AI events  
 - International conference participation  
 
 ---

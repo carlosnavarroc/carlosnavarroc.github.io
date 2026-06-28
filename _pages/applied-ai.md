@@ -181,6 +181,7 @@ End-to-end system integrating IoT devices, computer vision, and real-time analyt
 ### Industrial Computer Vision Systems (Mining & Retail)
 
 Computer vision pipelines for automation, monitoring, and process optimization in real-world industrial environments under operational constraints.
+
 ---
 
 ## Open Source & Research Software

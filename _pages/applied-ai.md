@@ -75,57 +75,55 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>The development of production-ready AI systems requires combining multiple engineering disciplines. My work spans the complete lifecycle of applied AI solutions, from data acquisition and model development to deployment and integration.</p>
+<p>The development of production-ready AI systems requires combining multiple engineering disciplines across modeling, perception, signal processing, and system design.</p>
 
-<h3>AI & Machine Learning</h3>
+<h3>Machine Learning & Representation Learning</h3>
 
 <ul>
 <li>Supervised and self-supervised learning</li>
-<li>Deep learning (CNNs, Vision Transformers)</li>
-<li>Foundation models and transfer learning</li>
-<li>Model evaluation and optimization</li>
+<li>Representation learning</li>
+<li>Model optimization and evaluation</li>
+<li>Transfer learning and generalization</li>
 </ul>
 
-<h3>Computer Vision</h3>
+<h3>Computer Vision Algorithms</h3>
 
 <ul>
-<li>Image segmentation</li>
-<li>Object detection and classification</li>
-<li>Biomedical image analysis</li>
-<li>Industrial vision systems</li>
-<li>Visual inspection pipelines</li>
+<li>Image segmentation algorithms</li>
+<li>Object detection and recognition methods</li>
+<li>Feature extraction for visual data</li>
+<li>Biomedical image analysis techniques</li>
 </ul>
 
-<h3>Signal Processing</h3>
+<h3>Signal Processing & Time-Series Modeling</h3>
 
 <ul>
-<li>EEG and physiological signal analysis</li>
-<li>Audio signal processing</li>
-<li>Time-series analysis</li>
-<li>Feature extraction and predictive modeling</li>
+<li>EEG and physiological signal processing</li>
+<li>Audio signal analysis</li>
+<li>Time-series feature extraction</li>
+<li>Predictive modeling for temporal data</li>
 </ul>
 
-<h3>Software & AI Engineering</h3>
+<h3>AI System Engineering</h3>
 
 <ul>
-<li>End-to-end AI pipelines</li>
-<li>Research software development</li>
-<li>Data processing workflows</li>
-<li>Model deployment and system integration</li>
-<li>Reproducible and maintainable software</li>
+<li>End-to-end ML pipeline design</li>
+<li>Model deployment and integration</li>
+<li>Data processing architectures</li>
+<li>Reproducible ML systems</li>
+<li>Performance evaluation and benchmarking</li>
 </ul>
 
 <h3>Scientific Computing</h3>
 
 <ul>
 <li>Data analysis and visualization</li>
-<li>Quantitative image analysis</li>
-<li>Experimental design</li>
-<li>Performance evaluation and benchmarking</li>
+<li>Quantitative analysis of experimental data</li>
+<li>Experimental design and validation</li>
+<li>Computational benchmarking</li>
 </ul>
 
 </div>
-
 ---
 
 ## Selected Case Studies

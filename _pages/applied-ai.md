@@ -7,13 +7,15 @@ author_profile: true
 
 ## Overview
 
+## Overview
+
 <div style="text-align: justify;">
 
 <p>I design and deploy <strong>end-to-end AI systems</strong> that translate machine learning, computer vision, and signal processing into solutions used in real-world environments.</p>
 
-<p>My work focuses on building systems that operate under practical constraints, integrating data acquisition, model development, software engineering, and deployment to support decision-making in healthcare, industrial automation, and applied research.</p>
+<p>My work spans the complete AI engineering lifecycle, integrating data acquisition, model development, software engineering, and deployment to deliver systems for healthcare, industrial automation, and applied research.</p>
 
-<p>Across these domains, I develop AI solutions that bridge research and production, emphasizing robustness, reproducibility, and integration into existing operational workflows rather than standalone machine learning models.</p>
+<p>Rather than developing isolated machine learning models, I build AI systems that can be integrated into operational workflows and support decision-making in real-world settings.</p>
 
 </div>
 
@@ -23,18 +25,18 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>I approach AI as an engineering discipline rather than a modeling exercise. My goal is to design systems that are reliable, maintainable, and capable of delivering measurable value in real-world environments.</p>
+<p>I believe successful AI systems are defined not only by predictive performance but also by their ability to operate reliably within real-world environments.</p>
 
-<p>The projects I work on typically require more than developing machine learning models. They involve integrating data acquisition, signal processing, computer vision, software engineering, and deployment into complete solutions that operate within existing workflows and practical constraints.</p>
+<p>My engineering decisions prioritize simplicity, reproducibility, maintainability, and seamless integration with existing workflows, ensuring that AI solutions remain useful beyond experimentation.</p>
 
-<p>My engineering approach emphasizes:</p>
+<p>These principles guide the way I design and develop AI systems:</p>
 
 <ul>
-<li>Solving real-world problems before optimizing models.</li>
-<li>Designing end-to-end systems rather than isolated algorithms.</li>
-<li>Building reproducible and maintainable solutions.</li>
-<li>Bridging research and production through robust engineering practices.</li>
-<li>Collaborating across multidisciplinary teams to translate technical advances into practical impact.</li>
+<li>Understand the engineering problem before selecting the model.</li>
+<li>Design complete systems rather than isolated algorithms.</li>
+<li>Prioritize robustness, reproducibility, and maintainability.</li>
+<li>Bridge research and production through practical engineering.</li>
+<li>Collaborate across disciplines to maximize real-world impact.</li>
 </ul>
 
 </div>
@@ -138,18 +140,47 @@ author_profile: true
 
 </div>
 
-### Clinical AI Systems
-Development of AI-assisted decision support systems integrating biomedical imaging, physiological signals, and predictive modeling.
+---
 
-### Computer Vision Systems
-Design and deployment of computer vision pipelines for biomedical imaging, industrial inspection, and quantitative image analysis.
+### 3D Nuclei Segmentation — Cell Tracking Challenge (2nd Place)
 
-### Signal Intelligence Systems
-Machine learning and signal processing solutions for EEG, audio, and physiological data analysis.
+Biomedical computer vision system for 3D nuclei segmentation using deep learning models optimized for high-precision volumetric analysis.
 
-### Industrial AI & Automation
-Vision-based monitoring and intelligent automation systems operating under real-world industrial constraints.
+---
 
+### RaViTT — Vision Transformer for Biomedical Image Classification
+
+Deep learning architecture based on Vision Transformers for robust classification of biomedical imaging data under variability and limited data regimes.
+
+---
+
+### VolumePeeler — 3D Biomedical Image Analysis Tool
+
+Interactive FIJI/ImageJ plugin for 3D visualization, segmentation, and quantitative analysis of biological image volumes.
+
+---
+
+### EEG-based Postoperative Risk Prediction System
+
+Machine learning pipeline for predicting postoperative outcomes using EEG and physiological signals integrated into clinical decision-support workflows.
+
+---
+
+### Auditory Biomarkers for Cognitive Decline Detection
+
+Signal processing and machine learning framework for early detection of cognitive decline using auditory and physiological biomarkers. (Top 10 most cited publication, 2024)
+
+---
+
+### IoT-based Behavioral Analysis Platform
+
+End-to-end system integrating IoT devices, computer vision, and real-time analytics for behavioral monitoring and industrial applications.
+
+---
+
+### Industrial Computer Vision Systems (Mining & Retail)
+
+Computer vision pipelines for automation, monitoring, and process optimization in real-world industrial environments under operational constraints.
 ---
 
 ## Open Source & Research Software
@@ -192,7 +223,6 @@ Vision-based monitoring and intelligent automation systems operating under real-
 <div style="text-align: justify;">
 
 <p>If you are interested in specific aspects of my work, you may also find the following sections useful:</p>
-
 </div>
 
 - **[Professional Logbook](https://carlosnavarroc.github.io/logbook/)** — Chronological documentation of projects, experiments, engineering decisions, and technical learning.
@@ -205,4 +235,3 @@ Vision-based monitoring and intelligent automation systems operating under real-
 
 - **[Curriculum Vitae](https://carlosnavarroc.github.io/cv/)** — Formal summary of professional experience, education, awards, and technical skills.
 
-</div>

@@ -25,7 +25,7 @@ I build production-ready AI systems that solve real-world problems. Over the las
 ## Explore my work
 
 * [Applied AI & Engineering](/applied-ai/) — real-world AI systems and deployments
-* [Logbook](/logbook/) — detailed, traceable record of projects and experiments
+* [Profesional Timeline](/logbook/) — detailed, traceable record of projects and experiments
 * [Publications](/publications/) — scientific research and contributions
 * [Teaching](/teaching/) — courses, labs, and student mentorship
 

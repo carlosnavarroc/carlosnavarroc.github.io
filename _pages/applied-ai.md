@@ -189,7 +189,7 @@ Deep learning architecture for biomedical image classification under data-constr
 <p>If you are interested in specific aspects of my work, you may also find the following sections useful:</p>
 </div>
 
-- **[Professional Logbook](https://carlosnavarroc.github.io/logbook/)** — Chronological documentation of projects, experiments, engineering decisions, and technical learning.
+- **[Professional Timeline](https://carlosnavarroc.github.io/logbook/)** — Chronological documentation of projects, experiments, engineering decisions, and technical learning.
 
 - **[Publications](https://carlosnavarroc.github.io/publications/)** — Peer-reviewed articles, conference papers, and scientific contributions.
 

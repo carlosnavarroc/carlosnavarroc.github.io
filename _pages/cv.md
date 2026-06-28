@@ -1,109 +1,156 @@
 ---
 layout: archive
-title: "Resume"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: false
 sitemap: true
-
 ---
-# **CARLOS FELIPE NAVARRO CLAVERIA**
+
+# CARLOS FELIPE NAVARRO CLAVERIA
 
 {% include base_path %}
 <img src="https://carlosnavarroc.github.io/images/profile_2025.jpg" width="120" height="120" />
 
-**Email**: carlosnavarroc@uchile.cl  
-**Phone**: +569 9445 9922  
-**Personal Website**: [https://carlosnavarroc.github.io/](https://carlosnavarroc.github.io/)
+**Applied AI Engineer · Computer Vision · Biomedical & Intelligent Systems**  
+**Email:** carlosnavarroc@uchile.cl  
+**Phone:** +56 9 9445 9922  
+**Website:** https://carlosnavarroc.github.io/
 
 ---
 
-# **PROFESSIONAL SUMMARY**
+# PROFESSIONAL SUMMARY
 
-Data Scientist and Electrical Engineer with over 15 years of experience in machine learning, signal processing, and computer vision applied to biomedical, mining, and retail problems. Skilled in designing data-driven solutions for diagnostics, predictive modeling, and image analysis, with strong expertise in deep learning frameworks and statistical modeling. Proven ability to lead interdisciplinary research and deliver impactful results in academic and applied environments.
+Applied AI Engineer with 15+ years of experience designing and deploying machine learning systems across **biomedical engineering, computer vision, signal processing, and industrial AI applications**.
+
+Specialized in building **end-to-end intelligent systems** combining data acquisition, modeling, and deployment in real-world constraints.
+
+Work spans:
+- Biomedical AI (EEG, medical imaging, diagnostics)
+- Computer Vision systems (industrial + research)
+- Signal processing and statistical modeling
+- Experimental AI systems (IoT + vision + sensing)
+
+Strong track record in interdisciplinary research, applied system design, and academic teaching.
 
 ---
 
-# **EXPERIENCE**
+# CORE EXPERTISE
 
-## Data Scientist  
+- Applied Machine Learning Systems
+- Computer Vision (industrial + biomedical)
+- Deep Learning (CNNs, Transformers)
+- Biomedical Signal Processing (EEG, physiological data)
+- AI system design under real-world constraints
+- Experimental AI systems (IoT + sensing + CV integration)
+- Research-to-production pipelines
+
+---
+
+# PROFESSIONAL EXPERIENCE
+
+## Data Scientist – Biomedical AI Systems  
 **Faculty of Medicine, University of Chile**  
-Neurosystems, SCIANLab, AudioBrain & Tech4Medics Lab
-*September 2019 – January 2026*  
+Neurosystems · SCIANLab · AudioBrain · Tech4Medics Lab  
+*2019 – 2026*
 
-- Applied machine learning, signal processing, and computer vision to biomedical and cognitive health challenges.
-- Developed predictive models and spectral analysis of EEG data for postoperative risk assessment.  
-- Built automated glaucoma diagnosis pipelines using chromatic pupilometry and machine learning.  
-- Developed RaViTT, a Vision Transformer model for biomedical image classification, and created deep learning solutions for 3D nuclei segmentation (2nd place in competition) along with the VolumePeeler FIJI plugin for enhanced 3D visualization. 
-- Designed audiological tests for early detection of cognitive decline and contributed data analysis to a national post-pandemic social isolation study.
-  
-*Technologies & Tools:* Python, R, MATLAB, TensorFlow, Keras, Scikit-learn, OpenCV, EEG analysis, Deep Learning, Transformers, Data Visualization.
+Design and development of machine learning systems for biomedical signal analysis, clinical prediction, and medical imaging.
+
+### Key contributions
+- Developed predictive ML models for postoperative risk using EEG and physiological signals  
+- Applied spectral and statistical signal analysis to neurological datasets  
+- Built automated diagnostic pipelines for glaucoma detection using chromatic pupilometry  
+- Developed RaViTT (Vision Transformer architecture) for biomedical image classification  
+- Built deep learning pipelines for 3D nuclei segmentation (Cell Tracking Challenge top performance)  
+- Co-developed VolumePeeler (FIJI plugin) for volumetric biomedical image analysis  
+- Designed audiological systems for early detection of cognitive decline  
+- Contributed to population-scale mental health studies using statistical modeling  
+
+### Technologies
+Python, PyTorch, TensorFlow, R, MATLAB, OpenCV, Scikit-learn, EEG analysis, Deep Learning, Transformers
 
 ---
 
-## Applied Research Engineer – Computer Vision & Data Analysis  
+## Applied Research Engineer – Computer Vision Systems  
 **Faculty of Physical Sciences and Mathematics, University of Chile**  
-*2009 – 2018*  
+*2009 – 2018*
 
-- Developed computer vision and machine learning models for retail and mining applications, including object detection and image registration.  
-- Designed automated lithology classification pipelines from video data using pattern recognition.  
-- Built Bluetooth telemetry systems for geotechnical slope stability monitoring.  
+Development of computer vision and machine learning systems for industrial and applied research environments.
 
-*Technologies & Tools:* Python, MATLAB, OpenCV, SVM, Feature Extraction, Signal Processing, Automation Systems.
+### Key contributions
+- Designed CV pipelines for automated lithology classification in mining environments  
+- Developed video-based pattern recognition systems for geological analysis  
+- Built retail analytics systems for automated monitoring and detection  
+- Implemented Bluetooth-based IoT telemetry systems for geotechnical monitoring  
+- Integrated signal processing and feature extraction for real-world deployment scenarios  
 
----
-
-# **EDUCATION**
-
-- **PhD in Electrical Engineering** — University of Chile (2020)  
-  Thesis: *Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing.*  
-
-- **Diploma in Electrophysiology Technology** — Faculty of Medicine, University of Chile (2019)  
-
-- **Electrical Engineering (Ingeniero Civil Electricista)** — University of Chile (2010)  
-  Thesis: *Design of Molds for Iris Detection Using Particle Swarm Optimization.*
+### Technologies
+Python, MATLAB, OpenCV, SVM, classical ML, feature engineering, embedded sensing systems
 
 ---
 
-# **CERTIFICATIONS & ACHIEVEMENTS**
+# EDUCATION
 
-- IEEE RAS Summer School on Deep Learning for Robot Vision (2019)  
-- Finalist, Hackathon Summit País Digital by EY (2024)  
-- Google Cloud Skills Boost: Cloud AI and Generative AI courses and badges
+## PhD in Electrical Engineering  
+University of Chile — 2020  
+Thesis: Multiscale feature systems for image classification using ensemble SVM models  
 
----
+## Diploma in Electrophysiology  
+University of Chile — 2019  
+Biomedical signal processing and electrophysiological systems  
 
-# **SELECTED PUBLICATIONS & PROJECTS**
-
-- *Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss.* (2024) — Alzheimer's & Dementia
-- *RaViTT: Random Vision Transformer Tokens* (2023) — arXiv preprint  
-- *VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks* (2023) — BMC Bioinformatics  
-- *3D Nuclei Segmentation through Deep Learning* (2023) — IEEE CAI Conference
-- *Color–Texture Pattern Classification Using Global–Local Feature Extraction, an SVM Classifier, with Bagging Ensemble Post-Processing* (2019) —  Applied Sciences
+## Electrical Engineering (Ingeniero Civil Electricista)  
+University of Chile — 2010  
+Thesis: Iris detection systems using optimization-based computer vision
 
 ---
 
-# **TECHNICAL SKILLS**
+# SELECTED PUBLICATIONS & RESEARCH OUTPUT
 
-- **Programming:** Python, R, MATLAB  
-- **ML & AI:** Supervised/unsupervised learning, deep learning (CNNs, Transformers), SVM, signal and image processing  
-- **Tools & Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, FIJI/ImageJ  
-- **Data Science:** Data cleaning, feature engineering, predictive modeling, cross-validation, experiment reproducibility  
-- **Visualization:** Matplotlib, Seaborn, Plotly, Jupyter Notebooks  
-- **Cloud & DevOps:** Docker, Google Cloud (Vertex AI), basic CI/CD, Git/GitHub/GitLab  
-- **Generative AI & LLMs:** Prompt engineering, deployment, evaluation of LLaMA, Qwen-VL, Gemini models
+- Alzheimer’s & Dementia (2024): Cochlear dysfunction as early biomarker of cognitive decline  
+- IEEE CAI (2023): 3D nuclei segmentation using deep learning  
+- arXiv (2023): RaViTT Vision Transformer architecture  
+- BMC Bioinformatics (2023): VolumePeeler volumetric analysis system  
+- Applied Sciences (2019): Global–local feature extraction with SVM ensembles  
 
 ---
 
+# SELECTED PROJECTS
 
-# **ADDITIONAL PROJECTS**
-
-- **Virtual Beauchef:** Creator of a virtual campus space on Gather Town to enhance social interaction during COVID-19.  
-- **La Ciudad de Los Cesares:** Independent film producer; managed crowdfunding and production.
-- **Antiguas placas, antiguos nombres:** Cultural documentation project focused on photographing and cataloging historical street signs and plaques in Chilean cities. The results were published in Cuadernos de Beauchef (2024), highlighting urban memory and heritage.
+- Virtual Beauchef (Gather Town): virtual campus for pandemic interaction  
+- DeloreanCamara: image alignment system for historical comparison  
+- Independent film production: full-cycle production under constrained resources  
+- Urban documentation: cultural heritage and street plaque analysis  
 
 ---
 
-# **INTERESTS**
+# TEACHING & ACADEMIC ROLES
 
-Photography, cooking, astronomy, and cultural documentation.
+- Lecturer in Machine Learning, Computer Vision, and Engineering Systems  
+- Thesis supervisor in AI, biomedical imaging, and computer vision  
+- Reviewer: ISICS 2024  
+- Speaker in interdisciplinary AI and applied research events  
+
+---
+
+# TECHNICAL SKILLS
+
+**Programming:** Python, R, MATLAB  
+**ML/AI:** Deep Learning, Transformers, CNNs, SVMs, classical ML  
+**CV:** OpenCV, image processing, segmentation, feature engineering  
+**Signal Processing:** EEG, physiological signal analysis  
+**Frameworks:** PyTorch, TensorFlow, Scikit-learn, FIJI/ImageJ  
+**Infrastructure:** Docker, Google Cloud, basic MLOps  
+**AI Systems:** LLM integration, prompt engineering, multimodal models  
+
+---
+
+# LANGUAGES
+
+Spanish (native), English (professional)
+
+---
+
+# INTERESTS
+
+Computational imaging, biomedical systems, photography, applied AI systems design
 

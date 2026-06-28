@@ -132,9 +132,23 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>Representative engineering projects illustrating how I approach problem definition, system architecture, implementation, deployment, and real-world impact.</p>
+<p>The following case studies illustrate representative AI engineering projects, highlighting the complete lifecycle from problem definition and system architecture to implementation, deployment, and real-world impact.</p>
+
+<p>Each case study focuses on the engineering process, design decisions, technical challenges, and lessons learned rather than providing a chronological project history.</p>
 
 </div>
+
+### Clinical AI Systems
+Development of AI-assisted decision support systems integrating biomedical imaging, physiological signals, and predictive modeling.
+
+### Computer Vision Systems
+Design and deployment of computer vision pipelines for biomedical imaging, industrial inspection, and quantitative image analysis.
+
+### Signal Intelligence Systems
+Machine learning and signal processing solutions for EEG, audio, and physiological data analysis.
+
+### Industrial AI & Automation
+Vision-based monitoring and intelligent automation systems operating under real-world industrial constraints.
 
 ---
 
@@ -142,9 +156,13 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>Open-source software, reusable libraries, scientific tools, and engineering frameworks developed to support reproducible research and applied AI systems.</p>
+<p>Beyond research and industrial projects, I develop software tools that promote reproducibility, scientific collaboration, and practical adoption of AI technologies.</p>
+
+<p>This includes open-source libraries, scientific software, image analysis tools, reusable AI pipelines, and engineering utilities developed throughout my research and professional work.</p>
 
 </div>
+
+> *A curated list of repositories and software projects will be available here.*
 
 ---
 
@@ -152,9 +170,20 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>Overview of the programming languages, frameworks, libraries, platforms, and development tools commonly used across my AI engineering projects.</p>
+<p>My engineering work combines modern AI frameworks with scientific computing, software engineering, cloud technologies, and deployment tools to build production-ready systems.</p>
 
 </div>
+
+| Area | Technologies |
+|------|--------------|
+| Programming | Python, C++, MATLAB |
+| AI & Deep Learning | PyTorch, TensorFlow, Scikit-learn |
+| Computer Vision | OpenCV, FIJI/ImageJ |
+| Scientific Computing | NumPy, SciPy, Pandas |
+| Visualization | Matplotlib, Plotly |
+| Deployment | Docker, Git, Linux |
+| Data | SQL, HDF5 |
+| Hardware | NVIDIA CUDA, Embedded & IoT Platforms |
 
 ---
 
@@ -162,12 +191,18 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<ul>
-<li>Professional Logbook</li>
-<li>Publications</li>
-<li>Teaching</li>
-<li>About</li>
-<li>Curriculum Vitae</li>
-</ul>
+<p>If you are interested in specific aspects of my work, you may also find the following sections useful:</p>
+
+</div>
+
+- **[Professional Logbook](https://carlosnavarroc.github.io/logbook/)** — Chronological documentation of projects, experiments, engineering decisions, and technical learning.
+
+- **[Publications](https://carlosnavarroc.github.io/publications/)** — Peer-reviewed articles, conference papers, and scientific contributions.
+
+- **[Teaching](https://carlosnavarroc.github.io/teaching/)** — University courses, supervision, mentoring, workshops, and educational activities.
+
+- **[About](https://carlosnavarroc.github.io/)** — My engineering background, professional philosophy, and career journey.
+
+- **[Curriculum Vitae](https://carlosnavarroc.github.io/cv/)** — Formal summary of professional experience, education, awards, and technical skills.
 
 </div>

@@ -7,8 +7,6 @@ author_profile: true
 
 ## Overview
 
-## Overview
-
 <div style="text-align: justify;">
 
 <p>I design and deploy <strong>end-to-end AI systems</strong> that translate machine learning, computer vision, and signal processing into solutions used in real-world environments.</p>
@@ -144,44 +142,67 @@ author_profile: true
 
 ### 3D Nuclei Segmentation — Cell Tracking Challenge (2nd Place)
 
-Biomedical computer vision system for 3D nuclei segmentation using deep learning models optimized for high-precision volumetric analysis.
+<div style="text-align: justify;">
 
+<p>
+Biomedical computer vision system for 3D nuclei segmentation using deep learning models optimized for high-precision volumetric analysis.
+</p>
+
+</div>
 ---
 
 ### RaViTT — Vision Transformer for Biomedical Image Classification
 
-Deep learning architecture based on Vision Transformers for robust classification of biomedical imaging data under variability and limited data regimes.
+<div style="text-align: justify;">
 
+<p>Deep learning architecture based on Vision Transformers for robust classification of biomedical imaging data under variability and limited data regimes.</p>
+
+</div>
 ---
 
 ### VolumePeeler — 3D Biomedical Image Analysis Tool
 
-Interactive FIJI/ImageJ plugin for 3D visualization, segmentation, and quantitative analysis of biological image volumes.
+<div style="text-align: justify;">
 
+<p>Interactive FIJI/ImageJ plugin for 3D visualization, segmentation, and quantitative analysis of biological image volumes.</p>
+
+</div>
 ---
 
 ### EEG-based Postoperative Risk Prediction System
 
-Machine learning pipeline for predicting postoperative outcomes using EEG and physiological signals integrated into clinical decision-support workflows.
+<div style="text-align: justify;">
 
+<p>Machine learning pipeline for predicting postoperative outcomes using EEG and physiological signals integrated into clinical decision-support workflows.</p>
+
+</div>
 ---
 
 ### Auditory Biomarkers for Cognitive Decline Detection
 
-Signal processing and machine learning framework for early detection of cognitive decline using auditory and physiological biomarkers. (Top 10 most cited publication, 2024)
+<div style="text-align: justify;">
 
+<p>Signal processing and machine learning framework for early detection of cognitive decline using auditory and physiological biomarkers. (Top 10 most cited publication, 2024)</p>
+
+</div>
 ---
 
 ### IoT-based Behavioral Analysis Platform
 
-End-to-end system integrating IoT devices, computer vision, and real-time analytics for behavioral monitoring and industrial applications.
+<div style="text-align: justify;">
 
+<p>End-to-end system integrating IoT devices, computer vision, and real-time analytics for behavioral monitoring and industrial applications.</p>
+
+</div>
 ---
 
 ### Industrial Computer Vision Systems (Mining & Retail)
 
-Computer vision pipelines for automation, monitoring, and process optimization in real-world industrial environments under operational constraints.
+<div style="text-align: justify;">
 
+<p>Computer vision pipelines for automation, monitoring, and process optimization in real-world industrial environments under operational constraints.</p>
+
+</div>
 ---
 
 ## Open Source & Research Software

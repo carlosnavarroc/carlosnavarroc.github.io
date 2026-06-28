@@ -167,7 +167,7 @@ Interactive FIJI/ImageJ plugin for volumetric image analysis and visualization.
 #### RaViTT — Vision Transformer for Biomedical Image Classification
 Deep learning architecture for biomedical image classification under data-constrained settings.
 
-</div>
+
 ---
 
 ## Selected Technologies

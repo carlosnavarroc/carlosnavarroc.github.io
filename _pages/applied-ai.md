@@ -1,86 +1,173 @@
 ---
-
 layout: archive
 title: "Applied AI & Engineering"
 permalink: /applied-ai/
 author_profile: true
 ---
 
+## Overview
+
 <div style="text-align: justify;">
 
-<p><strong>AI Engineer & Data Scientist</strong> focused on designing and deploying real-world AI systems across healthcare, industry, and applied research.</p>
+<p>I design and deploy <strong>end-to-end AI systems</strong> that translate machine learning, computer vision, and signal processing into solutions used in real-world environments.</p>
 
-<p>My work centers on <strong>translating machine learning, computer vision, and signal processing methods into deployable systems</strong>, operating under real-world constraints and integrated into practical workflows.</p>
+<p>My work focuses on building systems that operate under practical constraints, integrating data acquisition, model development, software engineering, and deployment to support decision-making in healthcare, industrial automation, and applied research.</p>
+
+<p>Across these domains, I develop AI solutions that bridge research and production, emphasizing robustness, reproducibility, and integration into existing operational workflows rather than standalone machine learning models.</p>
 
 </div>
 
 ---
 
-## Selected Projects & Impact
+## Engineering Philosophy
 
-### Clinical AI & Biomedical Imaging
+<div style="text-align: justify;">
 
-* **Cell Tracking Challenge (2nd place):** Developed deep learning models for **3D nuclei segmentation**
-* **RaViTT:** Vision Transformer architecture for biomedical image classification
-* **Glaucoma Diagnosis Pipeline:** Integrated physiological signals with predictive modeling for clinical use
-* **VolumePeeler:** FIJI plugin for **3D visualization and quantification** of biological data
+<p>I approach AI as an engineering discipline rather than a modeling exercise. My goal is to design systems that are reliable, maintainable, and capable of delivering measurable value in real-world environments.</p>
 
-### Industrial AI & IoT
+<p>The projects I work on typically require more than developing machine learning models. They involve integrating data acquisition, signal processing, computer vision, software engineering, and deployment into complete solutions that operate within existing workflows and practical constraints.</p>
 
-* **IoT Behavioral Analysis Platform:** Real-time integration of hardware, computer vision, and control systems
-* **Industrial Automation (Mining/Retail):** Computer vision systems for process optimization and monitoring
+<p>My engineering approach emphasizes:</p>
 
-### Signal Processing & Cognitive Health
+<ul>
+<li>Solving real-world problems before optimizing models.</li>
+<li>Designing end-to-end systems rather than isolated algorithms.</li>
+<li>Building reproducible and maintainable solutions.</li>
+<li>Bridging research and production through robust engineering practices.</li>
+<li>Collaborating across multidisciplinary teams to translate technical advances into practical impact.</li>
+</ul>
 
-* **Postoperative Risk Prediction:** EEG-based predictive modeling for clinical outcomes
-* **Auditory Biomarkers:** Developed signal-processing methods for early detection of cognitive decline  
-  → Resulted in a Top 10 most cited article (2024)
----
-
-## Professional Experience
-
-**Data Scientist — Faculty of Medicine, Universidad de Chile**
-*Neurosystems, SCIANLab & AudioBrain (2019–2025)*
-
-* Led development and deployment of AI systems integrated into clinical workflows
-* Designed ML and computer vision solutions for diagnostics and biomedical applications
-
-**Applied Research Engineer — University of Chile**
-*(2009–2018)*
-
-* Developed computer vision and automation systems in industrial environments
-* Contributed to industry-driven R&D and technology transfer
+</div>
 
 ---
 
-## Core Capabilities
+## AI Systems I Build
 
-* End-to-end AI systems (data → modeling → deployment)
-* Computer vision (segmentation, detection, real-world systems)
-* Signal processing (EEG, physiological data, time-series)
-* Deep learning (CNNs, Transformers, biomedical imaging)
+<div style="text-align: justify;">
+
+<p>I design and develop AI systems that integrate machine learning, computer vision, signal processing, and software engineering into deployable solutions.</p>
+
+<h3>Clinical AI Systems</h3>
+
+<p>Decision-support systems that combine medical data, biomedical imaging, and physiological signals to assist diagnosis, prognosis, and clinical research.</p>
+
+<h3>Computer Vision Systems</h3>
+
+<p>End-to-end vision pipelines for image segmentation, object detection, visual inspection, quantitative image analysis, and automated interpretation of biomedical and industrial imagery.</p>
+
+<h3>Signal Intelligence Systems</h3>
+
+<p>AI solutions that extract clinically and operationally relevant information from EEG, audio, physiological signals, and other time-series data.</p>
+
+<h3>Industrial AI & Automation</h3>
+
+<p>Vision-based monitoring, intelligent automation, and AI-assisted inspection systems designed for industrial environments and IoT-enabled applications.</p>
+
+<h3>Research Software & Scientific Tools</h3>
+
+<p>Software platforms, analysis pipelines, and open-source tools that enable reproducible research and support scientific collaboration.</p>
+
+</div>
 
 ---
 
-## Open-Source & Tools
+## Engineering Capabilities
 
-* Modular pipelines for biomedical imaging and microscopy
-* Industrial computer vision systems
-* Focus on reproducibility and interdisciplinary usability
+<div style="text-align: justify;">
+
+<p>The development of production-ready AI systems requires combining multiple engineering disciplines. My work spans the complete lifecycle of applied AI solutions, from data acquisition and model development to deployment and integration.</p>
+
+<h3>AI & Machine Learning</h3>
+
+<ul>
+<li>Supervised and self-supervised learning</li>
+<li>Deep learning (CNNs, Vision Transformers)</li>
+<li>Foundation models and transfer learning</li>
+<li>Model evaluation and optimization</li>
+</ul>
+
+<h3>Computer Vision</h3>
+
+<ul>
+<li>Image segmentation</li>
+<li>Object detection and classification</li>
+<li>Biomedical image analysis</li>
+<li>Industrial vision systems</li>
+<li>Visual inspection pipelines</li>
+</ul>
+
+<h3>Signal Processing</h3>
+
+<ul>
+<li>EEG and physiological signal analysis</li>
+<li>Audio signal processing</li>
+<li>Time-series analysis</li>
+<li>Feature extraction and predictive modeling</li>
+</ul>
+
+<h3>Software & AI Engineering</h3>
+
+<ul>
+<li>End-to-end AI pipelines</li>
+<li>Research software development</li>
+<li>Data processing workflows</li>
+<li>Model deployment and system integration</li>
+<li>Reproducible and maintainable software</li>
+</ul>
+
+<h3>Scientific Computing</h3>
+
+<ul>
+<li>Data analysis and visualization</li>
+<li>Quantitative image analysis</li>
+<li>Experimental design</li>
+<li>Performance evaluation and benchmarking</li>
+</ul>
+
+</div>
 
 ---
 
-## Collaboration & Impact
+## Selected Case Studies
 
-* Multidisciplinary collaboration (engineering, clinical, research teams)
-* Translation of technical results into actionable decisions
-* Delivery of deployable systems under real-world constraints
-* Bridging academic research and industry applications
+<div style="text-align: justify;">
+
+<p>Representative engineering projects illustrating how I approach problem definition, system architecture, implementation, deployment, and real-world impact.</p>
+
+</div>
 
 ---
 
-## Context
+## Open Source & Research Software
 
-For a detailed and traceable view of projects and technical work, see the [Logbook](/logbook/).
+<div style="text-align: justify;">
 
-For teaching and academic activities, see [Teaching](/teaching/).
+<p>Open-source software, reusable libraries, scientific tools, and engineering frameworks developed to support reproducible research and applied AI systems.</p>
+
+</div>
+
+---
+
+## Selected Technologies
+
+<div style="text-align: justify;">
+
+<p>Overview of the programming languages, frameworks, libraries, platforms, and development tools commonly used across my AI engineering projects.</p>
+
+</div>
+
+---
+
+## Related Pages
+
+<div style="text-align: justify;">
+
+<ul>
+<li>Professional Logbook</li>
+<li>Publications</li>
+<li>Teaching</li>
+<li>About</li>
+<li>Curriculum Vitae</li>
+</ul>
+
+</div>

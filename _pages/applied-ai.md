@@ -130,91 +130,44 @@ author_profile: true
 
 <div style="text-align: justify;">
 
-<p>The following case studies illustrate representative AI engineering projects, highlighting the complete lifecycle from problem definition and system architecture to implementation, deployment, and real-world impact.</p>
-
-<p>Each case study focuses on the engineering process, design decisions, technical challenges, and lessons learned rather than providing a chronological project history.</p>
+<p>The following case studies illustrate representative AI engineering systems across research, applied, and production-level work, highlighting differences in scope, complexity, and real-world deployment.</p>
 
 </div>
 
 ---
 
-### 3D Nuclei Segmentation — Cell Tracking Challenge (2nd Place)
+### Flagship Contributions
 
-<div style="text-align: justify;">
+#### Cell Tracking Challenge — 2nd Place
+Biomedical 3D segmentation system for high-precision volumetric analysis in an international benchmark competition.
 
-<p>
-Biomedical computer vision system for 3D nuclei segmentation using deep learning models optimized for high-precision volumetric analysis.
-</p>
+#### Auditory Biomarkers for Cognitive Decline Detection
+Signal processing and machine learning framework for early detection of cognitive decline. Top 10 most cited publication (2024).
 
-</div>
 ---
 
-### RaViTT — Vision Transformer for Biomedical Image Classification
+### Core AI Systems
 
-<div style="text-align: justify;">
+#### EEG-based Postoperative Risk Prediction System
+Machine learning system for clinical decision support using physiological signals in healthcare environments.
 
-<p>Deep learning architecture based on Vision Transformers for robust classification of biomedical imaging data under variability and limited data regimes.</p>
+#### IoT-based Behavioral Analysis Platform
+Real-time AI system integrating computer vision and IoT sensors for behavioral monitoring and analytics.
 
-</div>
+#### Industrial Computer Vision Systems (Mining & Retail)
+Computer vision pipelines for automation, inspection, and process optimization in industrial environments.
+
 ---
 
-### VolumePeeler — 3D Biomedical Image Analysis Tool
+### Research & Engineering Tools
 
-<div style="text-align: justify;">
+#### VolumePeeler — 3D Biomedical Image Analysis Tool
+Interactive FIJI/ImageJ plugin for volumetric image analysis and visualization.
 
-<p>Interactive FIJI/ImageJ plugin for 3D visualization, segmentation, and quantitative analysis of biological image volumes.</p>
-
-</div>
----
-
-### EEG-based Postoperative Risk Prediction System
-
-<div style="text-align: justify;">
-
-<p>Machine learning pipeline for predicting postoperative outcomes using EEG and physiological signals integrated into clinical decision-support workflows.</p>
+#### RaViTT — Vision Transformer for Biomedical Image Classification
+Deep learning architecture for biomedical image classification under data-constrained settings.
 
 </div>
----
-
-### Auditory Biomarkers for Cognitive Decline Detection
-
-<div style="text-align: justify;">
-
-<p>Signal processing and machine learning framework for early detection of cognitive decline using auditory and physiological biomarkers. (Top 10 most cited publication, 2024)</p>
-
-</div>
----
-
-### IoT-based Behavioral Analysis Platform
-
-<div style="text-align: justify;">
-
-<p>End-to-end system integrating IoT devices, computer vision, and real-time analytics for behavioral monitoring and industrial applications.</p>
-
-</div>
----
-
-### Industrial Computer Vision Systems (Mining & Retail)
-
-<div style="text-align: justify;">
-
-<p>Computer vision pipelines for automation, monitoring, and process optimization in real-world industrial environments under operational constraints.</p>
-
-</div>
----
-
-## Open Source & Research Software
-
-<div style="text-align: justify;">
-
-<p>Beyond research and industrial projects, I develop software tools that promote reproducibility, scientific collaboration, and practical adoption of AI technologies.</p>
-
-<p>This includes open-source libraries, scientific software, image analysis tools, reusable AI pipelines, and engineering utilities developed throughout my research and professional work.</p>
-
-</div>
-
-> *A curated list of repositories and software projects is available [here](https://github.com/carlosnavarroc).*
-
 ---
 
 ## Selected Technologies

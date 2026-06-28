@@ -193,7 +193,7 @@ Computer vision pipelines for automation, monitoring, and process optimization i
 
 </div>
 
-> *A curated list of repositories and software projects will be available here.*
+> *A curated list of repositories and software projects is available [here](https://github.com/carlosnavarroc).*
 
 ---
 

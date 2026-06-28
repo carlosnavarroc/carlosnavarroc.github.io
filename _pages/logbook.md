@@ -1,340 +1,262 @@
 ---
 layout: archive
-title: "Professional TimeLine"
+title: "Professional Engineering Timeline"
 permalink: /logbook/
 author_profile: true
 ---
 
-This logbook answers a simple question:
+This page is a **chronological record of applied AI, research, engineering systems, and technical work across time**.
 
-**What have I actually built, worked on, and deployed?**
+It is not a project portfolio or a CV summary.
 
-It is a structured, traceable record of my work across applied AI, research, engineering systems, and teaching.  
-Rather than a traditional CV, it documents **projects, systems, and outcomes**, with links to publications, tools, and blog entries that capture the process behind the work.
+Instead, it organizes work into **time-based engineering contexts**, showing how systems, research directions, and applied work evolved across domains.
 
 This page complements:
-- [Applied AI & Engineering](/applied-ai/) — overview of deployed systems  
-- [Teaching](/teaching/) — courses and academic activity  
-
-Some linked blog posts are written in Spanish and reflect real-time work, experiments, and events.
+- [Applied AI & Engineering](/applied-ai/) — deployed systems and architectures  
+- [Teaching](/teaching/) — academic and educational activity  
 
 ---
-													
 
-## 2026 — Experimental Platforms and Behavioral AI
+# 2026 — Experimental Platforms and Behavioral AI
 
-### Interdisciplinary experimental system — Animal behavior analysis (Veterinary Medicine, UDLA)
-																								  
-																			  
-																									   
-																					
-																			  
+## Context: Animal behavior analysis systems (Veterinary Medicine, UDLA)
 
-**What was built:**  
-A complete experimental platform combining hardware, software, and computer vision for behavioral analysis.
+**System focus:** IoT + Computer Vision experimental platform for behavioral research
 
-**Key contributions:**
-- Designed and integrated a mobile experimental platform  
+---
+
+### System overview
+A hardware-software experimental platform designed for real-time behavioral data acquisition and analysis in controlled animal studies.
+
+---
+
+### Engineering contributions
+- Designed and integrated a mobile experimental platform for behavioral studies  
 - Implemented IoT modules (smart feeders, LEDs, interaction buttons)  
-- Developed software for device control and data acquisition  
+- Developed software for device control and data acquisition pipelines  
 - Integrated top-view vision system for real-time tracking  
-- Calibrated instrumentation for experimental protocols  
-- Enabled real-time measurement of behavioral variables (impulsivity)
-
-**Traceable work:**
-- Blog: [Implementación de plataforma experimental para el estudio de impulsividad canina](https://carlosnavarroc.github.io/posts/2026/03/30/impulsividad-canina-plataforma/)
+- Calibrated experimental instrumentation for behavioral protocols  
+- Enabled real-time measurement of impulsivity-related variables  
 
 ---
 
-## 2019 – 2025 · AI for Healthcare and Neuroscience  
-**Data Scientist — Faculty of Medicine, University of Chile**  
-[Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/) · [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) · [AudioBrain](https://dpoae.scian.cl/) · [Tech4Medics-Lab](https://www.tech4medics.cl/team/)  
+### Traceable outputs
+- [Blog: Experimental platform for canine impulsivity](https://carlosnavarroc.github.io/posts/2026/03/30/impulsividad-canina-plataforma/)
 
 ---
 
-### Predictive modeling in neuroscience (EEG)
+# 2019 – 2025 · AI for Healthcare and Neuroscience
 
-**What was built:**
-Machine learning systems for predicting postoperative risk using physiological signals.
-																																																																  
+## Context: Neuroscience, biomedical AI, and clinical signal systems  
+Data Scientist — Faculty of Medicine, University of Chile  
+[Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/) · [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/) · [AudioBrain](https://dpoae.scian.cl/) · [Tech4Medics-Lab](https://www.tech4medics.cl/team/)
 
-**Key contributions:**
-- Designed [predictive ML models for clinical outcomes](https://www.cec.uchile.cl/~canavarr/Posters/2021_Remifentanil_enhances.pdf)  
+---
+
+## EEG-based predictive modeling systems
+
+### System overview
+Machine learning models for prediction of clinical outcomes using EEG and physiological signals.
+
+### Engineering contributions
+- Designed predictive ML models for clinical outcome estimation  
 - Applied spectral analysis to EEG signals  
-- Modeled combined anesthetic effects using clinical + electrophysiological data  
+- Modeled combined anesthetic effects using physiological + clinical data  
 
-**Traceable work:**
-- Blog: [EEG research activities](https://carlosnavarroc.github.io/posts/2024/01/29/peuma-ganador-concurso-copec-uc/)  
-- Projects: FONDEF ID19I10345, ID20I10371  
+### Traceable outputs
+- [EEG research activities](https://carlosnavarroc.github.io/posts/2024/01/29/peuma-ganador-concurso-copec-uc/)  
+- FONDEF ID19I10345, ID20I10371  
 
 ---
 
-### Automated diagnostics (glaucoma)
+## Automated diagnostic systems (glaucoma)
 
-**What was built:**
-A machine learning pipeline for clinical diagnosis using physiological signals.
+### System overview
+ML pipeline for diagnostic support using physiological and visual signal processing.
 
-**Key contributions:**
+### Engineering contributions
 - Developed ML pipeline based on chromatic pupilometry  
 - Integrated signal processing with predictive modeling  
 
-**Traceable work:**
-- Blog: [Retina–Brain workshop](https://carlosnavarroc.github.io/posts/2025/03/24/jornada-retina-cerebro/)  
-- Thesis: [Glaucoma diagnosis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-zamorano_mc_compressed.pdf)
-- Poster: [Glaucoma diagnosis](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
+### Traceable outputs
+- [Retina–Brain workshop](https://carlosnavarroc.github.io/posts/2025/03/24/jornada-retina-cerebro/)  
+- [Thesis: Glaucoma diagnosis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-zamorano_mc_compressed.pdf)  
+- [Poster: Glaucoma diagnosis](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf)
 
 ---
 
-### Deep learning for biomedical imaging
+## Deep learning systems for biomedical imaging
 
-**What was built:**
-Deep learning systems for microscopy and biomedical image analysis.
-																			
+### System overview
+Deep learning architectures for microscopy image analysis and biomedical segmentation tasks.
 
-**Key contributions:**
-- Developed **RaViTT (Vision Transformer)**  
-- Built pipelines for **3D nuclei segmentation (top-3, Cell Tracking Challenge)**  
-- Applied DL to microscopy classification tasks  
+### Engineering contributions
+- Developed RaViTT (Vision Transformer architecture)  
+- Built pipelines for 3D nuclei segmentation (Cell Tracking Challenge top-3 performance)  
+- Applied deep learning to microscopy classification problems  
 
-**Traceable work:**
-- Paper: [IEEE CAI 2023](https://ieeexplore.ieee.org/abstract/document/10195067)  
-- Paper: [RaViTT (arXiv)](https://arxiv.org/abs/2306.10959) 
-- Blog: [Student projects in AI](https://carlosnavarroc.github.io/posts/2023/12/29/comites-tesis-vision-ia/)
-
----
-
-### Scientific software and open tools
-
-**What was built:**
-Research-oriented software tools for biomedical image analysis and quantitative interpretation of complex biological data.
-
-**Key contributions:**
-- Co-developed **VolumePeeler (FIJI plugin)** for 3D visualization and geometric analysis  
-- Improved visualization and quantification of volumetric biological datasets  
-- Focused on interpretability of complex image structures in microscopy data  
-- Applied image analysis methods to:
-  - [Membrane deformation quantification](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)  
-  - [Embryo development tracking in live imaging data](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)
-
-**Traceable work:**
-- [Publication: VolumePeeler — BMC Bioinformatics (2023)](https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-023-05403-z.pdf)  
+### Traceable outputs
+- [IEEE CAI 2023](https://ieeexplore.ieee.org/abstract/document/10195067)  
+- [RaViTT (arXiv)](https://arxiv.org/abs/2306.10959)  
+- [Student AI projects](https://carlosnavarroc.github.io/posts/2023/12/29/comites-tesis-vision-ia/)
 
 ---
 
-### Early biomarkers of cognitive decline
+## Biomedical imaging software systems
 
-**What was built:**
-Signal-processing-based system for early detection of cognitive decline.
+### System overview
+Research software for volumetric microscopy analysis and biological data interpretation.
 
-**Key contributions:**
-- Designed audiological test (AudioBrain)  
+### Engineering contributions
+- Co-developed VolumePeeler (FIJI plugin for 3D biological data analysis)  
+- Improved quantification and visualization of volumetric datasets  
+- Applied image analysis to:
+  - membrane deformation quantification  
+  - embryo development tracking  
+
+### Traceable outputs
+- [VolumePeeler — BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-023-05403-z.pdf)  
+- [Membrane deformation analysis](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf)  
+- [Embryo tracking](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf)
+
+---
+
+## Cognitive decline early detection systems
+
+### System overview
+Signal-processing-based systems for early detection of cognitive decline.
+
+### Engineering contributions
+- Designed audiological test system (AudioBrain)  
 - Investigated otoacoustic emissions as biomarkers  
 
-**Traceable work:**
-- Paper: [Alzheimer’s & Dementia](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/dad2.12467)  
-- Blog: [Congreso Futuro](https://carlosnavarroc.github.io/posts/2026/01/15/audiobrain-congreso-futuro/)
+### Traceable outputs
+- [Alzheimer’s & Dementia paper](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/dad2.12467)  
+- [Congreso Futuro](https://carlosnavarroc.github.io/posts/2026/01/15/audiobrain-congreso-futuro/)
 
-**Impact:**
-- The resulting publication is among the Top 10 most cited articles (2024)
-  
 ---
 
-### Population-level studies and mental health
+## Population-level mental health modeling
 
-**What was built:**
-Data-driven analysis of social and psychological factors.
+### System overview
+Statistical and computational models of social and psychological datasets.
 
-**Key contributions:**
-- Analyzed loneliness and isolation in older adults  
-- Applied statistical modeling to large datasets  
+### Engineering contributions
+- Analyzed loneliness and social isolation in aging populations  
+- Applied statistical modeling to large-scale datasets  
 
-**Traceable work:**
+### Traceable outputs
 - [Frontiers in Psychology (2026)](https://doi.org/10.3389/fpsyg.2025.1683933)  
 - [Alzheimer and Dementia (2025)](https://carlosnavarroc.github.io/publication/2025-01-09-characterization-loneliness)
 
 ---
 
-## 2009 – 2018 · Computer Vision in Industry  
-**Applied Research Engineer — University of Chile**
+# 2009 – 2018 · Computer Vision and Industrial AI Systems
+
+## Context: Applied computer vision in mining, retail, and IoT systems  
+Applied Research Engineer — University of Chile  
 
 ---
 
-### Smart mining systems
+## Smart mining vision systems
 
-**What was built:**
-Computer vision and machine learning pipelines for geological analysis in mining environments.
+### System overview
+Computer vision pipelines for geological classification in industrial environments.
 
-**Key contributions:**
-- Designed machine learning pipelines for automated lithology classification  
-- Developed video-based pattern recognition methods for rock type estimation  
-- Applied computer vision techniques under real-world industrial constraints  
+### Engineering contributions
+- Designed ML pipelines for automated lithology classification  
+- Developed video-based rock type estimation systems  
+- Adapted CV methods to industrial constraints  
 
-**Traceable work:**
-- [Paper: Rock Lithological Classification (2015)](https://doi.org/10.1016/j.minpro.2015.09.015)  
-- Poster: [Lithological Classification](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf)  
-- Poster: [Rock Type Estimation](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)
+### Traceable outputs
+- [Rock Lithological Classification (2015)](https://doi.org/10.1016/j.minpro.2015.09.015)  
+- [Poster: Lithological Classification](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf)  
+- [Poster: Rock Estimation](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf)
+
 ---
 
-### Retail analytics
+## Retail analytics systems
 
-**What was built:**
-Vision-based systems for supermarket monitoring.
+### System overview
+Computer vision systems for supermarket monitoring and inventory analysis.
 
-**Key contributions:**
+### Engineering contributions
 - Developed stock breakage detection systems  
-- Applied feature extraction and optimization  
+- Applied feature extraction and optimization methods  
 
-**Traceable work:**
-- Project: INNOVA 13IDL2-23589  
+### Traceable outputs
+- INNOVA 13IDL2-23589 project  
 
 ---
 
-### IoT and geotechnical monitoring
+## IoT geotechnical monitoring systems
 
-**What was built:**
+### System overview
 Real-time telemetry systems for mining environments.
 
-**Key contributions:**
-- Designed Bluetooth-based monitoring systems  
-- Built hardware–software pipelines for real-time data  
+### Engineering contributions
+- Designed Bluetooth-based sensing systems  
+- Built hardware-software real-time monitoring pipelines  
 
-**Traceable work:**
-- Collaboration: CSIRO Chile  
+### Traceable outputs
+- CSIRO Chile collaboration  
 - [MPES 2019](https://carlosnavarroc.github.io/publication/2019-11-30-wireless-slope-monitoring/)
 
 ---
 
-## Education
-
-																								
-																							   
+# Education
 
 - **PhD in Electrical Engineering — University of Chile (2020)**  
-  Focus: [color–texture classification using multiscale features and SVM ensembles  ](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)
-																																									 
+  Focus: multiscale feature systems for image classification  
+  [Thesis](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf)
 
 - **Diploma in Electrophysiology — University of Chile (2019)**  
-  Focus: bioelectric signal processing  
+  Bioelectric signal processing  
 
 - **Electrical Engineering — University of Chile (2010)**  
-  Focus: [iris detection using Particle Swarm Optimization](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf)  
-																																																																  
-
-		  
-																																																																		  
+  Iris detection using particle swarm optimization  
+  [Thesis](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf)
 
 ---
 
-## Cross-cutting and Independent Projects
+# Cross-domain Engineering Work
 
-These projects reflect complementary skills in **systems thinking, creativity, and execution**.
+## Independent systems and applied creative projects
 
----
-														 
-
-### Independent film production
-																							 
-																								   
-
-- [Produced a full-length independent film](https://tinyurl.com/CNC-IMDB)  
-- Managed team, logistics, and production workflow  
-- Delivered crowdfunded project under constraints  
+- Independent film production (crowdfunded full production pipeline)  
+- Urban documentation and cultural heritage fieldwork  
+- Virtual university campus (Gather Town pandemic system)  
+- DeloreanCamara (historical image alignment system)  
+- Media and event photography (real-time visual systems)
 
 ---
 
-### Urban documentation and cultural heritage
+# Teaching and Mentorship
 
-												
-- Fieldwork + photography + urban analysis  
-- Study of historic [street plaques](https://carlosnavarroc.github.io/posts/2024/03/13/placas-antiguas-santiago/) in Santiago  
-		
-																																								
-													  
-   
+- Machine Learning, Computer Vision, Engineering systems  
+- Thesis supervision in AI and biomedical engineering  
+- Full pipeline education: problem → implementation → evaluation → communication  
 
 ---
 
-### Virtual environments
+# Academic & Community Engagement
 
-																				  
-																		   
-
-- Built a [virtual university campus](https://tinyurl.com/beauchefvirtual) (Gather Town)  
-- Enabled interaction during pandemic conditions  
+- Reviewer — ISICS 2024  
+- Speaker in interdisciplinary AI events  
+- International conference participation  
 
 ---
 
-### Independent development
+# Technical Stack
 
-- Developed [**DeloreanCamara**](https://carlosnavarroc.github.io/posts/2025/12/30/delorean-camara/) (image alignment app)  
-- Real-time comparison of [historical vs current images](https://carlosnavarroc.github.io/posts/2026/02/delorean-camara-largo-viaje/)  
-
-		
-																																												  
-																																						 
+- Python, R, MATLAB  
+- PyTorch, TensorFlow, scikit-learn, OpenCV, FIJI  
+- Docker, Google Cloud, Huawei Cloud  
 
 ---
 
-### Media and event photography
+# Final Note
 
-											   
+This timeline documents applied engineering work across time.
 
-																		  
-																			
-																							 
-
-- Accredited photographer ([radio media](https://www.instagram.com/p/DWPgrITDkRD/?img_index=10))  
-- Produced real-time visual content  
-- Strong alignment with visual analysis (CV mindset)
-
----
-
-## Teaching and Mentorship
-
-				 
-										
-										  
-										 
-
-**What I do:**
-- Teach Machine Learning, Computer Vision, and Engineering  
-- Supervise theses in AI, CV, and biomedical systems  
-					   
-
-**Focus:**
-- Full development cycle: problem → implementation → evaluation → communication  
-																																												
-
----
-
-## Academic and Community Engagement
-
-- Reviewer — [ISICS 2024](https://isics.cedai.cl/2024/), Intelligent Computing Systems Symposium  
-- [Speaker](https://carlosnavarroc.github.io/posts/2025/06/06/participacion-computer-vision-brasil-chile/) in AI and interdisciplinary research events  
-- Participation in international conferences  
-
-		
-																																						 
-
----
-
-## Technical Stack
-
-- **Languages:** Python, R, MATLAB  
-- **Frameworks:** PyTorch, TensorFlow, scikit-learn, OpenCV, FIJI  
-- **Core areas:**  
-  - Machine Learning & Deep Learning  
-  - Computer Vision  
-  - Signal Processing (EEG)  
-			 
-													  
-
-- **Infrastructure:** Docker, Google Cloud, Huawei Cloud  
-
----
-
-## Final note
-
-This logbook documents what I have worked on over time.
-
-Each section includes references to projects, systems, or publications when available.
+Each entry represents a **context of applied systems engineering**, with traceable outputs and contributions.

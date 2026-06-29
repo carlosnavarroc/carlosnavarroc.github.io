@@ -40,7 +40,6 @@ Peer-reviewed work in applied machine learning and computer vision systems:
 Full list with links:  [https://carlosnavarroc.github.io/publications/](https://carlosnavarroc.github.io/publications/)
 
 ---
-<div class="page-break"></div>
 
 ## Experience
 
@@ -50,6 +49,8 @@ Full list with links:  [https://carlosnavarroc.github.io/publications/](https://
 - AI systems for neuroscience, medical imaging, and biomedical engineering.
 - Machine learning with EEG, physiological signals, and medical images.
 - Deep learning pipelines and scientific software for interdisciplinary research.
+
+<div class="page-break"></div>
 
 ### Applied Research Engineer — University of Chile  
 2009 – 2018

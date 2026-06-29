@@ -49,7 +49,7 @@ Electrical Engineer — University of Chile (2010)
 
 ---
 
-## Selected Publications
+## Research & Engineering Contributions
 
 - **Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss**  
   Alzheimer's & Dementia (2024)  

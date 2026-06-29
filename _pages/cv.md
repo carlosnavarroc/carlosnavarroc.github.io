@@ -49,32 +49,19 @@ Electrical Engineer — University of Chile (2010)
 
 ---
 
-## Research & Engineering Contributions
+## Selected Research & Engineering Contributions
 
-- **Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss**  
-  Alzheimer's & Dementia (2024)  
-  https://doi.org/10.1002/dad2.12467  
-  Biomedical signal processing · early detection of neurodegeneration
+Peer-reviewed work in applied machine learning and computer vision systems:
 
-- **VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks**  
-  BMC Bioinformatics (2023)  
-  https://doi.org/10.1186/s12859-023-05403-z  
-  Scientific software · 3D microscopy analysis · computational imaging
+- Biomedical signal processing for early detection of neurodegenerative disease. [**Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss**  Alzheimer's & Dementia (2024)  ](https://doi.org/10.1002/dad2.12467  )
+  
+- Deep learning systems for 3D microscopy and biomedical imaging [**VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks**   BMC Bioinformatics (2023)  ](https://doi.org/10.1186/s12859-023-05403-z  )  
 
-- **RaViTT: Random Vision Transformer Tokens for Biomedical Image Analysis**  
-  arXiv (2023)  
-  https://arxiv.org/abs/2306.10959  
-  Deep learning · Vision Transformers · biomedical imaging
+- Vision Transformer models for biomedical image classification [**RaViTT: Random Vision Transformer Tokens for Biomedical Image Analysis**    arXiv (2023) ](https://arxiv.org/abs/2306.10959 ) 
 
-- **3D Nuclei Segmentation through Deep Learning**  
-  IEEE CAI (2023)  
-  https://doi.org/10.1109/CAI.2023.10195067  
-  Computer vision · biomedical segmentation · microscopy
+- Computer vision systems for biomedical segmentation [**3D Nuclei Segmentation through Deep Learning**    IEEE CAI (2023) ](https://doi.org/10.1109/CAI.2023.10195067  ) 
 
-- **Color–Texture Pattern Classification Using Global–Local Feature Extraction with SVM Ensemble Methods**  
-  Applied Sciences (2019)  
-  https://doi.org/10.3390/app9122553  
-  Classical machine learning · computer vision · industrial imaging
+- Classical ML systems for industrial vision applications [**Color–Texture Pattern Classification Using Global–Local Feature Extraction with SVM Ensemble Methods**   Applied Sciences (2019)  ](https://doi.org/10.3390/app9122553)
 
 Full list with links:  
 https://carlosnavarroc.github.io/publications/
@@ -105,9 +92,5 @@ Reviewer (ISICS 2024) · Thesis committee member · Speaker in AI and research e
 
 ## Portfolio
 
-Applied AI & Engineering  
-Professional Timeline  
-Teaching  
-Publications  
-
+Applied AI & Engineering   · Professional Timeline   · Teaching   · Publications  
 [https://carlosnavarroc.github.io](https://carlosnavarroc.github.io)

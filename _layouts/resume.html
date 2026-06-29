@@ -8,25 +8,43 @@ layout: compress
   {% include head.html %}
 
   <style>
-    /* ===== CV PRINT OPTIMIZED ===== */
+    /* =========================
+       CV PRINT OPTIMIZED (ROBUST)
+       ========================= */
 
+    /* ---- GLOBAL TYPOGRAPHY ---- */
     body {
       font-size: 13px;
       line-height: 1.45;
+      color: #111;
     }
 
+    /* ---- REMOVE SITE CHROME ---- */
     .masthead,
     .sidebar,
     .page__footer,
-    .page__share {
+    .page__share,
+    .nav__list,
+    .pagination {
       display: none !important;
     }
 
-    .page__inner-wrap {
-      max-width: 900px;
-      margin: 0 auto;
+    /* ---- CRITICAL: DISABLE FLEX/OVERFLOW ISSUES ---- */
+    html, body {
+      height: auto !important;
+      overflow: visible !important;
     }
 
+    .page,
+    .page__inner-wrap,
+    .page__content {
+      display: block !important;
+      max-width: 900px;
+      margin: 0 auto;
+      float: none !important;
+    }
+
+    /* ---- TYPOGRAPHY HIERARCHY ---- */
     h1 {
       font-size: 22px;
       margin-bottom: 10px;
@@ -37,7 +55,6 @@ layout: compress
       margin-top: 20px;
       margin-bottom: 8px;
       font-weight: 600;
-
     }
 
     h3 {
@@ -46,21 +63,49 @@ layout: compress
     }
 
     p, li {
-      margin-bottom: 4px;
+      margin-bottom: 5px;
       line-height: 1.45;
     }
 
     section {
-      margin-bottom: 16px;
+      margin-bottom: 14px;
     }
 
+    /* ---- PAGE BREAK (BASE) ---- */
+    .page-break {
+      display: block;
+      height: 0;
+      margin: 0;
+      padding: 0;
+      break-before: page;
+      page-break-before: always;
+    }
+
+    /* ---- PRINT SPECIFIC RULES ---- */
     @media print {
+
       body {
         -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
       }
 
       @page {
         margin: 12mm;
+      }
+
+      /* enforce break even in print engine */
+      .page-break {
+        break-before: page !important;
+        page-break-before: always !important;
+      }
+
+      /* avoid awkward splits */
+      h2, h3, li, p {
+        break-inside: avoid;
+      }
+
+      section {
+        break-inside: avoid;
       }
     }
   </style>

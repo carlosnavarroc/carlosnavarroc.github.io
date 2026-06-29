@@ -9,9 +9,9 @@ author_profile: false
 Applied AI Engineer · Computer Vision · Biomedical AI
 
 Email: carlosnavarroc@uchile.cl  
-Website: carlosnavarroc.github.io  
-LinkedIn: linkedin.com/in/carlosnavarroclaveria  
-GitHub: github.com/carlosnavarroc  
+Website: [carlosnavarroc.github.io](https://carlosnavarroc.github.io)  
+LinkedIn: [linkedin.com/in/carlosnavarroclaveria](https://linkedin.com/in/carlosnavarroclaveria)  
+GitHub: [github.com/carlosnavarroc](https://github.com/carlosnavarroc)
 
 ---
 
@@ -57,14 +57,13 @@ Electrical Engineer — University of Chile (2010)
 - IEEE CAI (2023)  
 - Applied Sciences (2019)
 
-Full list: https://carlosnavarroc.github.io/publications/
+Full list: [carlosnavarroc.github.io/publications](https://carlosnavarroc.github.io/publications/)
 
 ---
 
 ## Teaching
 
-University instructor since 2005.
-
+University teaching experience since 2005. Instructor of record since 2015.
 70+ course offerings · 2,500+ students  
 Undergraduate supervision in AI, Computer Vision, and Engineering.
 
@@ -91,4 +90,4 @@ Professional Timeline
 Teaching  
 Publications  
 
-https://carlosnavarroc.github.io
+[https://carlosnavarroc.github.io](https://carlosnavarroc.github.io)

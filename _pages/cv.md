@@ -3,6 +3,7 @@ layout: resume
 permalink: /cv/
 author_profile: false
 ---
+<div style="text-align: center;">
 
 # CARLOS FELIPE NAVARRO CLAVERIA
 
@@ -13,6 +14,7 @@ Website: [carlosnavarroc.github.io](https://carlosnavarroc.github.io)
 LinkedIn: [linkedin.com/in/carlosnavarroclaveria](https://linkedin.com/in/carlosnavarroclaveria)  
 GitHub: [github.com/carlosnavarroc](https://github.com/carlosnavarroc)
 
+</div>
 ---
 
 ## Summary

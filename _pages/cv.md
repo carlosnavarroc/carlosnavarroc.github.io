@@ -8,7 +8,7 @@ author_profile: false
 
 Applied AI Engineer · Computer Vision · Biomedical AI
 
-Email: [carlosnavarroc@uchile.cl](mailto:carlosnavarroc@uchile.cl) 
+Email: [carlosnavarroc@uchile.cl](mailto:carlosnavarroc@uchile.cl)  
 Website: [carlosnavarroc.github.io](https://carlosnavarroc.github.io)  
 LinkedIn: [linkedin.com/in/carlosnavarroclaveria](https://linkedin.com/in/carlosnavarroclaveria)  
 GitHub: [github.com/carlosnavarroc](https://github.com/carlosnavarroc)

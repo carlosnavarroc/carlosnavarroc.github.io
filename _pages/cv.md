@@ -40,6 +40,7 @@ Peer-reviewed work in applied machine learning and computer vision systems:
 Full list with links:  [https://carlosnavarroc.github.io/publications/](https://carlosnavarroc.github.io/publications/)
 
 ---
+<div class="page-break"></div>
 
 ## Experience
 

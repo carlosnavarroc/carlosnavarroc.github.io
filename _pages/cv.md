@@ -3,16 +3,19 @@ layout: resume
 permalink: /cv/
 author_profile: false
 ---
-<div style="text-align: center;">
 
-# CARLOS FELIPE NAVARRO CLAVERIA
+<div class="resume-header">
 
-Applied AI Engineer · Computer Vision · Biomedical AI
+<h1>CARLOS FELIPE NAVARRO CLAVERIA</h1>
 
-Email: [carlosnavarroc@uchile.cl](mailto:carlosnavarroc@uchile.cl)  
-Website: [carlosnavarroc.github.io](https://carlosnavarroc.github.io)  
-LinkedIn: [linkedin.com/in/carlosnavarroclaveria](https://linkedin.com/in/carlosnavarroclaveria)  
-GitHub: [github.com/carlosnavarroc](https://github.com/carlosnavarroc)
+<p>Applied AI Engineer · Computer Vision · Biomedical AI</p>
+
+<p>
+<a href="mailto:carlosnavarroc@uchile.cl">carlosnavarroc@uchile.cl</a> ·
+<a href="https://carlosnavarroc.github.io">carlosnavarroc.github.io</a> ·
+<a href="https://linkedin.com/in/carlosnavarroclaveria">linkedin.com/in/carlosnavarroclaveria</a> ·
+<a href="https://github.com/carlosnavarroc">github.com/carlosnavarroc</a>
+</p>
 
 </div>
 ---

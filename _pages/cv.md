@@ -22,8 +22,7 @@ Applied AI Engineer and Electrical Engineer with 15+ years of experience develop
 Experienced in designing end-to-end AI systems spanning data acquisition, modeling, experimentation, deployment, and scientific validation.
 
 ---
-
-## Selected Research & Engineering Contributions
+## Selected Research & Engineering Contributions {.split-before}
 
 Peer-reviewed work in applied machine learning and computer vision systems:
 

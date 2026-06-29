@@ -1,12 +1,9 @@
 ---
-layout: single
-title: "Carlos Felipe Navarro Claveria"
+layout: resume
 permalink: /cv/
-author_profile: false
-classes: wide
-sitemap: true
----
 
+---
+# Carlos Felipe Navarro Claveria
 **Applied AI Engineer · Computer Vision · Biomedical Engineering**
 
 Email: carlosnavarroc@uchile.cl  

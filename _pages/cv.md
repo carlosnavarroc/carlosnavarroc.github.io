@@ -22,7 +22,7 @@ Applied AI Engineer and Electrical Engineer with 15+ years of experience develop
 Experienced in designing end-to-end AI systems spanning data acquisition, modeling, experimentation, deployment, and scientific validation.
 
 ---
-## Selected Research & Engineering Contributions {.split-before}
+## Selected Research & Engineering Contributions
 
 Peer-reviewed work in applied machine learning and computer vision systems:
 
@@ -39,6 +39,9 @@ Peer-reviewed work in applied machine learning and computer vision systems:
 Full list with links:  [https://carlosnavarroc.github.io/publications/](https://carlosnavarroc.github.io/publications/)
 
 ---
+<div class="page-break"></div>
+
+## Selected Research & Engineering Contributions
 
 ## Experience
 

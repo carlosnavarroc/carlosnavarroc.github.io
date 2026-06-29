@@ -4,17 +4,70 @@ layout: compress
 
 <!doctype html>
 <html>
+<head>
+  {% include head.html %}
 
-{% include head.html %}
+  <style>
+    /* ===== CV PRINT OPTIMIZED ===== */
+
+    body {
+      font-size: 12px;
+      line-height: 1.35;
+    }
+
+    .masthead,
+    .sidebar,
+    .page__footer,
+    .page__share {
+      display: none !important;
+    }
+
+    .page__inner-wrap {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 20px;
+      margin-bottom: 8px;
+    }
+
+    h2 {
+      font-size: 14px;
+      margin-top: 14px;
+      margin-bottom: 6px;
+    }
+
+    h3 {
+      font-size: 12px;
+      margin-bottom: 4px;
+    }
+
+    p, li {
+      margin-bottom: 4px;
+    }
+
+    section {
+      margin-bottom: 10px;
+    }
+
+    @media print {
+      body {
+        -webkit-print-color-adjust: exact;
+      }
+
+      @page {
+        margin: 12mm;
+      }
+    }
+  </style>
+</head>
 
 <body>
 
 <div class="page__inner-wrap">
-
-{{ content }}
-
+  {{ content }}
 </div>
 
 </body>
-
 </html>

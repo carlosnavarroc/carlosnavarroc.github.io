@@ -51,13 +51,33 @@ Electrical Engineer — University of Chile (2010)
 
 ## Selected Publications
 
-- Alzheimer’s & Dementia (2024)  
-- Frontiers in Psychology (2025)  
-- BMC Bioinformatics (2023)  
-- IEEE CAI (2023)  
-- Applied Sciences (2019)
+- **Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss**  
+  Alzheimer's & Dementia (2024)  
+  https://doi.org/10.1002/dad2.12467  
+  Biomedical signal processing · early detection of neurodegeneration
 
-Full list: [carlosnavarroc.github.io/publications](https://carlosnavarroc.github.io/publications/)
+- **VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks**  
+  BMC Bioinformatics (2023)  
+  https://doi.org/10.1186/s12859-023-05403-z  
+  Scientific software · 3D microscopy analysis · computational imaging
+
+- **RaViTT: Random Vision Transformer Tokens for Biomedical Image Analysis**  
+  arXiv (2023)  
+  https://arxiv.org/abs/2306.10959  
+  Deep learning · Vision Transformers · biomedical imaging
+
+- **3D Nuclei Segmentation through Deep Learning**  
+  IEEE CAI (2023)  
+  https://doi.org/10.1109/CAI.2023.10195067  
+  Computer vision · biomedical segmentation · microscopy
+
+- **Color–Texture Pattern Classification Using Global–Local Feature Extraction with SVM Ensemble Methods**  
+  Applied Sciences (2019)  
+  https://doi.org/10.3390/app9122553  
+  Classical machine learning · computer vision · industrial imaging
+
+Full list with links:  
+https://carlosnavarroc.github.io/publications/
 
 ---
 

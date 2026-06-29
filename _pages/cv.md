@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Resume"
 permalink: /cv/
 author_profile: false
 sitemap: true
@@ -8,151 +8,76 @@ sitemap: true
 
 # CARLOS FELIPE NAVARRO CLAVERIA
 
-{% include base_path %}
-<img src="https://carlosnavarroc.github.io/images/profile_2025.jpg" width="120" height="120" />
+**Applied AI Engineer**  
+Computer Vision · Machine Learning · Biomedical AI
 
-**Applied AI Engineer · Computer Vision · Biomedical Engineering**
-
-**Email:** carlosnavarroc@uchile.cl  
-**Phone:** +56 9 9445 9922  
-**Website:** https://carlosnavarroc.github.io
+Email: carlosnavarroc@uchile.cl  
+Website: https://carlosnavarroc.github.io
 
 ---
 
-# Professional Summary
+# Summary
 
-Applied AI Engineer and Electrical Engineer with more than 15 years of experience designing machine learning, computer vision, and signal processing systems for healthcare, neuroscience, industrial automation, and interdisciplinary research.
+Applied AI Engineer and Electrical Engineer with 15+ years of experience designing machine learning, computer vision, and biomedical AI systems across healthcare, neuroscience, mining, and interdisciplinary research.
 
-My work combines applied research with engineering practice, covering the complete lifecycle of intelligent systems—from data acquisition and experimental design to model development, validation, deployment, and scientific dissemination.
-
-In parallel with research and development activities, I have extensive experience teaching undergraduate and graduate engineering courses, supervising AI-related theses, and collaborating with multidisciplinary teams across academia and industry.
+Experienced in developing end-to-end AI solutions, from data acquisition and experimental design to deployment, scientific validation, and technology transfer.
 
 ---
 
-# Professional Experience
+# Experience
 
 ## Data Scientist
 **Faculty of Medicine, University of Chile**  
-**Neurosystems · SCIANLab · AudioBrain · Tech4Medics Lab**  
 *2019 – Present*
 
-Design and development of artificial intelligence systems for biomedical engineering, neuroscience, and medical imaging.
-
-**Main responsibilities**
-
-- Machine learning for clinical prediction and decision support
-- Biomedical signal processing (EEG and physiological signals)
-- Computer vision for microscopy and medical imaging
-- Deep learning model development and evaluation
-- Statistical analysis of clinical and population-level datasets
-- Scientific software development
-- Interdisciplinary research collaboration
-- Supervision of undergraduate research projects
-
-**Selected technical contributions**
-
-- Predictive EEG models for postoperative risk assessment
-- Automated glaucoma diagnosis using chromatic pupilometry
-- Vision Transformer architectures for biomedical imaging
-- Deep learning pipelines for 3D nuclei segmentation
-- VolumePeeler: open-source FIJI plugin for volumetric image analysis
-- Early biomarkers of cognitive decline using auditory measurements
-- Population-level statistical studies in mental health
+- Developed AI systems for neuroscience, medical imaging, and clinical decision support.
+- Designed machine learning models using EEG, physiological signals, and biomedical images.
+- Built deep learning pipelines, scientific software, and interdisciplinary research tools.
 
 ---
 
 ## Applied Research Engineer
-**Faculty of Physical Sciences and Mathematics, University of Chile**  
+**University of Chile**  
 *2009 – 2018*
 
-Development of computer vision, machine learning, and sensing systems for industrial applications.
-
-**Main responsibilities**
-
-- Computer vision algorithm development
-- Pattern recognition and machine learning
-- Industrial image processing
-- Sensor integration and telemetry
-- Software development for applied research
-- Technology transfer projects
-
-**Selected technical contributions**
-
-- Automated lithology classification systems for mining
-- Vision-based geological analysis
-- Retail computer vision applications
-- Bluetooth telemetry systems for geotechnical monitoring
+- Developed computer vision systems for mining and retail applications.
+- Designed machine learning pipelines for industrial automation.
+- Built IoT monitoring and sensing systems for geotechnical environments.
 
 ---
 
 # Education
 
-## PhD in Electrical Engineering
-**University of Chile** — 2020
+**PhD in Electrical Engineering** — University of Chile (2020)
 
-Research focus:
-Color–texture pattern classification using multiscale feature extraction and ensemble SVM classifiers.
+**Diploma in Electrophysiology** — University of Chile (2019)
 
----
-
-## Diploma in Electrophysiology Technology
-**Faculty of Medicine, University of Chile** — 2019
-
-Research focus:
-Biomedical signal processing and electrophysiological systems.
+**Electrical Engineer** — University of Chile (2010)
 
 ---
 
-## Electrical Engineering
-**University of Chile** — 2010
-
-Research focus:
-Computer vision methods for iris detection using Particle Swarm Optimization.
-
----
-
-# Research and Publications
-
-Author and co-author of peer-reviewed publications in artificial intelligence, computer vision, biomedical engineering, image analysis, and signal processing.
-
-**Selected publications**
+# Selected Publications
 
 - Alzheimer's & Dementia (2024)
 - Frontiers in Psychology (2025)
 - BMC Bioinformatics (2023)
-- IEEE Conference on Artificial Intelligence (2023)
+- IEEE CAI (2023)
 - Applied Sciences (2019)
-- Minerals Engineering (2015)
 
-Research contributions include:
+Complete publication list:
 
-- Biomedical AI
-- Medical image analysis
-- Vision Transformers
-- Computer vision
-- EEG signal processing
-- Statistical modeling
+https://carlosnavarroc.github.io/publications/
 
 ---
 
-# Teaching and Academic Activities
+# Teaching
 
-University-level teaching since 2005, including undergraduate and graduate courses in engineering, mathematics, computer vision, and artificial intelligence.
+University instructor since 2005.
 
-**Highlights**
-
-- Course instructor and lecturer since 2015
-- More than 70 course instances
-- More than 2,500 students
-- Undergraduate thesis supervision in AI, biomedical engineering, and computer vision
-- Participation in thesis committees and academic evaluations
-
-Institutions include:
-
-- University of Chile
-- Universidad Andrés Bello
-- Universidad Santo Tomás
-- Universidad del Desarrollo
+- 70+ course offerings
+- 2,500+ students
+- Undergraduate thesis supervision
+- AI, Computer Vision, Machine Learning, and Engineering
 
 ---
 
@@ -160,80 +85,30 @@ Institutions include:
 
 **Programming**
 
-- Python
-- R
-- MATLAB
-
-**Artificial Intelligence**
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Vision Transformers
-- CNNs
-- Statistical Learning
-
-**Biomedical Computing**
-
-- EEG signal processing
-- Medical image analysis
-- Physiological data analysis
+Python · R · MATLAB
 
 **Frameworks**
 
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- OpenCV
-- FIJI / ImageJ
+PyTorch · TensorFlow · Scikit-learn · OpenCV
 
-**Infrastructure**
+**Areas**
 
-- Docker
-- Google Cloud
-- Huawei Cloud
-- Git
+Machine Learning · Computer Vision · Biomedical AI · Signal Processing
 
 ---
 
-# Professional Service
+# Professional Activities
 
-- Reviewer — Intelligent Computing Systems Symposium (ISICS 2024)
+- Reviewer — ISICS 2024
 - Thesis committee member
-- External evaluator for biomedical engineering projects
 - Speaker in AI and interdisciplinary research events
-- Participation in international scientific conferences
 
 ---
 
-# Certifications and Professional Development
+# Links
 
-- IEEE RAS Summer School on Deep Learning for Robot Vision
-- Google Cloud Skills Boost (AI and Generative AI)
-- Finalist — Summit País Digital Hackathon
-
----
-
-# Additional Information
-
-**Languages**
-
-- Spanish (native)
-- English (professional working proficiency)
-
-**Professional Portfolio**
-
-Applied AI & Engineering  
-https://carlosnavarroc.github.io/applied-ai/
-
-Professional Timeline  
-https://carlosnavarroc.github.io/logbook/
-
-Teaching Portfolio  
-https://carlosnavarroc.github.io/teaching/
-
-Publications  
-https://carlosnavarroc.github.io/publications/
+Portfolio:  
+https://carlosnavarroc.github.io
 
 Google Scholar  
 https://scholar.google.com/citations?user=406XjUEAAAAJ&hl=es

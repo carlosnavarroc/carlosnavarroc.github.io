@@ -37,8 +37,7 @@ Peer-reviewed work in applied machine learning and computer vision systems:
 
 - Classical ML systems for industrial vision applications [**Color–Texture Pattern Classification Using Global–Local Feature Extraction with SVM Ensemble Methods**   Applied Sciences (2019)  ](https://doi.org/10.3390/app9122553)
 
-Full list with links:  
-https://carlosnavarroc.github.io/publications/
+Full list with links:  [https://carlosnavarroc.github.io/publications/](https://carlosnavarroc.github.io/publications/)
 
 ---
 

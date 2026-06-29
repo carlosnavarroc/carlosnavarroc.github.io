@@ -11,10 +11,10 @@ author_profile: false
 <p>Applied AI Engineer · Computer Vision · Biomedical AI</p>
 
 <p>
-Email: <a href="mailto:carlosnavarroc@uchile.cl">carlosnavarroc@uchile.cl</a> </br>
-Website: <a href="https://carlosnavarroc.github.io">carlosnavarroc.github.io</a> </br>
-LinkedIn: <a href="https://linkedin.com/in/carlosnavarroclaveria">linkedin.com/in/carlosnavarroclaveria</a> </br>
-GitHub: <a href="https://github.com/carlosnavarroc">github.com/carlosnavarroc</a>
+<a href="mailto:carlosnavarroc@uchile.cl">carlosnavarroc@uchile.cl</a> ·
+<a href="https://carlosnavarroc.github.io">carlosnavarroc.github.io</a> ·
+<a href="https://linkedin.com/in/carlosnavarroclaveria">LinkedIn</a> ·
+<a href="https://github.com/carlosnavarroc">GitHub</a>
 </p>
 
 </div>

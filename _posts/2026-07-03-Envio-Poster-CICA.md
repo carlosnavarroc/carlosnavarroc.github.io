@@ -41,7 +41,7 @@ El Social Interaction Research Center (SIRC) enviará nueve trabajos enfocados e
 
 <strong>Autores:</strong> Vicente Iturriaga-Díaz, Christine Gierke, Víctor Henríquez, Ulises Echeverría, Gabriel García, Millaray Pizarro, Alfonso Valderrama-Figueroa, Rocío Díaz-Pereira, Walthers Díaz-Gierke, Carlos F. Navarro y Francisco del Pino.
 
-<strong>Resumen:</strong> Evalúa el efecto de la simulación de presencia social sobre la conducta de *Drosophila melanogaster* durante distintas etapas de su ciclo de vida.
+<strong>Resumen:</strong> Evalúa el efecto de la simulación de presencia social sobre la conducta de <em>Drosophila melanogaster</em> durante distintas etapas de su ciclo de vida.
 
 </details>
 

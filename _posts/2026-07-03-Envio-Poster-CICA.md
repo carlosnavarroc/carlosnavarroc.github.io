@@ -1,12 +1,12 @@
 ---
-title: "Envío de 16 pósteres científicos para la VI Jornada CICA 2026"
+title: "Envío de 17 pósteres científicos para la VI Jornada CICA 2026"
 date: 2026-07-03
 permalink: /blog/cica2026-envio-posters/
 tags: ["CICA", "Universidad de Chile", "SIRC", "Tech4Medics", "AudioBrain", "neurociencia", "inteligencia artificial"]
 excerpt: "Los equipos de investigación SIRC, Tech4Medics y AudioBrain enviaron 16 trabajos científicos para la VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile, reflejando diversas líneas de investigación en neurociencias, inteligencia artificial y salud digital."
 ---
 
-Durante esta semana se completó el envío de los trabajos que representarán a nuestros equipos de investigación en la <strong>VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile</strong>, la cual se realizará el próximo <strong>9 de julio de 2026</strong>. En total, se enviaron 16 pósteres científicos desarrollados por un equipo multidisciplinario integrado por estudiantes de pregrado y postgrado, profesionales, investigadores y colaboradores pertenecientes a los centros <strong>SIRC (Social Interaction Research Center), Tech4Medics y AudioBrain</strong>.
+Durante esta semana se completó el envío de los trabajos que representarán a nuestros equipos de investigación en la <strong>VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile</strong>, la cual se realizará el próximo <strong>9 de julio de 2026</strong>. En total, se enviaron 17 pósteres científicos desarrollados por un equipo multidisciplinario integrado por estudiantes de pregrado y postgrado, profesionales, investigadores y colaboradores pertenecientes a los centros <strong>SIRC (Social Interaction Research Center), Tech4Medics y AudioBrain</strong>.
 
 Las contribuciones abarcan distintas áreas de investigación, incluyendo neurociencias, envejecimiento, aislamiento social, inteligencia artificial aplicada a imágenes médicas, procesamiento de señales biomédicas y desarrollo de herramientas digitales para la detección temprana de enfermedades neurodegenerativas. Más allá de los resultados específicos de cada proyecto, este envío refleja el trabajo colaborativo desarrollado durante el último año y el compromiso de estudiantes, académicos y colaboradores con la generación de nuevo conocimiento.
 
@@ -14,10 +14,10 @@ Las contribuciones abarcan distintas áreas de investigación, incluyendo neuroc
 >
 > | Centro de investigación | Pósteres enviados |
 > |:-------------------------|-----------------:|
-> | SIRC | 8 |
+> | SIRC | 9 |
 > | Tech4Medics | 6 |
 > | AudioBrain | 2 |
-> | <strong>Total</strong> | <strong>16</strong> |
+> | <strong>Total</strong> | <strong>17</strong> |
 
 > Nota: Esta entrada documenta el envío de los trabajos. Una vez realizada la jornada, será actualizada con fotografías del evento y un resumen de las presentaciones.
 
@@ -25,7 +25,16 @@ Las contribuciones abarcan distintas áreas de investigación, incluyendo neuroc
 
 # SIRC – Social Interaction Research Center
 
-El Social Interaction Research Center (SIRC) enviará ocho trabajos enfocados en comprender cómo el aislamiento social influye sobre la conducta, el envejecimiento y el riesgo de enfermedades neurodegenerativas. Utilizando *Drosophila melanogaster* como modelo experimental y estudios con enfoque traslacional, las investigaciones exploran la experiencia social a lo largo del ciclo vital, la regulación circadiana, la resiliencia al estrés social y nuevos enfoques para la prevención del deterioro cognitivo.
+El Social Interaction Research Center (SIRC) enviará nueve trabajos enfocados en comprender cómo el aislamiento social influye sobre la conducta, el envejecimiento y el riesgo de enfermedades neurodegenerativas. Utilizando *Drosophila melanogaster* como modelo experimental y estudios con enfoque traslacional, las investigaciones exploran la experiencia social a lo largo del ciclo vital, la regulación circadiana, la resiliencia al estrés social y nuevos enfoques para la prevención del deterioro cognitivo.
+
+<details>
+<summary><strong>Effects of Social Isolation on the Response to Ethanol Exposure in <em>Drosophila melanogaster</em> Larvae</strong></summary>
+
+<strong>Autores:</strong> Walthers Díaz-Gierke, Christine Gierke, Tamara M. Palisson, Rocío Díaz, Millaray Pizarro, Alfonso Valderrama, Vicente Iturriaga, Carlos F. Navarro y Francisco del Pino.
+
+<strong>Resumen:</strong> Este trabajo investiga cómo el aislamiento social durante etapas tempranas del desarrollo modula la respuesta conductual de larvas de <em>Drosophila melanogaster</em> frente a la exposición al etanol, proporcionando un modelo experimental para comprender la interacción entre experiencias sociales tempranas y la sensibilidad a estímulos ambientales.
+
+</details>
 
 <details>
 <summary><strong>Simulation of Social Presence Across the Lifespan of <em>Drosophila melanogaster</em>: A Behavioral Study</strong></summary>
@@ -185,6 +194,6 @@ Los trabajos de AudioBrain continúan el desarrollo de biomarcadores digitales p
 
 ---
 
-El envío de estos dieciséis trabajos constituye un importante hito para nuestros grupos de investigación y refleja el esfuerzo conjunto de estudiantes, profesionales, investigadores y colaboradores de distintas disciplinas. Cada uno de estos proyectos representa meses de trabajo experimental, análisis de datos, desarrollo metodológico y colaboración científica, consolidando líneas de investigación en neurociencias, inteligencia artificial aplicada a la medicina y salud digital.
+El envío de estos diecisiete trabajos constituye un importante hito para nuestros grupos de investigación y refleja el esfuerzo conjunto de estudiantes, profesionales, investigadores y colaboradores de distintas disciplinas. Cada uno de estos proyectos representa meses de trabajo experimental, análisis de datos, desarrollo metodológico y colaboración científica, consolidando líneas de investigación en neurociencias, inteligencia artificial aplicada a la medicina y salud digital.
 
 Esperamos que la <strong>VI Jornada CICA 2026</strong> sea una valiosa instancia para compartir estos avances, fortalecer nuevas colaboraciones y visibilizar el trabajo que desarrollan nuestros equipos. Una vez realizada la jornada, esta entrada será actualizada con fotografías del evento y un breve resumen de las presentaciones.

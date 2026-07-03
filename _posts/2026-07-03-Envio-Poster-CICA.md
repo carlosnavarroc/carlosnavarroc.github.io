@@ -6,40 +6,26 @@ tags: ["CICA", "Universidad de Chile", "SIRC", "Tech4Medics", "AudioBrain", "neu
 excerpt: "Los equipos de investigación SIRC, Tech4Medics y AudioBrain enviaron 16 trabajos científicos para la VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile, reflejando diversas líneas de investigación en neurociencias, inteligencia artificial y salud digital."
 ---
 
-<div style="text-align: justify;">
-
-Durante esta semana se completó el envío de los trabajos que representarán a nuestros equipos de investigación en la **VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile**, la cual se realizará el próximo **9 de julio de 2026**. En total, se enviaron **16 pósteres científicos** desarrollados por un equipo multidisciplinario integrado por estudiantes de pregrado y postgrado, profesionales, investigadores y colaboradores pertenecientes a los centros **SIRC (Social Interaction Research Center)**, **Tech4Medics** y **AudioBrain**.
-
-</div>
-
-<br>
-
-<div style="text-align: justify;">
+Durante esta semana se completó el envío de los trabajos que representarán a nuestros equipos de investigación en la <strong>VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile</strong>, la cual se realizará el próximo <strong>9 de julio de 2026</strong>. En total, se enviaron 16 pósteres científicos desarrollados por un equipo multidisciplinario integrado por estudiantes de pregrado y postgrado, profesionales, investigadores y colaboradores pertenecientes a los centros <strong>SIRC (Social Interaction Research Center), Tech4Medics y AudioBrain</strong>.
 
 Las contribuciones abarcan distintas áreas de investigación, incluyendo neurociencias, envejecimiento, aislamiento social, inteligencia artificial aplicada a imágenes médicas, procesamiento de señales biomédicas y desarrollo de herramientas digitales para la detección temprana de enfermedades neurodegenerativas. Más allá de los resultados específicos de cada proyecto, este envío refleja el trabajo colaborativo desarrollado durante el último año y el compromiso de estudiantes, académicos y colaboradores con la generación de nuevo conocimiento.
 
-</div>
+> **Resumen del envío**
+>
+> | Centro de investigación | Pósteres enviados |
+> |:-------------------------|-----------------:|
+> | SIRC | 8 |
+> | Tech4Medics | 6 |
+> | AudioBrain | 2 |
+> | **Total** | **16** |
 
-<br>
+> **Nota:** Esta entrada documenta el envío de los trabajos. Una vez realizada la jornada, será actualizada con fotografías del evento y un resumen de las presentaciones.
 
-| Centro de investigación | Pósteres enviados |
-|:-------------------------|-----------------:|
-| SIRC | 8 |
-| Tech4Medics | 6 |
-| AudioBrain | 2 |
-| **Total** | **16** |
-
-<br>
+---
 
 # SIRC – Social Interaction Research Center
 
-<div style="text-align: justify;">
-
-El **Social Interaction Research Center (SIRC)** enviará ocho trabajos enfocados en comprender cómo el aislamiento social influye sobre la conducta, el envejecimiento y el riesgo de enfermedades neurodegenerativas. Utilizando *Drosophila melanogaster* como modelo experimental y estudios con enfoque traslacional, las investigaciones exploran la experiencia social a lo largo del ciclo vital, la regulación circadiana, la resiliencia al estrés social y nuevos enfoques para la prevención del deterioro cognitivo.
-
-</div>
-
-<br>
+El Social Interaction Research Center (SIRC) enviará ocho trabajos enfocados en comprender cómo el aislamiento social influye sobre la conducta, el envejecimiento y el riesgo de enfermedades neurodegenerativas. Utilizando *Drosophila melanogaster* como modelo experimental y estudios con enfoque traslacional, las investigaciones exploran la experiencia social a lo largo del ciclo vital, la regulación circadiana, la resiliencia al estrés social y nuevos enfoques para la prevención del deterioro cognitivo.
 
 <details>
 <summary><strong>Simulation of Social Presence Across the Lifespan of <em>Drosophila melanogaster</em>: A Behavioral Study</strong></summary>
@@ -113,17 +99,11 @@ El **Social Interaction Research Center (SIRC)** enviará ocho trabajos enfocado
 
 </details>
 
-<br>
+---
 
 # Tech4Medics
 
-<div style="text-align: justify;">
-
 Los seis trabajos enviados por **Tech4Medics** muestran el desarrollo de herramientas de inteligencia artificial orientadas al análisis de imágenes médicas y señales biomédicas. Estas investigaciones buscan apoyar el diagnóstico clínico, mejorar la estandarización de procedimientos y facilitar el desarrollo de nuevas tecnologías aplicadas a la medicina de precisión.
-
-</div>
-
-<br>
 
 <details>
 <summary><strong>Predicción de la Severidad de la Estenosis Aórtica a partir de Electrocardiogramas Basales mediante Inteligencia Artificial</strong></summary>
@@ -179,17 +159,11 @@ Los seis trabajos enviados por **Tech4Medics** muestran el desarrollo de herrami
 
 </details>
 
-<br>
+---
 
 # AudioBrain
 
-<div style="text-align: justify;">
-
 Los trabajos de **AudioBrain** continúan el desarrollo de biomarcadores digitales para la detección temprana del deterioro cognitivo, integrando información auditiva, neuroimagenológica y herramientas digitales con potencial aplicación clínica.
-
-</div>
-
-<br>
 
 <details>
 <summary><strong>AudioBrain: evaluación de usabilidad como base para el desarrollo e implementación de una herramienta digital de detección temprana de riesgo neurodegenerativo</strong></summary>
@@ -209,18 +183,8 @@ Los trabajos de **AudioBrain** continúan el desarrollo de biomarcadores digital
 
 </details>
 
-<br>
-
-<div style="text-align: justify;">
+---
 
 El envío de estos dieciséis trabajos constituye un importante hito para nuestros grupos de investigación y refleja el esfuerzo conjunto de estudiantes, profesionales, investigadores y colaboradores de distintas disciplinas. Cada uno de estos proyectos representa meses de trabajo experimental, análisis de datos, desarrollo metodológico y colaboración científica, consolidando líneas de investigación en neurociencias, inteligencia artificial aplicada a la medicina y salud digital.
 
-</div>
-
-<br>
-
-<div style="text-align: justify;">
-
-**Esta entrada documenta el envío de los trabajos a la VI Jornada CICA 2026.** Una vez realizada la jornada, este artículo será actualizado con fotografías del evento y un breve resumen de las presentaciones realizadas por los distintos equipos.
-
-</div>
+Esperamos que la **VI Jornada CICA 2026** sea una valiosa instancia para compartir estos avances, fortalecer nuevas colaboraciones y visibilizar el trabajo que desarrollan nuestros equipos. Una vez realizada la jornada, esta entrada será actualizada con fotografías del evento y un breve resumen de las presentaciones.

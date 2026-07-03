@@ -25,7 +25,7 @@ Las contribuciones abarcan distintas áreas de investigación, incluyendo neuroc
 
 # SIRC – Social Interaction Research Center
 
-El Social Interaction Research Center (SIRC) enviará nueve trabajos enfocados en comprender cómo el aislamiento social influye sobre la conducta, el envejecimiento y el riesgo de enfermedades neurodegenerativas. Utilizando <i>Drosophila melanogaster</i> como modelo experimental y estudios con enfoque traslacional, las investigaciones exploran la experiencia social a lo largo del ciclo vital, la regulación circadiana, la resiliencia al estrés social y nuevos enfoques para la prevención del deterioro cognitivo.
+El Social Interaction Research Center (SIRC) enviará nueve trabajos enfocados en comprender cómo el aislamiento social influye sobre la conducta, el envejecimiento y el riesgo de enfermedades neurodegenerativas. Utilizando <em>Drosophila melanogaster</em> como modelo experimental y estudios con enfoque traslacional, las investigaciones exploran la experiencia social a lo largo del ciclo vital, la regulación circadiana, la resiliencia al estrés social y nuevos enfoques para la prevención del deterioro cognitivo.
 
 <details>
 <summary><strong>Effects of Social Isolation on the Response to Ethanol Exposure in <em>Drosophila melanogaster</em> Larvae</strong></summary>

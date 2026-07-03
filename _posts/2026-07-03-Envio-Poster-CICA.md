@@ -10,16 +10,16 @@ Durante esta semana se completó el envío de los trabajos que representarán a 
 
 Las contribuciones abarcan distintas áreas de investigación, incluyendo neurociencias, envejecimiento, aislamiento social, inteligencia artificial aplicada a imágenes médicas, procesamiento de señales biomédicas y desarrollo de herramientas digitales para la detección temprana de enfermedades neurodegenerativas. Más allá de los resultados específicos de cada proyecto, este envío refleja el trabajo colaborativo desarrollado durante el último año y el compromiso de estudiantes, académicos y colaboradores con la generación de nuevo conocimiento.
 
-> **Resumen del envío**
+> <strong>Resumen del envío</strong>
 >
 > | Centro de investigación | Pósteres enviados |
 > |:-------------------------|-----------------:|
 > | SIRC | 8 |
 > | Tech4Medics | 6 |
 > | AudioBrain | 2 |
-> | **Total** | **16** |
+> | <strong>Total</strong> | <strong>16</strong> |
 
-> **Nota:** Esta entrada documenta el envío de los trabajos. Una vez realizada la jornada, será actualizada con fotografías del evento y un resumen de las presentaciones.
+> Nota: Esta entrada documenta el envío de los trabajos. Una vez realizada la jornada, será actualizada con fotografías del evento y un resumen de las presentaciones.
 
 ---
 
@@ -30,72 +30,72 @@ El Social Interaction Research Center (SIRC) enviará ocho trabajos enfocados en
 <details>
 <summary><strong>Simulation of Social Presence Across the Lifespan of <em>Drosophila melanogaster</em>: A Behavioral Study</strong></summary>
 
-**Autores:** Vicente Iturriaga-Díaz, Christine Gierke, Víctor Henríquez, Ulises Echeverría, Gabriel García, Millaray Pizarro, Alfonso Valderrama-Figueroa, Rocío Díaz-Pereira, Walthers Díaz-Gierke, Carlos F. Navarro y Francisco del Pino.
+<strong>Autores:</strong> Vicente Iturriaga-Díaz, Christine Gierke, Víctor Henríquez, Ulises Echeverría, Gabriel García, Millaray Pizarro, Alfonso Valderrama-Figueroa, Rocío Díaz-Pereira, Walthers Díaz-Gierke, Carlos F. Navarro y Francisco del Pino.
 
-**Resumen:** Evalúa el efecto de la simulación de presencia social sobre la conducta de *Drosophila melanogaster* durante distintas etapas de su ciclo de vida.
+<strong>Resumen:</strong> Evalúa el efecto de la simulación de presencia social sobre la conducta de *Drosophila melanogaster* durante distintas etapas de su ciclo de vida.
 
 </details>
 
 <details>
 <summary><strong>Social Isolation's Lifespan Cascade: Linking Early Compensatory Hyperactivity to Late-Life Cognitive Decline and Alzheimer's Risk</strong></summary>
 
-**Autores:** Christine Gierke, Martina Morales, Tamara M. Palisson, Walthers Díaz-Gierke, Carlos F. Navarro, Rocío Díaz, Alfonso Valderrama, Millaray Pizarro, Javiera Palma, Vicente Iturriaga y Francisco del Pino.
+<strong>Autores:</strong> Christine Gierke, Martina Morales, Tamara M. Palisson, Walthers Díaz-Gierke, Carlos F. Navarro, Rocío Díaz, Alfonso Valderrama, Millaray Pizarro, Javiera Palma, Vicente Iturriaga y Francisco del Pino.
 
-**Resumen:** Analiza cómo el aislamiento social temprano podría desencadenar cambios conductuales asociados al deterioro cognitivo y al riesgo de enfermedad de Alzheimer durante el envejecimiento.
+<strong>Resumen:</strong> Analiza cómo el aislamiento social temprano podría desencadenar cambios conductuales asociados al deterioro cognitivo y al riesgo de enfermedad de Alzheimer durante el envejecimiento.
 
 </details>
 
 <details>
 <summary><strong>Circadian Dysregulation Links Social Isolation to Neurodegenerative Risk: A Translational Study in <em>Drosophila melanogaster</em></strong></summary>
 
-**Autores:** Javiera Palma, Christine Gierke, Martina Morales, Millaray Pizarro, Rocío Díaz, Vicente Iturriaga, Alfonso Valderrama, Fernanda Cabrera, Walthers Díaz-Gierke, Carlos F. Navarro y Francisco del Pino.
+<strong>Autores:</strong> Javiera Palma, Christine Gierke, Martina Morales, Millaray Pizarro, Rocío Díaz, Vicente Iturriaga, Alfonso Valderrama, Fernanda Cabrera, Walthers Díaz-Gierke, Carlos F. Navarro y Francisco del Pino.
 
-**Resumen:** Explora la relación entre la desregulación circadiana inducida por aislamiento social y mecanismos asociados al riesgo de neurodegeneración.
+<strong>Resumen:</strong> Explora la relación entre la desregulación circadiana inducida por aislamiento social y mecanismos asociados al riesgo de neurodegeneración.
 
 </details>
 
 <details>
 <summary><strong>Developmental Social Isolation in <em>Drosophila melanogaster</em>: Decoding the Sensory "Hardware" and Behavioral "Software" under Stress</strong></summary>
 
-**Autores:** Francisco del Pino, Aracelly Vergara, Ignacio Salinas, Walthers Díaz-Gierke, Carlos F. Navarro y Christine Gierke.
+<strong>Autores:</strong> Francisco del Pino, Aracelly Vergara, Ignacio Salinas, Walthers Díaz-Gierke, Carlos F. Navarro y Christine Gierke.
 
-**Resumen:** Investiga los mecanismos sensoriales y conductuales involucrados en la adaptación al aislamiento social durante el desarrollo.
+<strong>Resumen:</strong> Investiga los mecanismos sensoriales y conductuales involucrados en la adaptación al aislamiento social durante el desarrollo.
 
 </details>
 
 <details>
 <summary><strong>Early Social Experience and Resilience to Social Isolation: Behavioral and Neurochemical Evidence in <em>Drosophila melanogaster</em></strong></summary>
 
-**Autores:** Millaray Pizarro, Christine Gierke, Rocío Díaz, Javiera Palma, Vicente Iturriaga, Alfonso Valderrama, Martina Morales, Walthers Díaz-Gierke, Fernanda Cabrera, Carlos F. Navarro y Francisco del Pino.
+<strong>Autores:</strong> Millaray Pizarro, Christine Gierke, Rocío Díaz, Javiera Palma, Vicente Iturriaga, Alfonso Valderrama, Martina Morales, Walthers Díaz-Gierke, Fernanda Cabrera, Carlos F. Navarro y Francisco del Pino.
 
-**Resumen:** Evalúa cómo las experiencias sociales tempranas favorecen la resiliencia frente al aislamiento mediante cambios conductuales y neuroquímicos.
+<strong>Resumen:</strong> Evalúa cómo las experiencias sociales tempranas favorecen la resiliencia frente al aislamiento mediante cambios conductuales y neuroquímicos.
 
 </details>
 
 <details>
 <summary><strong>Spatial Neophobia as a Model of Abrupt Environmental Transitions: Lifespan Effects of Social Isolation in <em>Drosophila melanogaster</em></strong></summary>
 
-**Autores:** Alfonso Valderrama, Christine Gierke, Rocío Díaz, Javiera Palma, Vicente Iturriaga, Millaray Pizarro, Matías Ponce, Nicolás Leiva, Martina Morales, Fernanda Cabrera, Carlos F. Navarro, Walthers Díaz-Gierke y Francisco del Pino.
+<strong>Autores:</strong> Alfonso Valderrama, Christine Gierke, Rocío Díaz, Javiera Palma, Vicente Iturriaga, Millaray Pizarro, Matías Ponce, Nicolás Leiva, Martina Morales, Fernanda Cabrera, Carlos F. Navarro, Walthers Díaz-Gierke y Francisco del Pino.
 
-**Resumen:** Utiliza la neofobia espacial como modelo para estudiar la respuesta a cambios ambientales abruptos bajo condiciones de aislamiento social.
+<strong>Resumen:</strong> Utiliza la neofobia espacial como modelo para estudiar la respuesta a cambios ambientales abruptos bajo condiciones de aislamiento social.
 
 </details>
 
 <details>
 <summary><strong>A Sex-Sensitive Study Proposal to Identify Early Social Isolation Profiles in Young Adulthood for Lifespan Dementia Prevention</strong></summary>
 
-**Autores:** Christine Gierke, Martina Morales, Sebastián Anuch, Sebastián Paredes, Walthers Díaz-Gierke, Tamara M. Palisson, Carlos F. Navarro y Francisco del Pino.
+<strong>Autores:</strong> Christine Gierke, Martina Morales, Sebastián Anuch, Sebastián Paredes, Walthers Díaz-Gierke, Tamara M. Palisson, Carlos F. Navarro y Francisco del Pino.
 
-**Resumen:** Propone un estudio con enfoque sensible al sexo para identificar perfiles tempranos de aislamiento social durante la adultez joven y su potencial utilidad en estrategias de prevención de demencia.
+<strong>Resumen:</strong> Propone un estudio con enfoque sensible al sexo para identificar perfiles tempranos de aislamiento social durante la adultez joven y su potencial utilidad en estrategias de prevención de demencia.
 
 </details>
 
 <details>
 <summary><strong>Social Isolation as a Modifiable Risk Factor for Physiological Decline in Midlife Women: Implications for Cognitive Health Prevention</strong></summary>
 
-**Autores:** Christine Gierke, Montserrat Fernández, Paula Muñoz, Monserrat Martínez, Martina Morales y Nicolás Ferrer.
+<strong>Autores:</strong> Christine Gierke, Montserrat Fernández, Paula Muñoz, Monserrat Martínez, Martina Morales y Nicolás Ferrer.
 
-**Resumen:** Analiza el aislamiento social como un factor de riesgo modificable asociado al deterioro fisiológico en mujeres de mediana edad y sus implicancias para la prevención del deterioro cognitivo.
+<strong>Resumen:</strong> Analiza el aislamiento social como un factor de riesgo modificable asociado al deterioro fisiológico en mujeres de mediana edad y sus implicancias para la prevención del deterioro cognitivo.
 
 </details>
 
@@ -103,59 +103,59 @@ El Social Interaction Research Center (SIRC) enviará ocho trabajos enfocados en
 
 # Tech4Medics
 
-Los seis trabajos enviados por **Tech4Medics** muestran el desarrollo de herramientas de inteligencia artificial orientadas al análisis de imágenes médicas y señales biomédicas. Estas investigaciones buscan apoyar el diagnóstico clínico, mejorar la estandarización de procedimientos y facilitar el desarrollo de nuevas tecnologías aplicadas a la medicina de precisión.
+Los seis trabajos enviados por Tech4Medics muestran el desarrollo de herramientas de inteligencia artificial orientadas al análisis de imágenes médicas y señales biomédicas. Estas investigaciones buscan apoyar el diagnóstico clínico, mejorar la estandarización de procedimientos y facilitar el desarrollo de nuevas tecnologías aplicadas a la medicina de precisión.
 
 <details>
 <summary><strong>Predicción de la Severidad de la Estenosis Aórtica a partir de Electrocardiogramas Basales mediante Inteligencia Artificial</strong></summary>
 
-**Autores:** Aníbal Molina, Cristián Ávila, Alfredo Parra y Víctor Castañeda.
+<strong>Autores:</strong> Aníbal Molina, Cristián Ávila, Alfredo Parra y Víctor Castañeda.
 
-**Resumen:** Desarrollo de modelos de inteligencia artificial para estimar la severidad de la estenosis aórtica utilizando electrocardiogramas basales.
+<strong>Resumen:</strong> Desarrollo de modelos de inteligencia artificial para estimar la severidad de la estenosis aórtica utilizando electrocardiogramas basales.
 
 </details>
 
 <details>
 <summary><strong>IA en Imagenología Mamaria: Validación de Algoritmos de Deep Learning para el Cálculo de Densidad en Mamografía y Tomosíntesis</strong></summary>
 
-**Autores:** Daniela Acevedo Fuentes, Cristóbal Gutiérrez Malhue, Denisse Karl Sáez, Carlos F. Navarro y Víctor Castañeda.
+<strong>Autores:</strong> Daniela Acevedo Fuentes, Cristóbal Gutiérrez Malhue, Denisse Karl Sáez, Carlos F. Navarro y Víctor Castañeda.
 
-**Resumen:** Validación de modelos de aprendizaje profundo para la estimación automática de densidad mamaria.
+<strong>Resumen:</strong> Validación de modelos de aprendizaje profundo para la estimación automática de densidad mamaria.
 
 </details>
 
 <details>
 <summary><strong>Caracterización Ecográfica del Tejido Renal en una Población Rural de Chile mediante Inteligencia Artificial</strong></summary>
 
-**Autores:** Francisco Romero Muñoz, Catalina Tobar Muñoz, Denisse Karl Sáez, Carlos F. Navarro, Camilo Sotomayor y Víctor Castañeda.
+<strong>Autores:</strong> Francisco Romero Muñoz, Catalina Tobar Muñoz, Denisse Karl Sáez, Carlos F. Navarro, Camilo Sotomayor y Víctor Castañeda.
 
-**Resumen:** Aplicación de inteligencia artificial para la caracterización cuantitativa de tejido renal mediante ecografía.
+<strong>Resumen:</strong> Aplicación de inteligencia artificial para la caracterización cuantitativa de tejido renal mediante ecografía.
 
 </details>
 
 <details>
 <summary><strong>Segmentación y Clasificación de Espermatozoides mediante Método Híbrido e Inteligencia Artificial</strong></summary>
 
-**Autores:** Camila Maire, Víctor Castañeda, Denisse Karl Sáez y Carlos F. Navarro.
+<strong>Autores:</strong> Camila Maire, Víctor Castañeda, Denisse Karl Sáez y Carlos F. Navarro.
 
-**Resumen:** Desarrollo de métodos híbridos para la segmentación y clasificación automática de espermatozoides.
+<strong>Resumen:</strong> Desarrollo de métodos híbridos para la segmentación y clasificación automática de espermatozoides.
 
 </details>
 
 <details>
 <summary><strong>Variabilidad Interobservador en la Segmentación Anatómica Mamográfica para el Entrenamiento de Algoritmos de Inteligencia Artificial</strong></summary>
 
-**Autores:** Benjamín Fuentes Gajardo, Carla Jorquera Díaz, Carolina Bavestrello Ruiz, Carlos F. Navarro, Denisse Karl Sáez y Víctor Castañeda.
+<strong>Autores:</strong> Benjamín Fuentes Gajardo, Carla Jorquera Díaz, Carolina Bavestrello Ruiz, Carlos F. Navarro, Denisse Karl Sáez y Víctor Castañeda.
 
-**Resumen:** Estudio de la variabilidad en la segmentación anatómica mamográfica y su impacto sobre el entrenamiento de algoritmos de inteligencia artificial.
+<strong>Resumen:</strong> Estudio de la variabilidad en la segmentación anatómica mamográfica y su impacto sobre el entrenamiento de algoritmos de inteligencia artificial.
 
 </details>
 
 <details>
 <summary><strong>Desarrollo de Algoritmos de Inteligencia Artificial para la Evaluación de Criterios de Posicionamiento en Mamografías Digitales</strong></summary>
 
-**Autores:** Carolina Bavestrello Ruiz, Denisse Karl Sáez, Carlos F. Navarro y Víctor Castañeda.
+<strong>Autores:</strong> Carolina Bavestrello Ruiz, Denisse Karl Sáez, Carlos F. Navarro y Víctor Castañeda.
 
-**Resumen:** Desarrollo de algoritmos para la evaluación automática de criterios de posicionamiento en mamografías digitales.
+<strong>Resumen:</strong> Desarrollo de algoritmos para la evaluación automática de criterios de posicionamiento en mamografías digitales.
 
 </details>
 
@@ -163,23 +163,23 @@ Los seis trabajos enviados por **Tech4Medics** muestran el desarrollo de herrami
 
 # AudioBrain
 
-Los trabajos de **AudioBrain** continúan el desarrollo de biomarcadores digitales para la detección temprana del deterioro cognitivo, integrando información auditiva, neuroimagenológica y herramientas digitales con potencial aplicación clínica.
+Los trabajos de AudioBrain continúan el desarrollo de biomarcadores digitales para la detección temprana del deterioro cognitivo, integrando información auditiva, neuroimagenológica y herramientas digitales con potencial aplicación clínica.
 
 <details>
 <summary><strong>AudioBrain: evaluación de usabilidad como base para el desarrollo e implementación de una herramienta digital de detección temprana de riesgo neurodegenerativo</strong></summary>
 
-**Autores:** Gonzalo A. Farías, Maira Moreno, Sarita Belmudes, Cristina De Gatica, Víctor Vidal, Vicente Medel, Paul H. Delano, Simón San Martín, Melissa Martínez, Christine Gierke, Ximena García, Mauricio Cerda, Diego Montenegro, Rodrigo Vergara, Carolina Delgado y Carlos F. Navarro.
+<strong>Autores:</strong> Gonzalo A. Farías, Maira Moreno, Sarita Belmudes, Cristina De Gatica, Víctor Vidal, Vicente Medel, Paul H. Delano, Simón San Martín, Melissa Martínez, Christine Gierke, Ximena García, Mauricio Cerda, Diego Montenegro, Rodrigo Vergara, Carolina Delgado y Carlos F. Navarro.
 
-**Resumen:** Presenta la evaluación de usabilidad de la plataforma AudioBrain como etapa inicial para su implementación como herramienta digital de detección temprana de riesgo neurodegenerativo.
+<strong>Resumen:</strong> Presenta la evaluación de usabilidad de la plataforma AudioBrain como etapa inicial para su implementación como herramienta digital de detección temprana de riesgo neurodegenerativo.
 
 </details>
 
 <details>
 <summary><strong>Función Auditiva Periférica y Atrofia Cerebral por Resonancia Magnética como Predictores Complementarios del Declive Cognitivo Longitudinal en Adultos Mayores</strong></summary>
 
-**Autores:** Gonzalo A. Farías, Maira Moreno, Sarita Belmudes, Cristina De Gatica, Víctor Vidal, Vicente Medel, Paul H. Delano, Simón San Martín, Melissa Martínez, Christine Gierke, Ximena García, Mauricio Cerda, Diego Montenegro, Rodrigo Vergara, Carolina Delgado y Carlos F. Navarro.
+<strong>Autores:</strong> Gonzalo A. Farías, Maira Moreno, Sarita Belmudes, Cristina De Gatica, Víctor Vidal, Vicente Medel, Paul H. Delano, Simón San Martín, Melissa Martínez, Christine Gierke, Ximena García, Mauricio Cerda, Diego Montenegro, Rodrigo Vergara, Carolina Delgado y Carlos F. Navarro.
 
-**Resumen:** Evalúa el valor complementario de biomarcadores auditivos y de resonancia magnética para predecir el deterioro cognitivo longitudinal en adultos mayores.
+<strong>Resumen:</strong> Evalúa el valor complementario de biomarcadores auditivos y de resonancia magnética para predecir el deterioro cognitivo longitudinal en adultos mayores.
 
 </details>
 
@@ -187,4 +187,4 @@ Los trabajos de **AudioBrain** continúan el desarrollo de biomarcadores digital
 
 El envío de estos dieciséis trabajos constituye un importante hito para nuestros grupos de investigación y refleja el esfuerzo conjunto de estudiantes, profesionales, investigadores y colaboradores de distintas disciplinas. Cada uno de estos proyectos representa meses de trabajo experimental, análisis de datos, desarrollo metodológico y colaboración científica, consolidando líneas de investigación en neurociencias, inteligencia artificial aplicada a la medicina y salud digital.
 
-Esperamos que la **VI Jornada CICA 2026** sea una valiosa instancia para compartir estos avances, fortalecer nuevas colaboraciones y visibilizar el trabajo que desarrollan nuestros equipos. Una vez realizada la jornada, esta entrada será actualizada con fotografías del evento y un breve resumen de las presentaciones.
+Esperamos que la <strong>VI Jornada CICA 2026</strong> sea una valiosa instancia para compartir estos avances, fortalecer nuevas colaboraciones y visibilizar el trabajo que desarrollan nuestros equipos. Una vez realizada la jornada, esta entrada será actualizada con fotografías del evento y un breve resumen de las presentaciones.

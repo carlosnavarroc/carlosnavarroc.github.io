@@ -46,7 +46,7 @@ El <strong>Grupo 1</strong> presentó una <strong>Plataforma Big Data para anal�
 <br>
 
 <div style="text-align: justify;">
-El <strong>Grupo 2</strong> presentó una <strong>Plataforma Analítica de Rentabilidad para Aerolíneas</strong>, basada en una <strong>arquitectura Lakehouse sobre Google Cloud Platform</strong> utilizando el enfoque <strong>Medallion</strong>. El proyecto incorporó componentes orientados a la <strong>predicción de riesgo operacional</strong> y justificó la elección de un procesamiento <strong>batch</strong> frente a una arquitectura <strong>streaming</strong>, considerando los requerimientos del caso de negocio. Además, el equipo situó el desarrollo en un nivel de madurez tecnológica <strong>TRL 6</strong>, lo que permitió discutir el grado de preparación de la solución para entornos cercanos a producción. El equipo estuvo conformado por <strong>Camila Figueroa Muñoz</strong>, <strong>Diego Morales Valenzuela</strong> y <strong>María Vásquez Tapia</strong>.
+El <strong>Grupo 2</strong> presentó una <strong>Plataforma Analítica de Rentabilidad para Aerolíneas</strong>, basada en una <strong>arquitectura Lakehouse sobre Google Cloud Platform</strong> utilizando el enfoque <strong>Medallion</strong>. El proyecto incorporó componentes orientados a la <strong>predicción de riesgo operacional</strong> y justificó la elección de un procesamiento <strong>batch</strong> frente a una arquitectura <strong>streaming</strong>, considerando los requerimientos del caso de negocio. El equipo estuvo conformado por <strong>Camila Figueroa Muñoz</strong>, <strong>Diego Morales Valenzuela</strong> y <strong>María Vásquez Tapia</strong>.
 </div>
 
 <br>

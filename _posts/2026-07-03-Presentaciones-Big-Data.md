@@ -26,6 +26,9 @@ Fue especialmente grato reencontrarme con este mismo grupo de estudiantes, quien
 </div>
 
 <br>
+<img width="1453" height="847" alt="image" src="https://github.com/user-attachments/assets/16676c2b-76b7-4e9a-a021-be6581e3265b" />
+<br>
+
 
 <div style="text-align: justify;">
 En esta ocasión, el énfasis fue diferente. Más que en el desarrollo de modelos analíticos, las presentaciones estuvieron centradas en el diseño de <strong>plataformas modernas de datos</strong>, considerando aspectos de <strong>ingesta</strong>, <strong>procesamiento distribuido</strong>, <strong>arquitecturas Lakehouse</strong>, <strong>gobernanza</strong>, <strong>seguridad</strong> y <strong>despliegue en la nube</strong>.

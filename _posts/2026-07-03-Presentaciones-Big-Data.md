@@ -39,13 +39,9 @@ Uno de los aspectos más interesantes de la jornada fue observar cómo los equip
 
 <br>
 <p align="center">
-
-<img width="1453" height="847" alt="image" src="https://github.com/user-attachments/assets/b234023d-5ed2-44ae-9fe8-277737c74ac5" />
-
-
+<img width="1453" height="847" alt="image" src="https://github.com/user-attachments/assets/8c50a6e2-49e8-4e0e-9cda-22385f51dd78" />
 </p>
-<p align="center">
-  <em>Figura 1: Grupo de los estudiantes y el profesor..</em>
+<p align="center">  <em>Figura 1: Grupo de los estudiantes y el profesor.</em>
 </p>
 <br>
 <div style="text-align: justify;">

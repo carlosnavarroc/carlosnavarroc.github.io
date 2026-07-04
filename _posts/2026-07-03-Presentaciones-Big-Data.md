@@ -37,9 +37,8 @@ En esta ocasión, el énfasis fue diferente. Más que en el desarrollo de modelo
 Uno de los aspectos más interesantes de la jornada fue observar cómo los equipos justificaban sus decisiones arquitectónicas para resolver problemas de negocio reales. Más allá de la implementación técnica, la discusión se centró en la escalabilidad de las soluciones, la mantenibilidad de los pipelines, la calidad de los datos y los mecanismos de gobernanza necesarios para operar plataformas analíticas en ambientes productivos.
 </div>
 
-<br>
-<img src="https://github.com/user-attachments/assets/8c50a6e2-49e8-4e0e-9cda-22385f51dd78" alt="Figura 1: Grupo de estudiantes y profesor" style="max-width:100%; height:auto;">
-<br>
+
+
 <div style="text-align: justify;">
 El <strong>Grupo 1</strong> presentó una <strong>Plataforma Big Data para analítica omnicanal en retail</strong>, cuyo objetivo fue integrar información proveniente de <strong>cuatro silos de datos</strong> para habilitar procesos analíticos con tiempos de respuesta de segundos. La propuesta se basó en una arquitectura <strong>Medallion sobre Google Cloud Platform</strong>, utilizando <strong>Delta Lake sobre Apache Parquet</strong> y <strong>Cloud Composer</strong> para la orquestación de procesos. Durante la evaluación discutimos decisiones arquitectónicas como la frecuencia de ejecución de los procesos batch, el impacto de una falla en el pipeline nocturno y los mecanismos de recuperación ante errores, además de aspectos relacionados con la gobernanza activa de los datos. El equipo estuvo integrado por <strong>Claudio Ballerini</strong>, <strong>Juan José Torres</strong>, <strong>Cristian Vargas</strong> y <strong>Christian Vásquez</strong>.
 </div>

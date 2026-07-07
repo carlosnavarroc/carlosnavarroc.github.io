@@ -34,9 +34,8 @@ El segundo grupo trabajó en un problema proveniente de la biología experimenta
 </div>
 
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9a4a135-d5da-4847-b134-c0eae689fc9f" alt="Collage de los estudiantes">
+  <img src="https://github.com/user-attachments/assets/9c15cda0-1a48-4a0d-b706-f4ee6536058c" alt="Collage de los estudiantes">
 </p>
 <p align="center">
   <em>Figura 2: Collage de los estudiantes que mostraron su proyecto el dìa de hoy.</em>

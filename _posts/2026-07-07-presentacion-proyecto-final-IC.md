@@ -28,7 +28,7 @@ En esta oportunidad, siete de los nueve grupos desarrollaron este proyecto, mien
 <div style="text-align: justify;">
 El primero de estos proyectos distintos consistió en construir un sistema capaz de estimar, en tiempo real, la probabilidad de victoria de cada equipo durante una partida profesional de <em>Tom Clancy's Rainbow Six Siege</em>. Para ello implementaron diversas técnicas de reconocimiento de imágenes y OCR que permitieron identificar automáticamente información relevante de la transmisión oficial, como el número de jugadores vivos, el tiempo restante de la ronda, el mapa en disputa y el estado del <em>defuser</em>. A partir de esta información desarrollaron un modelo predictivo entrenado con partidas anteriores, capaz de entregar una estimación dinámica de las probabilidades de victoria a medida que transcurre cada ronda.
 </div>
-
+<br>
 <div style="text-align: justify;">
 El segundo grupo trabajó en un problema proveniente de la biología experimental desarrollado en colaboración con investigadores de otra universidad. El objetivo fue automatizar el seguimiento del crecimiento radicular de plántulas de <em>Arabidopsis thaliana</em>, reemplazando un procedimiento manual que obligaba a realizar mediciones diarias en laboratorio. Los estudiantes diseñaron un sistema autónomo de adquisición de imágenes mediante un sensor óptico programado en Python y desarrollaron algoritmos de visión artificial para segmentar las raíces y medir automáticamente su longitud. Esta solución permitió generar curvas temporales de crecimiento de forma completamente automatizada, reduciendo significativamente el tiempo requerido para la obtención de datos y aumentando la precisión de las mediciones.
 </div>

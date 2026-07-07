@@ -15,7 +15,7 @@ Quedé muy satisfecho con las presentaciones finales del curso <em>Laboratorio d
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/243a4499-eaad-4843-be4d-47deef54a0f7" alt="Resumen de la base de datos utilizada">
+  <img src="https://github.com/user-attachments/assets/69d35181-53c0-414a-86c3-5cb3cff1bb5f" alt="Resumen de la base de datos utilizada">
 </p>
 <p align="center">
   <em>Figura 1: Resumen de la base de datos utilizada para el proyecto principal del curso.</em>
@@ -36,7 +36,7 @@ El segundo grupo trabajó en un problema proveniente de la biología experimenta
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c15cda0-1a48-4a0d-b706-f4ee6536058c" alt="Collage de los estudiantes">
+  <img src="https://github.com/user-attachments/assets/1d9c8d5b-bd3d-419e-a19a-432f3ee3584f" alt="Collage de los estudiantes">
 </p>
 <p align="center">
   <em>Figura 2: Collage de los estudiantes que mostraron su proyecto el dìa de hoy.</em>

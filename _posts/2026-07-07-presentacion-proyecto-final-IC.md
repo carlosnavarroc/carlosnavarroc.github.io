@@ -34,7 +34,7 @@ El segundo grupo trabajó en un problema proveniente de la biología experimenta
 </div>
 
 <p align="center">
-  <img src="/files/proyectos_2026_arabidopsis.png" alt="Proyecto Arabidopsis">
+  <img src="" alt="Collage de los estudiantes">
 </p>
 <p align="center">
   <em>Figura 2: Collage de los estudiantes que mostraron su proyecto el dìa de hoy.</em>

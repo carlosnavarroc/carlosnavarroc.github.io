@@ -26,37 +26,23 @@ En esta oportunidad, siete de los nueve grupos desarrollaron este proyecto, mien
 </div>
 
 <div style="text-align: justify;">
-El primero de estos proyectos consistió en construir un sistema capaz de estimar, en tiempo real, la probabilidad de victoria de cada equipo durante una partida profesional de <em>Tom Clancy's Rainbow Six Siege</em>. Para ello implementaron diversas técnicas de reconocimiento de imágenes y OCR que permitieron identificar automáticamente información relevante de la transmisión oficial, como el número de jugadores vivos, el tiempo restante de la ronda, el mapa en disputa y el estado del <em>defuser</em>. A partir de esta información desarrollaron un modelo predictivo entrenado con partidas anteriores, capaz de entregar una estimación dinámica de las probabilidades de victoria a medida que transcurre cada ronda.
+El primero de estos proyectos distintos consistió en construir un sistema capaz de estimar, en tiempo real, la probabilidad de victoria de cada equipo durante una partida profesional de <em>Tom Clancy's Rainbow Six Siege</em>. Para ello implementaron diversas técnicas de reconocimiento de imágenes y OCR que permitieron identificar automáticamente información relevante de la transmisión oficial, como el número de jugadores vivos, el tiempo restante de la ronda, el mapa en disputa y el estado del <em>defuser</em>. A partir de esta información desarrollaron un modelo predictivo entrenado con partidas anteriores, capaz de entregar una estimación dinámica de las probabilidades de victoria a medida que transcurre cada ronda.
 </div>
 
-<p align="center">
-  <img src="/files/proyectos_2026_r6.png" alt="Proyecto Rainbow Six Siege">
-</p>
-<p align="center">
-  <em>Figura 2: Sistema desarrollado para estimar en tiempo real la probabilidad de victoria durante una partida de <em>Rainbow Six Siege</em>.</em>
-</p>
-
 <div style="text-align: justify;">
-El segundo grupo trabajó en un problema proveniente de la biología experimental desarrollado en colaboración con investigadores de la Pontificia Universidad Católica de Chile. El objetivo fue automatizar el seguimiento del crecimiento radicular de plántulas de <em>Arabidopsis thaliana</em>, reemplazando un procedimiento manual que obligaba a realizar mediciones diarias en laboratorio. Los estudiantes diseñaron un sistema autónomo de adquisición de imágenes mediante un sensor óptico programado en Python y desarrollaron algoritmos de visión artificial para segmentar las raíces y medir automáticamente su longitud. Esta solución permitió generar curvas temporales de crecimiento de forma completamente automatizada, reduciendo significativamente el tiempo requerido para la obtención de datos y aumentando la precisión de las mediciones.
+El segundo grupo trabajó en un problema proveniente de la biología experimental desarrollado en colaboración con investigadores de otra universidad. El objetivo fue automatizar el seguimiento del crecimiento radicular de plántulas de <em>Arabidopsis thaliana</em>, reemplazando un procedimiento manual que obligaba a realizar mediciones diarias en laboratorio. Los estudiantes diseñaron un sistema autónomo de adquisición de imágenes mediante un sensor óptico programado en Python y desarrollaron algoritmos de visión artificial para segmentar las raíces y medir automáticamente su longitud. Esta solución permitió generar curvas temporales de crecimiento de forma completamente automatizada, reduciendo significativamente el tiempo requerido para la obtención de datos y aumentando la precisión de las mediciones.
 </div>
 
 <p align="center">
   <img src="/files/proyectos_2026_arabidopsis.png" alt="Proyecto Arabidopsis">
 </p>
 <p align="center">
-  <em>Figura 3: Sistema automatizado para el monitoreo y cuantificación del crecimiento radicular de <em>Arabidopsis thaliana</em>.</em>
+  <em>Figura 2: Collage de los estudiantes que mostraron su proyecto el dìa de hoy.</em>
 </p>
 
 <div style="text-align: justify;">
 Las presentaciones comenzaron puntualmente y cada grupo expuso tanto las motivaciones del problema como las decisiones de diseño, implementación y evaluación de sus soluciones. Al finalizar, entregué retroalimentación personalizada enfocada en fortalecer la claridad de las presentaciones, la comunicación técnica y la discusión crítica de los resultados obtenidos. Espero que estas observaciones les sean útiles en futuras presentaciones y, especialmente, durante la defensa de sus memorias de título.
 </div>
-
-<p align="center">
-  <img src="/files/proyectos_2026_grupo.jpg" alt="Estudiantes durante las presentaciones finales">
-</p>
-<p align="center">
-  <em>Figura 4: Los protagonistas de las presentaciones finales del curso.</em>
-</p>
 
 <br>
 

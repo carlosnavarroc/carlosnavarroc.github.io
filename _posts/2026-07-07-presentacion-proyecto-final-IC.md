@@ -33,6 +33,7 @@ El primero de estos proyectos distintos consistió en construir un sistema capaz
 El segundo grupo trabajó en un problema proveniente de la biología experimental desarrollado en colaboración con investigadores de otra universidad. El objetivo fue automatizar el seguimiento del crecimiento radicular de plántulas de <em>Arabidopsis thaliana</em>, reemplazando un procedimiento manual que obligaba a realizar mediciones diarias en laboratorio. Los estudiantes diseñaron un sistema autónomo de adquisición de imágenes mediante un sensor óptico programado en Python y desarrollaron algoritmos de visión artificial para segmentar las raíces y medir automáticamente su longitud. Esta solución permitió generar curvas temporales de crecimiento de forma completamente automatizada, reduciendo significativamente el tiempo requerido para la obtención de datos y aumentando la precisión de las mediciones.
 </div>
 
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c15cda0-1a48-4a0d-b706-f4ee6536058c" alt="Collage de los estudiantes">

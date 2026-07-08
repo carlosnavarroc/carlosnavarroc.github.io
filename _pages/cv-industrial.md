@@ -1,4 +1,4 @@
- ---
+---
 layout: resume
 permalink: /cv-industrial/
 author_profile: false

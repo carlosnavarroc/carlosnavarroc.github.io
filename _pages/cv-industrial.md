@@ -1,6 +1,6 @@
 ---
 layout: resume
-permalink: /cv2/
+permalink: /cv-industrial/
 author_profile: false
 ---
 

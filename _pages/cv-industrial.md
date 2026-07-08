@@ -82,6 +82,7 @@ Electrical Engineer — University of Chile (2010)
 Python · R · MATLAB  
 PyTorch · TensorFlow · Scikit-learn · OpenCV  
 Machine Learning · Computer Vision · Industrial AI · Signal Processing
+
 ---
 
 ## Teaching

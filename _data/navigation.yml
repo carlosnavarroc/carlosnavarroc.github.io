@@ -21,6 +21,12 @@ footer:
   - title: "CV"
     url: /cv/
     
+  - title: "CV Industrial"
+    url: /cv-industrial/
+    
+  - title: "CV Academic"
+    url: /cv-academic/
+    
   - title: "Summary"
     url: /summary/
 

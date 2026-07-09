@@ -19,8 +19,6 @@ Las contribuciones abarcan distintas áreas de investigación, incluyendo neuroc
 > | AudioBrain | 2 |
 > | <strong>Total</strong> | <strong>17</strong> |
 
-> Nota: Esta entrada documenta el envío de los trabajos. Una vez realizada la jornada, será actualizada con fotografías del evento y un resumen de las presentaciones.
-
 ---
 
 # SIRC – Social Interaction Research Center

@@ -3,7 +3,7 @@ title: "Envío de 17 pósteres científicos para la VI Jornada CICA 2026"
 date: 2026-07-03
 permalink: /blog/cica2026-envio-posters/
 tags: ["CICA", "Universidad de Chile", "SIRC", "Tech4Medics", "AudioBrain", "neurociencia", "inteligencia artificial"]
-excerpt: "Los equipos de investigación SIRC, Tech4Medics y AudioBrain enviaron 16 trabajos científicos para la VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile, reflejando diversas líneas de investigación en neurociencias, inteligencia artificial y salud digital."
+excerpt: "Los equipos de investigación SIRC, Tech4Medics y AudioBrain enviaron 17 trabajos científicos para la VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile, reflejando diversas líneas de investigación en neurociencias, inteligencia artificial y salud digital."
 ---
 
 Durante esta semana se completó el envío de los trabajos que representarán a nuestros equipos de investigación en la <strong>VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile</strong>, la cual se realizará el próximo <strong>9 de julio de 2026</strong>. En total, se enviaron 17 pósteres científicos desarrollados por un equipo multidisciplinario integrado por estudiantes de pregrado y postgrado, profesionales, investigadores y colaboradores pertenecientes a los centros <strong>SIRC (Social Interaction Research Center), Tech4Medics y AudioBrain</strong>.

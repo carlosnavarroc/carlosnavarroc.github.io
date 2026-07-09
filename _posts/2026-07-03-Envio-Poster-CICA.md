@@ -100,7 +100,7 @@ El Social Interaction Research Center (SIRC) enviará nueve trabajos enfocados e
 <details>
 <summary><strong>A Sex-Sensitive Study Proposal to Identify Early Social Isolation Profiles in Young Adulthood for Lifespan Dementia Prevention</strong></summary>
 
-<strong>Autores:</strong> Christine Gierke, Martina Morales, Sebastián Anuch, Sebastián Paredes, Walthers Díaz-Gierke, Tamara M. Palisson, Carlos F. Navarro y Francisco del Pino.
+<strong>Autores:</strong> Christine Gierke, Rocío Díaz, Martina Morales, Sebastián Anuch, Sebastián Paredes, Walthers Díaz-Gierke, Tamara M. Palisson, Carlos F. Navarro y Francisco del Pino.
 
 <strong>Resumen:</strong> Propone un estudio con enfoque sensible al sexo para identificar perfiles tempranos de aislamiento social durante la adultez joven y su potencial utilidad en estrategias de prevención de demencia.
 

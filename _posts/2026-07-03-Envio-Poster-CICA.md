@@ -25,6 +25,15 @@ Las contribuciones abarcan distintas áreas de investigación, incluyendo neuroc
 
 # SIRC – Social Interaction Research Center
 
+<p align="center">
+<img width="1000" height="1000" alt="20260709_115908" src="https://github.com/user-attachments/assets/6e2b64cc-5cf0-451d-9f2c-a8955b5692d0" />
+</p>
+
+<p align="center">
+  <em>Figura 1: Integrantes del SIRC y sus posters.</em>
+</p>
+
+
 El Social Interaction Research Center (SIRC) enviará nueve trabajos enfocados en comprender cómo el aislamiento social influye sobre la conducta, el envejecimiento y el riesgo de enfermedades neurodegenerativas. Utilizando <em>Drosophila melanogaster</em> como modelo experimental y estudios con enfoque traslacional, las investigaciones exploran la experiencia social a lo largo del ciclo vital, la regulación circadiana, la resiliencia al estrés social y nuevos enfoques para la prevención del deterioro cognitivo.
 
 <details>
@@ -112,6 +121,15 @@ El Social Interaction Research Center (SIRC) enviará nueve trabajos enfocados e
 
 # Tech4Medics
 
+<p align="center">
+<img width="1000" height="1000" alt="20260709_115908" src="https://github.com/user-attachments/assets/690c398f-1f1c-4486-a760-a7828ff9f708" />
+</p>
+
+<p align="center">
+  <em>Figura 2: Integrantes de Tech4medics y sus posters.</em>
+</p>
+
+
 Los seis trabajos enviados por Tech4Medics muestran el desarrollo de herramientas de inteligencia artificial orientadas al análisis de imágenes médicas y señales biomédicas. Estas investigaciones buscan apoyar el diagnóstico clínico, mejorar la estandarización de procedimientos y facilitar el desarrollo de nuevas tecnologías aplicadas a la medicina de precisión.
 
 <details>
@@ -171,6 +189,14 @@ Los seis trabajos enviados por Tech4Medics muestran el desarrollo de herramienta
 ---
 
 # AudioBrain
+
+<p align="center">
+<img width="1000" height="1000" alt="20260709_115908" src="https://github.com/user-attachments/assets/720d3173-b31c-4c2f-ba6e-270b7778f137" />
+</p>
+
+<p align="center">
+  <em>Figura 3: Algunos integrantes de AudioBrain y sus posters.</em>
+</p>
 
 Los trabajos de AudioBrain continúan el desarrollo de biomarcadores digitales para la detección temprana del deterioro cognitivo, integrando información auditiva, neuroimagenológica y herramientas digitales con potencial aplicación clínica.
 

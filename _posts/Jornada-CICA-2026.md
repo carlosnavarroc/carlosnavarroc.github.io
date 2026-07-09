@@ -1,0 +1,51 @@
+---
+title: "VI Jornada CICA 2026: Investigación clínica y traslacional reunió a la comunidad científica de la Facultad de Medicina"
+date: 2026-07-09
+permalink: /blog/vi-jornada-cica-2026/
+tags: ["CICA", "Universidad de Chile", "investigación clínica", "salud", "medicina", "jornada científica"]
+excerpt: "La VI Jornada CICA reunió a investigadores, clínicos y estudiantes de la Facultad de Medicina de la Universidad de Chile para presentar avances en enfermedades infecciosas, neurociencias, envejecimiento, genética, salud materno-infantil y medicina de precisión."
+---
+
+La **VI Jornada CICA de la Facultad de Medicina de la Universidad de Chile**, realizada el **9 de julio de 2026**, congregó a investigadores, profesionales de la salud, académicos y estudiantes en una instancia dedicada a difundir los avances científicos desarrollados por los distintos Centros de Investigación Clínica Avanzada (CICA). La actividad permitió compartir resultados recientes en áreas como enfermedades infecciosas, envejecimiento, neurociencias, endocrinología, genética, salud reproductiva y medicina traslacional, además de fortalecer el intercambio entre equipos de investigación.
+
+La jornada fue inaugurada por el **Dr. Miguel O'Ryan**, Decano de la Facultad de Medicina de la Universidad de Chile, junto a la **Dra. Alejandra Mizala**, Rectora de la Universidad de Chile, quienes destacaron el papel de la investigación clínica en el fortalecimiento del sistema de salud y en la formación de nuevas generaciones de investigadores.
+
+---
+
+# Avances en investigación clínica
+
+Durante la primera sesión se presentaron estudios orientados a responder problemáticas de alta relevancia para la salud pública y la práctica clínica.
+
+La **Dra. Mirta Acuña** (CICA Hospital Roberto del Río) presentó los resultados del impacto del uso programático de **Nirsevimab** sobre las hospitalizaciones por infección respiratoria baja y virus respiratorio sincicial (VRS) en lactantes atendidos en un hospital pediátrico de alta complejidad.
+
+Posteriormente, el **Dr. Felipe Salech** (CICA Hospital Clínico Universidad de Chile) expuso los resultados del ensayo piloto **NICE-FIT**, que evaluó la combinación de nicotinamida y entrenamiento físico como estrategia para promover la resiliencia funcional en adultos mayores con riesgo de caídas.
+
+El **Dr. Rodrigo Nieto** (CICA Clínica Psiquiátrica Universitaria) abordó el impacto diferencial de estrategias de rehabilitación cognitiva **Top-Down** y **Bottom-Up** sobre dominios neurocognitivos específicos, mientras que el **Dr. Franco Giraudo** (CICA Instituto de Investigación Materno Infantil) presentó un estudio sobre las variaciones de glucosa y requerimientos de insulina durante el ciclo menstrual en mujeres jóvenes con diabetes tipo 1 usuarias de sistemas automatizados de administración de insulina (AID).
+
+Las presentaciones finalizaron con una mesa redonda orientada a discutir la aplicabilidad clínica y los desafíos futuros de estas investigaciones.
+
+---
+
+# Pósteres científicos y colaboración interdisciplinaria
+
+Uno de los espacios centrales de la jornada fue el recorrido por los pósteres científicos, donde investigadores y estudiantes presentaron proyectos en diversas áreas biomédicas. Esta instancia favoreció el intercambio de ideas, la discusión metodológica y la generación de nuevas colaboraciones entre grupos de investigación pertenecientes a distintos centros y hospitales de la Facultad de Medicina.
+
+---
+
+# Investigación traslacional y medicina de precisión
+
+La segunda sesión estuvo dedicada a investigaciones en neurociencias, genética, infectología y salud reproductiva.
+
+El **Dr. José M. Matamala** (CICA Oriente) presentó evidencia sobre el agotamiento de la reserva neuroplástica cortical en la esclerosis lateral amiotrófica (ELA), proponiendo nuevas oportunidades terapéuticas derivadas de la comprensión de la disfunción neocortical.
+
+A continuación, el **Ing. Cristian Flores** (CICA Occidente) expuso la caracterización de parámetros seminales en hijos de mujeres con síndrome ovárico metabólico poliendocrino (SOMP), aportando nuevos antecedentes sobre los efectos reproductivos de esta condición.
+
+La **E.U. Paula Leal** (CICA Hospital Exequiel González Cortés) comparó la incidencia de infecciones del torrente sanguíneo asociadas a catéteres centrales (CLABSI) entre catéteres venosos centrales (CVC) y catéteres centrales de inserción periférica (PICC) en pacientes pediátricos.
+
+Finalmente, la **Dra. Macarena Gajardo** (CICA Hospital Luis Calvo Mackenna) presentó la validación y desarrollo de una estrategia de secuenciación del gen **PKD1** para mejorar el diagnóstico molecular de pacientes con poliquistosis renal autosómica dominante.
+
+La jornada concluyó con una segunda mesa redonda, donde los investigadores discutieron las proyecciones clínicas y el potencial impacto de estas líneas de investigación en el desarrollo de nuevas herramientas diagnósticas y terapéuticas.
+
+---
+
+La **VI Jornada CICA 2026** reafirmó el compromiso de la Facultad de Medicina de la Universidad de Chile con la investigación clínica de excelencia y la colaboración interdisciplinaria. Las investigaciones presentadas reflejan el trabajo desarrollado por los distintos centros CICA en áreas prioritarias para la salud, fortaleciendo la generación de conocimiento y su transferencia hacia la práctica clínica en beneficio de los pacientes.

@@ -191,7 +191,7 @@ Los seis trabajos enviados por Tech4Medics muestran el desarrollo de herramienta
 # AudioBrain
 
 <p align="center">
-<img width="1000" height="1000" alt="20260709_115908" src="https://github.com/user-attachments/assets/720d3173-b31c-4c2f-ba6e-270b7778f137" />
+<img width="1000" height="640" alt="20260709_115908" src="https://github.com/user-attachments/assets/720d3173-b31c-4c2f-ba6e-270b7778f137" />
 </p>
 
 <p align="center">

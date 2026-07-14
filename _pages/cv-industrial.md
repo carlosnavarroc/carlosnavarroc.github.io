@@ -23,6 +23,10 @@ author_profile: false
 
 Applied AI Engineer and Electrical Engineer with 15+ years of experience designing AI systems for industrial automation, mining, biomedical engineering, and scientific research, spanning computer vision, machine learning, sensing, deployment, and scientific software.
 
+Experienced in designing end-to-end AI systems spanning data acquisition, sensing, modeling, deployment, and validation,
+with a focus on solving real-world engineering problems.
+
+
 ## Professional Experience
 
 ### Applied AI Engineer / Data Scientist — Faculty of Medicine, University of Chile
@@ -55,15 +59,15 @@ Applied AI Engineer and Electrical Engineer with 15+ years of experience designi
 
 ## Selected Engineering Projects
 
-**Mining Vision Systems** — Computer vision for industrial inspection, lithology classification, and process monitoring.
+**Mining Vision Systems** — Developed computer vision solutions for conveyor belt monitoring, automated lithology classification, and industrial process inspection in mining operations.
 
-**Industrial Sensing** — Image acquisition, instrumentation, embedded systems, and IoT monitoring.
+**Industrial Sensing** — Designed sensing and monitoring systems for industrial environments, including Bluetooth-based instrumentation for slope stability monitoring in Canadian mining operations.
 
-**VolumePeeler** — Open-source software for quantitative analysis of 3D microscopy datasets.
+**VolumePeeler** — Developed open-source software for geometric tissue peeling, enabling quantitative analysis of complex multilayer 3D microscopy datasets in vertebrate, invertebrate, and plant models.
 
-**3D Biomedical Imaging** — Deep learning for nuclei segmentation and microscopy image analysis.
+**3D Biomedical Imaging** — Developed deep learning methods for nuclei segmentation and quantitative analysis of embryonic development, including epiboly and morphogenesis in annual killifish.
 
-**AI Biomarkers** — Machine learning models for early cognitive decline detection using physiological signals.
+**AI Biomarkers** — Developed machine learning models using EEG and cochlear physiological signals for early detection of cognitive decline and neurodegenerative disease biomarkers.
 
 ## Education
 

@@ -23,84 +23,133 @@ author_profile: false
 
 ## Summary
 
-Applied AI Engineer and Electrical Engineer with 15+ years of experience developing machine learning, computer vision, and AI systems across industrial automation, mining, healthcare, and research environments.
+Applied AI Engineer and Electrical Engineer with 15+ years of experience developing intelligent systems for industrial automation, mining, biomedical engineering, and scientific research.
 
-Experienced in designing end-to-end AI systems spanning data acquisition, sensing, modeling, deployment, and validation, with a focus on solving real-world engineering problems.
-
----
-## Selected Research & Engineering Contributions
-
-Peer-reviewed work in applied machine learning and computer vision systems:
-
-- Classical ML systems for industrial vision applications [**Color–Texture Pattern Classification Using Global–Local Feature Extraction with SVM Ensemble Methods**   Applied Sciences (2019)  ](https://doi.org/10.3390/app9122553)
-
-- Biomedical signal processing for early detection of neurodegenerative disease. [**Cochlear dysfunction as an early biomarker of cognitive decline in normal hearing and mild hearing loss**  Alzheimer's & Dementia (2024)  ](https://doi.org/10.1002/dad2.12467  )
-  
-- Deep learning systems for 3D microscopy and biomedical imaging [**VolumePeeler: a novel FIJI plugin for geometric tissue peeling to improve visualization and quantification of 3D image stacks**   BMC Bioinformatics (2023)  ](https://doi.org/10.1186/s12859-023-05403-z  )  
-
-- Vision Transformer models for biomedical image classification [**RaViTT: Random Vision Transformer Tokens for Biomedical Image Analysis**    arXiv (2023) ](https://arxiv.org/abs/2306.10959 ) 
-
-- Computer vision systems for biomedical segmentation [**3D Nuclei Segmentation through Deep Learning**    IEEE CAI (2023) ](https://doi.org/10.1109/CAI.2023.10195067  ) 
-
-
-Full list with links:  [https://carlosnavarroc.github.io/publications/](https://carlosnavarroc.github.io/publications/)
+Experienced across the complete AI lifecycle, from sensing and data acquisition to computer vision, machine learning, deep learning, deployment, and validation. Strong background translating research into practical engineering solutions.
 
 ---
 
-## Selected Research & Engineering Contributions
+## Core Competencies
 
-## Experience
+**Artificial Intelligence:** Machine Learning · Deep Learning · Computer Vision · Signal Processing
 
-### Data Scientist — University of Chile, Faculty of Medicine  
-2019 – Present
+**Engineering:** Industrial AI · Biomedical AI · Image Processing · AI System Design
 
-- Development of AI systems for biomedical engineering and applied research.
-- Machine learning using physiological signals, medical images, and multimodal datasets.
-- End-to-end deep learning pipelines, scientific software, and data analysis.
-
-<div class="page-break"></div>
-
-### Applied Research Engineer — University of Chile  
-2009 – 2018
-
-- Computer vision systems for mining and industrial automation.
-- Machine learning for pattern recognition, quality inspection, and process monitoring.
-- IoT and sensing systems for real-time industrial monitoring.
+**Development:** Python · PyTorch · TensorFlow · OpenCV · Scientific Software · End-to-End ML Pipelines
 
 ---
 
-## Education
+## Professional Experience
 
-PhD in Electrical Engineering — University of Chile (2020)  
-Diploma in Electrophysiology — University of Chile (2019)  
-Electrical Engineer — University of Chile (2010)
+### Data Scientist — Faculty of Medicine, University of Chile
+**2019 – 2026**
+
+Development of AI systems supporting biomedical engineering and translational research.
+
+- Designed deep learning pipelines for biomedical imaging, microscopy, and physiological signal analysis.
+- Developed computer vision models for segmentation, classification, and quantitative biomedical image analysis.
+- Built end-to-end machine learning workflows from data acquisition and preprocessing through validation.
+- Developed scientific software supporting reproducible biomedical research.
+- Collaborated with clinicians, neuroscientists, biologists, and engineers in multidisciplinary projects.
+- Published peer-reviewed research in AI, computer vision, and biomedical engineering.
+
+### Applied Research Engineer — University of Chile
+**2009 – 2018**
+
+Research and development of AI and computer vision systems for industrial applications.
+
+- Designed machine vision systems for industrial inspection and process monitoring.
+- Developed machine learning algorithms for pattern recognition, texture analysis, and quality inspection.
+- Built sensing and image acquisition systems for industrial environments.
+- Developed embedded and IoT-based monitoring solutions.
+- Participated in R&D projects for mining automation and industrial instrumentation.
+- Worked across the complete engineering cycle from concept to prototype validation.
 
 ---
 
 ## Technical Skills
 
-Python · R · MATLAB  
-PyTorch · TensorFlow · Scikit-learn · OpenCV  
-Machine Learning · Computer Vision · Industrial AI · Signal Processing
+**Programming:** Python · MATLAB · R
+
+**Frameworks:** PyTorch · TensorFlow · Scikit-learn · OpenCV
+
+**Expertise:** Machine Learning · Deep Learning · Computer Vision · Signal Processing · Biomedical AI · Industrial AI
+
+<div class="page-break"></div>
+
+## Selected Engineering Experience
+
+### Industrial AI
+
+- Computer vision for mining and industrial automation
+- Machine vision inspection and quality control
+- Pattern recognition and texture classification
+- Industrial sensing and monitoring
+- IoT-based engineering solutions
+
+### Biomedical AI
+
+- Deep learning for microscopy and biomedical imaging
+- Physiological signal analysis
+- Disease prediction and biomarker discovery
+- 3D image segmentation
+- Quantitative image analysis
+
+### AI Systems
+
+- End-to-end machine learning pipelines
+- Data acquisition and preprocessing
+- Model validation and deployment
+- Scientific software development
+- Multidisciplinary engineering collaboration
+
+---
+
+## Education
+
+**PhD in Electrical Engineering** — University of Chile (2020)
+
+**Diploma in Electrophysiology** — University of Chile (2019)
+
+**Electrical Engineer** — University of Chile (2010)
 
 ---
 
 ## Teaching
 
-University teaching experience since 2005. Instructor of record since 2015.
-70+ course offerings · 2,500+ students  
-Undergraduate supervision in AI, Computer Vision, and Engineering.
+University instructor since 2015.
+
+- 70+ undergraduate and graduate course offerings
+- 2,500+ students
+- Supervision of AI and Computer Vision engineering projects
 
 ---
 
 ## Professional Activities
 
-Reviewer (ISICS 2024) · Thesis committee member · Speaker in AI and research events
+- Conference and journal reviewer
+- Thesis committee member
+- Speaker in AI, Computer Vision, and Engineering events
+
+---
+
+## Selected Publications
+
+Representative publications demonstrating expertise in applied AI and computer vision.
+
+- Alzheimer's & Dementia (2024)
+- BMC Bioinformatics (2023)
+- IEEE Conference on Artificial Intelligence (2023)
+- Applied Sciences (2019)
+
+Complete publication list:
+
+https://carlosnavarroc.github.io/publications/
 
 ---
 
 ## Portfolio
 
-Industrial AI · Computer Vision · Engineering  · Professional Timeline   · Teaching   · Publications  
-[https://carlosnavarroc.github.io](https://carlosnavarroc.github.io)
+Projects, publications, teaching, and engineering work:
 
+https://carlosnavarroc.github.io

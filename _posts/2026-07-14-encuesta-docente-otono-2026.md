@@ -32,6 +32,9 @@ Considerando ambos cursos en conjunto, el promedio docente alcanzó un <strong>9
   <img src="https://github.com/user-attachments/assets/af3cff70-6ad5-4131-a8f9-e012734e750d" alt="Resultados generales encuesta docente UNAB">
 </p>
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/c0ff8bc9-4a92-4caa-bd17-81ee5114e9ee" alt="Resultados generales encuesta docente UNAB">
+</p>
+<p align="center">
   <em>Figura 1: Resumen de resultados obtenidos en las encuestas docentes de la Universidad Andrés Bello.</em>
 </p>
 

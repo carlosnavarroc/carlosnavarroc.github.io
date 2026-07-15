@@ -56,7 +56,7 @@ Entre las oportunidades de mejora aparecen observaciones que resultan muy útile
 ## Universidad del Desarrollo
 
 <div style="text-align: justify;">
-En la Universidad del Desarrollo, durante marzo y abril dicté el curso Deep Learning, del Magíster en Data Science. El sistema institucional presenta los resultados indicando que no es posible reproducir capturas de pantalla de la plataforma. Sin embargo, los resultados generales fueron igualmente muy satisfactorios, alcanzando un promedio global de <strong>92,9%</strong>, a partir de las respuestas de 8 de los 15 estudiantes, siendo esto un 53%.
+En la Universidad del Desarrollo, durante marzo y abril dicté el curso Deep Learning, del Magíster en Data Science. El sistema institucional presenta los resultados indicando que no es posible reproducir capturas de pantalla de la plataforma. Sin embargo, los resultados generales fueron igualmente muy satisfactorios, alcanzando un promedio global de <strong>92,7%</strong>, a partir de las respuestas de 8 de los 15 estudiantes, siendo esto un 53%.
 </div>
 
 <br>

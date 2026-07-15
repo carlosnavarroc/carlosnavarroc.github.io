@@ -27,6 +27,7 @@ Durante este semestre impartí los cursos <strong>Matemáticas I</strong> y <str
 <div style="text-align: justify;">
 Considerando ambos cursos en conjunto, el promedio docente alcanzó un <strong>93,8%</strong>, situándose por encima del promedio institucional de la universidad en la mayoría de las dimensiones evaluadas. Destacan especialmente los resultados asociados a la preocupación por el aprendizaje de los estudiantes, el respeto en el trato, la claridad de las explicaciones, la organización del curso y la disposición para responder preguntas.
 </div>
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0b916219-31d9-4f40-a973-5971e4b7deaa" alt="Resultados generales encuesta docente UNAB">

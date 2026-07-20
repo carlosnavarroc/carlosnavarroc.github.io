@@ -1,17 +1,18 @@
 ---
 title: 'Encuestas Docentes Primer Semestre 2026'
-date: 2026-07-14
-permalink: /posts/2026/07/14/encuestas-docentes-primer-semestre-2026/
+date: 2026-07-20
+permalink: /posts/2026/07/20/encuestas-docentes-primer-semestre-2026/
 tags:
   - Docencia
   - Evaluación docente
   - Universidad Andrés Bello
   - Universidad del Desarrollo
-excerpt: 'Reflexión sobre los resultados de las encuestas docentes del primer semestre de 2026 en la Universidad Andrés Bello y Universidad del Desarrollo, destacando fortalezas y oportunidades de mejora identificadas por las y los estudiantes.'
+  - Universidad de Chile
+excerpt: 'Reflexión sobre los resultados de las encuestas docentes del primer semestre de 2026 en la Universidad Andrés Bello, Universidad del Desarrollo y la Universidad de Chile, destacando fortalezas y oportunidades de mejora identificadas por las y los estudiantes.'
 ---
 
 <div style="text-align: justify;">
-Las encuestas docentes correspondientes al primer semestre de 2026 ya se encuentran disponibles para los cursos impartidos en la Universidad Andrés Bello y la Universidad del Desarrollo. (Los resultados correspondientes a los cursos impartidos en la Universidad de Chile aún no se encuentran disponibles. Una vez publicados, serán incorporados a esta misma entrada). Como cada semestre, considero que esta instancia constituye una de las herramientas más valiosas para evaluar el impacto de la docencia, conocer la percepción de las y los estudiantes y orientar mejoras continuas en las metodologías de enseñanza. A continuación presento un breve resumen de los principales resultados obtenidos y una reflexión sobre los comentarios recibidos.
+Las encuestas docentes correspondientes al primer semestre de 2026 ya se encuentran disponibles para los cursos impartidos en la Universidad Andrés Bello, la Universidad del Desarrollo y la Universidad de Chile. Como cada semestre, considero que esta instancia constituye una de las herramientas más valiosas para evaluar el impacto de la docencia, conocer la percepción de las y los estudiantes y orientar mejoras continuas en las metodologías de enseñanza. A continuación presento un breve resumen de los principales resultados obtenidos y una reflexión sobre los comentarios recibidos.
 </div>
 
 <br>
@@ -73,6 +74,35 @@ Entre los comentarios cualitativos destaca especialmente el reconocimiento al ap
 
 <br>
 
+## Universidad de Chile
+<div style="text-align: justify;">
+Durante el semestre de otoño de 2026 participé en la docencia de los cursos <strong>Laboratorio de Ingeniería Eléctrica (EL3201)</strong> y <strong>Laboratorio de Inteligencia Computacional y Robótica (EL5206)</strong>, ambos pertenecientes al Departamento de Ingeniería Eléctrica de la Facultad de Ciencias Físicas y Matemáticas. En ambos cursos las encuestas institucionales reflejaron una evaluación muy positiva, con resultados globales cercanos a <strong>6,9</strong> en una escala de 1 a 7, superando los promedios del departamento, de la facultad y, cuando corresponde, de otras secciones y docentes participantes.
+</div>
+
+<br>
+
+<div style="text-align: justify;">
+Las dimensiones mejor evaluadas corresponden a los procesos de enseñanza y aprendizaje, las relaciones interpersonales y la gestión del proceso formativo, todas con promedios cercanos a 6,9. Estos resultados reflejan una valoración consistente respecto de la organización del curso, la claridad en las explicaciones, la disposición para responder consultas y el compromiso con el aprendizaje de las y los estudiantes.
+</div>
+
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df4eb2de-597f-42be-be4c-3cfd3a6b2a11" alt="Resultados generales encuesta docente Universidad de Chile">
+</p>
+<p align="center">
+  <em>Figura 2: Resumen de los resultados obtenidos en las encuestas docentes de la Universidad de Chile.</em>
+</p>
+<br>
+
+<div style="text-align: justify;">
+Los comentarios cualitativos muestran una tendencia muy similar a la observada en las demás universidades. Las y los estudiantes destacan la cercanía del docente, la buena disposición para responder preguntas, la flexibilidad frente a situaciones particulares, la planificación anticipada de las actividades y la disponibilidad del material del curso desde el inicio del semestre. También se valora especialmente la transparencia al reconocer cuando una pregunta requiere una revisión adicional, el interés por acompañar a los estudiantes más allá del curso y el ambiente de confianza generado durante las actividades docentes. En cuanto a las oportunidades de mejora, la mayor parte de las observaciones se relacionan con aspectos propios de la organización de los cursos más que con el desempeño docente. Entre ellas se menciona la conveniencia de actualizar algunas guías de laboratorio, entregar ciertas tareas con mayor anticipación, aumentar la presencia durante algunas sesiones prácticas y definir con mayor claridad los objetivos esperados para algunos proyectos. Resulta particularmente satisfactorio observar que varios estudiantes indican explícitamente no identificar aspectos relevantes que requieran mejoras en la docencia.
+
+</div>
+
+<br>
+
+
+
 ## Reflexión final
 
 <div style="text-align: justify;">
@@ -82,5 +112,5 @@ Recibir una retroalimentación tan positiva constituye un importante incentivo p
 <br>
 
 <div style="text-align: justify;">
-Finalmente, las encuestas correspondientes a los cursos impartidos en la <strong>Universidad de Chile</strong> aún se encuentran en desarrollo, por lo que sus resultados serán incorporados una vez que el proceso institucional finalice. Dependiendo del volumen de información disponible, estos podrán añadirse como una actualización de esta misma publicación o bien presentarse en una entrada independiente.
+Un aspecto especialmente satisfactorio es observar que, pese a tratarse de cursos impartidos en tres universidades distintas y dirigidos a estudiantes con perfiles diversos, los comentarios convergen en destacar elementos comunes de mi práctica docente: cercanía, disposición para apoyar el aprendizaje, claridad en las explicaciones y un compromiso permanente con la formación de las y los estudiantes.
 </div>

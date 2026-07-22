@@ -1,0 +1,378 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simulador IA - Perceptrón Multicapa</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f6f9;
+}
+
+header{
+    background:#1f4e79;
+    color:white;
+    padding:18px;
+    text-align:center;
+}
+
+.tabs{
+    display:flex;
+    background:#ddd;
+}
+
+.tab{
+    flex:1;
+    padding:15px;
+    text-align:center;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.tab.active{
+    background:white;
+}
+
+.content{
+    display:none;
+    padding:25px;
+}
+
+.content.active{
+    display:block;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.15);
+}
+
+#network{
+    margin-top:25px;
+    border:1px solid #ccc;
+    background:white;
+}
+
+.info{
+    background:#eef5ff;
+    padding:15px;
+    border-left:5px solid steelblue;
+    margin-top:15px;
+}
+
+.question{
+    margin-bottom:35px;
+    padding:20px;
+    border-radius:8px;
+    background:white;
+    box-shadow:0 0 8px rgba(0,0,0,.12);
+}
+
+.correct{
+    color:green;
+    font-weight:bold;
+}
+
+.incorrect{
+    color:red;
+    font-weight:bold;
+}
+
+.feedback{
+    margin-top:10px;
+}
+
+button{
+    background:#1f4e79;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#153754;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Simulador IA - Perceptrón Multicapa</h1>
+</header>
+
+<div class="tabs">
+<div class="tab active" onclick="openTab(0)">Simulador</div>
+<div class="tab" onclick="openTab(1)">Evaluación</div>
+</div>
+
+<!-- SIMULADOR -->
+
+<div class="content active">
+
+<div class="card">
+
+<h2>Manipula el número de capas ocultas</h2>
+
+<p>
+Variable manipulable:
+<b>Deslizador</b>
+</p>
+
+<input type="range"
+min="1"
+max="5"
+value="2"
+id="slider"
+oninput="drawNetwork()">
+
+<span id="value">2</span> capas ocultas
+
+<div class="info">
+El feedback visual inmediato consiste en observar cómo cambia la arquitectura del perceptrón multicapa al aumentar o disminuir las capas ocultas.
+</div>
+
+<canvas id="network" width="900" height="430"></canvas>
+
+</div>
+
+</div>
+
+<!-- EVALUACIÓN -->
+
+<div class="content">
+
+<h2>Evaluación</h2>
+
+<form id="quiz">
+
+<div class="question">
+
+<h3>1. ¿Cuál es la función principal de un perceptrón multicapa?</h3>
+
+<label><input type="radio" name="q1" value="0"> Almacenar archivos.</label><br>
+
+<label><input type="radio" name="q1" value="1"> Aprender relaciones complejas entre datos.</label><br>
+
+<label><input type="radio" name="q1" value="0"> Conectar computadores.</label>
+
+<div id="f1" class="feedback"></div>
+
+</div>
+
+<div class="question">
+
+<h3>2. ¿Qué ocurre al agregar más capas ocultas?</h3>
+
+<label><input type="radio" name="q2" value="0"> El modelo aprende menos.</label><br>
+
+<label><input type="radio" name="q2" value="1"> Puede representar relaciones más complejas.</label><br>
+
+<label><input type="radio" name="q2" value="0"> Desaparece la capa de salida.</label>
+
+<div id="f2" class="feedback"></div>
+
+</div>
+
+<div class="question">
+
+<h3>3. ¿Cuál es el propósito de la capa de salida?</h3>
+
+<label><input type="radio" name="q3" value="1"> Entregar la predicción final.</label><br>
+
+<label><input type="radio" name="q3" value="0"> Guardar los datos.</label><br>
+
+<label><input type="radio" name="q3" value="0"> Dibujar la red.</label>
+
+<div id="f3" class="feedback"></div>
+
+</div>
+
+<div class="question">
+
+<h3>4. Si un problema tiene patrones muy complejos, ¿qué ventaja podría ofrecer aumentar las capas ocultas?</h3>
+
+<label><input type="radio" name="q4" value="1"> Capturar relaciones más sofisticadas.</label><br>
+
+<label><input type="radio" name="q4" value="0"> Reducir automáticamente todos los errores.</label><br>
+
+<label><input type="radio" name="q4" value="0"> Eliminar la necesidad de entrenar.</label>
+
+<div id="f4" class="feedback"></div>
+
+</div>
+
+<div class="question">
+
+<h3>5. ¿Qué aspecto debería considerar un desarrollador antes de aumentar muchas capas?</h3>
+
+<label><input type="radio" name="q5" value="0"> El color del monitor.</label><br>
+
+<label><input type="radio" name="q5" value="1"> El equilibrio entre complejidad, datos y tiempo de entrenamiento.</label><br>
+
+<label><input type="radio" name="q5" value="0"> El nombre del archivo.</label>
+
+<div id="f5" class="feedback"></div>
+
+</div>
+
+<button type="button" onclick="evaluate()">Revisar respuestas</button>
+
+</form>
+
+</div>
+
+<script>
+
+function openTab(i){
+
+document.querySelectorAll(".tab").forEach((t,index)=>{
+t.classList.toggle("active",index===i);
+});
+
+document.querySelectorAll(".content").forEach((c,index)=>{
+c.classList.toggle("active",index===i);
+});
+
+}
+
+const canvas=document.getElementById("network");
+const ctx=canvas.getContext("2d");
+
+function drawNode(x,y){
+ctx.beginPath();
+ctx.arc(x,y,12,0,Math.PI*2);
+ctx.fillStyle="#2E86DE";
+ctx.fill();
+ctx.stroke();
+}
+
+function drawNetwork(){
+
+let hidden=parseInt(document.getElementById("slider").value);
+
+document.getElementById("value").innerHTML=hidden;
+
+ctx.clearRect(0,0,canvas.width,canvas.height);
+
+let layers=[];
+
+layers.push(4);
+
+for(let i=0;i<hidden;i++)
+layers.push(4);
+
+layers.push(2);
+
+let spacing=canvas.width/(layers.length+1);
+
+let positions=[];
+
+for(let l=0;l<layers.length;l++){
+
+positions[l]=[];
+
+let neurons=layers[l];
+
+let h=canvas.height/(neurons+1);
+
+for(let n=0;n<neurons;n++){
+
+positions[l].push({
+x:(l+1)*spacing,
+y:(n+1)*h
+});
+
+}
+
+}
+
+ctx.strokeStyle="#999";
+
+for(let l=0;l<positions.length-1;l++){
+
+positions[l].forEach(a=>{
+
+positions[l+1].forEach(b=>{
+
+ctx.beginPath();
+ctx.moveTo(a.x,a.y);
+ctx.lineTo(b.x,b.y);
+ctx.stroke();
+
+});
+
+});
+
+}
+
+positions.forEach(layer=>{
+layer.forEach(node=>{
+drawNode(node.x,node.y);
+});
+});
+
+ctx.font="16px Arial";
+ctx.fillStyle="black";
+ctx.fillText("Entrada",30,30);
+
+for(let i=0;i<hidden;i++){
+ctx.fillText("Oculta "+(i+1),140+i*spacing,30);
+}
+
+ctx.fillText("Salida",canvas.width-80,30);
+
+}
+
+drawNetwork();
+
+const feedbacks=[
+"",
+"Retroalimentación: El perceptrón multicapa aprende relaciones complejas mediante varias capas de neuronas.",
+"Retroalimentación: Más capas pueden representar patrones más complejos, aunque también aumentan el costo computacional.",
+"Retroalimentación: La capa de salida genera la predicción final del modelo.",
+"Retroalimentación: Más capas ayudan a representar relaciones complejas, pero no garantizan un mejor resultado por sí solas.",
+"Retroalimentación: Incrementar capas implica evaluar datos disponibles, tiempo de entrenamiento y riesgo de sobreajuste."
+];
+
+function evaluate(){
+
+for(let i=1;i<=5;i++){
+
+let ans=document.querySelector('input[name=q'+i+']:checked');
+
+let div=document.getElementById("f"+i);
+
+if(!ans){
+
+div.innerHTML="<span class='incorrect'>Debe seleccionar una respuesta.</span>";
+
+continue;
+
+}
+
+if(ans.value=="1"){
+
+div.innerHTML="<span class='correct'>✔ Correcto</span>";
+
+}else{
+
+div.innerHTML="<span class='incorrect'>✘ Incorrecto</span><br>"+feedbacks[i];
+
+}
+
+}
+
+}
+
+</script>
+
+</body>
+</html>

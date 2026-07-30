@@ -84,9 +84,7 @@ El trabajo demuestra el potencial del aprendizaje profundo para extraer informac
 <br>
 
 <p align="center">
-
-<img src="/files/ImagenesTM_2026.png" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
-
+<img src="https://github.com/user-attachments/assets/a78791cd-f11c-46d6-99c0-592cc59d79d9" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">

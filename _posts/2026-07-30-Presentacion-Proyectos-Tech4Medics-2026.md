@@ -78,7 +78,7 @@ Los modelos desarrollados obtuvieron excelentes resultados de segmentación para
 
 Esta investigación presentó el desarrollo de modelos de inteligencia artificial orientados a estimar la severidad de la estenosis aórtica a partir de electrocardiogramas basales, explorando una alternativa no invasiva para apoyar el diagnóstico precoz de esta enfermedad cardiovascular.
 
-El trabajo demuestra el potencial del aprendizaje profundo para extraer información clínicamente relevante desde señales electrocardiográficas de uso rutinario, contribuyendo al desarrollo de herramientas de apoyo a la toma de decisiones médicas y al fortalecimiento del diagnóstico asistido por inteligencia artificial en cardiología utilizando ResNet y XGBoost.
+El trabajo demuestra el potencial del aprendizaje profundo para extraer información clínicamente relevante desde señales electrocardiográficas de uso rutinario, contribuyendo al desarrollo de herramientas de apoyo a la toma de decisiones médicas y al fortalecimiento del diagnóstico asistido por inteligencia artificial en cardiología utilizando ResNet y XGBoost, mediante dos modelos: cascada y multiclase.
 
 </div>
 <br>

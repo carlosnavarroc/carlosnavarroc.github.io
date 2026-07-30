@@ -1,5 +1,5 @@
 ---
-title: 'Jornada de Presentación de Tesis 2026: Inteligencia Artificial aplicada a la Salud'
+title: 'Jornada de Presentación: IA e Innovación en Salud organizada por el Lab Tech4MEDICS de la Facultad de Medicina de la Universidad de Chile.'
 date: 2026-07-30
 permalink: /posts/2026/07/30/jornada-presentacion-tesis-ia-salud/
 tags:
@@ -13,7 +13,7 @@ excerpt: 'Estudiantes de Tecnología Médica e Ingeniería presentaron los avanc
 
 <div style="text-align: justify;">
 
-Durante la jornada de presentación de avances de tesis de Tech4Medics, estudiantes de Tecnología Médica e Ingeniería Civil Eléctrica compartieron los resultados obtenidos en sus investigaciones, evidenciando el creciente impacto de la inteligencia artificial en el desarrollo de herramientas de apoyo al diagnóstico clínico. La actividad reunió a académicos, investigadores, estudiantes e invitados, tanto de forma presencial como remota.
+Durante la Jornada de Presentación: IA e Innovación en Salud organizada por el Lab Tech4MEDICS, estudiantes de Tecnología Médica e Ingeniería Civil Eléctrica compartieron los resultados obtenidos en sus investigaciones, evidenciando el creciente impacto de la inteligencia artificial en el desarrollo de herramientas de apoyo al diagnóstico clínico. La actividad reunió a académicos, investigadores, estudiantes e invitados, tanto de forma presencial como remota.
 
 </div>
 
@@ -21,7 +21,7 @@ Durante la jornada de presentación de avances de tesis de Tech4Medics, estudian
 
 <div style="text-align: justify;">
 
-La jornada fue inaugurada por el profesor <strong>Víctor Castañeda</strong>, director del laboratorio <strong>Tech4MEDICS</strong>, quien agradeció la participación de los asistentes presenciales y de quienes siguieron las presentaciones en línea, destacando la importancia del trabajo colaborativo entre ingeniería y ciencias de la salud para impulsar la investigación aplicada.
+La jornada fue inaugurada por las palabras de los profesores <strong>Víctor Castañeda y Denisse Karl Saez</strong>, directores del laboratorio <strong>Tech4MEDICS</strong>, quienes agradecieron la participación de los asistentes presenciales y de quienes siguieron las presentaciones en línea, destacando la importancia del trabajo colaborativo entre ingeniería y ciencias de la salud para impulsar la investigación aplicada.
 
 </div>
 
@@ -33,7 +33,7 @@ La jornada fue inaugurada por el profesor <strong>Víctor Castañeda</strong>, d
 
 <div style="text-align: justify;">
 
-Este trabajo presentó una metodología basada en inteligencia artificial para la caracterización cuantitativa del tejido renal utilizando ecografías obtenidas en la cohorte MAUCO. El estudio consideró más de 760 pacientes y más de 3.000 imágenes, desarrollando un modelo de segmentación automática que alcanzó valores Dice cercanos a 0,90 para las principales estructuras anatómicas.
+Este trabajo presentó una metodología basada en inteligencia artificial para la caracterización cuantitativa del tejido renal utilizando ecografías obtenidas en la cohorte MAUCO. El estudio consideró más de 760 pacientes y más de 3.000 imágenes, desarrollando un modelo de segmentación automática que alcanzó valores Dice cercanos a 0.9 para las principales estructuras anatómicas.
 
 Aunque los biomarcadores obtenidos demostraron ser estables frente a diferentes condiciones de adquisición de las imágenes, los resultados indican que, por sí solos, aún no permiten diagnosticar enfermedad renal crónica. No obstante, al combinarse con variables clínicas como edad y sexo, mejoran el desempeño predictivo, constituyendo una herramienta complementaria para futuras aplicaciones clínicas.
 
@@ -63,7 +63,7 @@ Posteriormente, estas características fueron combinadas con una red neuronal li
 
 Esta investigación presentó algoritmos basados en Deep Learning y técnicas geométricas para evaluar automáticamente la calidad del posicionamiento durante la adquisición de mamografías digitales, considerando tanto proyecciones craneocaudales como mediolaterales oblicuas.
 
-Los modelos desarrollados obtuvieron excelentes resultados de segmentación para estructuras anatómicas relevantes, alcanzando un Dice promedio de 0,902 y un IoU promedio de 0,832. Estos resultados representan un importante avance hacia sistemas automáticos de control de calidad que podrían contribuir a mejorar la estandarización y confiabilidad de los exámenes mamográficos.
+Los modelos desarrollados obtuvieron excelentes resultados de segmentación para estructuras anatómicas relevantes, alcanzando un Dice promedio de 0.902 y un IoU promedio de 0.832. Estos resultados representan un importante avance hacia sistemas automáticos de control de calidad que podrían contribuir a mejorar la estandarización y confiabilidad de los exámenes mamográficos.
 
 </div>
 
@@ -89,7 +89,8 @@ El trabajo demuestra el potencial del aprendizaje profundo para extraer informac
 
 <p align="center">
 
-<em>Figura 1. Estudiantes y académicos durante la jornada de presentación de avances de tesis 2026.</em>
+<em>Figura 1. Estudiantes y académicos durante la Jornada de Presentación: IA e Innovación en Salud organizada por el Lab Tech4MEDICS.
+.</em>
 
 </p>
 

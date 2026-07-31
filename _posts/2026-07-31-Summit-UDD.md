@@ -132,15 +132,27 @@ Finalmente, se discutió cómo la diferenciación de productos tecnológicos ha 
 
 ## Inteligencia Artificial en organizaciones: Integración responsable y escalable
 
-**Presentan:** Enzo Zambon (Senior Generative AI / Machine Learning Sales Specialist, Amazon Web Services) y Germán Gómez.
+**Presenta:** Enzo Zambon (Senior Generative AI / Machine Learning Sales Specialist, Amazon Web Services) y Germán Gómez.
 
-<div style="text-align: justify;">
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/40ac327e-2c01-4c98-ba7a-3ab3ffc186c2" alt="Figura 4. Enzo Zambon, AWS" style="max-width:100%; height:auto;">
+</p>
 
-La última sesión dedicada a inteligencia artificial estuvo centrada en las estrategias para implementar soluciones basadas en IA generativa de forma segura y escalable dentro de las organizaciones. Se discutieron aspectos relacionados con infraestructura en la nube, seguridad, gobernanza, privacidad de los datos y evaluación del retorno de inversión, destacando que la adopción de estas tecnologías debe responder a objetivos de negocio claramente definidos.
+<p align="center">
 
-Finalmente, los expositores enfatizaron la importancia de establecer políticas de uso responsable, promover una cultura de experimentación y desarrollar capacidades internas que permitan escalar proyectos de IA de manera sostenible. La conferencia reforzó la idea de que la inteligencia artificial representa una ventaja competitiva cuando su implementación se acompaña de una adecuada gestión organizacional y un enfoque centrado en las personas.
+<em>Figura 4. Enzo Zambon, AWS.</em>
 
+</p>
+
+<img width="2798" height="1592" alt="20260731_161347(1)" src="" />
+
+
+<div style="text-align: justify;">La última sesión dedicada a inteligencia artificial estuvo enfocada en las estrategias para implementar soluciones de IA generativa de forma segura, escalable y alineada con los objetivos del negocio. Se abordaron temas como infraestructura en la nube, gobernanza, privacidad, seguridad y evaluación del retorno de la inversión, enfatizando que el punto de partida siempre debe ser definir correctamente el problema antes de seleccionar la tecnología. Siguiendo el enfoque "working backwards", ejemplificado con el asistente de compras de Amazon, se destacó que la solución debe construirse a partir de las necesidades del usuario y no al revés.
 </div>
+<br>
+<div style="text-align: justify;">
+Asimismo, se presentaron criterios para priorizar proyectos de IA, considerando aspectos como la disponibilidad de equipos y datos, el tiempo y presupuesto requeridos, el cumplimiento normativo y la evaluación de si la inteligencia artificial es realmente la mejor alternativa frente a soluciones tradicionales. Como cierre, se destacó el potencial de la **Agentic AI** para transformar las organizaciones mediante la automatización de procesos, el aumento de la productividad, la aceleración del desarrollo de software y la modernización de sistemas legados, consolidando a los agentes inteligentes como una de las principales tendencias para la próxima generación de aplicaciones empresariales.</div>
 
 <br>
 

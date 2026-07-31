@@ -41,7 +41,7 @@ En la segunda parte de la exposición se abordó el escenario de creciente disru
 
 <p align="center">
 
-<em>Figura 1. Ernesto Silva Méndez, Loreto Bravo y Hernán Cheyre en la charla inaugural.
+<em>Figura 1. Ernesto Silva Méndez, Loreto Bravo y Hernán Cheyre en el conversatorio tras la charla inaugural.
 .</em>
 
 </p>

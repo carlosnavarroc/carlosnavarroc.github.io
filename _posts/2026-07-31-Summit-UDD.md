@@ -150,7 +150,6 @@ Finalmente, se discutió cómo la diferenciación de productos tecnológicos ha 
 <br>
 <div style="text-align: justify;">
 Asimismo, se presentaron criterios para priorizar proyectos de IA, considerando aspectos como la disponibilidad de equipos y datos, el tiempo y presupuesto requeridos, el cumplimiento normativo y la evaluación de si la inteligencia artificial es realmente la mejor alternativa frente a soluciones tradicionales. Como cierre, se destacó el potencial de la "Agentic AI" para transformar las organizaciones mediante la automatización de procesos, el aumento de la productividad, la aceleración del desarrollo de software y la modernización de sistemas legados, consolidando a los agentes inteligentes como una de las principales tendencias para la próxima generación de aplicaciones empresariales.</div>
-</div>
 <br>
 <div style="text-align: justify;">
 Finalmente, el expositor analizó los cinco arquetipos del desarrollo de software en la era de la inteligencia artificial: prototipador, constructor, barrendero, cultivador y mantenedor, destacando que cada uno cumple un propósito distinto dentro del ciclo de vida de un producto y que pueden combinarse según su nivel de madurez y las necesidades del proyecto. Asimismo, presentó el concepto de modelos de "pesos abiertos" (open-weight), resaltando que ofrecen una mayor flexibilidad al no depender de una API propietaria, lo que facilita su personalización, despliegue y control por parte de las organizaciones.

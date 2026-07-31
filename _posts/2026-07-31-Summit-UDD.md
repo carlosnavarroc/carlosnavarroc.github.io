@@ -36,13 +36,12 @@ En la segunda parte de la exposición se abordó el escenario de creciente disru
 
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1d8906da-971d-4d27-b395-ec2b3222ed4f" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/1d8906da-971d-4d27-b395-ec2b3222ed4f" alt="Figura 1. Ernesto Silva Méndez, Loreto Bravo y Hernán Cheyre en el conversatorio tras la charla inaugural." style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">
 
-<em>Figura 1. Ernesto Silva Méndez, Loreto Bravo y Hernán Cheyre en el conversatorio tras la charla inaugural.
-.</em>
+<em>Figura 1. Ernesto Silva Méndez, Loreto Bravo y Hernán Cheyre en el conversatorio tras la charla inaugural.</em>
 
 </p>
 
@@ -64,7 +63,7 @@ Tras la conferencia inaugural, el Summit continuó con sesiones paralelas organi
 
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c124609d-dd63-467e-aad9-5c7d9fd967d0" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/c124609d-dd63-467e-aad9-5c7d9fd967d0" alt="Figura 2. Loreto Bravo y Germán Gomez en la segunda charla." style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">
@@ -98,6 +97,18 @@ Finalmente, se discutieron los principales aspectos que los directorios y equipo
 **Presentan:** Victoria Hurtado (Directora de Innovación de Microsystem), Rodrigo Basoalto (CTO Fintual), Marcelo Solari (CEO Kibernum) y Camilo Flores (Head of Engineering, BUK).
 
 **Modera:** Fernando Rojas Ochagavía, Decano de la Facultad de Ingeniería, Universidad del Desarrollo.
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0e76d1f0-7632-41e1-b93d-3907cc6ed4b9" alt="Figura 3. Panel de expertos." style="max-width:100%; height:auto;">
+</p>
+
+<p align="center">
+
+<em>Figura 3. Panel de expertos.</em>
+
+</p>
+
+
 
 <div style="text-align: justify;">
 

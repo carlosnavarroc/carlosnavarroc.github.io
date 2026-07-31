@@ -159,7 +159,7 @@ Finalmente, el expositor analizó los cinco arquetipos del desarrollo de softwar
 **Comenta:** Eugenio Guzmán Astete. Decano Facultad de Gobierno y Facultad de Educación, Universidad del Desarrollo
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/579ffe19-da6c-44f9-8171-a2d699cc2c33" alt="Figura 5. Alvaro Fischer" style="max-width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/b0ea1fd0-a215-48c1-89cb-027be78d2a5e" alt="Figura 5. Alvaro Fischer" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">

@@ -20,7 +20,6 @@ En esta oportunidad asistí a las actividades del eje de Inteligencia Artificial
 </div>
 
 <br>
-
 ## Instituciones y Desarrollo en la era de la disrupción
 
 **Presenta:** Ernesto Silva Méndez, Prorrector y Director de Faro UDD.
@@ -34,6 +33,18 @@ La conferencia inaugural analizó la estrecha relación entre la calidad de las 
 En la segunda parte de la exposición se abordó el escenario de creciente disrupción tecnológica y geopolítica, donde la inteligencia artificial emerge como uno de los principales motores de transformación económica y social. Se discutieron ideas presentadas recientemente en el Foro Económico Mundial de Davos y conceptos como el "Zeroth World, propuesto por Dario Amodei, para reflexionar sobre el impacto que tendrá la IA en la productividad y en la organización de las sociedades. Finalmente, se enfatizó el rol estratégico que deben asumir las universidades como espacios de encuentro interdisciplinario, formación del juicio crítico y generación de conocimiento, capaces de preparar a las futuras generaciones para enfrentar los desafíos de esta nueva era.
 
 </div>
+
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1d8906da-971d-4d27-b395-ec2b3222ed4f" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
+</p>
+
+<p align="center">
+
+<em>Figura 1. Ernesto Silva Méndez, Loreto Bravo y Hernán Cheyre en la charla inaugural.
+.</em>
+
+</p>
 
 <br>
 

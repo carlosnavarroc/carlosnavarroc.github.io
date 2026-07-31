@@ -154,16 +154,17 @@ Asimismo, se presentaron criterios para priorizar proyectos de IA, considerando 
 <br>
 <div style="text-align: justify;">
 Finalmente, el expositor analizó los cinco arquetipos del desarrollo de software en la era de la inteligencia artificial: prototipador, constructor, barrendero, cultivador y mantenedor, destacando que cada uno cumple un propósito distinto dentro del ciclo de vida de un producto y que pueden combinarse según su nivel de madurez y las necesidades del proyecto. Asimismo, presentó el concepto de modelos de "pesos abiertos" (open-weight), resaltando que ofrecen una mayor flexibilidad al no depender de una API propietaria, lo que facilita su personalización, despliegue y control por parte de las organizaciones.
-<br>
 </div>
+<br>
+
 ## Reflexión final
 
 <div style="text-align: justify;">
-
 Una idea transversal de las actividades fue que la inteligencia artificial ya no constituye una promesa futura, sino una tecnología con aplicaciones concretas que está redefiniendo la forma en que las organizaciones innovan, operan y toman decisiones. Sin embargo, el éxito de su adopción depende menos de los modelos utilizados y más de factores como la estrategia, la gobernanza, la disponibilidad de datos, la capacitación de las personas y la capacidad de integrar estas herramientas de manera responsable.
-
+</div>
+<br>
+<div style="text-align: justify;">
 En conjunto, las conferencias y paneles mostraron que el verdadero desafío no consiste únicamente en incorporar inteligencia artificial, sino en desarrollar organizaciones capaces de adaptarse al cambio tecnológico, aprovechar sus beneficios y mantener siempre una visión centrada en las personas. En este contexto, la colaboración entre la academia y la industria aparece como un elemento clave para acelerar una adopción sostenible y generar impacto tanto económico como social.
-
 </div>
 
 <br>

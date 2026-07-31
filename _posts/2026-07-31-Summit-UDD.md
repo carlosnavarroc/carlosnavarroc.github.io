@@ -60,11 +60,11 @@ Tras la conferencia inaugural, el Summit continuó con sesiones paralelas organi
 
 **Presenta:** Loreto Bravo, Directora del Data Science Institute y Académica Universidad del Desarrollo, miembro del Panel Científico de la ONU sobre Inteligencia Artificial.
 
-**Modera:** Germán Gómez, Director del Magíster en Data Science, Universidad del Desarrollo.
+**Modera:** Germán Gómez, Director del Magíster en Data Science, Universidad del Desarrollo. 
 
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/92992290-435b-4399-bc0e-3aee31905085" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
+<img src="https://github.com/user-attachments/assets/c124609d-dd63-467e-aad9-5c7d9fd967d0" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">

@@ -1,5 +1,5 @@
 ---
-title: 'Summit UDD 2026: Inteligencia Artificial y transformación de las organizaciones'
+title: 'Summit UDD 2026: Redefiniendo el Futuro'
 date: 2026-07-31
 permalink: /posts/2026/07/31/summit-udd-2026-inteligencia-artificial/
 tags:
@@ -156,7 +156,6 @@ Finalmente, el expositor analizó los cinco arquetipos del desarrollo de softwar
 
 ## Conferencia de Clausura
 **Presenta:** Álvaro Fischer Abeliuk, Cofundador de Resiter. Ex Presidente Fundación Chile y Consejo Nacional de CTCI.
-**Comenta:** Eugenio Guzmán Astete. Decano Facultad de Gobierno y Facultad de Educación, Universidad del Desarrollo
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b0ea1fd0-a215-48c1-89cb-027be78d2a5e" alt="Figura 5. Alvaro Fischer" style="max-width:100%; height:auto;">

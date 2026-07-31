@@ -14,7 +14,7 @@ excerpt: 'Resumen de las principales conferencias y paneles sobre inteligencia a
 <div style="text-align: justify;">
 El Summit UDD 2026 reunió a académicos, investigadores, autoridades y representantes de la industria para analizar algunos de los principales desafíos que enfrenta el país en materia de geopolítica, inteligencia artificial y sustentabilidad. A través de conferencias y paneles de discusión, la jornada abordó el impacto que estas transformaciones tendrán sobre el desarrollo económico, las organizaciones y la formación de capital humano.
 
-En esta oportunidad asistí a las actividades del eje de Inteligencia Artificial, además de la conferencia inaugural, las cuales ofrecieron una visión complementaria que combinó el análisis del contexto global con experiencias concretas de adopción de IA en empresas y organizaciones.
+En esta oportunidad asistí a las conferencias inaurugral, actividades del eje de Inteligencia Artificial y conferencia de clausura. Estas interesantes charlas ofrecieron una visión complementaria que combinó el análisis del contexto global con experiencias concretas de adopción de IA en empresas y organizaciones.
 </div>
 
 <br>

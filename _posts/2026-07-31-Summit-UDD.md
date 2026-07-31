@@ -77,13 +77,18 @@ Tras la conferencia inaugural, el Summit continuó con sesiones paralelas organi
 <div style="text-align: justify;">
 
 La conferencia abordó los factores que permiten transformar el potencial de la inteligencia artificial en impacto real dentro de las organizaciones. Se destacó que una adopción exitosa requiere una estrategia clara, una adecuada gobernanza de datos, infraestructura tecnológica, formación de capital humano y una cultura organizacional capaz de incorporar estas herramientas en los procesos cotidianos. En este contexto, se enfatizó que el verdadero valor de la IA no reside en la tecnología por sí misma, sino en la capacidad de las organizaciones para aprender a utilizarla y adaptar sus formas de trabajo.
-
+</div>
+<br>
+<div style="text-align: justify;">
 Uno de los conceptos centrales fue que el primer retorno sobre la inversión (ROI) puede consistir simplemente en aprender. Durante las etapas iniciales predominan los costos asociados a la capacitación, la experimentación y el desarrollo de proyectos piloto. Sin embargo, bajo esa inversión se construyen capacidades fundamentales como la disponibilidad y calidad de los datos, la confianza en los sistemas, la integración tecnológica y el aprendizaje organizacional. Solo posteriormente es posible escalar las soluciones, aumentar sostenidamente la productividad, descubrir nuevos casos de uso y generar ventajas competitivas.
-
+</div>
+<br>
+<div style="text-align: justify;">
 La exposición también explicó que mientras más profunda es la adopción de la inteligencia artificial, mayor es la transformación de la organización. El mayor impacto no se obtiene automatizando tareas aisladas, sino rediseñando procesos, replanteando la propuesta de valor e incluso desarrollando nuevos modelos de negocio. En este contexto se presentó el concepto de la <strong>curva J</strong>, que describe una disminución inicial de la productividad producto de la fricción asociada al aprendizaje, la adaptación y el rediseño de los flujos de trabajo. Superada esta etapa, las organizaciones recuperan su desempeño y alcanzan mejoras sostenidas conforme la tecnología madura y se integra en sus operaciones.
-
+</div>
+<br>
+<div style="text-align: justify;">
 Finalmente, se discutieron los principales aspectos que los directorios y equipos ejecutivos deberían considerar al definir una estrategia de adopción de IA: identificar dónde esta tecnología puede generar mayor valor para la organización; determinar qué procesos requieren ser rediseñados; evaluar la calidad, disponibilidad y gobernanza de los datos; desarrollar las capacidades y el talento necesarios; gestionar riesgos asociados a privacidad, seguridad y cumplimiento normativo; y establecer indicadores que permitan medir tanto la adopción como el impacto real de las iniciativas implementadas.
-
 </div>
 
 <br>

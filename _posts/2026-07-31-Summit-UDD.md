@@ -1,4 +1,4 @@
----
+,---
 title: 'Summit UDD 2026: Inteligencia Artificial y transformación de las organizaciones'
 date: 2026-07-31
 permalink: /posts/2026/07/31/summit-udd-2026-inteligencia-artificial/
@@ -132,7 +132,7 @@ Finalmente, se discutió cómo la diferenciación de productos tecnológicos ha 
 
 ## Inteligencia Artificial en organizaciones: Integración responsable y escalable
 
-**Presenta:** Enzo Zambon (Senior Generative AI / Machine Learning Sales Specialist, Amazon Web Services) y Germán Gómez.
+**Presenta:** Enzo Zambon (Senior Generative AI / Machine Learning Sales Specialist, Amazon Web Services)
 
 <br>
 <p align="center">

@@ -179,7 +179,7 @@ La exposición también destacó la importancia de los <strong>servicios ecosist
 <br>
 
 <div style="text-align: justify;">
-Finalmente, el expositor planteó que los grandes desafíos del siglo XXI —<strong>la sostenibilidad, la inteligencia artificial y la geopolítica</strong>— están profundamente interconectados. El verdadero reto no consiste únicamente en desarrollar tecnologías más avanzadas, sino en asegurar que su diseño, implementación y regulación contribuyan al desarrollo humano y a la construcción de sociedades más resilientes, equitativas y sostenibles.
+Finalmente, el expositor planteó que los grandes desafíos del siglo XXI, <strong>la sostenibilidad, la inteligencia artificial y la geopolítica</strong>, están profundamente interconectados. El verdadero reto no consiste únicamente en desarrollar tecnologías más avanzadas, sino en asegurar que su diseño, implementación y regulación contribuyan al desarrollo humano y a la construcción de sociedades más resilientes, equitativas y sostenibles.
 </div>
 <br>
 

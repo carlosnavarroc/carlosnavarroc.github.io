@@ -1,4 +1,4 @@
-,---
+---
 title: 'Summit UDD 2026: Inteligencia Artificial y transformación de las organizaciones'
 date: 2026-07-31
 permalink: /posts/2026/07/31/summit-udd-2026-inteligencia-artificial/
@@ -155,7 +155,7 @@ Asimismo, se presentaron criterios para priorizar proyectos de IA, considerando 
 <div style="text-align: justify;">
 Finalmente, el expositor analizó los cinco arquetipos del desarrollo de software en la era de la inteligencia artificial: prototipador, constructor, barrendero, cultivador y mantenedor, destacando que cada uno cumple un propósito distinto dentro del ciclo de vida de un producto y que pueden combinarse según su nivel de madurez y las necesidades del proyecto. Asimismo, presentó el concepto de modelos de "pesos abiertos" (open-weight), resaltando que ofrecen una mayor flexibilidad al no depender de una API propietaria, lo que facilita su personalización, despliegue y control por parte de las organizaciones.
 <br>
-
+</div>
 ## Reflexión final
 
 <div style="text-align: justify;">

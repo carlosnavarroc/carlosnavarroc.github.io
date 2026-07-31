@@ -156,6 +156,34 @@ Finalmente, el expositor analizó los cinco arquetipos del desarrollo de softwar
 </div>
 <br>
 
+## Conferencia de Clausura
+**Presenta:** Álvaro Fischer Abeliuk, Cofundador de Resiter. Ex Presidente Fundación Chile y Consejo Nacional de CTCI.
+**Comenta:** Eugenio Guzmán Astete. Decano Facultad de Gobierno y Facultad de Educación, Universidad del Desarrollo
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/579ffe19-da6c-44f9-8171-a2d699cc2c33" alt="Figura 5. Alvaro Fischer" style="max-width:100%; height:auto;">
+</p>
+
+<p align="center">
+
+<em>Figura 5. Alvaro Fischer.</em>
+
+</p>
+
+
+<div style="text-align: justify;">
+La conferencia de clausura invitó a ampliar la mirada sobre la inteligencia artificial (además de los otros dos ejes del summit: geopolitica y sustentabilidad), situándola en un contexto mucho más amplio: el del "Proyecto Humano". A partir de una reflexión que integró biología, evolución y ciencias sociales, el expositor abordó la relación entre "natura" y "cultura", planteando que muchas de las decisiones y comportamientos humanos surgen de la interacción entre nuestra herencia evolutiva y las estructuras culturales que hemos construido. En este contexto, conceptos como la <strong>psicología coalicional</strong> permitieron explicar cómo la cooperación, la competencia y la formación de grupos siguen influyendo en la manera en que adoptamos nuevas tecnologías y organizamos nuestras sociedades.
+</div>
+<br>
+<div style="text-align: justify;">
+La exposición también destacó la importancia de los <strong>servicios ecosistémicos</strong> y los desafíos que enfrenta la humanidad en materia de sostenibilidad, enfatizando que el desarrollo tecnológico no puede analizarse de forma aislada del entorno natural. Desde esta perspectiva, la inteligencia artificial representa una herramienta con un enorme potencial para enfrentar problemas complejos, pero su implementación debe estar guiada por principios de gobernanza, responsabilidad y bienestar colectivo.
+</div>
+<br>
+<div style="text-align: justify;">
+Finalmente, el expositor planteó que los grandes desafíos del siglo XXI,<strong> la sostenibilidad, la inteligencia artificial y la geopolítica</strong>  están profundamente interconectados. El verdadero reto no consiste únicamente en desarrollar tecnologías más avanzadas, sino en asegurar que su diseño, implementación y regulación contribuyan al desarrollo humano y a la construcción de sociedades más resilientes, equitativas y sostenibles.
+</div>
+<br>
+
 ## Reflexión final
 
 <div style="text-align: justify;">

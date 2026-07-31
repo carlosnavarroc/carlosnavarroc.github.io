@@ -56,15 +56,28 @@ Tras la conferencia inaugural, el Summit continuó con sesiones paralelas organi
 
 <br>
 
-## De la tecnología al impacto: ¿Cómo adoptamos la Inteligencia Artificial?
+## De la tecnología al impacto: ¿Cómo adoptamos la Inteligencia Artificial? (Adopción de IA para lideres)
 
 **Presenta:** Loreto Bravo, Directora del Data Science Institute y Académica Universidad del Desarrollo, miembro del Panel Científico de la ONU sobre Inteligencia Artificial.
 
 **Modera:** Germán Gómez, Director del Magíster en Data Science, Universidad del Desarrollo.
 
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/92992290-435b-4399-bc0e-3aee31905085" alt="Presentaciones de tesis en la jornada de IA aplicada a la salud" style="max-width:100%; height:auto;">
+</p>
+
+<p align="center">
+
+<em>Figura 2. Loreto Bravo y Germán Gomez en la segunda charla.</em>
+
+</p>
+
+<br>
+
 <div style="text-align: justify;">
 
-La conferencia abordó los factores que permiten transformar el potencial de la inteligencia artificial en impacto real dentro de las organizaciones. Se destacó que una adopción exitosa requiere una estrategia clara, una adecuada gobernanza de datos, infraestructura tecnológica, formación de capital humano y una cultura organizacional capaz de integrar estas herramientas en los procesos cotidianos.
+La conferencia abordó los factores que permiten transformar el potencial de la inteligencia artificial en impacto real dentro de las organizaciones. Se destacó que una adopción exitosa requiere una estrategia clara, una adecuada gobernanza de datos, infraestructura tecnológica, formación de capital humano y una cultura organizacional capaz de integrar estas herramientas en los procesos cotidianos. Generalmente el valor no aparece en la herramienta sino en la organizaciòn que aprende a usarla.
 
 Asimismo, se discutió la importancia de impulsar una inteligencia artificial responsable, considerando aspectos éticos, regulatorios y de transparencia. La exposición puso énfasis en que el verdadero valor de la IA no radica únicamente en la tecnología, sino en la capacidad de las organizaciones para incorporarla de manera sostenible y orientada a generar beneficios para las personas y la sociedad.
 

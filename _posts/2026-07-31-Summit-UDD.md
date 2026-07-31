@@ -12,11 +12,9 @@ excerpt: 'Resumen de las principales conferencias y paneles sobre inteligencia a
 ---
 
 <div style="text-align: justify;">
-
 El Summit UDD 2026 reunió a académicos, investigadores, autoridades y representantes de la industria para analizar algunos de los principales desafíos que enfrenta el país en materia de geopolítica, inteligencia artificial y sustentabilidad. A través de conferencias y paneles de discusión, la jornada abordó el impacto que estas transformaciones tendrán sobre el desarrollo económico, las organizaciones y la formación de capital humano.
 
 En esta oportunidad asistí a las actividades del eje de Inteligencia Artificial, además de la conferencia inaugural, las cuales ofrecieron una visión complementaria que combinó el análisis del contexto global con experiencias concretas de adopción de IA en empresas y organizaciones.
-
 </div>
 
 <br>
@@ -170,19 +168,21 @@ Finalmente, el expositor analizó los cinco arquetipos del desarrollo de softwar
 
 </p>
 
+<div style="text-align: justify;">
+La conferencia de clausura invitó a ampliar la mirada sobre la inteligencia artificial (además de los otros dos ejes del summit: geopolítica y sustentabilidad), situándola en un contexto mucho más amplio: el del "Proyecto Humano". A partir de una reflexión que integró biología, evolución y ciencias sociales, el expositor abordó la relación entre "natura" y "cultura", planteando que muchas de las decisiones y comportamientos humanos surgen de la interacción entre nuestra herencia evolutiva y las estructuras culturales que hemos construido. En este contexto, conceptos como la <strong>psicología coalicional</strong> permitieron explicar cómo la cooperación, la competencia y la formación de grupos siguen influyendo en la manera en que adoptamos nuevas tecnologías y organizamos nuestras sociedades.
+</div>
+<br>
 
 <div style="text-align: justify;">
-La conferencia de clausura invitó a ampliar la mirada sobre la inteligencia artificial (además de los otros dos ejes del summit: geopolitica y sustentabilidad), situándola en un contexto mucho más amplio: el del "Proyecto Humano". A partir de una reflexión que integró biología, evolución y ciencias sociales, el expositor abordó la relación entre "natura" y "cultura", planteando que muchas de las decisiones y comportamientos humanos surgen de la interacción entre nuestra herencia evolutiva y las estructuras culturales que hemos construido. En este contexto, conceptos como la <strong>psicología coalicional</strong> permitieron explicar cómo la cooperación, la competencia y la formación de grupos siguen influyendo en la manera en que adoptamos nuevas tecnologías y organizamos nuestras sociedades.
+La exposición también destacó la importancia de los <strong>servicios ecosistémicos</strong> y los desafíos que enfrenta la humanidad en materia de sostenibilidad, enfatizando que el desarrollo tecnológico no puede analizarse de forma aislada del entorno natural. Asimismo, reflexionó sobre la tensión entre <strong>globalización y tribalismo</strong>, mostrando cómo la creciente interconexión mundial convive con dinámicas de fragmentación social, identidades grupales y polarización que influyen en la forma en que enfrentamos los desafíos globales.
 </div>
 <br>
+
 <div style="text-align: justify;">
-La exposición también destacó la importancia de los <strong>servicios ecosistémicos</strong> y los desafíos que enfrenta la humanidad en materia de sostenibilidad, enfatizando que el desarrollo tecnológico no puede analizarse de forma aislada del entorno natural. Desde esta perspectiva, la inteligencia artificial representa una herramienta con un enorme potencial para enfrentar problemas complejos, pero su implementación debe estar guiada por principios de gobernanza, responsabilidad y bienestar colectivo.
+Finalmente, el expositor planteó que los grandes desafíos del siglo XXI —<strong>la sostenibilidad, la inteligencia artificial y la geopolítica</strong>— están profundamente interconectados. El verdadero reto no consiste únicamente en desarrollar tecnologías más avanzadas, sino en asegurar que su diseño, implementación y regulación contribuyan al desarrollo humano y a la construcción de sociedades más resilientes, equitativas y sostenibles.
 </div>
 <br>
-<div style="text-align: justify;">
-Finalmente, el expositor planteó que los grandes desafíos del siglo XXI,<strong> la sostenibilidad, la inteligencia artificial y la geopolítica</strong>  están profundamente interconectados. El verdadero reto no consiste únicamente en desarrollar tecnologías más avanzadas, sino en asegurar que su diseño, implementación y regulación contribuyan al desarrollo humano y a la construcción de sociedades más resilientes, equitativas y sostenibles.
-</div>
-<br>
+
 
 ## Reflexión final
 

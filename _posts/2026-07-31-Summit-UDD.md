@@ -108,14 +108,24 @@ Finalmente, se discutieron los principales aspectos que los directorios y equipo
 
 </p>
 
-
-
 <div style="text-align: justify;">
-
-Este panel presentó diversas experiencias de empresas chilenas que actualmente utilizan inteligencia artificial para potenciar el desarrollo de productos, automatizar procesos y mejorar la toma de decisiones. Los expositores compartieron casos de implementación en distintos sectores, evidenciando que la IA se ha convertido en una herramienta estratégica para aumentar la eficiencia, acelerar el desarrollo tecnológico y ofrecer mejores servicios a los usuarios.
-
-Además de los beneficios alcanzados, la discusión abordó desafíos como la calidad de los datos, la integración con sistemas existentes, la capacitación de los equipos y la necesidad de mantener supervisión humana en procesos críticos. Los panelistas coincidieron en que el éxito de estas iniciativas depende tanto de la tecnología como de la capacidad de las organizaciones para adaptarse al cambio.
-
+Este panel reunió diversas experiencias de empresas chilenas que actualmente utilizan inteligencia artificial para potenciar el desarrollo de productos, automatizar procesos y apoyar la toma de decisiones. Los expositores presentaron casos de implementación en distintos sectores, demostrando que la IA se ha consolidado como una herramienta estratégica para aumentar la eficiencia, acelerar el desarrollo tecnológico y ofrecer mejores servicios a los usuarios.
+</div>
+<br>
+<div style="text-align: justify;">
+Una de las frases que más me llamó la atención fue: "nadie es experto en IA porque es un animal nuevo". Si bien comparto la idea de que la IA generativa ha transformado radicalmente el panorama tecnológico en los últimos años, considero que es importante distinguir este fenómeno de la inteligencia artificial como disciplina, la cual cuenta con décadas de desarrollo e investigación.
+</div>
+<br>
+<div style="text-align: justify;">
+Otro aspecto ampliamente discutido fue que la tecnología debe estar orientada a resolver problemas reales y no utilizar IA simplemente porque está de moda. En este contexto, los panelistas coincidieron en que incorporar inteligencia artificial en productos existentes se asemeja a "cambiar el motor de un avión en pleno vuelo": implica rediseñar procesos, adaptar modelos de negocio y replantear la forma en que se construye software. Incluso se destacó que existen problemas cuya solución no requiere inteligencia artificial.
+</div>
+<br>
+<div style="text-align: justify;">
+También se abordaron los desafíos propios del desarrollo de productos basados en IA. A diferencia del software tradicional, que entrega respuestas determinísticas, los sistemas de IA pueden producir resultados variables ante una misma consulta. Esto obliga a diseñar arquitecturas escalables capaces de gestionar un gran número de interacciones, donde cada vez es más común la colaboración entre múltiples agentes de IA que interactúan entre sí.
+</div>
+<br>
+<div style="text-align: justify;">
+Finalmente, se discutió cómo la diferenciación de productos tecnológicos ha cambiado significativamente en los últimos cinco años y surgió una pregunta clave para el futuro de estas tecnologías: ¿quién asume la responsabilidad cuando una decisión o recomendación generada por una IA resulta incorrecta? Este desafío no solo es técnico, sino también ético, legal y organizacional.
 </div>
 
 <br>

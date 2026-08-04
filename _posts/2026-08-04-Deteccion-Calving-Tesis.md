@@ -13,7 +13,7 @@ excerpt: 'Participación como profesor co-guía en tesis sobre detección autom�
 ---
 
 <div style="text-align: justify;">
-Hoy se llevó a cabo la <strong>Presentación de Trabajo de Título</strong> titulada <em>"Detección Automática de Eventos Calving en el Glaciar Perito Moreno"</em>, memoria para optar al título de <strong>Ingeniera Civil Eléctrica</strong>.
+Hoy se llevó a cabo la <strong>Presentación de Trabajo de Título</strong> titulada <em>"Detección Automática de Eventos Calving en el Glaciar Perito Moreno"</em>, memoria para optar al título de <strong>Ingeniera Civil Eléctrica</strong> y el magíster en Ciencias, Mención Geofísica.
 </div>
 
 <br>

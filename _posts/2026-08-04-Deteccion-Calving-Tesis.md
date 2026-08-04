@@ -29,7 +29,7 @@ La comisión evaluadora estuvo integrada por los profesores <strong>Leoncio Cabr
 </div>
 
 <p align="center">
-  <img width="800" alt="Defensa Catalina Paz Zapata Vega." src="https://github.com/user-attachments/assets/8ea3dba4-7a87-4615-97e5-0527deb47ee0">
+  <img width="800" alt="Defensa Catalina Paz Zapata Vega." src="https://github.com/user-attachments/assets/67817cb7-896b-4eb5-a062-33d64a739d11">
 </p>
 <p align="center">
   <em>Figura 1: Defensa de Tesis de Catalina Paz Zapata Vega.</em>

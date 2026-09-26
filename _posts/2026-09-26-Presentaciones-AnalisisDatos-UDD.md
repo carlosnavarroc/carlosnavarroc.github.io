@@ -36,13 +36,6 @@ El proyecto propuesto abordó el <strong>pronóstico de ventas</strong>, utiliza
 El proyecto sugerido abordó el <strong>pronóstico de ventas</strong>, utilizando información histórica para analizar su comportamiento temporal y generar estimaciones para períodos futuros. La presentación permitió discutir cómo interpretar un pronóstico y, especialmente, por qué sus resultados deben considerar la incertidumbre y las características de los datos disponibles.</div>
 
 <br>
-
-<div style="text-align: justify;">
-El <strong>segundo grupo</strong> abordó un problema de <strong>riesgo crediticio</strong>, explorando el uso de deep learning en datos estructurados. La discusión se centró en si modelos complejos aportan valor real frente a alternativas más simples e interpretables en este tipo de contexto, además de que sesgos incluye el modelo.
-</div>
-
-<br>
-
 <div style="text-align: justify;">Sin embargo, el proyecto no estaba restringido al problema de ventas. También fue posible trabajar con datos provenientes de los propios contextos profesionales de los estudiantes. Un ejemplo fue el análisis de la relación entre la <strong>lluvia en el río Coihueco y la turbiedad en la PTAP Caipulli</strong>, mostrando cómo las herramientas de series temporales pueden aplicarse a problemas ambientales y operacionales concretos.</div>
 
 <br>

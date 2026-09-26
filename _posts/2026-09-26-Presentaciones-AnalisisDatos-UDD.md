@@ -25,9 +25,6 @@ En la sesión de hoy, correspondiente al cierre del curso, cada equipo presentó
 
 <br>
 
-<div style="text-align: justify;">
-El proyecto propuesto abordó el <strong>pronóstico de ventas</strong>, utilizando información histórica para analizar su comportamiento temporal y generar estimaciones para períodos futuros. La presentación permitió discutir cómo interpretar un pronóstico y, especialmente, por qué sus resultados deben considerar la incertidumbre y las características de los datos disponibles.</div>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7d9482ff-6b56-4bbd-a6e6-ba84119af89d" alt="Figura 1: Presentaciones de los proyectos de series temporales" style="max-width:100%; height:auto;">
 </p>
@@ -37,12 +34,6 @@ El proyecto sugerido abordó el <strong>pronóstico de ventas</strong>, utilizan
 
 <br>
 <div style="text-align: justify;">Sin embargo, el proyecto no estaba restringido al problema de ventas. También fue posible trabajar con datos provenientes de los propios contextos profesionales de los estudiantes. Un ejemplo fue el análisis de la relación entre la <strong>lluvia en el río Coihueco y la turbiedad en la PTAP Caipulli</strong>, mostrando cómo las herramientas de series temporales pueden aplicarse a problemas ambientales y operacionales concretos.</div>
-
-<br>
-
-<div style="text-align: justify;">
-El <strong>cuarto grupo</strong> desarrolló un <strong>pronóstico en retail</strong>, comparando modelos simples basados en <strong>medias móviles</strong> de 3 y 8 días. Uno de los puntos más interesantes fue analizar que puede o no puede hacer el modelo y cuales eran las posibles mejoras.
-</div>
 
 <br>
 

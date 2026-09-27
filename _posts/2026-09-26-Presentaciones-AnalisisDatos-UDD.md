@@ -43,7 +43,7 @@ La sesión permitió cerrar el proyecto conectando el análisis técnico con su 
 
 <br>
 
-<div style="text-align: justify;">En conjunto, los proyectos mostraron que el análisis de series temporales puede abordar problemas muy distintos, desde la planificación de ventas hasta fenómenos ambientales y operacionales. Más que aplicar una técnica de manera aislada, el desafío fue comprender el problema, utilizar la evidencia disponible y comunicar conclusiones de forma clara y responsable.</div>
+<div style="text-align: justify;">En conjunto, los proyectos mostraron que el análisis de series temporales puede abordar problemas muy distintos, siendo siempre el desafío fue comprender el problema, utilizar la evidencia disponible y comunicar conclusiones de forma clara y responsable.</div>
 
 <br>
 

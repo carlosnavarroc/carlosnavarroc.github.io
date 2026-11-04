@@ -62,8 +62,9 @@ Los trabajos enviados fueron:
 
 4. **Developmental Social Isolation in Drosophila melanogaster: Decoding the Sensory "Hardware" and Behavioral "Software" under Stress.**
 
-<p align="center"><img width="600" height="600" alt="capture_temp" src="https://github.com/user-attachments/assets/e733b42e-bf32-495f-9850-636d0d79776c" />
+<p align="center"><img width="800" height="600" alt="capture_temp" src="https://github.com/user-attachments/assets/8f7aeb20-0768-4ba2-8ee7-0f7448817a5f" />
 </p>
+
 
 <p align="center">
   <em>Figura 3: Equipo de SIRC que presentò sus trabajos hoy</em>

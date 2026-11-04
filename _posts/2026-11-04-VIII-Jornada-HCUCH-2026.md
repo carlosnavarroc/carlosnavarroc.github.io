@@ -8,7 +8,19 @@ excerpt: "La VIII Jornadas de investigaciòn del HCUCH reunió a investigadores,
 
 La **VIII Jornadas de Investigación del Hospital Clínico de la Universidad de Chile** comenzó con la charla inaugural **“Explorando el metabolismo de una comunidad microbiana”**, presentada por el **Dr. Alejandro Maass**, profesor titular del Departamento de Ingeniería Matemática de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile. Posteriormente, se realizó la fotografía oficial del encuentro y una primera sesión de visita de pósteres, acompañada de un coffee break, que permitió a los asistentes conocer los trabajos de investigación y compartir experiencias con sus autores.
 
+
 La mañana continuó con el **Panel : IA clínica y medicina de precisión**. En esta sesión se presentaron cuatro iniciativas que abordaron distintas aplicaciones de inteligencia artificial en salud: el consorcio PRECISION-Ai y la herramienta Tumorsec; IA·TRAD Chile, orientada al apoyo diagnóstico en radiología y teleradiología; el uso de inteligencia artificial para facilitar la derivación oportuna de pacientes con cáncer pulmonar; y el desarrollo de sistemas de inteligencia artificial visual para detectar complicaciones postoperatorias y apoyar a los equipos de salud. El panel finalizó con una instancia de preguntas y discusión, seguida de la presentación oral de dos pósteres seleccionados y una nueva sesión de visita a los trabajos científicos.
+
+
+<p align="center"><img width="435" height="500" alt="capture_temp" src="https://github.com/user-attachments/assets/865f2d8b-14b4-44a8-a9e5-7ce3aa271c57" />
+</p>
+
+<p align="center">
+  <em>Figura 1: Charlista y Panelistas de la mañana.</em>
+</p>
+
+
+<img width="2880" height="2880" alt="20261104_123423" src="" />
 
 ---
 
@@ -28,6 +40,14 @@ Los trabajos enviados fueron:
 
 Estas investigaciones muestran la diversidad de aplicaciones de las tecnologías computacionales en el ámbito biomédico, integrando análisis de datos, procesamiento de imágenes, inteligencia artificial y trabajo interdisciplinario.
 
+<p align="center"><img width="435" height="500" alt="capture_temp" src="https://github.com/user-attachments/assets/66f304e4-c7d1-41eb-a721-8dae53ac2801" />
+</p>
+
+<p align="center">
+  <em>Figura 2: Equipo de Tech4Medics que presentò sus trabajos hoy</em>
+</p>
+
+
 ---
 
 # Neurociencias y aislamiento social: investigaciones de SIRC
@@ -44,6 +64,15 @@ Los trabajos enviados fueron:
 
 4. **Developmental Social Isolation in Drosophila melanogaster: Decoding the Sensory "Hardware" and Behavioral "Software" under Stress.**
 
+
+<p align="center"><img width="435" height="500" alt="capture_temp" src="https://github.com/user-attachments/assets/66f304e4-c7d1-41eb-a721-8dae53ac2801" />
+</p>
+
+<p align="center">
+  <em>Figura 3: Equipo de SIRC que presentò sus trabajos hoy</em>
+</p>
+
+
 En conjunto, estas propuestas buscan comprender cómo las experiencias de aislamiento social pueden influir en diferentes etapas de la vida, desde el desarrollo y la regulación circadiana hasta los cambios cognitivos asociados al envejecimiento.
 
-a participación de **Tech4Medics y SIRC** en esta jornada refleja la diversidad de líneas de investigación que vinculan tecnología, inteligencia artificial, ciencias biomédicas y salud. Asimismo, constituye una oportunidad para compartir avances, generar nuevas colaboraciones y fortalecer el trabajo interdisciplinario dentro de la comunidad científica.
+La participación de **Tech4Medics y SIRC** en esta jornada refleja la diversidad de líneas de investigación que vinculan tecnología, inteligencia artificial, ciencias biomédicas y salud. Asimismo, constituye una oportunidad para compartir avances, generar nuevas colaboraciones y fortalecer el trabajo interdisciplinario dentro de la comunidad científica.

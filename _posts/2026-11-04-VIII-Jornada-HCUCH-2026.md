@@ -20,8 +20,6 @@ La mañana continuó con el **Panel : IA clínica y medicina de precisión**. En
 </p>
 
 
-<img width="2880" height="2880" alt="20261104_123423" src="" />
-
 ---
 
 # Investigación en inteligencia artificial y salud: trabajos de Tech4Medics

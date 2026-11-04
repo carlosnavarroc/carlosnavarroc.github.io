@@ -63,7 +63,9 @@ Los trabajos enviados fueron:
 4. **Developmental Social Isolation in Drosophila melanogaster: Decoding the Sensory "Hardware" and Behavioral "Software" under Stress.**
 
 
-<p align="center"><img width="600" height="600" alt="capture_temp" src="https://github.com/user-attachments/assets/66f304e4-c7d1-41eb-a721-8dae53ac2801" />
+
+
+<p align="center"><img width="600" height="600" alt="capture_temp" src="https://github.com/user-attachments/assets/a28e52f7-9935-418e-877a-2abfc33a0db7" />
 </p>
 
 <p align="center">

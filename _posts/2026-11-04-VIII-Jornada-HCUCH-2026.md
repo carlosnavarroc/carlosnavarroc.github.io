@@ -12,7 +12,7 @@ La **VIII Jornadas de Investigación del Hospital Clínico de la Universidad de 
 La mañana continuó con el **Panel : IA clínica y medicina de precisión**. En esta sesión se presentaron cuatro iniciativas que abordaron distintas aplicaciones de inteligencia artificial en salud: el consorcio PRECISION-Ai y la herramienta Tumorsec; IA·TRAD Chile, orientada al apoyo diagnóstico en radiología y teleradiología; el uso de inteligencia artificial para facilitar la derivación oportuna de pacientes con cáncer pulmonar; y el desarrollo de sistemas de inteligencia artificial visual para detectar complicaciones postoperatorias y apoyar a los equipos de salud. El panel finalizó con una instancia de preguntas y discusión, seguida de la presentación oral de dos pósteres seleccionados y una nueva sesión de visita a los trabajos científicos.
 
 
-<p align="center"><img width="435" height="500" alt="capture_temp" src="https://github.com/user-attachments/assets/865f2d8b-14b4-44a8-a9e5-7ce3aa271c57" />
+<p align="center"><img width="600" height="600" alt="capture_temp" src="https://github.com/user-attachments/assets/865f2d8b-14b4-44a8-a9e5-7ce3aa271c57" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Los trabajos enviados fueron:
 
 Estas investigaciones muestran la diversidad de aplicaciones de las tecnologías computacionales en el ámbito biomédico, integrando análisis de datos, procesamiento de imágenes, inteligencia artificial y trabajo interdisciplinario.
 
-<p align="center"><img width="435" height="500" alt="capture_temp" src="https://github.com/user-attachments/assets/66f304e4-c7d1-41eb-a721-8dae53ac2801" />
+<p align="center"><img width="600" height="600" alt="capture_temp" src="https://github.com/user-attachments/assets/66f304e4-c7d1-41eb-a721-8dae53ac2801" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Los trabajos enviados fueron:
 4. **Developmental Social Isolation in Drosophila melanogaster: Decoding the Sensory "Hardware" and Behavioral "Software" under Stress.**
 
 
-<p align="center"><img width="435" height="500" alt="capture_temp" src="https://github.com/user-attachments/assets/66f304e4-c7d1-41eb-a721-8dae53ac2801" />
+<p align="center"><img width="600" height="600" alt="capture_temp" src="https://github.com/user-attachments/assets/66f304e4-c7d1-41eb-a721-8dae53ac2801" />
 </p>
 
 <p align="center">

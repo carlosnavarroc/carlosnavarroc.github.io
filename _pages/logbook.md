@@ -38,6 +38,7 @@ This timeline documents my professional work across applied AI, computer vision,
 - **University of Chile:** Electrical Engineering Laboratory (EL3201) and Computational Intelligence and Robotics Laboratory (EL5206).
 
 **Second Semester 2026**
+- **UDD:** Data Analysis, Master's in Data Science (August-September).
 - **University of Chile:** Continued teaching activities in the Electrical Engineering Laboratory (EL3201) and Computational Intelligence and Robotics Laboratory (EL5206).
 - **UNAB Advance:** Circuits II and Random Signal Analysis.
 
@@ -54,7 +55,7 @@ This timeline documents my professional work across applied AI, computer vision,
 - Documentation of research activities involving *Drosophila* and social isolation.
 - Participation in SOTL 2026 activities focused on interdisciplinary research connecting social isolation, neurobiology and education.
 
-**Traceable outputs:** Seminar documentation and research dissemination activities associated with SIRC and SOTL 2026.
+**Traceable outputs:** Seminar documentation and research dissemination [activities](https://carlosnavarroc.github.io/posts/2026/10/22/sirc-ctgn-2026/) associated with [SIRC](https://carlosnavarroc.github.io/blog/cica2026-envio-posters/) and [SOTL 2026](https://carlosnavarroc.github.io/posts/2026/09/30/sotl-2026-aislamiento-social-neurobiologia-educacion/).
 
 ### AI and Innovation in Healthcare
 
@@ -67,7 +68,7 @@ This timeline documents my professional work across applied AI, computer vision,
 - Documentation and dissemination of developments involving AI-based tools for medical image and biomedical signal analysis.
 - Communication of applications aimed at supporting clinical diagnosis, improving procedural standardization and enabling new technologies for precision medicine.
 
-**Traceable outputs:** [Tech4Medics Lab](https://www.tech4medics.cl/team/) and its research and technology dissemination activities.
+**Traceable outputs:** [Tech4Medics Lab](https://www.tech4medics.cl/team/) and its research and [technology dissemination](https://carlosnavarroc.github.io/posts/2026/10/07/festival-ciencia-tecnologia-2026/) [activities](https://carlosnavarroc.github.io/blog/viii-jornada-HCUCH-2026/).
 
 ## 2019–2025 — AI for Healthcare and Neuroscience
 

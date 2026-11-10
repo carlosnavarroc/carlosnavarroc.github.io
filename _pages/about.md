@@ -18,7 +18,7 @@ I build production-ready AI systems that solve real-world problems. Over the las
 * **Top-3 worldwide** in the Cell Tracking Challenge (IEEE CAI 2023).
 * Built AI systems supporting clinical decision-making and reducing manual workflows.
 * Designed Computer Vision solutions for mining, industrial automation, and monitoring.
-* Taught **70+ undergraduate and graduate courses** in AI, Computer Vision, and Engineering.
+* Taught **80+ undergraduate and graduate courses** in AI, Computer Vision, and Engineering.
 
 ---
 

@@ -94,21 +94,28 @@ End-to-end design of AI-driven systems combining:
 
 ## Additional University Teaching Experience
 
-### Universidad del Desarrollo (UDD)
+<details markdown="1">
+<summary><strong>Universidad del Desarrollo (UDD)</strong> — Master's in Data Science</summary>
 
-**Master's in Data Science**
+**Recent (2026)**
 
-- **Data Analysis** (August–October 2026)
-- **Deep Learning** (March–April 2026)
+- Deep Learning (March–April 2026)
 
-### Universidad Santo Tomás (UST)
+**Previous teaching experience**
+
+- Data Analysis
+
+</details>
+
+<details markdown="1">
+<summary><strong>Universidad Santo Tomás (UST)</strong></summary>
 
 **Recent (2025–2026)**
 
 - Electricity and Magnetism
 - Statics and Dynamics
 - Waves, Optics and Heat
-- Elements of Mechanics and Strength of Materials
+- Mechanics and Strength of Materials
 
 **Previous (2017–2022)**
 
@@ -117,7 +124,10 @@ End-to-end design of AI-driven systems combining:
 - Differential Equations
 - Electricity and Magnetism
 
-### Universidad Andrés Bello (UNAB)
+</details>
+
+<details markdown="1">
+<summary><strong>Universidad Andrés Bello (UNAB)</strong></summary>
 
 **First Semester 2026**
 
@@ -135,10 +145,14 @@ End-to-end design of AI-driven systems combining:
 - Calculus
 - Introduction to Mathematics
 
+</details>
+
 ---
+
 ## Specialized Professional Training
 
-### Module 5 – Image Modeling and Processing in Mining and Metallurgy
+<details markdown="1">
+<summary><strong>Module 5 – Image Modeling and Processing in Mining and Metallurgy</strong> — November 2026</summary>
 
 **Diploma in Advanced Modeling Applications in Mining and Metallurgy**  
 **Department of Mining Engineering, Faculty of Physical and Mathematical Sciences, University of Chile**  
@@ -155,12 +169,14 @@ Image modeling and processing methods for applications in mining and metallurgy.
 - Image-based modeling approaches
 - Computational methods for industrial image analysis
 
+</details>
 
 ---
 
 ## Early Teaching – Universidad de Chile
 
-### Electrical Engineering Department (DIE)
+<details markdown="1">
+<summary><strong>Electrical Engineering Department (DIE)</strong> — 2009–2019</summary>
 
 - Digital Systems Laboratory (2011–2019)
 - Signals and Systems (2012–2017)
@@ -169,11 +185,16 @@ Image modeling and processing methods for applications in mining and metallurgy.
 - Information Processing Systems (2010)
 - Electronics Laboratory (2009–2011)
 
-### Mathematical Engineering Department (DIM)
+</details>
+
+<details markdown="1">
+<summary><strong>Mathematical Engineering Department (DIM)</strong> — 2005–2007</summary>
 
 - Linear Algebra (2007)
 - Numerical Calculus (2005–2007)
 - Numerical Calculus Laboratory (2005–2007)
+
+</details>
 
 ---
 
@@ -187,24 +208,34 @@ My supervision approach focuses on:
 
 ### Thesis Supervision (Selected)
 
-#### Advisor – Universidad de Chile
+<details markdown="1">
+<summary><strong>Advisor – Universidad de Chile</strong></summary>
 
 - Computer vision systems for sperm morphology analysis (2026, ongoing)
 - Transformer-based vehicle identification systems ([2026](https://www.cec.uchile.cl/~canavarr/Tesis/cf-vega_da_compressed.pdf))
 - AI-based glaucoma diagnosis systems ([2024](https://www.cec.uchile.cl/~canavarr/Tesis/cf-zamorano_mc_compressed.pdf))
 - Cancer imaging classification with vision transformers ([2023](https://www.cec.uchile.cl/~canavarr/Tesis/cf-munoz_dr_compressed.pdf))
 
-#### Co-Advisor – Universidad de Chile
+</details>
+
+<details markdown="1">
+<summary><strong>Co-Advisor – Universidad de Chile</strong></summary>
 
 - AI-based monitoring of calving processes ([2026, ongoing](https://www.cec.uchile.cl/~canavarr/Posters/2024_AdvancedGlacier_Zapata.pdf))
 - Deep learning sperm segmentation systems ([2025](https://www.cec.uchile.cl/~canavarr/Tesis/cf-nilo_pv_compressed.pdf))
 
-#### Committee Member
+</details>
+
+<details markdown="1">
+<summary><strong>Committee Member</strong></summary>
 
 - Imaging AI systems ([2023](https://www.cec.uchile.cl/~canavarr/Tesis/cf-hernandez_ga_compressed.pdf)–[2025](https://www.cec.uchile.cl/~canavarr/Tesis/cf-castelli_bp_compressed.pdf))
 - Industrial computer vision systems ([2023](https://www.cec.uchile.cl/~canavarr/Tesis/cf-mirauda_fl_compressed.pdf))
 
-#### External Evaluator – Tech4Medics Lab
+</details>
+
+<details markdown="1">
+<summary><strong>External Evaluator – Tech4Medics Lab</strong></summary>
 
 Evaluation of applied AI systems in clinical environments:
 
@@ -212,12 +243,19 @@ Evaluation of applied AI systems in clinical environments:
 - Diagnostic support systems
 - Biomedical signal analysis
 
-### Internship Supervision (SCIANLab)
+</details>
+
+### Internship Supervision
+
+<details markdown="1">
+<summary><strong>Research Internships – SCIANLab</strong></summary>
 
 - Biomedical image segmentation systems
 - Transformer-based vision models
 - Embryo and cellular imaging systems
 - Low-data learning scenarios in medical imaging
+
+</details>
 
 ---
 

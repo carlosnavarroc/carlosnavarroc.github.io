@@ -70,6 +70,21 @@ This timeline documents my professional work across applied AI, computer vision,
 
 **Traceable outputs:** [Tech4Medics Lab](https://www.tech4medics.cl/team/) and its research and [technology dissemination](https://carlosnavarroc.github.io/posts/2026/10/07/festival-ciencia-tecnologia-2026/) [activities](https://carlosnavarroc.github.io/blog/viii-jornada-HCUCH-2026/).
 
+### Institutional Governance and Electoral Process — CORFUCH
+
+**Context:** Corporación de Fútbol Profesional de la Universidad de Chile (CORFUCH). Institutional electoral process marking the organization's first election in 20 years.
+
+**System focus:** Electoral governance, institutional documentation and procedural review to support the implementation of an updated electoral process under longstanding organizational statutes.
+
+**Contributions:**
+- Appointment as a member of the Electoral Tribunal (TRICEL).
+- Participation in meetings and institutional coordination related to the electoral process.
+- Review and updating of electoral documentation and procedures required to conduct the election.
+- Work addressing outdated institutional statutes and documentation that had remained largely unchanged for approximately two decades.
+- Participation in the oversight and implementation of this historic electoral process.
+
+**Traceable outputs:** [CORFUCH electoral process and updated electoral documentation](https://socioscorfuch.cl/elecciones2026/), 2026.
+
 ## 2019–2025 — AI for Healthcare and Neuroscience
 
 **Context:** Data Scientist — Faculty of Medicine, University of Chile. Research and technology development across Neurosystems, SCIANLab and AudioBrain.

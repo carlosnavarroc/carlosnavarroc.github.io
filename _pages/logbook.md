@@ -7,9 +7,14 @@ author_profile: true
 
 This timeline documents my professional work across applied AI, computer vision, biomedical engineering, research software and experimental systems. It focuses on the technical challenges, systems and contributions behind each experience, complementing the project-oriented overview in [Applied AI & Engineering](/applied-ai/) and the detailed record of my academic activities in [Teaching](/teaching/).
 
+---
+
 ## 2026 — Applied AI, Engineering and Interdisciplinary Research
 
 ### Experimental Platforms and Behavioral AI
+
+<details markdown="1">
+<summary><strong>IoT and Computer Vision Platform for Animal Behavior Analysis</strong> — UDLA</summary>
 
 **Context:** Animal behavior analysis systems — Veterinary Medicine, Universidad de Las Américas (UDLA).
 
@@ -23,7 +28,12 @@ This timeline documents my professional work across applied AI, computer vision,
 
 **Traceable outputs:** [Impulsivity and canine behavior analysis platform](https://carlosnavarroc.github.io/posts/2026/03/30/impulsividad-canina-plataforma/).
 
+</details>
+
 ### University Teaching and Engineering Education
+
+<details markdown="1">
+<summary><strong>University Teaching and Engineering Education</strong> — UDD, UST, UNAB and University of Chile</summary>
 
 **Context:** Undergraduate and graduate education across Universidad del Desarrollo (UDD), Universidad Santo Tomás (UST), Universidad Andrés Bello (UNAB) and Universidad de Chile.
 
@@ -38,13 +48,18 @@ This timeline documents my professional work across applied AI, computer vision,
 - **University of Chile:** Electrical Engineering Laboratory (EL3201) and Computational Intelligence and Robotics Laboratory (EL5206).
 
 **Second Semester 2026**
-- **UDD:** Data Analysis, Master's in Data Science (August-September).
+- **UDD:** Data Analysis, Master's in Data Science (August–September).
 - **University of Chile:** Continued teaching activities in the Electrical Engineering Laboratory (EL3201) and Computational Intelligence and Robotics Laboratory (EL5206).
 - **UNAB Advance:** Circuits II and Random Signal Analysis.
 
 **Traceable outputs:** Course materials, laboratory activities and student projects are documented in the [Teaching section](/teaching/).
 
+</details>
+
 ### Interdisciplinary Research on Social Isolation
+
+<details markdown="1">
+<summary><strong>SIRC — Interdisciplinary Research on Social Isolation</strong></summary>
 
 **Context:** SIRC — Interdisciplinary research on social isolation.
 
@@ -57,7 +72,12 @@ This timeline documents my professional work across applied AI, computer vision,
 
 **Traceable outputs:** Seminar documentation and research dissemination [activities](https://carlosnavarroc.github.io/posts/2026/10/22/sirc-ctgn-2026/) associated with [SIRC](https://carlosnavarroc.github.io/blog/cica2026-envio-posters/) and [SOTL 2026](https://carlosnavarroc.github.io/posts/2026/09/30/sotl-2026-aislamiento-social-neurobiologia-educacion/).
 
+</details>
+
 ### AI and Innovation in Healthcare
+
+<details markdown="1">
+<summary><strong>Tech4Medics Lab — AI and Innovation in Healthcare</strong></summary>
 
 **Context:** Tech4Medics Lab — interdisciplinary research and technology development in healthcare.
 
@@ -70,7 +90,12 @@ This timeline documents my professional work across applied AI, computer vision,
 
 **Traceable outputs:** [Tech4Medics Lab](https://www.tech4medics.cl/team/) and its research and [technology dissemination](https://carlosnavarroc.github.io/posts/2026/10/07/festival-ciencia-tecnologia-2026/) [activities](https://carlosnavarroc.github.io/blog/viii-jornada-HCUCH-2026/).
 
+</details>
+
 ### Institutional Governance and Electoral Process — CORFUCH
+
+<details markdown="1">
+<summary><strong>Electoral Tribunal (TRICEL) — CORFUCH 2026</strong></summary>
 
 **Context:** Corporación de Fútbol Profesional de la Universidad de Chile (CORFUCH). Institutional electoral process marking the organization's first election in 20 years.
 
@@ -85,18 +110,26 @@ This timeline documents my professional work across applied AI, computer vision,
 
 **Traceable outputs:** [CORFUCH electoral process and updated electoral documentation](https://socioscorfuch.cl/elecciones2026/), 2026.
 
+</details>
+
+---
+
 ## 2019–2025 — AI for Healthcare and Neuroscience
 
 **Context:** Data Scientist — Faculty of Medicine, University of Chile. Research and technology development across Neurosystems, SCIANLab and AudioBrain.
 
 **System focus:** Applied artificial intelligence, biomedical signal processing, computer vision and research software for healthcare applications.
 
-**Contributions:**
+**Contributions:** Research, development and implementation of computational methods and software tools across biomedical signal analysis, medical imaging and healthcare technology.
 
 ### EEG Predictive Models and Physiological Signal Analysis
 
+<details markdown="1">
+<summary><strong>EEG Predictive Models and Physiological Signal Analysis</strong></summary>
+
 Development and evaluation of predictive models using EEG and physiological signals to investigate clinical outcomes and characterize brain activity.
 
+**Contributions:**
 - Spectral analysis and feature extraction from electrophysiological recordings.
 - Analysis of anesthetic effects and physiological responses.
 - Machine learning approaches for clinical prediction and signal characterization.
@@ -105,7 +138,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [PEUMA project — COPEC-UC innovation competition](https://carlosnavarroc.github.io/posts/2024/01/29/peuma-ganador-concurso-copec-uc/).
 - FONDEF projects ID19I10345 and ID20I10371.
 
+</details>
+
 ### Glaucoma Diagnostic Support
+
+<details markdown="1">
+<summary><strong>Machine Learning and Chromatic Pupillometry for Glaucoma</strong></summary>
 
 **Context:** Biomedical research on glaucoma and ocular physiological measurements.
 
@@ -121,7 +159,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [Master's thesis](https://www.cec.uchile.cl/~canavarr/Tesis/cf-zamorano_mc_compressed.pdf).
 - [Research poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_MZamorano_Diagnostico.pdf).
 
+</details>
+
 ### Deep Learning for Biomedical Imaging
+
+<details markdown="1">
+<summary><strong>Deep Learning and Computer Vision for Biomedical Imaging</strong></summary>
 
 **Context:** Biomedical image analysis and computational microscopy at SCIANLab.
 
@@ -138,7 +181,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [RaViTT preprint](https://arxiv.org/abs/2306.10959).
 - [Student research and thesis projects](https://carlosnavarroc.github.io/posts/2023/12/29/comites-tesis-vision-ia/).
 
+</details>
+
 ### Biomedical Imaging Software — VolumePeeler
+
+<details markdown="1">
+<summary><strong>VolumePeeler — FIJI Plugin for Biomedical Image Analysis</strong></summary>
 
 **Context:** Computational tools for quantitative analysis of biological microscopy images.
 
@@ -154,7 +202,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [SCIANForce and SCIANDrop research poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_MCarvajal_SCIANForceSCIANDrop.pdf).
 - [In vivo research poster](https://www.cec.uchile.cl/~canavarr/Posters/2024_NGuerrero_InVivo.pdf).
 
+</details>
+
 ### Early Detection of Cognitive Decline — AudioBrain
+
+<details markdown="1">
+<summary><strong>AudioBrain — Otoacoustic Emissions and Cognitive Health</strong></summary>
 
 **Context:** AudioBrain, a healthcare technology initiative developed through University of Chile research and innovation activities.
 
@@ -170,7 +223,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [Alzheimer's & Dementia publication](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/dad2.12467).
 - [AudioBrain at Congreso Futuro](https://carlosnavarroc.github.io/posts/2026/01/15/audiobrain-congreso-futuro/).
 
+</details>
+
 ### Population Mental Health and Social Isolation
+
+<details markdown="1">
+<summary><strong>Loneliness, Social Isolation and Aging Populations</strong></summary>
 
 **Context:** Interdisciplinary research on loneliness, social isolation and aging populations.
 
@@ -185,13 +243,20 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [Frontiers in Psychology — 2026](https://doi.org/10.3389/fpsyg.2025.1683933).
 - [Alzheimer's & Dementia — 2025 publication](https://carlosnavarroc.github.io/publication/2025-01-09-characterization-loneliness).
 
+</details>
+
 **Research affiliations and collaborations:**
 - [Neurosystems](https://neurosistemas.cl/en/2021/10/19/carlos-navarro/).
 - [SCIANLab](https://scian.cl/scientific-image-analysis/team-members-scianlab/).
 - [AudioBrain](https://dpoae.scian.cl/).
 - [Tech4Medics Lab](https://www.tech4medics.cl/team/).
 
+---
+
 ## 2018 — Geotechnical Monitoring and Industrial IoT
+
+<details markdown="1">
+<summary><strong>Wireless Sensing and Slope Monitoring — CSIRO Chile</strong></summary>
 
 **Context:** Applied research engineering collaboration with CSIRO Chile.
 
@@ -204,16 +269,22 @@ Development and evaluation of predictive models using EEG and physiological sign
 
 **Traceable outputs:** [Wireless slope monitoring — MPES 2019](https://carlosnavarroc.github.io/publication/2019-11-30-wireless-slope-monitoring/).
 
+</details>
+
+---
+
 ## 2009–2017 — Computer Vision and Industrial AI Systems
 
 **Context:** Applied Research Engineer — Faculty of Physical and Mathematical Sciences, University of Chile.
 
 **System focus:** Computer vision, image analysis and machine learning for industrial applications, particularly mining and retail analytics.
 
-**Contributions:**
-
 ### Mining Vision and Material Characterization
 
+<details markdown="1">
+<summary><strong>Computer Vision for Mining and Material Characterization</strong></summary>
+
+**Contributions:**
 - Development of image-processing and computer vision methods for lithological classification.
 - Texture analysis and feature extraction for rock characterization.
 - Video-based rock size estimation and material analysis.
@@ -223,7 +294,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [Gabor-based lithological classification poster](https://www.cec.uchile.cl/~canavarr/Posters/2013_Lithological_Gabor.pdf).
 - [Rock estimation poster](https://www.cec.uchile.cl/~canavarr/Posters/2012_Rock_Estimation.pdf).
 
+</details>
+
 ### Retail Analytics
+
+<details markdown="1">
+<summary><strong>Computer Vision for Retail Analytics</strong></summary>
 
 **Context:** Industrial computer vision for retail environments.
 
@@ -236,9 +312,16 @@ Development and evaluation of predictive models using EEG and physiological sign
 
 **Traceable outputs:** INNOVA project 13IDL2-23589.
 
+</details>
+
+---
+
 ## Additional Engineering and Digital Systems
 
 ### Independent Film and Audiovisual Production
+
+<details markdown="1">
+<summary><strong>Independent Film and Audiovisual Production</strong></summary>
 
 **Context:** Independent audiovisual production and digital media.
 
@@ -248,7 +331,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 
 **Traceable outputs:** [Filmography and audiovisual work](https://tinyurl.com/CNC-IMDB).
 
+</details>
+
 ### Urban Documentation and Cultural Heritage
+
+<details markdown="1">
+<summary><strong>Urban Photography and Historical Documentation</strong></summary>
 
 **Context:** Independent documentation of urban environments, architecture and historical visual records.
 
@@ -264,7 +352,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 - [DeLoreanCamara](https://carlosnavarroc.github.io/posts/2026/02/delorean-camara/).
 - [Historical image alignment](https://carlosnavarroc.github.io/posts/2025/12/30/delorean-camara/).
 
+</details>
+
 ### Virtual University Campus
+
+<details markdown="1">
+<summary><strong>Virtual University Campus — Gather Town</strong></summary>
 
 **Context:** Digital collaboration and virtual learning environments.
 
@@ -274,7 +367,12 @@ Development and evaluation of predictive models using EEG and physiological sign
 
 **Traceable outputs:** [Virtual campus](https://tinyurl.com/beauchefvirtual).
 
+</details>
+
 ### Photography and Event Documentation
+
+<details markdown="1">
+<summary><strong>Photography and Event Documentation</strong></summary>
 
 **Context:** Cultural, academic and sporting events.
 
@@ -284,9 +382,16 @@ Development and evaluation of predictive models using EEG and physiological sign
 
 **Traceable outputs:** [Photography and visual documentation](https://www.instagram.com/carlosfnavarroc/).
 
+</details>
+
+---
+
 ## Academic Foundations
 
 ### PhD in Electrical Engineering — University of Chile (2020)
+
+<details markdown="1">
+<summary><strong>Doctoral Research — Multiscale Feature Systems for Image Classification</strong></summary>
 
 **Context:** Doctoral research in electrical engineering and computer vision.
 
@@ -299,13 +404,23 @@ Development and evaluation of predictive models using EEG and physiological sign
 
 **Traceable outputs:** [Doctoral thesis — University of Chile](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2020.pdf).
 
+</details>
+
 ### Diploma in Electrophysiology — University of Chile (2019)
+
+<details markdown="1">
+<summary><strong>Electrophysiological Measurement and Analysis</strong></summary>
 
 **Context:** Specialized training in electrophysiological technologies.
 
 **System focus:** Electrophysiological measurement and analysis.
 
+</details>
+
 ### Electrical Engineering — University of Chile (2010)
+
+<details markdown="1">
+<summary><strong>Undergraduate Research — Iris Detection Using Particle Swarm Optimization</strong></summary>
 
 **Context:** Undergraduate engineering research.
 
@@ -314,3 +429,5 @@ Development and evaluation of predictive models using EEG and physiological sign
 **Contributions:** Development and evaluation of image-processing and optimization methods for iris detection.
 
 **Traceable outputs:** [Undergraduate thesis — University of Chile](https://www.cec.uchile.cl/~canavarr/Tesis/Navarro_2010.pdf).
+
+</details>

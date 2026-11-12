@@ -125,39 +125,60 @@ author_profile: true
 
 </div>
 
----
-
 ### Flagship Contributions
 
-#### Cell Tracking Challenge — 2nd Place
+<details markdown="1">
+<summary><strong>Cell Tracking Challenge — 2nd Place</strong></summary>
+
 Biomedical 3D segmentation system for high-precision volumetric analysis in an international benchmark competition.
 
-#### Auditory Biomarkers for Cognitive Decline Detection
-Signal processing and machine learning framework for early detection of cognitive decline. Top 10 most cited publication (2024).
+</details>
 
----
+<details markdown="1">
+<summary><strong>Auditory Biomarkers for Cognitive Decline Detection</strong></summary>
+
+Signal processing and machine learning framework for early detection of cognitive decline. Associated publication ranked among the top 10 most cited publications in 2024.
+
+</details>
 
 ### Core AI Systems
 
-#### EEG-based Postoperative Risk Prediction System
+<details markdown="1">
+<summary><strong>EEG-based Postoperative Risk Prediction System</strong></summary>
+
 Machine learning system for clinical decision support using physiological signals in healthcare environments.
 
-#### IoT-based Behavioral Analysis Platform
+</details>
+
+<details markdown="1">
+<summary><strong>IoT-based Behavioral Analysis Platform</strong></summary>
+
 Real-time AI system integrating computer vision and IoT sensors for behavioral monitoring and analytics.
 
-#### Industrial Computer Vision Systems (Mining & Retail)
+</details>
+
+<details markdown="1">
+<summary><strong>Industrial Computer Vision Systems — Mining & Retail</strong></summary>
+
 Computer vision pipelines for automation, inspection, and process optimization in industrial environments.
 
----
+</details>
 
 ### Research & Engineering Tools
 
-#### VolumePeeler — 3D Biomedical Image Analysis Tool
+<details markdown="1">
+<summary><strong>VolumePeeler — 3D Biomedical Image Analysis Tool</strong></summary>
+
 Interactive FIJI/ImageJ plugin for volumetric image analysis and visualization.
 
-#### RaViTT — Vision Transformer for Biomedical Image Classification
+</details>
+
+<details markdown="1">
+<summary><strong>RaViTT — Vision Transformer for Biomedical Image Classification</strong></summary>
+
 Deep learning architecture for biomedical image classification under data-constrained settings.
 
+</details>
 
 ---
 
@@ -187,15 +208,11 @@ Deep learning architecture for biomedical image classification under data-constr
 <div style="text-align: justify;">
 
 <p>If you are interested in specific aspects of my work, you may also find the following sections useful:</p>
+
 </div>
 
 - **[Professional Timeline](https://carlosnavarroc.github.io/logbook/)** — Chronological documentation of projects, experiments, engineering decisions, and technical learning.
-
 - **[Publications](https://carlosnavarroc.github.io/publications/)** — Peer-reviewed articles, conference papers, and scientific contributions.
-
 - **[Teaching](https://carlosnavarroc.github.io/teaching/)** — University courses, supervision, mentoring, workshops, and educational activities.
-
 - **[About](https://carlosnavarroc.github.io/)** — My engineering background, professional philosophy, and career journey.
-
 - **[Curriculum Vitae](https://carlosnavarroc.github.io/cv/)** — Formal summary of professional experience, education, awards, and technical skills.
-

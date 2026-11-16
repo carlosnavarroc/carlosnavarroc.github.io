@@ -8,7 +8,7 @@ excerpt: "Benjamín Fuentes, Carla Jorquera y Francisco Romero obtuvieron import
 
 # Reconociendo el crecimiento de nuevos investigadores
 
-En **Tech4Medics** queremos felicitar a **Benjamín Fuentes y Carla Jorquera** por su trabajo **«Variabilidad interobservador en la segmentación anatómica mamográfica para el entrenamiento de algoritmos de inteligencia artificial»**, presentado en el marco del Programa Ayudante Alumnos. De un total de 78 trabajos, su investigación fue seleccionada entre las mejores, constituyendo un importante reconocimiento a su esfuerzo y dedicación.
+En **Tech4Medics** queremos felicitar a **Benjamín Fuentes y Carla Jorquera** por su trabajo **"Variabilidad interobservador en la segmentación anatómica mamográfica para el entrenamiento de algoritmos de inteligencia artificial"**, presentado en el marco del Programa Ayudante Alumnos. De un total de 78 trabajos, su investigación fue seleccionada entre las mejores, constituyendo un importante reconocimiento a su esfuerzo y dedicación.
 
 Junto con **Víctor Castañeda y Denisse Karl**, queremos destacar especialmente el camino que han recorrido Benja y Carla. Ambos se incorporaron al laboratorio cuando cursaban segundo año de sus carreras y, paso a paso, han ido desarrollando sus habilidades, adquiriendo experiencia y creciendo como investigadores. Es una gran satisfacción ver cómo han avanzado y cómo han asumido nuevos desafíos en su formación científica.
 
@@ -16,7 +16,7 @@ Junto con **Víctor Castañeda y Denisse Karl**, queremos destacar especialmente
 
 # Segundo lugar para Francisco Romero en jornadas científicas
 
-También felicitamos a **Francisco Romero**, quien presentó el trabajo **«Caracterización ecográfica del tejido renal en una población rural de Chile mediante Inteligencia Artificial»** en la convocatoria al **9.º Concurso de Trabajos Científicos de las XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana**, obteniendo el **segundo lugar**.
+También felicitamos a **Francisco Romero**, quien presentó el trabajo **"Caracterización ecográfica del tejido renal en una población rural de Chile mediante Inteligencia Artificial"** en la convocatoria al **9.º Concurso de Trabajos Científicos de las XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana**, obteniendo el **segundo lugar**.
 
 Este reconocimiento destaca el valor de una investigación que integra inteligencia artificial y procesamiento de imágenes médicas para la caracterización del tejido renal, explorando nuevas herramientas computacionales con potencial aplicación en el ámbito de la salud.
 

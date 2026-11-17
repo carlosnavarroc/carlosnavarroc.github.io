@@ -3,7 +3,7 @@ title: "Jóvenes investigadores de Tech4Medics obtienen importantes reconocimien
 date: 2026-11-16
 permalink: /blog/reconocimientos-jovenes-investigadores-tech4medics-2026/
 tags: ["Tech4Medics", "inteligencia artificial", "investigación", "formación de investigadores", "salud", "Universidad de Chile"]
-excerpt: "Benjamín Fuentes, Carla Jorquera y Francisco Romero obtuvieron importantes reconocimientos por sus trabajos de investigación en inteligencia artificial aplicada a la salud."
+excerpt: "Investigadores jovenes de Tech4Medics obtuvieron importantes reconocimientos por sus trabajos de investigación en inteligencia artificial aplicada a la salud."
 ---
 
 # Reconociendo el crecimiento de nuevos investigadores
@@ -34,4 +34,4 @@ Nos llena de orgullo ver cómo los jóvenes investigadores de **Tech4Medics** cr
 
 Como equipo, valoramos especialmente el proceso que hay detrás de cada uno de estos resultados: aprender, experimentar, equivocarse, perseverar y descubrir nuevas posibilidades a través de la investigación.
 
-**¡Felicitaciones a Benja, Carla y Francisco por estos importantes logros!**
+**¡Felicitaciones por estos importantes logros!**

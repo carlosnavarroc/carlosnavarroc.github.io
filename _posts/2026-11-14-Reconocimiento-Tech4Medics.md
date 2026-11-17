@@ -27,7 +27,7 @@ Este reconocimiento destaca el valor de una investigación que integra inteligen
 </p>
 
 <p align="center">
-  <em>Figura 1: Jovenes investigadores de Tech4Medics.</em>
+  <em>Figura 1: Investigadores de Tech4Medics.</em>
 </p>
 
 Nos llena de orgullo ver cómo los jóvenes investigadores de **Tech4Medics** crecen, asumen nuevos desafíos y alcanzan importantes logros. Estos reconocimientos reflejan su esfuerzo, compromiso y dedicación, y nos motivan a seguir acompañándolos en su desarrollo.

@@ -16,7 +16,7 @@ Junto con **Víctor Castañeda y Denisse Karl**, queremos destacar especialmente
 
 # Segundo lugar para Francisco Romero en jornadas científicas
 
-También felicitamos a **Francisco Romero**, quien presentó el trabajo **"Caracterización ecográfica del tejido renal en una población rural de Chile mediante Inteligencia Artificial"** en la convocatoria al **9.º Concurso de Trabajos Científicos de las XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana**, obteniendo el **segundo lugar**.
+También felicitamos a **Francisco Romero**, quien presentó el trabajo **"Caracterización ecográfica del tejido renal en una población rural de Chile mediante Inteligencia Artificial"** realizado en colaboración con **Catalina Tobar**, en la convocatoria al **9.º Concurso de Trabajos Científicos de las XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana**, obteniendo el **segundo lugar**.
 
 Este reconocimiento destaca el valor de una investigación que integra inteligencia artificial y procesamiento de imágenes médicas para la caracterización del tejido renal, explorando nuevas herramientas computacionales con potencial aplicación en el ámbito de la salud.
 

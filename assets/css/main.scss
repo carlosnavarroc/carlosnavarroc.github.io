@@ -86,7 +86,12 @@ h4 {
   margin-bottom: 0.35rem;
   opacity: 0.9;
 }
-/* Justificar los párrafos de las publicaciones */
-.layout--single .page__content p {
-  text-align: justify;
+/* Justificar el texto de las publicaciones */
+.page__content {
+  p,
+  li {
+    text-align: justify !important;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
 }

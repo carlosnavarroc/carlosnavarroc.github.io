@@ -1,6 +1,6 @@
 ---
 title: "XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana de Santiago 2026"
-date: 2026-11-18
+date: 2026-11-14
 permalink: /blog/xxiii-jornadas-tecnologia-medica-imagenes-2026/
 tags: ["Clínica Alemana de Santiago", "Tecnología Médica", "imagenología", "neuroimagen", "inteligencia artificial", "investigación científica"]
 excerpt: "Las XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana de Santiago reunieron a profesionales y especialistas para compartir avances en neuroimagen, inteligencia artificial y nuevas técnicas de imagenología, además de promover la investigación científica."
@@ -18,6 +18,7 @@ La jornada continuó con presentaciones dedicadas a la inteligencia artificial a
 </p>
 <p align="center">
   <em>Figura 1. Collage de la Jornada.</em>
+</p>
 
 
 ## Investigación y avances en técnicas de imagenología

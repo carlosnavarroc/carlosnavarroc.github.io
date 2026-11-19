@@ -15,7 +15,6 @@ La jornada continuó con presentaciones dedicadas a la inteligencia artificial a
 ## Investigación y avances en técnicas de imagenología
 
 <p align="center">
-  <p align="center">
   <img src="https://github.com/user-attachments/assets/1f5eeb7e-d615-4113-afe0-6e1992f432f3" alt="Diplomas 2024">
 </p>
 <p align="center">

@@ -16,7 +16,7 @@ Durante el encuentro se entregaron distinciones en diversas categorías, reconoc
   <img width="800" alt="Profesores Part Time y Diploma." src="https://github.com/user-attachments/assets/a442d7c8-3818-4d05-bd81-3dc0c819af63">
 </p>
 <p align="center">
-  <em>Figura 1: Profesores Part Time y Diploma. />
+  <em>Figura 1: Profesores Part Time y Diploma.
 </em>
 </p>
 

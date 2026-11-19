@@ -90,9 +90,15 @@ h4 {
 /* JUSTIFICACIÓN DE TEXTO        */
 /* ============================= */
 
-.layout--single .page__content p:not([align="center"]),
-.layout--single .page__content li {
-  text-align: justify !important;
-  text-justify: inter-word;
-  hyphens: auto;
+.page__content {
+  p:not([align="center"]),
+  li {
+    text-align: justify !important;
+    text-justify: inter-word;
+    hyphens: auto;
+  }
+
+  p[align="center"] {
+    text-align: center !important;
+  }
 }

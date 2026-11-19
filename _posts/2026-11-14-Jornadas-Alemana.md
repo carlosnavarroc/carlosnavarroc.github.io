@@ -6,8 +6,6 @@ tags: ["Clínica Alemana de Santiago", "Tecnología Médica", "imagenología", "
 excerpt: "Las XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana de Santiago reunieron a profesionales y especialistas para compartir avances en neuroimagen, inteligencia artificial y nuevas técnicas de imagenología, además de promover la investigación científica."
 ---
 
-## XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana de Santiago
-
 Las **XXIII Jornadas de Tecnología Médica en Imágenes de Clínica Alemana de Santiago 2026**, realizadas los días 13 y 14 de noviembre, constituyeron un espacio de encuentro para compartir experiencias, conocimientos y avances en el ámbito de la imagenología. Durante la primera jornada, las actividades estuvieron centradas en los desafíos e innovaciones en neuroimagen, abordando nuevas oportunidades para los equipos de salud, el modelo Hydrops y el uso de neuroimágenes en la planificación quirúrgica. También se destacó la evolución desde el análisis anatómico hacia sistemas de navegación guiada y herramientas de inteligencia quirúrgica, que permiten mejorar la planificación y el desarrollo de procedimientos clínicos.
 
 La jornada continuó con presentaciones dedicadas a la inteligencia artificial aplicada a la imagenología, explorando sus desafíos de incorporación en la práctica clínica y sus aplicaciones en neurotomografía computada y resonancia magnética. Entre los aspectos abordados destacaron la optimización de los tiempos de adquisición, la calidad de las imágenes y la experiencia del paciente. Asimismo, se presentaron experiencias vinculadas a procedimientos especializados, dando cuenta de la diversidad de aplicaciones de las nuevas tecnologías en el diagnóstico y tratamiento de distintas patologías.

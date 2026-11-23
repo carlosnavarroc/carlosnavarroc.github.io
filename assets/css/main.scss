@@ -95,7 +95,11 @@ h4 {
   li {
     text-align: justify !important;
     text-justify: inter-word;
-    hyphens: auto;
+    hyphens: none;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    word-break: normal;
+    overflow-wrap: normal;
   }
 
   p[align="center"] {

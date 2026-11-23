@@ -1,7 +1,7 @@
 ---
 title: "Jóvenes investigadores de Tech4Medics obtienen importantes reconocimientos científicos"
 date: 2026-11-16
-permalink: /blog/reconocimientos-jovenes-investigadores-tech4medics-2026/
+permalink: /posts/2026/11/reconocimientos-tech4medics/
 tags: ["Tech4Medics", "inteligencia artificial", "investigación", "formación de investigadores", "salud", "Universidad de Chile"]
 excerpt: "Investigadores jovenes de Tech4Medics obtuvieron importantes reconocimientos por sus trabajos de investigación en inteligencia artificial aplicada a la salud."
 ---

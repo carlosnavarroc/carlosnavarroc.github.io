@@ -2,6 +2,7 @@
 title: "Cierre del Módulo de Modelos y Procesamiento de Imágenes en Minería y Metalurgia"
 date: 2026-11-20
 permalink: /posts/2026/11/Imagenes-Mineria/
+excerpt: "Durante la semana del 16 al 20 de Noviembre, Módulo 5: Modelos y procesamiento de imágenes en minería y metalurgia, correspondiente al Diploma de Aplicaciones de Modelamiento Avanzado en Minería y Metalurgia de la Universidad de Chile."
 
 categories:
   - Docencia

@@ -1,6 +1,8 @@
 ---
 title: "Cierre del Módulo de Modelos y Procesamiento de Imágenes en Minería y Metalurgia"
 date: 2026-11-20
+permalink: /posts/2026/11/Imagenes-Mineria/
+
 categories:
   - Docencia
   - Procesamiento de Imágenes

@@ -2,6 +2,7 @@
 title: "Defensas de revisiones bibliográficas de tesinas en la Universidad SEK"
 date: 2026-11-23
 permalink: /posts/2026/11/tesinas-sek/
+excerpt: "Durante la jornada, seis trabajos de revisión bibliográfica, desarrollados bajo el formato PRISMA, abordaron diversas temáticas de la psicología contemporánea: inteligencia artificial y salud mental, apego y relaciones digitales, construcción de identidad, soledad deseada, ambigüedad relacional y consecuencias del maltrato infantil."
 
 categories:
   - Docencia

@@ -1,7 +1,7 @@
 ---
 title: "Reconocimiento a la docencia part-time en la Undécima Ceremonia Eléctrica del DIE"
 date: 2026-11-16
-permalink: /blog/reconocimiento-docencia-part-time-die-uchile-2026/
+permalink: /posts/2026/06/reconocimiento-die/
 tags: ["Universidad de Chile", "Departamento de Ingeniería Eléctrica", "docencia", "reconocimiento académico", "Beauchef"]
 excerpt: "En la undécima Ceremonia Eléctrica del Departamento de Ingeniería Eléctrica de la Universidad de Chile recibí un reconocimiento por mi labor como docente part-time, una distinción que valora el aporte a la formación de futuros ingenieros."
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Defensas de revisiones bibliográficas de tesinas en la Universidad SEK"
 date: 2026-11-23
+permalink: /posts/2026/11/tesinas-sek/
+
 categories:
   - Docencia
   - Investigación
